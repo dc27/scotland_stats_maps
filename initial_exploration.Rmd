@@ -1,0 +1,34 @@
+---
+title: "Data Extractaction and Exploration"
+output: html_notebook
+---
+
+
+
+```{r}
+library(opendatascot)
+library(tidyverse)
+```
+
+```{r}
+ods_all_datasets() %>% 
+  janitor::clean_names() %>% 
+  filter(name == "Healthy Life Expectancy") %>% 
+  select(uri)
+```
+
+```{r}
+ods_structure("healthy-life-expectancy")
+```
+
+
+
+```{r}
+ods_dataset("healthy-life-expectancy",
+            age = "0-years",
+            simdQuintiles = "all",
+            urbanRuralClassification = "all",
+            measureType = "count") %>% 
+  filter(age == "0-years")
+```
+
