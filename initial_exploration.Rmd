@@ -87,13 +87,40 @@ female_hle_data <- read_csv("data/raw_data/female-healthy-life-expectancy.csv", 
 
 
 ```{r}
-male_hle_data %>%
+tidy_male_hle <- male_hle_data %>%
   pivot_longer(-c(1,2), names_to = "ref_period", values_to = "healthy_life_expectancy") %>% 
   janitor::clean_names() %>% 
   mutate(dim_number_ref_area = str_extract(
     http_purl_org_linked_data_sdmx_2009_dimension_number_ref_area,
     "S[0-9]+$")) %>% 
-  select(-1)
+  select(-1) %>% 
+  filter(str_detect(dim_number_ref_area, "^S08")) %>% 
+  mutate(sex = "male")
+```
+
+
+```{r}
+tidy_female_hle <- female_hle_data %>%
+  pivot_longer(-c(1,2), names_to = "ref_period", values_to = "healthy_life_expectancy") %>% 
+  janitor::clean_names() %>% 
+  mutate(dim_number_ref_area = str_extract(
+    http_purl_org_linked_data_sdmx_2009_dimension_number_ref_area,
+    "S[0-9]+$")) %>% 
+  select(-1) %>% 
+  filter(str_detect(dim_number_ref_area, "^S08")) %>% 
+  mutate(sex = "female")
+  
+```
+
+
+```{r}
+hle_data <- tidy_male_hle %>% 
+  bind_rows(tidy_female_hle)
+```
+
+
+```{r}
+hle_data
 ```
 
 
@@ -114,14 +141,38 @@ library(rgeos)
 ```
 
 ```{r}
-hb_simple <- gSimplify(hb_shapes, tol = 0.025, topologyPreserve = TRUE)
+hb_simple <- gSimplify(hb_shapes, tol = 0.005, topologyPreserve = TRUE)
+```
+
+
+```{r}
+hb_lookup <- hb_shapes@data %>% 
+  select(1,2) %>% 
+  rowid_to_column("id") %>%
+  mutate(id = as.character(id-1)) %>% 
+  janitor::clean_names()
 ```
 
 56.3950° N, 3.4308° W
 
 ```{r}
-plot(hb_simp)
+plot(hb_simple, xlim = c(-3.66, -3.50), ylim = c(55,61))
 ```
+
+```{r}
+uk_shape <- readOGR(
+   dsn ="../Downloads/scot_stats_dashboard/bdline_essh_gb/Data/GB/",
+   layer = "county_elect",
+   GDAL1_integer64_policy = TRUE)
+ 
+ uk_simple <- gSimplify(uk_shape, tol = 0.1, topologyPreserve = TRUE)
+```
+
+```{r}
+plot(uk_simple)
+```
+
+
 
 
 
@@ -131,16 +182,159 @@ library(maps)
 
 
 ```{r}
-library(mapdata)
-```
-
-```{r}
-hb_shapes
+UK <- map_data("world") %>% filter(region == "UK")
 ```
 
 
 ```{r}
-ggplot() +
-  geom_polygon(data = df(hb_shapes@polygons))
+UK
 ```
+
+```{r}
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(rgeos)
+```
+
+```{r}
+world <- ne_countries(scale = "medium", returnclass = "sf")
+```
+
+```{r}
+country_uk <- world %>%
+  filter(name == "United Kingdom")
+```
+
+```{r}
+poly_uk <- as(country_uk, 'Spatial')
+```
+
+```{r}
+poly_uk@polygons
+```
+
+
+```{r}
+hb_simple_poly <- as(hb_simple, "Spatial")
+```
+
+```{r}
+library(broom)
+```
+
+
+```{r}
+spdf_fortified <- tidy(hb_simple, region = "code")
+```
+
+
+
+```{r}
+spdf_fortified
+```
+
+```{r}
+hle_map_data <- spdf_fortified %>% 
+  left_join(hb_lookup, by = c("id" = "id")) %>% 
+  left_join(hle_data, by = c("hb_name" = "reference_area"))
+```
+
+```{r}
+library(plotly)
+```
+
+
+```{r}
+filtered_hle_data <- hle_map_data %>% 
+  filter(ref_period == "2015-2017") %>%
+  filter(sex =="male")
+  
+
+plotly::ggplotly( 
+  ggplot() + 
+    geom_polygon(data = hle_map_data,
+                 aes(x = long, y = lat, group = group,
+                     fill = healthy_life_expectancy,
+                     text = paste0(hb_name, ": ", healthy_life_expectancy,"years")),
+                 colour = "white", size = 0.25) +
+    xlim(-7.7,-0.3) +
+    scale_fill_viridis_c() +
+    coord_map() +
+    theme_void(),
+  tooltip = "text"
+) %>% config(displayModeBar = FALSE) %>%
+  layout(xaxis = list(fixedrange = TRUE)) %>%
+  layout(yaxis = list(fixedrange = TRUE))
+```
+
+```{r}
+library(leaflet)
+```
+
+```{r}
+my_map <- leaflet(options = leafletOptions(minZoom = 6)) %>%
+    setView(lng = -5, lat = 57.35, zoom = 6) %>%
+    # restrict view to around Scotland
+    setMaxBounds(lng1 = -1,
+                 lat1 = 50,
+                 lng2 = -9,
+                 lat2 = 64) %>% 
+  addProviderTiles(providers$CartoDB.PositronNoLabels)
+```
+
+
+```{r}
+my_map
+```
+
+
+
+
+```{r}
+hle_2015_m <- hle_data %>% 
+  filter(sex == "male") %>% 
+  filter(ref_period == "2015-2017")
+```
+
+
+```{r}
+hb_shapes@data <- hb_shapes@data %>% 
+  janitor::clean_names() %>% 
+  left_join(hle_2015_m, by = c("hb_name" = "reference_area"))
+```
+
+```{r}
+labels <- sprintf("<strong>%s</strong><br/>%g years",
+                  hb_shapes$hb_name, hb_shapes$healthy_life_expectancy) %>%
+  lapply(htmltools::HTML)
+```
+
+
+```{r}
+# add Health Board polygons, colour based on LE, highlight on hover
+
+my_map %>% 
+    addPolygons(data = hb_shapes, color = "white",
+                fillColor = ~colorQuantile(
+                  "YlOrRd", (-hb_shapes$healthy_life_expectancy))
+                (-hb_shapes$healthy_life_expectancy),
+                weight = 1, fillOpacity = 0.9, label = labels,
+                highlightOptions = highlightOptions(
+                  color = "black", weight = 2,
+                  opacity = 0.9, bringToFront = TRUE))
+```
+
+```{r}
+my_map
+```
+
+
+
+```{r}
+spdf_fortified %>%
+```
+
+
+
+
 
