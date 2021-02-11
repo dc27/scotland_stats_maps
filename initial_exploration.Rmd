@@ -81,41 +81,12 @@ ods_dataset("healthy-life-expectancy",
 
 
 ```{r}
-male_hle_data <- read_csv("data/raw_data/male-healthy-life-expectancy.csv",skip = 10)
-female_hle_data <- read_csv("data/raw_data/female-healthy-life-expectancy.csv", skip = 10)
+
 ```
 
 
 ```{r}
-tidy_male_hle <- male_hle_data %>%
-  pivot_longer(-c(1,2), names_to = "ref_period", values_to = "healthy_life_expectancy") %>% 
-  janitor::clean_names() %>% 
-  mutate(dim_number_ref_area = str_extract(
-    http_purl_org_linked_data_sdmx_2009_dimension_number_ref_area,
-    "S[0-9]+$")) %>% 
-  select(-1) %>% 
-  filter(str_detect(dim_number_ref_area, "^S08")) %>% 
-  mutate(sex = "male")
-```
 
-
-```{r}
-tidy_female_hle <- female_hle_data %>%
-  pivot_longer(-c(1,2), names_to = "ref_period", values_to = "healthy_life_expectancy") %>% 
-  janitor::clean_names() %>% 
-  mutate(dim_number_ref_area = str_extract(
-    http_purl_org_linked_data_sdmx_2009_dimension_number_ref_area,
-    "S[0-9]+$")) %>% 
-  select(-1) %>% 
-  filter(str_detect(dim_number_ref_area, "^S08")) %>% 
-  mutate(sex = "female")
-  
-```
-
-
-```{r}
-hle_data <- tidy_male_hle %>% 
-  bind_rows(tidy_female_hle)
 ```
 
 
@@ -297,6 +268,10 @@ hle_2015_m <- hle_data %>%
 ```
 
 
+
+
+
+
 ```{r}
 hb_shapes@data <- hb_shapes@data %>% 
   janitor::clean_names() %>% 
@@ -324,15 +299,7 @@ my_map %>%
                   opacity = 0.9, bringToFront = TRUE))
 ```
 
-```{r}
-my_map
-```
 
-
-
-```{r}
-spdf_fortified %>%
-```
 
 
 

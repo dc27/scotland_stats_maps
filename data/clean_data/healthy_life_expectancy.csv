@@ -1,0 +1,85 @@
+area_code,reference_area,reference_period,sex,measurement
+S08000015,Ayrshire and Arran,2015-2017,male,59.16
+S08000015,Ayrshire and Arran,2016-2018,male,58.83
+S08000015,Ayrshire and Arran,2017-2019,male,59.42
+S08000016,Borders,2015-2017,male,64.48
+S08000016,Borders,2016-2018,male,63.5
+S08000016,Borders,2017-2019,male,63.31
+S08000017,Dumfries and Galloway,2015-2017,male,64.44
+S08000017,Dumfries and Galloway,2016-2018,male,64.17
+S08000017,Dumfries and Galloway,2017-2019,male,62.39
+S08000029,Fife,2015-2017,male,62.29
+S08000029,Fife,2016-2018,male,60.97
+S08000029,Fife,2017-2019,male,61.56
+S08000019,Forth Valley,2015-2017,male,63.45
+S08000019,Forth Valley,2016-2018,male,62.53
+S08000019,Forth Valley,2017-2019,male,62.26
+S08000020,Grampian,2015-2017,male,65.16
+S08000020,Grampian,2016-2018,male,65.01
+S08000020,Grampian,2017-2019,male,64.4
+S08000031,Greater Glasgow and Clyde,2015-2017,male,60.06
+S08000031,Greater Glasgow and Clyde,2016-2018,male,59.53
+S08000031,Greater Glasgow and Clyde,2017-2019,male,59.01
+S08000022,Highland,2015-2017,male,65.57
+S08000022,Highland,2016-2018,male,64.29
+S08000022,Highland,2017-2019,male,64.1
+S08000032,Lanarkshire,2015-2017,male,59.33
+S08000032,Lanarkshire,2016-2018,male,58.57
+S08000032,Lanarkshire,2017-2019,male,58.28
+S08000024,Lothian,2015-2017,male,64.1
+S08000024,Lothian,2016-2018,male,64.47
+S08000024,Lothian,2017-2019,male,64.82
+S08000025,Orkney,2015-2017,male,64.62
+S08000025,Orkney,2016-2018,male,66.68
+S08000025,Orkney,2017-2019,male,69.33
+S08000026,Shetland,2015-2017,male,68.12
+S08000026,Shetland,2016-2018,male,67.49
+S08000026,Shetland,2017-2019,male,68.95
+S08000030,Tayside,2015-2017,male,62.62
+S08000030,Tayside,2016-2018,male,61.65
+S08000030,Tayside,2017-2019,male,61.39
+S08000028,Western Isles,2015-2017,male,64.97
+S08000028,Western Isles,2016-2018,male,66.07
+S08000028,Western Isles,2017-2019,male,66.99
+S08000015,Ayrshire and Arran,2015-2017,female,59.77
+S08000015,Ayrshire and Arran,2016-2018,female,59.51
+S08000015,Ayrshire and Arran,2017-2019,female,59.08
+S08000016,Borders,2015-2017,female,65.35
+S08000016,Borders,2016-2018,female,65.32
+S08000016,Borders,2017-2019,female,63.81
+S08000017,Dumfries and Galloway,2015-2017,female,63.76
+S08000017,Dumfries and Galloway,2016-2018,female,64.25
+S08000017,Dumfries and Galloway,2017-2019,female,62.53
+S08000029,Fife,2015-2017,female,61.87
+S08000029,Fife,2016-2018,female,60.16
+S08000029,Fife,2017-2019,female,61.27
+S08000019,Forth Valley,2015-2017,female,61.72
+S08000019,Forth Valley,2016-2018,female,61.65
+S08000019,Forth Valley,2017-2019,female,61.49
+S08000020,Grampian,2015-2017,female,65.9
+S08000020,Grampian,2016-2018,female,65.54
+S08000020,Grampian,2017-2019,female,63.96
+S08000031,Greater Glasgow and Clyde,2015-2017,female,60.9
+S08000031,Greater Glasgow and Clyde,2016-2018,female,60.74
+S08000031,Greater Glasgow and Clyde,2017-2019,female,60.43
+S08000022,Highland,2015-2017,female,63.14
+S08000022,Highland,2016-2018,female,65.28
+S08000022,Highland,2017-2019,female,64.24
+S08000032,Lanarkshire,2015-2017,female,61.64
+S08000032,Lanarkshire,2016-2018,female,60.43
+S08000032,Lanarkshire,2017-2019,female,60.15
+S08000024,Lothian,2015-2017,female,63.98
+S08000024,Lothian,2016-2018,female,63.2
+S08000024,Lothian,2017-2019,female,63.56
+S08000025,Orkney,2015-2017,female,75.01
+S08000025,Orkney,2016-2018,female,73.32
+S08000025,Orkney,2017-2019,female,75.05
+S08000026,Shetland,2015-2017,female,67.11
+S08000026,Shetland,2016-2018,female,58.36
+S08000026,Shetland,2017-2019,female,61.87
+S08000030,Tayside,2015-2017,female,63.74
+S08000030,Tayside,2016-2018,female,63.27
+S08000030,Tayside,2017-2019,female,61.63
+S08000028,Western Isles,2015-2017,female,67.22
+S08000028,Western Isles,2016-2018,female,66.91
+S08000028,Western Isles,2017-2019,female,69.58
