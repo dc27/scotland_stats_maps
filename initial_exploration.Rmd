@@ -13,7 +13,7 @@ library(tidyverse)
 ```{r}
 ods_all_datasets() %>% 
   janitor::clean_names() %>% 
-  filter(name == "Healthy Life Expectancy") %>% 
+  filter(name == "Life Expectancy") %>% 
   select(uri)
 ```
 
@@ -24,11 +24,123 @@ ods_structure("healthy-life-expectancy")
 
 
 ```{r}
+hle_structure <- ods_structure("healthy-life-expectancy")
+```
+
+
+
+
+```{r}
+hle_structure$categories$refPeriod <- c("2015-2017", "2016-2018", "2017-2019")
+```
+
+```{r}
+le_structure <- ods_structure("Life-Expectancy")
+```
+
+```{r}
+le_structure$categories$refPeriod
+```
+
+```{r}
+ods_dataset("homelessness-applications",
+                          applicationType = "all-applications")
+```
+
+
+```{r}
+ods_structure("healthy-life-expectancy")$categories$refPeriod
+```
+
+```{r}
+ods_structure("Life-Expectancy")$categories$refPeriod
+```
+
+
+```{r}
+ods_structure("homelessness-applications")$categories$refPeriod
+```
+
+
+
+```{r}
 ods_dataset("healthy-life-expectancy",
+            refPeriod = "P3Y",
             age = "0-years",
             simdQuintiles = "all",
             urbanRuralClassification = "all",
             measureType = "count") %>% 
-  filter(age == "0-years")
+  filter(age == "0-years") %>% 
+  select(-c(simdQuintiles, measureType, urbanRuralClassification, age)) %>% 
+  filter(refArea == "S92000003")
+```
+
+
+
+
+
+
+```{r}
+male_hle_data <- read_csv("data/raw_data/male-healthy-life-expectancy.csv",skip = 10)
+female_hle_data <- read_csv("data/raw_data/female-healthy-life-expectancy.csv", skip = 10)
+```
+
+
+```{r}
+male_hle_data %>%
+  pivot_longer(-c(1,2), names_to = "ref_period", values_to = "healthy_life_expectancy") %>% 
+  janitor::clean_names() %>% 
+  mutate(dim_number_ref_area = str_extract(
+    http_purl_org_linked_data_sdmx_2009_dimension_number_ref_area,
+    "S[0-9]+$")) %>% 
+  select(-1)
+```
+
+
+```{r}
+library(rgdal)
+```
+
+```{r}
+hb_shapes <- readOGR(
+  dsn ="data/simplified_shapefiles/health_boards/NHS_HealthBoards_2019/",
+  layer = "NHS_HealthBoards_2019",
+  GDAL1_integer64_policy = TRUE)
+```
+
+
+```{r}
+library(rgeos)
+```
+
+```{r}
+hb_simple <- gSimplify(hb_shapes, tol = 0.025, topologyPreserve = TRUE)
+```
+
+56.3950° N, 3.4308° W
+
+```{r}
+plot(hb_simp)
+```
+
+
+
+```{r}
+library(maps)
+```
+
+
+```{r}
+library(mapdata)
+```
+
+```{r}
+hb_shapes
+```
+
+
+```{r}
+ggplot() +
+  geom_polygon(data = df(hb_shapes@polygons))
 ```
 
