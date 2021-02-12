@@ -1,46 +1,66 @@
-server <- function(input, output){
-  
+source("R/filter_df.R")
 
-  create_hb_map <- function(measurement_df, sex, spdf) {
-    # measurement_df is calculated in the server - determined by user inputs
-    # bind to shape data
-    spdf@data <- spdf@data %>%
-      left_join(measurement_df, by = c("reference_area" = "reference_area"))
-    
-    
-    # pretty labels
-    labels <- sprintf("<strong>%s</strong><br/>%g years",
-                      spdf$reference_area, spdf$measurement) %>%
-      lapply(htmltools::HTML)
-    
-    # plot
+server <- function(input, output, session){
+  
+  hle_user_selections <- reactive(list(
+      reference_period = input$date_range,
+      sex = input$sex
+    )
+  )
+
+  filtered_hle_df <- reactive(filter_df(hle_data, hle_user_selections()))
+  
+  output$scotland_map <- renderLeaflet({
     leaflet(options = leafletOptions(minZoom = 6)) %>%
-      setView(lng = -5, lat = 57.35, zoom = 6) %>%
+      setView(lng = -5, lat = 58, zoom = 6) %>%
       # restrict view to around Scotland
       setMaxBounds(lng1 = -1,
-                   lat1 = 50,
+                   lat1 = 54,
                    lng2 = -9,
-                   lat2 = 64) %>% 
-      # load in basemap
-      addProviderTiles(providers$CartoDB.PositronNoLabels) %>% 
-      # add Health Board polygons, colour based on LE, highlight on hover
-      addPolygons(data = spdf, color = "white",
-                  fillColor = ~colorQuantile(
-                    "YlOrRd", (-spdf$measurement))
-                  (-hb_shapes$measurement),
-                  weight = 1, fillOpacity = 0.9, label = labels,
+                   lat2 = 63) %>% 
+      addProviderTiles(providers$CartoDB.PositronNoLabels)
+  })
+  
+  spdf <- reactive(join_with_shapes(filtered_hle_df(), hb_shapes))
+
+  observe({
+    # pretty labels
+    labels <- sprintf("<strong>%s</strong><br/>%g years",
+                      spdf()$HBName, spdf()$measurement) %>%
+      lapply(htmltools::HTML)
+
+    
+    # add polygons highlight on hover
+    leafletProxy("scotland_map") %>%
+      clearShapes() %>%
+      addPolygons(data = spdf(), color = "white",
+                  fillColor = ~colorNumeric(
+                    "YlOrRd", (-spdf()$measurement))
+                  (-spdf()$measurement),
+                  weight = 1, fillOpacity = 0.8, label = labels,
                   highlightOptions = highlightOptions(
-                    color = "white", weight = 2,
+                    color = "black", weight = 2,
                     opacity = 0.9, bringToFront = TRUE))
-  }
-    output$scotland_map <- renderLeaflet({
-      leaflet(options = leafletOptions(minZoom = 6)) %>%
-        setView(lng = -5, lat = 57.35, zoom = 6) %>%
-        # restrict view to around Scotland
-        setMaxBounds(lng1 = -1,
-                     lat1 = 50,
-                     lng2 = -9,
-                     lat2 = 64) %>% 
-        addProviderTiles(providers$CartoDB.PositronNoLabels)
-    })
+      })
+  
+  observe({
+    proxy <- leafletProxy("scotland_map", data = spdf)
+    
+    # Remove any existing legend, and only if the legend is
+    # enabled, create a new one.
+    proxy %>% clearControls()
+    if (input$legend) {
+      proxy %>%
+        addLegend(pal = colorNumeric(
+          "YlOrRd", (-spdf()$measurement)),
+                  values = -spdf()$measurement, opacity = 0.6,
+                  title = "Healthy Life Expectancy",
+                  position = "bottomright")
+    }
+  })
+  
+  
+  
+  
+  
 }

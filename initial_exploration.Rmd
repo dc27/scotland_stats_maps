@@ -3,8 +3,6 @@ title: "Data Extractaction and Exploration"
 output: html_notebook
 ---
 
-
-
 ```{r}
 library(opendatascot)
 library(tidyverse)
@@ -15,83 +13,6 @@ ods_all_datasets() %>%
   janitor::clean_names() %>% 
   filter(name == "Life Expectancy") %>% 
   select(uri)
-```
-
-```{r}
-ods_structure("healthy-life-expectancy")
-```
-
-
-
-```{r}
-hle_structure <- ods_structure("healthy-life-expectancy")
-```
-
-
-
-
-```{r}
-hle_structure$categories$refPeriod <- c("2015-2017", "2016-2018", "2017-2019")
-```
-
-```{r}
-le_structure <- ods_structure("Life-Expectancy")
-```
-
-```{r}
-le_structure$categories$refPeriod
-```
-
-```{r}
-ods_dataset("homelessness-applications",
-                          applicationType = "all-applications")
-```
-
-
-```{r}
-ods_structure("healthy-life-expectancy")$categories$refPeriod
-```
-
-```{r}
-ods_structure("Life-Expectancy")$categories$refPeriod
-```
-
-
-```{r}
-ods_structure("homelessness-applications")$categories$refPeriod
-```
-
-
-
-```{r}
-ods_dataset("healthy-life-expectancy",
-            refPeriod = "P3Y",
-            age = "0-years",
-            simdQuintiles = "all",
-            urbanRuralClassification = "all",
-            measureType = "count") %>% 
-  filter(age == "0-years") %>% 
-  select(-c(simdQuintiles, measureType, urbanRuralClassification, age)) %>% 
-  filter(refArea == "S92000003")
-```
-
-
-
-
-
-
-```{r}
-
-```
-
-
-```{r}
-
-```
-
-
-```{r}
-hle_data
 ```
 
 
@@ -161,33 +82,7 @@ UK <- map_data("world") %>% filter(region == "UK")
 UK
 ```
 
-```{r}
-library(rnaturalearth)
-library(rnaturalearthdata)
-library(rgeos)
-```
 
-```{r}
-world <- ne_countries(scale = "medium", returnclass = "sf")
-```
-
-```{r}
-country_uk <- world %>%
-  filter(name == "United Kingdom")
-```
-
-```{r}
-poly_uk <- as(country_uk, 'Spatial')
-```
-
-```{r}
-poly_uk@polygons
-```
-
-
-```{r}
-hb_simple_poly <- as(hb_simple, "Spatial")
-```
 
 ```{r}
 library(broom)
@@ -216,27 +111,39 @@ library(plotly)
 
 
 ```{r}
-filtered_hle_data <- hle_map_data %>% 
-  filter(ref_period == "2015-2017") %>%
-  filter(sex =="male")
-  
-
-plotly::ggplotly( 
-  ggplot() + 
-    geom_polygon(data = hle_map_data,
-                 aes(x = long, y = lat, group = group,
-                     fill = healthy_life_expectancy,
-                     text = paste0(hb_name, ": ", healthy_life_expectancy,"years")),
-                 colour = "white", size = 0.25) +
-    xlim(-7.7,-0.3) +
-    scale_fill_viridis_c() +
-    coord_map() +
-    theme_void(),
-  tooltip = "text"
-) %>% config(displayModeBar = FALSE) %>%
-  layout(xaxis = list(fixedrange = TRUE)) %>%
-  layout(yaxis = list(fixedrange = TRUE))
+hle_data <- read_csv("data/clean_data/healthy_life_expectancy.csv")
 ```
+
+```{r}
+ref_period_var <- "2015-2017"
+sex_var <- "male"
+
+
+user_selections <- list(
+  reference_period = "2015-2017",
+  sex = "male"
+)
+```
+
+```{r}
+user_selections
+```
+
+```{r}
+
+
+```
+
+
+```{r} 
+filtered_hle_data <- filter_df(hle_data, user_selections)
+```
+
+
+```{r}
+filtered_hle_data
+```
+
 
 ```{r}
 library(leaflet)
@@ -260,14 +167,11 @@ my_map
 
 
 
-
 ```{r}
 hle_2015_m <- hle_data %>% 
   filter(sex == "male") %>% 
   filter(ref_period == "2015-2017")
 ```
-
-
 
 
 
