@@ -1,4 +1,5 @@
-source("R/filter_df.R")
+source("R/filter_and_join_df_functions.R")
+source("R/plot_functions.R")
 
 server <- function(input, output, session){
   
@@ -7,9 +8,10 @@ server <- function(input, output, session){
       sex = input$sex
     )
   )
-
+  
   filtered_hle_df <- reactive(filter_df(hle_data, hle_user_selections()))
   
+  # render basemap
   output$scotland_map <- renderLeaflet({
     leaflet(options = leafletOptions(minZoom = 6)) %>%
       setView(lng = -5, lat = 58, zoom = 6) %>%
@@ -23,7 +25,7 @@ server <- function(input, output, session){
   
   spdf <- reactive(join_with_shapes(filtered_hle_df(), hb_shapes))
   
-
+  # plot polygons
   observe({
     add_coloured_polygons(
       basemap = "scotland_map", spdf = spdf(),
@@ -34,14 +36,13 @@ server <- function(input, output, session){
   
   # plot legend
   observe({
-    proxy <- leafletProxy("scotland_map", data = spdf)
+    leafletProxy("scotland_map") %>% 
+      clearControls()
     
-    # Remove any existing legend, and only if the legend is
-    # enabled, create a new one.
-    proxy %>% clearControls()
     if (input$legend) {
-      proxy %>%
-
-    }
+      add_legend(
+        "scotland_map", spdf = spdf(), colour_scheme = input$colour_choice,
+        title = "Healthy L.E."
+      )}
   })
 }
