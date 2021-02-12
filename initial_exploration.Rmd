@@ -205,7 +205,34 @@ my_map %>%
 
 
 
+```{r}
+hb_shapes@data %>% 
+  rename("bean" = HBName)
+```
 
 
 
+```{r}
+my_string <- "harry potter"
+```
+
+```{r}
+stringr::str_to_title(my_string)
+```
+
+```{r}
+library(RColorBrewer)
+par(mar=c(3,4,2,2))
+display.brewer.all()
+```
+
+```{r}
+brewer.pal.info %>% 
+
+```
+
+
+```{r}
+
+```
 

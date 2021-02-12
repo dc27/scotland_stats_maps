@@ -22,27 +22,17 @@ server <- function(input, output, session){
   })
   
   spdf <- reactive(join_with_shapes(filtered_hle_df(), hb_shapes))
+  
 
   observe({
-    # pretty labels
-    labels <- sprintf("<strong>%s</strong><br/>%g years",
-                      spdf()$HBName, spdf()$measurement) %>%
-      lapply(htmltools::HTML)
-
-    
-    # add polygons highlight on hover
-    leafletProxy("scotland_map") %>%
-      clearShapes() %>%
-      addPolygons(data = spdf(), color = "white",
-                  fillColor = ~colorNumeric(
-                    "YlOrRd", (-spdf()$measurement))
-                  (-spdf()$measurement),
-                  weight = 1, fillOpacity = 0.8, label = labels,
-                  highlightOptions = highlightOptions(
-                    color = "black", weight = 2,
-                    opacity = 0.9, bringToFront = TRUE))
-      })
+    add_coloured_polygons(
+      basemap = "scotland_map", spdf = spdf(),
+      colour_scheme = input$colour_choice,
+      units = "years"
+    )
+  })
   
+  # plot legend
   observe({
     proxy <- leafletProxy("scotland_map", data = spdf)
     
@@ -51,16 +41,7 @@ server <- function(input, output, session){
     proxy %>% clearControls()
     if (input$legend) {
       proxy %>%
-        addLegend(pal = colorNumeric(
-          "YlOrRd", (-spdf()$measurement)),
-                  values = -spdf()$measurement, opacity = 0.6,
-                  title = "Healthy Life Expectancy",
-                  position = "bottomright")
+
     }
   })
-  
-  
-  
-  
-  
 }

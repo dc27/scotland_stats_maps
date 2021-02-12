@@ -8,26 +8,46 @@ ui <- dashboardPage(
       ),
     fluidRow(
       column(
-        9,
+        8,
         leafletOutput("scotland_map")
       ),
       column(
-        3,
-        tags$br(),
-        id = "controls",
-        selectInput(
-          "date_range",
-          "Reference Period",
-          hle_reference_periods,
-          "2015-2017"
-          ),
-        selectInput(
-          "sex",
-          "Sex",
-          sexes,
-          "female"
+        4,
+        fluidRow(
+          tabBox(
+            width = 12,
+            tabPanel(
+              "Dataset Options",
+              tags$br(),
+              selectInput(
+                "date_range",
+                "Reference Period",
+                hle_reference_periods,
+                "2015-2017"
+                ),
+              selectInput(
+                "sex",
+                "Sex",
+                c("Female" = "female",
+                  "Male" = "male"),
+                "Female"
+              )
+            )
+          )
         ),
-        checkboxInput("legend", "Show legend", TRUE)
+        fluidRow(
+          box(
+            width = 12,
+            "Plot Options",
+            checkboxInput("legend", "Show legend", TRUE),
+            selectInput(
+              "colour_choice",
+              "Colour Palette",
+              colour_pals,
+              "YlOrRd"
+            )
+          )
+        )
       )
     )
   )
