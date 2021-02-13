@@ -19,6 +19,7 @@ colour_pals <- RColorBrewer::brewer.pal.info %>%
 # shapefiles
 
 hb_shapes <- readOGR(
-  dsn ="../data/simplified_shapefiles/NHS_HealthBoards_2019/",
+  dsn = "../data/simplified_shapefiles/NHS_HealthBoards_2019",
   layer = "NHS_HealthBoards_2019",
   GDAL1_integer64_policy = TRUE)
+

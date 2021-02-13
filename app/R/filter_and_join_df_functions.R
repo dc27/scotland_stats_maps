@@ -26,3 +26,5 @@ join_with_shapes <- function(measurement_df, spdf) {
   
   return(spdf)
 }
+
+next_function <- function(){}
