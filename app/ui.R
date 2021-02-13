@@ -8,11 +8,11 @@ ui <- dashboardPage(
       ),
     fluidRow(
       column(
-        8,
+        9,
         leafletOutput("scotland_map")
       ),
       column(
-        4,
+        3,
         fluidRow(
           tabBox(
             width = 12,
@@ -36,15 +36,21 @@ ui <- dashboardPage(
           )
         ),
         fluidRow(
-          box(
+          tags$h3("Plot Options"),
+          tabBox(
             width = 12,
-            "Plot Options",
-            checkboxInput("legend", "Show legend", TRUE),
-            selectInput(
-              "colour_choice",
-              "Colour Palette",
-              colour_pals,
-              "YlOrRd"
+            tabPanel(
+              "Basic",
+              checkboxInput("legend", "Show legend", TRUE)
+            ),
+            tabPanel(
+              "Advanced",
+              selectInput(
+                "colour_choice",
+                "Colour Palette",
+                colour_pals,
+                "YlOrRd"
+              )
             )
           )
         )
