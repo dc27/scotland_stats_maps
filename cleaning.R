@@ -16,7 +16,7 @@ pivot_hle_long <- function(hle_df, df_sex) {
       "S[0-9]+$")) %>% 
     select(-1) %>% 
     # filter for only Health Boards at this time
-    filter(str_detect(area_code, "^S08")) %>% 
+    filter(!str_detect(area_code, "^S9")) %>% 
     # add sex reference column
     mutate(sex = df_sex)
 }

@@ -40,7 +40,7 @@ ui <- dashboardPage(
           tabBox(
             width = 12,
             tabPanel(
-              "Basic",
+              "Basic", 
               checkboxInput("legend", "Show legend", TRUE)
             ),
             tabPanel(

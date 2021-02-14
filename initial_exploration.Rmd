@@ -4,20 +4,10 @@ output: html_notebook
 ---
 
 ```{r}
-library(opendatascot)
 library(tidyverse)
-```
 
-```{r}
-ods_all_datasets() %>% 
-  janitor::clean_names() %>% 
-  filter(name == "Life Expectancy") %>% 
-  select(uri)
-```
-
-
-```{r}
 library(rgdal)
+library(rgeos)
 ```
 
 ```{r}
@@ -26,6 +16,52 @@ hb_shapes <- readOGR(
   layer = "NHS_HealthBoards_2019",
   GDAL1_integer64_policy = TRUE)
 ```
+
+```{r}
+
+```
+
+```{r}
+crs <- CRS("+proj=longlat +datum=WGS84")
+
+# transform shape data to plot on map
+la_shapes_ll <- la_shapes %>% 
+  rgeos::gSimplify(tol=25, topologyPreserve=TRUE) %>% 
+  spTransform(crs)
+
+la_shapes@polygons <- la_shapes_ll@polygons
+```
+
+
+```{r}
+plot(la_shapes)
+```
+
+```{r}
+la_shapes <- la_shapes[str_detect(la_shapes$CODE, "^S"),]
+```
+
+
+
+```{r}
+la_shapes@data %>%
+  janitor::clean_names() %>% 
+  select(area_name = name, c(ends_with("id"), code))
+```
+
+
+```{r}
+my_map %>% 
+    addPolygons(data = la_shapes, color = "white",
+                fillColor = "Blue",
+                weight = 1, fillOpacity = 0.9)
+```
+
+
+```{r}
+la_shapes@data
+```
+
 
 
 ```{r}
@@ -204,35 +240,4 @@ my_map %>%
 ```
 
 
-
-```{r}
-hb_shapes@data %>% 
-  rename("bean" = HBName)
-```
-
-
-
-```{r}
-my_string <- "harry potter"
-```
-
-```{r}
-stringr::str_to_title(my_string)
-```
-
-```{r}
-library(RColorBrewer)
-par(mar=c(3,4,2,2))
-display.brewer.all()
-```
-
-```{r}
-brewer.pal.info %>% 
-
-```
-
-
-```{r}
-
-```
 
