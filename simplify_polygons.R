@@ -21,7 +21,8 @@ hb_shapes@polygons <- hb_shapes_ll@polygons
 # clean col names and change hb_name to generic: area_name
 hb_shapes@data <- hb_shapes@data %>% 
   janitor::clean_names() %>% 
-  rename(area_name = hb_name)
+  rename(area_name = hb_name,
+         id_code = hb_code)
 
 writeOGR(
   obj = hb_shapes,
@@ -33,7 +34,7 @@ writeOGR(
 # ----- local authorities ----- 
 
 la_shapes <- readOGR (
-  dsn = "data/raw_shapefiles",
+  dsn = "data/raw_shapefiles/local_authorities",
   layer = "district_borough_unitary_region",
   GDAL1_integer64_policy = TRUE
 )
@@ -50,7 +51,8 @@ la_shapes <- la_shapes[str_detect(la_shapes$CODE, "^S"),]
 # remove superfluous info, rename name to standard: area_name
 la_shapes@data <- la_shapes@data %>%
   janitor::clean_names() %>% 
-  select(area_name = name, c(ends_with("id"), code))
+  rename(area_name = name,
+         id_code = code)
 
 writeOGR(
   obj = la_shapes,

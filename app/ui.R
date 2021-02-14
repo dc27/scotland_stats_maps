@@ -31,7 +31,15 @@ ui <- dashboardPage(
                 c("Female" = "female",
                   "Male" = "male"),
                 "Female"
-              )
+              ),
+              selectInput(
+                "area_type",
+                "Area Type",
+                c("Health Board" = "health board",
+                  "Local Authority" = "local authority"),
+                "Health Board"
+              ),
+              actionButton("update", "Update Map")
             )
           )
         ),

@@ -22,7 +22,7 @@ filter_df <- function(df, filtration_list) {
 # (filtered in server). Polygons provided in large SPDF format.
 join_with_shapes <- function(measurement_df, spdf) {
   spdf@data <- spdf@data %>%
-    left_join(measurement_df, by = c("area_name" = "reference_area"))
+    left_join(measurement_df, by = c("id_code" = "area_code"))
   
   return(spdf)
 }
