@@ -1,3 +1,5 @@
+library(tidyverse)
+
 # ----- Healthy Life Expectancy ------
 
 # read in data for male and female HLE from separate files
@@ -22,8 +24,8 @@ pivot_hle_long <- function(hle_df, df_sex) {
     mutate(sex = df_sex)
 }
 
-tidy_male_hle <- pivot_hle_long(male_hle_data, "male")
-tidy_female_hle <- pivot_hle_long(female_hle_data, "female")
+tidy_male_hle <- pivot_hle_long(male_hle_data, "Male")
+tidy_female_hle <- pivot_hle_long(female_hle_data, "Female")
 
 # combine dfs
 hle_data <- tidy_male_hle %>% 
@@ -47,3 +49,23 @@ hle_data <- hle_data %>%
 # write data to clean csv
 hle_data %>% 
   write_csv("data/clean_data/healthy_life_expectancy.csv")
+
+# ----- Council House Sales -----
+
+council_house_data <- read_csv("data/raw_data/council_house_sales.csv") %>% 
+  janitor::clean_names()
+
+# units = dwellings
+council_houses_better_vars <- council_house_data %>% 
+  select(-c(measurement, units), area_code = feature_code, year = date_code) %>% 
+  filter(str_detect(area_code, "^S08|^S12")) %>% 
+  mutate(area_type = case_when(
+    str_detect(area_code, "^S12+") ~ "local authority",
+    str_detect(area_code, "^S08+") ~ "health board"))
+
+council_houses_better_vars %>% 
+  write_csv("data/clean_data/council_house_sales.csv")
+
+
+
+  

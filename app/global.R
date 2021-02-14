@@ -6,10 +6,20 @@ library(rgdal)
 library(leaflet)
 
 # dataframes
-hle_data <- read_csv("../data/clean_data/healthy_life_expectancy.csv")
+hle_data <- list(
+  data = read_csv("../data/clean_data/healthy_life_expectancy.csv"),
+  explorable_vars = c("reference_period", "sex"),
+  explorable_areas = c("health board", "local authority")
+)
 
-# selectable vars
-hle_reference_periods <- sort(unique(hle_data$reference_period))
+council_house_data <- list(
+  data = read_csv("../data/clean_data/council_house_sales.csv"),
+  explorable_vars = c("year", "dwelling_type"),
+  explorable_areas = c("health board", "local authority")
+)
+
+datasets <- c("Healthy Life Expectancy",
+              "Council House Sales")
 
 # colour options
 colour_pals <- RColorBrewer::brewer.pal.info %>%

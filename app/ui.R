@@ -28,8 +28,8 @@ ui <- dashboardPage(
               selectInput(
                 "sex",
                 "Sex",
-                c("Female" = "female",
-                  "Male" = "male"),
+                c("Female",
+                  "Male"),
                 "Female"
               ),
               selectInput(
