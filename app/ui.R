@@ -4,12 +4,21 @@ ui <- dashboardPage(
   dashboardBody(
     tags$style(
       type = "text/css",
-      "#scotland_map {height: calc(100vh - 80px) !important;}"
+      "#scotland_map {height: calc(100vh - 160px) !important;}"
       ),
     fluidRow(
       column(
         9,
-        leafletOutput("scotland_map")
+        tabBox(
+          width = 12,
+          tabPanel(
+            "Map",
+            leafletOutput("scotland_map")
+          ),
+          tabPanel(
+            "Data"
+          )
+        )
       ),
       column(
         3,
@@ -17,8 +26,9 @@ ui <- dashboardPage(
           box(
             width = 12,
             tags$h4("Dataset Options"),
-            selectInput("dataset", label = "Dataset", choices = sort(names(dfs)
-            )),
+            selectInput(
+              "dataset", label = "Dataset", choices = sort(names(dfs))
+            ),
             uiOutput("dropdowns"),
             tags$hr(),
             selectInput(
@@ -28,7 +38,6 @@ ui <- dashboardPage(
                 "Local Authority" = "local authority"),
               "Health Board"
             ),
-            actionButton("update_df", "Update Map"),
             tags$hr(),
             tags$h4("Plot Options"),
             fluidRow(
@@ -45,11 +54,11 @@ ui <- dashboardPage(
                     "Colour Palette",
                     colour_pals,
                     "YlOrRd"
-                  ),
-                  actionButton("update_colours", "Update Map")
+                  )
                 )
               )
-            )
+            ),
+            actionButton("update", "Update")
           )
         )
       )

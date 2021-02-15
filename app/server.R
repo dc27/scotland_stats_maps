@@ -11,13 +11,13 @@ server <- function(input, output, session){
   )
   
   # user inputs for dynamic vars
-  selected <- eventReactive(input$update_df, {
+  selected <- eventReactive(input$update, {
     each_var <- map(vars(), ~ filter_var(dataset()[[.x]], input[[.x]]))
     reduce(each_var, `&`)
   })
   
   # filter df
-  selected_df <- eventReactive(input$update_df, dataset()[selected(), ] %>% 
+  selected_df <- eventReactive(input$update, dataset()[selected(), ] %>% 
     filter(area_type == input$area_type))
   
   # render basemap
@@ -33,7 +33,7 @@ server <- function(input, output, session){
   })
   
   # join values to polygons based on area type
-  plot_spdf <- eventReactive(input$update_df, {
+  plot_spdf <- eventReactive(input$update, {
     if (input$area_type == "health board") {
       spdf <- join_with_shapes(selected_df(), hb_shapes)
     } else if (input$area_type == "local authority") {
@@ -42,9 +42,9 @@ server <- function(input, output, session){
   })
   
   # plot polygons (if there is data)
-  colours <- eventReactive(input$update_colours, input$colour_choice)
+  colours <- eventReactive(input$update, input$colour_choice)
   
-  observe({
+  observeEvent(input$update, {
     if (nrow(selected_df()) == 0) {
         leafletProxy("scotland_map") %>% 
           clearShapes() %>% 
@@ -62,7 +62,7 @@ server <- function(input, output, session){
     }
   })
   # plot legend
-  observe({
+  observeEvent(input$update, {
     leafletProxy("scotland_map") %>% 
       clearControls()
     
