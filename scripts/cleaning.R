@@ -48,7 +48,7 @@ hle_data <- hle_data %>%
 
 # write data to clean csv
 hle_data %>% 
-  write_csv("data/clean_data/healthy_life_expectancy.csv")
+  write_csv("../data/clean_data/healthy_life_expectancy.csv")
 
 # ----- Council House Sales -----
 

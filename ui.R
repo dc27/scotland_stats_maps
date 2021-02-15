@@ -31,6 +31,7 @@ ui <- dashboardPage(
             selectInput(
               "dataset", label = "Dataset", choices = sort(names(dfs))
             ),
+            tags$hr(),
             uiOutput("dropdowns"),
             tags$hr(),
             selectInput(
