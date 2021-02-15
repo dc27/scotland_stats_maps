@@ -1,5 +1,5 @@
 ui <- dashboardPage(
-  dashboardHeader(),
+  dashboardHeader(title = "Scotland Stats Maps"),
   dashboardSidebar(disable = TRUE),
   dashboardBody(
     tags$style(
@@ -14,40 +14,40 @@ ui <- dashboardPage(
       column(
         3,
         fluidRow(
-          tabBox(
+          box(
             width = 12,
-            tabPanel(
-              "Dataset Options",
-              tags$br(),
-              selectInput("dataset", label = "Dataset", choices = sort(names(dfs)
-              )),
-              uiOutput("dropdowns"),
-              selectInput(
-                "area_type",
-                "Area Type",
-                c("Health Board" = "health board",
-                  "Local Authority" = "local authority"),
-                "Health Board"
-              ),
-              actionButton("update", "Update Map")
-            )
-          )
-        ),
-        fluidRow(
-          tags$h3("Plot Options"),
-          tabBox(
-            width = 12,
-            tabPanel(
-              "Basic", 
-              checkboxInput("legend", "Show legend", TRUE)
+            tags$h4("Dataset Options"),
+            selectInput("dataset", label = "Dataset", choices = sort(names(dfs)
+            )),
+            uiOutput("dropdowns"),
+            tags$hr(),
+            selectInput(
+              "area_type",
+              "Area Type",
+              c("Health Board" = "health board",
+                "Local Authority" = "local authority"),
+              "Health Board"
             ),
-            tabPanel(
-              "Advanced",
-              selectInput(
-                "colour_choice",
-                "Colour Palette",
-                colour_pals,
-                "YlOrRd"
+            actionButton("update_df", "Update Map"),
+            tags$hr(),
+            tags$h4("Plot Options"),
+            fluidRow(
+              tabBox(
+                width = 12,
+                tabPanel(
+                  "Basic", 
+                  checkboxInput("legend", "Show legend", TRUE)
+                ),
+                tabPanel(
+                  "Advanced",
+                  selectInput(
+                    "colour_choice",
+                    "Colour Palette",
+                    colour_pals,
+                    "YlOrRd"
+                  ),
+                  actionButton("update_colours", "Update Map")
+                )
               )
             )
           )

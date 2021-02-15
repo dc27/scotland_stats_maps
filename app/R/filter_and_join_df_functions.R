@@ -1,20 +1,7 @@
 make_dropdown <- function(df, var) {
+  # convert snakecase variable name to title for ui
   varname <- str_to_title(str_replace(var, "_", " "))
   selectInput(var, varname, sort(unique(df[[var]])))
-}
-
-# filter_df takes a list of terms to filter a df by, terms in the list must
-# correspond to vars and values in the df.
-filter_df <- function(df, vars, user_in) {
-  filtered_df <- df
-  
-  for (var in vars) {
-    var = as.name(var)
-
-    filtered_df <- filtered_df %>% 
-      filter(!!var == user_in)
-  }
-  return(filtered_df)
 }
 
 filter_var <- function(x, val) {

@@ -7,7 +7,6 @@ library(rgdal)
 library(leaflet)
 
 # dataframes
-
 dfs <- list(
   "Healthy Life Expectancy" = list(
     data = read_csv("../data/clean_data/healthy_life_expectancy.csv"),
@@ -22,6 +21,7 @@ dfs <- list(
     units = "dwellings"
   )
 )
+
 
 # colour options
 colour_pals <- RColorBrewer::brewer.pal.info %>%

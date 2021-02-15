@@ -11,13 +11,13 @@ server <- function(input, output, session){
   )
   
   # user inputs for dynamic vars
-  selected <- eventReactive(input$update, {
+  selected <- eventReactive(input$update_df, {
     each_var <- map(vars(), ~ filter_var(dataset()[[.x]], input[[.x]]))
     reduce(each_var, `&`)
   })
   
   # filter df
-  selected_df <- eventReactive(input$update, dataset()[selected(), ] %>% 
+  selected_df <- eventReactive(input$update_df, dataset()[selected(), ] %>% 
     filter(area_type == input$area_type))
   
   # render basemap
@@ -33,7 +33,7 @@ server <- function(input, output, session){
   })
   
   # join values to polygons based on area type
-  plot_spdf <- eventReactive(input$update, {
+  plot_spdf <- eventReactive(input$update_df, {
     if (input$area_type == "health board") {
       spdf <- join_with_shapes(selected_df(), hb_shapes)
     } else if (input$area_type == "local authority") {
@@ -41,7 +41,9 @@ server <- function(input, output, session){
     }
   })
   
-  # plot polygons
+  # plot polygons (if there is data)
+  colours <- eventReactive(input$update_colours, input$colour_choice)
+  
   observe({
     if (nrow(selected_df()) == 0) {
         leafletProxy("scotland_map") %>% 
@@ -52,11 +54,11 @@ server <- function(input, output, session){
             labelOptions = labelOptions(noHide = T, textsize = "32px")
           )
     } else {
-    add_coloured_polygons(
-      basemap = "scotland_map", spdf = plot_spdf(),
-      colour_scheme = input$colour_choice,
-      units = dfs[[input$dataset]]$units
-    )
+      add_coloured_polygons(
+        basemap = "scotland_map", spdf = plot_spdf(),
+        colour_scheme = colours(),
+        units = dfs[[input$dataset]]$units
+      )
     }
   })
   # plot legend
@@ -67,7 +69,7 @@ server <- function(input, output, session){
     if (input$legend & nrow(selected_df())!=0)  {
       add_legend(
         "scotland_map", spdf = plot_spdf(),
-        colour_scheme = input$colour_choice,
+        colour_scheme = colours(),
         title = input$dataset
       )}
   })
