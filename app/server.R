@@ -3,13 +3,19 @@ source("R/plot_functions.R")
 
 server <- function(input, output, session){
   # dynamic ui
+  title <- eventReactive(input$update, {input$dataset})
   dataset <- reactive(dfs[[input$dataset]]$data)
   vars <- reactive(dfs[[input$dataset]]$explorable_vars)
-
+  
   output$dropdowns <- renderUI(
     map(vars(), ~ make_dropdown(dataset(), .x))
   )
   
+  output$title <- renderText({
+    title()
+  })
+
+
   # user inputs for dynamic vars
   selected <- eventReactive(input$update, {
     each_var <- map(vars(), ~ filter_var(dataset()[[.x]], input[[.x]]))
@@ -70,7 +76,9 @@ server <- function(input, output, session){
       add_legend(
         "scotland_map", spdf = plot_spdf(),
         colour_scheme = colours(),
-        title = input$dataset
+        title = title()
       )}
   })
+  
+  output$table <- renderTable(selected_df())
 }

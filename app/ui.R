@@ -11,12 +11,14 @@ ui <- dashboardPage(
         9,
         tabBox(
           width = 12,
+          title = textOutput("title"),
           tabPanel(
             "Map",
             leafletOutput("scotland_map")
           ),
           tabPanel(
-            "Data"
+            "Data",
+            tableOutput("table")
           )
         )
       ),
