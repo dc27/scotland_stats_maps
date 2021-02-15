@@ -12,7 +12,7 @@ female_hle_data <- read_csv("data/raw_data/female-healthy-life-expectancy.csv",
 pivot_hle_long <- function(hle_df, df_sex) {
   long_df <- hle_df %>% 
     pivot_longer(-c(1,2), names_to = "ref_period",
-                 values_to = "measurement") %>% 
+                 values_to = "value") %>% 
     janitor::clean_names() %>% 
     mutate(area_code = str_extract(
       http_purl_org_linked_data_sdmx_2009_dimension_number_ref_area,
@@ -43,7 +43,7 @@ hle_data <- hle_data %>%
          area_type,
          reference_period = ref_period,
          sex,
-         measurement
+         value
          )
 
 # write data to clean csv

@@ -2,24 +2,26 @@ library(shiny)
 library(shinydashboard)
 library(readr)
 library(dplyr)
+library(purrr)
 library(rgdal)
 library(leaflet)
 
 # dataframes
-hle_data <- list(
-  data = read_csv("../data/clean_data/healthy_life_expectancy.csv"),
-  explorable_vars = c("reference_period", "sex"),
-  explorable_areas = c("health board", "local authority")
-)
 
-council_house_data <- list(
-  data = read_csv("../data/clean_data/council_house_sales.csv"),
-  explorable_vars = c("year", "dwelling_type"),
-  explorable_areas = c("health board", "local authority")
+dfs <- list(
+  "Healthy Life Expectancy" = list(
+    data = read_csv("../data/clean_data/healthy_life_expectancy.csv"),
+    explorable_vars = c("reference_period", "sex"),
+    explorable_areas = c("health board", "local authority"),
+    units = "years"
+  ),
+  "Council House Sales" = list(
+    data = read_csv("../data/clean_data/council_house_sales.csv"),
+    explorable_vars = c("year", "dwelling_type"),
+    explorable_areas = c("health board", "local authority"),
+    units = "dwellings"
+  )
 )
-
-datasets <- c("Healthy Life Expectancy",
-              "Council House Sales")
 
 # colour options
 colour_pals <- RColorBrewer::brewer.pal.info %>%

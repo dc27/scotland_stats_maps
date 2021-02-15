@@ -19,19 +19,9 @@ ui <- dashboardPage(
             tabPanel(
               "Dataset Options",
               tags$br(),
-              selectInput(
-                "date_range",
-                "Reference Period",
-                hle_reference_periods,
-                "2015-2017"
-                ),
-              selectInput(
-                "sex",
-                "Sex",
-                c("Female",
-                  "Male"),
-                "Female"
-              ),
+              selectInput("dataset", label = "Dataset", choices = sort(names(dfs)
+              )),
+              uiOutput("dropdowns"),
               selectInput(
                 "area_type",
                 "Area Type",

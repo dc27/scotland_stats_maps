@@ -280,5 +280,9 @@ get_choices <- function(data_list) {
 get_choices(hle_data)
 ```
 
+```{r}
+council_houses_better_vars %>% 
+  distinct(year)
+```
 
 

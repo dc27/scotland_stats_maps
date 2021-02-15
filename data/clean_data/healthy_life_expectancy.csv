@@ -1,4 +1,4 @@
-area_code,reference_area,area_type,reference_period,sex,measurement
+area_code,reference_area,area_type,reference_period,sex,value
 S12000033,Aberdeen City,local authority,2015-2017,Male,61.47
 S12000033,Aberdeen City,local authority,2016-2018,Male,60.96
 S12000033,Aberdeen City,local authority,2017-2019,Male,60.59

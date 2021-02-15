@@ -1,19 +1,24 @@
+make_dropdown <- function(df, var) {
+  varname <- str_to_title(str_replace(var, "_", " "))
+  selectInput(var, varname, sort(unique(df[[var]])))
+}
+
 # filter_df takes a list of terms to filter a df by, terms in the list must
 # correspond to vars and values in the df.
-filter_df <- function(df, filtration_list) {
+filter_df <- function(df, vars, user_in) {
   filtered_df <- df
   
-  for (i in 1:length(filtration_list)) {
-    var = names(filtration_list[i])
+  for (var in vars) {
     var = as.name(var)
-    
-    user_selection = filtration_list[[i]]
-    
+
     filtered_df <- filtered_df %>% 
-      filter(!!var == user_selection)
+      filter(!!var == user_in)
   }
-  
   return(filtered_df)
+}
+
+filter_var <- function(x, val) {
+    x %in% val
 }
 
 # combine measurements with polygon data
