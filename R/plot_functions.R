@@ -1,8 +1,9 @@
 add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd",
                                   units = "") {
   # pretty labels
-  labels <- sprintf(paste0("<strong>%s</strong><br/>%g ",units),
-                    spdf$area_name, spdf$value) %>%
+  labels <- sprintf(paste0("<strong>%s</strong><br/>%s ",units),
+                    spdf$area_name,
+                    scales::number_format(big.mark = ",")(spdf$value)) %>%
     lapply(htmltools::HTML)
   
   # add polygons highlight on hover

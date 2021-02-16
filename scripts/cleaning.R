@@ -19,6 +19,40 @@ datazone_lookup %>%
   write_csv("data/clean_data/datazone_lookup.csv")
 
 
+# ----- Population Estimates -----
+
+population_data_f <- read_csv("data/raw_data/population-estimates-f.csv",
+                              skip = 8)
+population_data_m <- read_csv("data/raw_data/population-estimates-m.csv",
+                              skip = 8)
+
+elongate_pop_df <- function(pop_df) {
+  pop_df %>%
+    rename(area_code = 1, reference_area = 2) %>% 
+    mutate(area_code = str_extract(area_code, "S[0-9]+$")) %>% 
+    filter(str_detect(area_code, "^S12|^S08")) %>% 
+    pivot_longer(-c(1,2), names_to = "year", values_to = "value")
+}
+
+pop_data <- bind_rows(list("male" = elongate_pop_df(population_data_m),
+                           "female" = elongate_pop_df(population_data_f)),
+                      .id = "sex")
+  
+
+add_area_type_col<-function(df) {
+  df %>% 
+    mutate(area_type = case_when(
+      str_detect(area_code, "^S12+") ~ "local authority",
+      str_detect(area_code, "^S08+") ~ "health board"))
+}
+
+pop_data <- add_area_type_col(pop_data) %>% 
+  select(area_code, reference_area, area_type, year, sex, value)
+
+pop_data %>% 
+  write_csv("data/clean_data/population_estimates.csv")
+
+
 # ----- Healthy Life Expectancy ------
 
 # read in data for male and female HLE from separate files
@@ -50,10 +84,7 @@ tidy_female_hle <- pivot_hle_long(female_hle_data, "Female")
 hle_data <- tidy_male_hle %>% 
   bind_rows(tidy_female_hle)
 
-hle_data <- hle_data %>% 
-  mutate(area_type = case_when(
-    str_detect(area_code, "^S12+") ~ "local authority",
-    str_detect(area_code, "^S08+") ~ "health board"))
+hle_data <- add_area_type_col(hle_data)
 
 # generate standard output column form
 hle_data <- hle_data %>% 

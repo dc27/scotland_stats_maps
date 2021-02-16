@@ -1,0 +1,1749 @@
+area_code,reference_area,area_type,year,sex,value
+S12000033,Aberdeen City,local authority,2001,male,103735
+S12000033,Aberdeen City,local authority,2002,male,103344
+S12000033,Aberdeen City,local authority,2003,male,102769
+S12000033,Aberdeen City,local authority,2004,male,102147
+S12000033,Aberdeen City,local authority,2005,male,102540
+S12000033,Aberdeen City,local authority,2006,male,103139
+S12000033,Aberdeen City,local authority,2007,male,104693
+S12000033,Aberdeen City,local authority,2008,male,105583
+S12000033,Aberdeen City,local authority,2009,male,107223
+S12000033,Aberdeen City,local authority,2010,male,108630
+S12000033,Aberdeen City,local authority,2011,male,110060
+S12000033,Aberdeen City,local authority,2012,male,111286
+S12000033,Aberdeen City,local authority,2013,male,112535
+S12000033,Aberdeen City,local authority,2014,male,113477
+S12000033,Aberdeen City,local authority,2015,male,114414
+S12000033,Aberdeen City,local authority,2016,male,114121
+S12000033,Aberdeen City,local authority,2017,male,113852
+S12000033,Aberdeen City,local authority,2018,male,113252
+S12000033,Aberdeen City,local authority,2019,male,113797
+S12000034,Aberdeenshire,local authority,2001,male,112468
+S12000034,Aberdeenshire,local authority,2002,male,113291
+S12000034,Aberdeenshire,local authority,2003,male,114346
+S12000034,Aberdeenshire,local authority,2004,male,115980
+S12000034,Aberdeenshire,local authority,2005,male,117362
+S12000034,Aberdeenshire,local authority,2006,male,119268
+S12000034,Aberdeenshire,local authority,2007,male,120910
+S12000034,Aberdeenshire,local authority,2008,male,122256
+S12000034,Aberdeenshire,local authority,2009,male,123396
+S12000034,Aberdeenshire,local authority,2010,male,124473
+S12000034,Aberdeenshire,local authority,2011,male,125592
+S12000034,Aberdeenshire,local authority,2012,male,126727
+S12000034,Aberdeenshire,local authority,2013,male,128036
+S12000034,Aberdeenshire,local authority,2014,male,129471
+S12000034,Aberdeenshire,local authority,2015,male,130144
+S12000034,Aberdeenshire,local authority,2016,male,130371
+S12000034,Aberdeenshire,local authority,2017,male,130330
+S12000034,Aberdeenshire,local authority,2018,male,130179
+S12000034,Aberdeenshire,local authority,2019,male,129940
+S12000041,Angus,local authority,2001,male,52428
+S12000041,Angus,local authority,2002,male,52644
+S12000041,Angus,local authority,2003,male,52385
+S12000041,Angus,local authority,2004,male,53143
+S12000041,Angus,local authority,2005,male,53734
+S12000041,Angus,local authority,2006,male,54275
+S12000041,Angus,local authority,2007,male,54851
+S12000041,Angus,local authority,2008,male,55364
+S12000041,Angus,local authority,2009,male,55552
+S12000041,Angus,local authority,2010,male,55822
+S12000041,Angus,local authority,2011,male,56446
+S12000041,Angus,local authority,2012,male,56462
+S12000041,Angus,local authority,2013,male,56603
+S12000041,Angus,local authority,2014,male,56817
+S12000041,Angus,local authority,2015,male,56950
+S12000041,Angus,local authority,2016,male,56769
+S12000041,Angus,local authority,2017,male,56686
+S12000041,Angus,local authority,2018,male,56537
+S12000041,Angus,local authority,2019,male,56724
+S12000035,Argyll and Bute,local authority,2001,male,44878
+S12000035,Argyll and Bute,local authority,2002,male,45070
+S12000035,Argyll and Bute,local authority,2003,male,45018
+S12000035,Argyll and Bute,local authority,2004,male,44424
+S12000035,Argyll and Bute,local authority,2005,male,44276
+S12000035,Argyll and Bute,local authority,2006,male,44988
+S12000035,Argyll and Bute,local authority,2007,male,44903
+S12000035,Argyll and Bute,local authority,2008,male,44397
+S12000035,Argyll and Bute,local authority,2009,male,44221
+S12000035,Argyll and Bute,local authority,2010,male,43499
+S12000035,Argyll and Bute,local authority,2011,male,43830
+S12000035,Argyll and Bute,local authority,2012,male,42193
+S12000035,Argyll and Bute,local authority,2013,male,43467
+S12000035,Argyll and Bute,local authority,2014,male,43405
+S12000035,Argyll and Bute,local authority,2015,male,42975
+S12000035,Argyll and Bute,local authority,2016,male,43319
+S12000035,Argyll and Bute,local authority,2017,male,43114
+S12000035,Argyll and Bute,local authority,2018,male,42916
+S12000035,Argyll and Bute,local authority,2019,male,42747
+S12000036,City of Edinburgh,local authority,2001,male,214953
+S12000036,City of Edinburgh,local authority,2002,male,214483
+S12000036,City of Edinburgh,local authority,2003,male,213926
+S12000036,City of Edinburgh,local authority,2004,male,214460
+S12000036,City of Edinburgh,local authority,2005,male,216524
+S12000036,City of Edinburgh,local authority,2006,male,218262
+S12000036,City of Edinburgh,local authority,2007,male,221145
+S12000036,City of Edinburgh,local authority,2008,male,222737
+S12000036,City of Edinburgh,local authority,2009,male,225350
+S12000036,City of Edinburgh,local authority,2010,male,228996
+S12000036,City of Edinburgh,local authority,2011,male,233268
+S12000036,City of Edinburgh,local authority,2012,male,235172
+S12000036,City of Edinburgh,local authority,2013,male,237459
+S12000036,City of Edinburgh,local authority,2014,male,239881
+S12000036,City of Edinburgh,local authority,2015,male,242653
+S12000036,City of Edinburgh,local authority,2016,male,246778
+S12000036,City of Edinburgh,local authority,2017,male,250129
+S12000036,City of Edinburgh,local authority,2018,male,252989
+S12000036,City of Edinburgh,local authority,2019,male,256303
+S12000005,Clackmannanshire,local authority,2001,male,23229
+S12000005,Clackmannanshire,local authority,2002,male,23273
+S12000005,Clackmannanshire,local authority,2003,male,23273
+S12000005,Clackmannanshire,local authority,2004,male,23599
+S12000005,Clackmannanshire,local authority,2005,male,23743
+S12000005,Clackmannanshire,local authority,2006,male,23977
+S12000005,Clackmannanshire,local authority,2007,male,24595
+S12000005,Clackmannanshire,local authority,2008,male,24956
+S12000005,Clackmannanshire,local authority,2009,male,25007
+S12000005,Clackmannanshire,local authority,2010,male,25041
+S12000005,Clackmannanshire,local authority,2011,male,25188
+S12000005,Clackmannanshire,local authority,2012,male,25096
+S12000005,Clackmannanshire,local authority,2013,male,25152
+S12000005,Clackmannanshire,local authority,2014,male,25106
+S12000005,Clackmannanshire,local authority,2015,male,25195
+S12000005,Clackmannanshire,local authority,2016,male,25167
+S12000005,Clackmannanshire,local authority,2017,male,25194
+S12000005,Clackmannanshire,local authority,2018,male,25225
+S12000005,Clackmannanshire,local authority,2019,male,25343
+S12000006,Dumfries and Galloway,local authority,2001,male,71309
+S12000006,Dumfries and Galloway,local authority,2002,male,71324
+S12000006,Dumfries and Galloway,local authority,2003,male,71462
+S12000006,Dumfries and Galloway,local authority,2004,male,71881
+S12000006,Dumfries and Galloway,local authority,2005,male,72382
+S12000006,Dumfries and Galloway,local authority,2006,male,72469
+S12000006,Dumfries and Galloway,local authority,2007,male,72868
+S12000006,Dumfries and Galloway,local authority,2008,male,73167
+S12000006,Dumfries and Galloway,local authority,2009,male,73179
+S12000006,Dumfries and Galloway,local authority,2010,male,73181
+S12000006,Dumfries and Galloway,local authority,2011,male,73379
+S12000006,Dumfries and Galloway,local authority,2012,male,73212
+S12000006,Dumfries and Galloway,local authority,2013,male,72980
+S12000006,Dumfries and Galloway,local authority,2014,male,72825
+S12000006,Dumfries and Galloway,local authority,2015,male,72691
+S12000006,Dumfries and Galloway,local authority,2016,male,72533
+S12000006,Dumfries and Galloway,local authority,2017,male,72424
+S12000006,Dumfries and Galloway,local authority,2018,male,72321
+S12000006,Dumfries and Galloway,local authority,2019,male,72435
+S12000042,Dundee City,local authority,2001,male,69025
+S12000042,Dundee City,local authority,2002,male,68521
+S12000042,Dundee City,local authority,2003,male,68351
+S12000042,Dundee City,local authority,2004,male,67958
+S12000042,Dundee City,local authority,2005,male,68349
+S12000042,Dundee City,local authority,2006,male,68351
+S12000042,Dundee City,local authority,2007,male,68499
+S12000042,Dundee City,local authority,2008,male,68772
+S12000042,Dundee City,local authority,2009,male,69253
+S12000042,Dundee City,local authority,2010,male,69988
+S12000042,Dundee City,local authority,2011,male,70690
+S12000042,Dundee City,local authority,2012,male,71109
+S12000042,Dundee City,local authority,2013,male,71313
+S12000042,Dundee City,local authority,2014,male,71329
+S12000042,Dundee City,local authority,2015,male,71427
+S12000042,Dundee City,local authority,2016,male,71432
+S12000042,Dundee City,local authority,2017,male,71694
+S12000042,Dundee City,local authority,2018,male,71782
+S12000042,Dundee City,local authority,2019,male,72128
+S12000008,East Ayrshire,local authority,2001,male,57893
+S12000008,East Ayrshire,local authority,2002,male,57679
+S12000008,East Ayrshire,local authority,2003,male,57751
+S12000008,East Ayrshire,local authority,2004,male,57922
+S12000008,East Ayrshire,local authority,2005,male,57980
+S12000008,East Ayrshire,local authority,2006,male,58146
+S12000008,East Ayrshire,local authority,2007,male,58466
+S12000008,East Ayrshire,local authority,2008,male,58877
+S12000008,East Ayrshire,local authority,2009,male,59077
+S12000008,East Ayrshire,local authority,2010,male,59197
+S12000008,East Ayrshire,local authority,2011,male,59389
+S12000008,East Ayrshire,local authority,2012,male,59439
+S12000008,East Ayrshire,local authority,2013,male,59272
+S12000008,East Ayrshire,local authority,2014,male,59164
+S12000008,East Ayrshire,local authority,2015,male,59186
+S12000008,East Ayrshire,local authority,2016,male,59273
+S12000008,East Ayrshire,local authority,2017,male,59177
+S12000008,East Ayrshire,local authority,2018,male,59105
+S12000008,East Ayrshire,local authority,2019,male,59189
+S12000045,East Dunbartonshire,local authority,2001,male,51999
+S12000045,East Dunbartonshire,local authority,2002,male,51486
+S12000045,East Dunbartonshire,local authority,2003,male,51380
+S12000045,East Dunbartonshire,local authority,2004,male,51228
+S12000045,East Dunbartonshire,local authority,2005,male,51014
+S12000045,East Dunbartonshire,local authority,2006,male,50786
+S12000045,East Dunbartonshire,local authority,2007,male,50450
+S12000045,East Dunbartonshire,local authority,2008,male,50478
+S12000045,East Dunbartonshire,local authority,2009,male,50530
+S12000045,East Dunbartonshire,local authority,2010,male,50518
+S12000045,East Dunbartonshire,local authority,2011,male,50574
+S12000045,East Dunbartonshire,local authority,2012,male,51273
+S12000045,East Dunbartonshire,local authority,2013,male,51307
+S12000045,East Dunbartonshire,local authority,2014,male,51685
+S12000045,East Dunbartonshire,local authority,2015,male,51735
+S12000045,East Dunbartonshire,local authority,2016,male,52014
+S12000045,East Dunbartonshire,local authority,2017,male,52351
+S12000045,East Dunbartonshire,local authority,2018,male,52468
+S12000045,East Dunbartonshire,local authority,2019,male,52571
+S12000010,East Lothian,local authority,2001,male,43009
+S12000010,East Lothian,local authority,2002,male,43527
+S12000010,East Lothian,local authority,2003,male,43805
+S12000010,East Lothian,local authority,2004,male,44109
+S12000010,East Lothian,local authority,2005,male,44507
+S12000010,East Lothian,local authority,2006,male,45070
+S12000010,East Lothian,local authority,2007,male,45909
+S12000010,East Lothian,local authority,2008,male,46643
+S12000010,East Lothian,local authority,2009,male,47123
+S12000010,East Lothian,local authority,2010,male,47540
+S12000010,East Lothian,local authority,2011,male,47976
+S12000010,East Lothian,local authority,2012,male,48330
+S12000010,East Lothian,local authority,2013,male,48588
+S12000010,East Lothian,local authority,2014,male,48880
+S12000010,East Lothian,local authority,2015,male,49321
+S12000010,East Lothian,local authority,2016,male,49830
+S12000010,East Lothian,local authority,2017,male,50223
+S12000010,East Lothian,local authority,2018,male,50719
+S12000010,East Lothian,local authority,2019,male,51433
+S12000011,East Renfrewshire,local authority,2001,male,42639
+S12000011,East Renfrewshire,local authority,2002,male,42824
+S12000011,East Renfrewshire,local authority,2003,male,42777
+S12000011,East Renfrewshire,local authority,2004,male,42763
+S12000011,East Renfrewshire,local authority,2005,male,42777
+S12000011,East Renfrewshire,local authority,2006,male,42695
+S12000011,East Renfrewshire,local authority,2007,male,42759
+S12000011,East Renfrewshire,local authority,2008,male,42861
+S12000011,East Renfrewshire,local authority,2009,male,42903
+S12000011,East Renfrewshire,local authority,2010,male,43048
+S12000011,East Renfrewshire,local authority,2011,male,43299
+S12000011,East Renfrewshire,local authority,2012,male,43371
+S12000011,East Renfrewshire,local authority,2013,male,43609
+S12000011,East Renfrewshire,local authority,2014,male,44014
+S12000011,East Renfrewshire,local authority,2015,male,44248
+S12000011,East Renfrewshire,local authority,2016,male,44620
+S12000011,East Renfrewshire,local authority,2017,male,45223
+S12000011,East Renfrewshire,local authority,2018,male,45473
+S12000011,East Renfrewshire,local authority,2019,male,45708
+S12000014,Falkirk,local authority,2001,male,70042
+S12000014,Falkirk,local authority,2002,male,70308
+S12000014,Falkirk,local authority,2003,male,70837
+S12000014,Falkirk,local authority,2004,male,71637
+S12000014,Falkirk,local authority,2005,male,72701
+S12000014,Falkirk,local authority,2006,male,73170
+S12000014,Falkirk,local authority,2007,male,73961
+S12000014,Falkirk,local authority,2008,male,74440
+S12000014,Falkirk,local authority,2009,male,75061
+S12000014,Falkirk,local authority,2010,male,75653
+S12000014,Falkirk,local authority,2011,male,76258
+S12000014,Falkirk,local authority,2012,male,76555
+S12000014,Falkirk,local authority,2013,male,76761
+S12000014,Falkirk,local authority,2014,male,77045
+S12000014,Falkirk,local authority,2015,male,77494
+S12000014,Falkirk,local authority,2016,male,78026
+S12000014,Falkirk,local authority,2017,male,78396
+S12000014,Falkirk,local authority,2018,male,78497
+S12000014,Falkirk,local authority,2019,male,78851
+S12000047,Fife,local authority,2001,male,167765
+S12000047,Fife,local authority,2002,male,168091
+S12000047,Fife,local authority,2003,male,168727
+S12000047,Fife,local authority,2004,male,169701
+S12000047,Fife,local authority,2005,male,171104
+S12000047,Fife,local authority,2006,male,172259
+S12000047,Fife,local authority,2007,male,173185
+S12000047,Fife,local authority,2008,male,173864
+S12000047,Fife,local authority,2009,male,174614
+S12000047,Fife,local authority,2010,male,175198
+S12000047,Fife,local authority,2011,male,176975
+S12000047,Fife,local authority,2012,male,177448
+S12000047,Fife,local authority,2013,male,177971
+S12000047,Fife,local authority,2014,male,177912
+S12000047,Fife,local authority,2015,male,178047
+S12000047,Fife,local authority,2016,male,179552
+S12000047,Fife,local authority,2017,male,180312
+S12000047,Fife,local authority,2018,male,180620
+S12000047,Fife,local authority,2019,male,181414
+S12000049,Glasgow City,local authority,2001,male,273002
+S12000049,Glasgow City,local authority,2002,male,272361
+S12000049,Glasgow City,local authority,2003,male,270397
+S12000049,Glasgow City,local authority,2004,male,269613
+S12000049,Glasgow City,local authority,2005,male,270310
+S12000049,Glasgow City,local authority,2006,male,270354
+S12000049,Glasgow City,local authority,2007,male,272685
+S12000049,Glasgow City,local authority,2008,male,275503
+S12000049,Glasgow City,local authority,2009,male,279115
+S12000049,Glasgow City,local authority,2010,male,282112
+S12000049,Glasgow City,local authority,2011,male,285932
+S12000049,Glasgow City,local authority,2012,male,286926
+S12000049,Glasgow City,local authority,2013,male,288167
+S12000049,Glasgow City,local authority,2014,male,290067
+S12000049,Glasgow City,local authority,2015,male,294275
+S12000049,Glasgow City,local authority,2016,male,299035
+S12000049,Glasgow City,local authority,2017,male,302813
+S12000049,Glasgow City,local authority,2018,male,306050
+S12000049,Glasgow City,local authority,2019,male,310036
+S12000017,Highland,local authority,2001,male,102281
+S12000017,Highland,local authority,2002,male,102660
+S12000017,Highland,local authority,2003,male,103440
+S12000017,Highland,local authority,2004,male,104670
+S12000017,Highland,local authority,2005,male,106335
+S12000017,Highland,local authority,2006,male,107668
+S12000017,Highland,local authority,2007,male,109351
+S12000017,Highland,local authority,2008,male,110988
+S12000017,Highland,local authority,2009,male,111763
+S12000017,Highland,local authority,2010,male,112667
+S12000017,Highland,local authority,2011,male,113778
+S12000017,Highland,local authority,2012,male,114023
+S12000017,Highland,local authority,2013,male,114016
+S12000017,Highland,local authority,2014,male,114060
+S12000017,Highland,local authority,2015,male,114677
+S12000017,Highland,local authority,2016,male,114846
+S12000017,Highland,local authority,2017,male,115192
+S12000017,Highland,local authority,2018,male,115391
+S12000017,Highland,local authority,2019,male,115564
+S12000018,Inverclyde,local authority,2001,male,40073
+S12000018,Inverclyde,local authority,2002,male,39824
+S12000018,Inverclyde,local authority,2003,male,39573
+S12000018,Inverclyde,local authority,2004,male,39285
+S12000018,Inverclyde,local authority,2005,male,39349
+S12000018,Inverclyde,local authority,2006,male,39223
+S12000018,Inverclyde,local authority,2007,male,39142
+S12000018,Inverclyde,local authority,2008,male,39164
+S12000018,Inverclyde,local authority,2009,male,39077
+S12000018,Inverclyde,local authority,2010,male,38978
+S12000018,Inverclyde,local authority,2011,male,38844
+S12000018,Inverclyde,local authority,2012,male,38586
+S12000018,Inverclyde,local authority,2013,male,38416
+S12000018,Inverclyde,local authority,2014,male,38154
+S12000018,Inverclyde,local authority,2015,male,38054
+S12000018,Inverclyde,local authority,2016,male,37836
+S12000018,Inverclyde,local authority,2017,male,37666
+S12000018,Inverclyde,local authority,2018,male,37401
+S12000018,Inverclyde,local authority,2019,male,37288
+S12000019,Midlothian,local authority,2001,male,38677
+S12000019,Midlothian,local authority,2002,male,38638
+S12000019,Midlothian,local authority,2003,male,38317
+S12000019,Midlothian,local authority,2004,male,38275
+S12000019,Midlothian,local authority,2005,male,38205
+S12000019,Midlothian,local authority,2006,male,38201
+S12000019,Midlothian,local authority,2007,male,38450
+S12000019,Midlothian,local authority,2008,male,39204
+S12000019,Midlothian,local authority,2009,male,39293
+S12000019,Midlothian,local authority,2010,male,39573
+S12000019,Midlothian,local authority,2011,male,40232
+S12000019,Midlothian,local authority,2012,male,40617
+S12000019,Midlothian,local authority,2013,male,40658
+S12000019,Midlothian,local authority,2014,male,41529
+S12000019,Midlothian,local authority,2015,male,42039
+S12000019,Midlothian,local authority,2016,male,42579
+S12000019,Midlothian,local authority,2017,male,43303
+S12000019,Midlothian,local authority,2018,male,43893
+S12000019,Midlothian,local authority,2019,male,44434
+S12000020,Moray,local authority,2001,male,43469
+S12000020,Moray,local authority,2002,male,43827
+S12000020,Moray,local authority,2003,male,44500
+S12000020,Moray,local authority,2004,male,44442
+S12000020,Moray,local authority,2005,male,44688
+S12000020,Moray,local authority,2006,male,45100
+S12000020,Moray,local authority,2007,male,45374
+S12000020,Moray,local authority,2008,male,46309
+S12000020,Moray,local authority,2009,male,46182
+S12000020,Moray,local authority,2010,male,46406
+S12000020,Moray,local authority,2011,male,46120
+S12000020,Moray,local authority,2012,male,45615
+S12000020,Moray,local authority,2013,male,46614
+S12000020,Moray,local authority,2014,male,46667
+S12000020,Moray,local authority,2015,male,47217
+S12000020,Moray,local authority,2016,male,47653
+S12000020,Moray,local authority,2017,male,47475
+S12000020,Moray,local authority,2018,male,47297
+S12000020,Moray,local authority,2019,male,47546
+S12000013,Na h-Eileanan Siar,local authority,2001,male,13056
+S12000013,Na h-Eileanan Siar,local authority,2002,male,12961
+S12000013,Na h-Eileanan Siar,local authority,2003,male,12991
+S12000013,Na h-Eileanan Siar,local authority,2004,male,13066
+S12000013,Na h-Eileanan Siar,local authority,2005,male,13260
+S12000013,Na h-Eileanan Siar,local authority,2006,male,13344
+S12000013,Na h-Eileanan Siar,local authority,2007,male,13401
+S12000013,Na h-Eileanan Siar,local authority,2008,male,13443
+S12000013,Na h-Eileanan Siar,local authority,2009,male,13500
+S12000013,Na h-Eileanan Siar,local authority,2010,male,13606
+S12000013,Na h-Eileanan Siar,local authority,2011,male,13652
+S12000013,Na h-Eileanan Siar,local authority,2012,male,13606
+S12000013,Na h-Eileanan Siar,local authority,2013,male,13519
+S12000013,Na h-Eileanan Siar,local authority,2014,male,13444
+S12000013,Na h-Eileanan Siar,local authority,2015,male,13374
+S12000013,Na h-Eileanan Siar,local authority,2016,male,13269
+S12000013,Na h-Eileanan Siar,local authority,2017,male,13310
+S12000013,Na h-Eileanan Siar,local authority,2018,male,13247
+S12000013,Na h-Eileanan Siar,local authority,2019,male,13196
+S12000021,North Ayrshire,local authority,2001,male,64217
+S12000021,North Ayrshire,local authority,2002,male,64212
+S12000021,North Ayrshire,local authority,2003,male,64422
+S12000021,North Ayrshire,local authority,2004,male,64600
+S12000021,North Ayrshire,local authority,2005,male,64797
+S12000021,North Ayrshire,local authority,2006,male,64814
+S12000021,North Ayrshire,local authority,2007,male,65218
+S12000021,North Ayrshire,local authority,2008,male,65488
+S12000021,North Ayrshire,local authority,2009,male,65516
+S12000021,North Ayrshire,local authority,2010,male,65480
+S12000021,North Ayrshire,local authority,2011,male,65686
+S12000021,North Ayrshire,local authority,2012,male,65420
+S12000021,North Ayrshire,local authority,2013,male,65176
+S12000021,North Ayrshire,local authority,2014,male,64882
+S12000021,North Ayrshire,local authority,2015,male,64733
+S12000021,North Ayrshire,local authority,2016,male,64655
+S12000021,North Ayrshire,local authority,2017,male,64639
+S12000021,North Ayrshire,local authority,2018,male,64399
+S12000021,North Ayrshire,local authority,2019,male,64151
+S12000050,North Lanarkshire,local authority,2001,male,153986
+S12000050,North Lanarkshire,local authority,2002,male,154676
+S12000050,North Lanarkshire,local authority,2003,male,155272
+S12000050,North Lanarkshire,local authority,2004,male,156319
+S12000050,North Lanarkshire,local authority,2005,male,157323
+S12000050,North Lanarkshire,local authority,2006,male,158285
+S12000050,North Lanarkshire,local authority,2007,male,159710
+S12000050,North Lanarkshire,local authority,2008,male,160761
+S12000050,North Lanarkshire,local authority,2009,male,161920
+S12000050,North Lanarkshire,local authority,2010,male,162437
+S12000050,North Lanarkshire,local authority,2011,male,163318
+S12000050,North Lanarkshire,local authority,2012,male,163410
+S12000050,North Lanarkshire,local authority,2013,male,163401
+S12000050,North Lanarkshire,local authority,2014,male,163425
+S12000050,North Lanarkshire,local authority,2015,male,163604
+S12000050,North Lanarkshire,local authority,2016,male,164242
+S12000050,North Lanarkshire,local authority,2017,male,164523
+S12000050,North Lanarkshire,local authority,2018,male,164820
+S12000050,North Lanarkshire,local authority,2019,male,165363
+S12000023,Orkney Islands,local authority,2001,male,9487
+S12000023,Orkney Islands,local authority,2002,male,9544
+S12000023,Orkney Islands,local authority,2003,male,9655
+S12000023,Orkney Islands,local authority,2004,male,9786
+S12000023,Orkney Islands,local authority,2005,male,9886
+S12000023,Orkney Islands,local authority,2006,male,10013
+S12000023,Orkney Islands,local authority,2007,male,10154
+S12000023,Orkney Islands,local authority,2008,male,10228
+S12000023,Orkney Islands,local authority,2009,male,10331
+S12000023,Orkney Islands,local authority,2010,male,10471
+S12000023,Orkney Islands,local authority,2011,male,10610
+S12000023,Orkney Islands,local authority,2012,male,10693
+S12000023,Orkney Islands,local authority,2013,male,10723
+S12000023,Orkney Islands,local authority,2014,male,10729
+S12000023,Orkney Islands,local authority,2015,male,10785
+S12000023,Orkney Islands,local authority,2016,male,10880
+S12000023,Orkney Islands,local authority,2017,male,10945
+S12000023,Orkney Islands,local authority,2018,male,11039
+S12000023,Orkney Islands,local authority,2019,male,11086
+S12000048,Perth and Kinross,local authority,2001,male,65175
+S12000048,Perth and Kinross,local authority,2002,male,65196
+S12000048,Perth and Kinross,local authority,2003,male,65743
+S12000048,Perth and Kinross,local authority,2004,male,66100
+S12000048,Perth and Kinross,local authority,2005,male,66583
+S12000048,Perth and Kinross,local authority,2006,male,67203
+S12000048,Perth and Kinross,local authority,2007,male,68187
+S12000048,Perth and Kinross,local authority,2008,male,69361
+S12000048,Perth and Kinross,local authority,2009,male,70128
+S12000048,Perth and Kinross,local authority,2010,male,70750
+S12000048,Perth and Kinross,local authority,2011,male,71507
+S12000048,Perth and Kinross,local authority,2012,male,72027
+S12000048,Perth and Kinross,local authority,2013,male,72082
+S12000048,Perth and Kinross,local authority,2014,male,72727
+S12000048,Perth and Kinross,local authority,2015,male,73409
+S12000048,Perth and Kinross,local authority,2016,male,73962
+S12000048,Perth and Kinross,local authority,2017,male,74187
+S12000048,Perth and Kinross,local authority,2018,male,74367
+S12000048,Perth and Kinross,local authority,2019,male,74729
+S12000038,Renfrewshire,local authority,2001,male,82509
+S12000038,Renfrewshire,local authority,2002,male,82332
+S12000038,Renfrewshire,local authority,2003,male,81930
+S12000038,Renfrewshire,local authority,2004,male,81899
+S12000038,Renfrewshire,local authority,2005,male,81976
+S12000038,Renfrewshire,local authority,2006,male,81854
+S12000038,Renfrewshire,local authority,2007,male,82219
+S12000038,Renfrewshire,local authority,2008,male,82656
+S12000038,Renfrewshire,local authority,2009,male,82886
+S12000038,Renfrewshire,local authority,2010,male,83342
+S12000038,Renfrewshire,local authority,2011,male,83942
+S12000038,Renfrewshire,local authority,2012,male,83787
+S12000038,Renfrewshire,local authority,2013,male,83655
+S12000038,Renfrewshire,local authority,2014,male,83765
+S12000038,Renfrewshire,local authority,2015,male,83926
+S12000038,Renfrewshire,local authority,2016,male,84692
+S12000038,Renfrewshire,local authority,2017,male,85260
+S12000038,Renfrewshire,local authority,2018,male,85869
+S12000038,Renfrewshire,local authority,2019,male,86573
+S12000026,Scottish Borders,local authority,2001,male,51467
+S12000026,Scottish Borders,local authority,2002,male,51873
+S12000026,Scottish Borders,local authority,2003,male,52294
+S12000026,Scottish Borders,local authority,2004,male,52879
+S12000026,Scottish Borders,local authority,2005,male,53306
+S12000026,Scottish Borders,local authority,2006,male,53675
+S12000026,Scottish Borders,local authority,2007,male,54355
+S12000026,Scottish Borders,local authority,2008,male,54852
+S12000026,Scottish Borders,local authority,2009,male,54911
+S12000026,Scottish Borders,local authority,2010,male,54941
+S12000026,Scottish Borders,local authority,2011,male,55195
+S12000026,Scottish Borders,local authority,2012,male,55183
+S12000026,Scottish Borders,local authority,2013,male,55311
+S12000026,Scottish Borders,local authority,2014,male,55319
+S12000026,Scottish Borders,local authority,2015,male,55273
+S12000026,Scottish Borders,local authority,2016,male,55516
+S12000026,Scottish Borders,local authority,2017,male,55789
+S12000026,Scottish Borders,local authority,2018,male,55989
+S12000026,Scottish Borders,local authority,2019,male,56123
+S12000027,Shetland Islands,local authority,2001,male,11055
+S12000027,Shetland Islands,local authority,2002,male,11065
+S12000027,Shetland Islands,local authority,2003,male,11065
+S12000027,Shetland Islands,local authority,2004,male,11114
+S12000027,Shetland Islands,local authority,2005,male,11175
+S12000027,Shetland Islands,local authority,2006,male,11145
+S12000027,Shetland Islands,local authority,2007,male,11242
+S12000027,Shetland Islands,local authority,2008,male,11351
+S12000027,Shetland Islands,local authority,2009,male,11512
+S12000027,Shetland Islands,local authority,2010,male,11679
+S12000027,Shetland Islands,local authority,2011,male,11788
+S12000027,Shetland Islands,local authority,2012,male,11770
+S12000027,Shetland Islands,local authority,2013,male,11771
+S12000027,Shetland Islands,local authority,2014,male,11793
+S12000027,Shetland Islands,local authority,2015,male,11783
+S12000027,Shetland Islands,local authority,2016,male,11783
+S12000027,Shetland Islands,local authority,2017,male,11731
+S12000027,Shetland Islands,local authority,2018,male,11713
+S12000027,Shetland Islands,local authority,2019,male,11685
+S12000028,South Ayrshire,local authority,2001,male,53437
+S12000028,South Ayrshire,local authority,2002,male,53109
+S12000028,South Ayrshire,local authority,2003,male,53011
+S12000028,South Ayrshire,local authority,2004,male,53205
+S12000028,South Ayrshire,local authority,2005,male,53220
+S12000028,South Ayrshire,local authority,2006,male,53283
+S12000028,South Ayrshire,local authority,2007,male,53342
+S12000028,South Ayrshire,local authority,2008,male,53509
+S12000028,South Ayrshire,local authority,2009,male,53549
+S12000028,South Ayrshire,local authority,2010,male,53622
+S12000028,South Ayrshire,local authority,2011,male,53820
+S12000028,South Ayrshire,local authority,2012,male,53815
+S12000028,South Ayrshire,local authority,2013,male,53793
+S12000028,South Ayrshire,local authority,2014,male,53691
+S12000028,South Ayrshire,local authority,2015,male,53660
+S12000028,South Ayrshire,local authority,2016,male,53674
+S12000028,South Ayrshire,local authority,2017,male,53794
+S12000028,South Ayrshire,local authority,2018,male,53712
+S12000028,South Ayrshire,local authority,2019,male,53709
+S12000029,South Lanarkshire,local authority,2001,male,144266
+S12000029,South Lanarkshire,local authority,2002,male,144535
+S12000029,South Lanarkshire,local authority,2003,male,144970
+S12000029,South Lanarkshire,local authority,2004,male,146065
+S12000029,South Lanarkshire,local authority,2005,male,146633
+S12000029,South Lanarkshire,local authority,2006,male,147565
+S12000029,South Lanarkshire,local authority,2007,male,148638
+S12000029,South Lanarkshire,local authority,2008,male,149193
+S12000029,South Lanarkshire,local authority,2009,male,149693
+S12000029,South Lanarkshire,local authority,2010,male,150334
+S12000029,South Lanarkshire,local authority,2011,male,150873
+S12000029,South Lanarkshire,local authority,2012,male,151149
+S12000029,South Lanarkshire,local authority,2013,male,151514
+S12000029,South Lanarkshire,local authority,2014,male,151803
+S12000029,South Lanarkshire,local authority,2015,male,152399
+S12000029,South Lanarkshire,local authority,2016,male,152995
+S12000029,South Lanarkshire,local authority,2017,male,153751
+S12000029,South Lanarkshire,local authority,2018,male,154202
+S12000029,South Lanarkshire,local authority,2019,male,155033
+S12000030,Stirling,local authority,2001,male,41194
+S12000030,Stirling,local authority,2002,male,41393
+S12000030,Stirling,local authority,2003,male,41680
+S12000030,Stirling,local authority,2004,male,41569
+S12000030,Stirling,local authority,2005,male,41898
+S12000030,Stirling,local authority,2006,male,42202
+S12000030,Stirling,local authority,2007,male,42375
+S12000030,Stirling,local authority,2008,male,42503
+S12000030,Stirling,local authority,2009,male,42502
+S12000030,Stirling,local authority,2010,male,42896
+S12000030,Stirling,local authority,2011,male,43294
+S12000030,Stirling,local authority,2012,male,43709
+S12000030,Stirling,local authority,2013,male,43878
+S12000030,Stirling,local authority,2014,male,43974
+S12000030,Stirling,local authority,2015,male,44624
+S12000030,Stirling,local authority,2016,male,45081
+S12000030,Stirling,local authority,2017,male,45246
+S12000030,Stirling,local authority,2018,male,45445
+S12000030,Stirling,local authority,2019,male,45433
+S12000039,West Dunbartonshire,local authority,2001,male,44168
+S12000039,West Dunbartonshire,local authority,2002,male,44063
+S12000039,West Dunbartonshire,local authority,2003,male,43787
+S12000039,West Dunbartonshire,local authority,2004,male,43596
+S12000039,West Dunbartonshire,local authority,2005,male,43368
+S12000039,West Dunbartonshire,local authority,2006,male,43284
+S12000039,West Dunbartonshire,local authority,2007,male,43336
+S12000039,West Dunbartonshire,local authority,2008,male,43229
+S12000039,West Dunbartonshire,local authority,2009,male,43205
+S12000039,West Dunbartonshire,local authority,2010,male,43154
+S12000039,West Dunbartonshire,local authority,2011,male,43073
+S12000039,West Dunbartonshire,local authority,2012,male,43051
+S12000039,West Dunbartonshire,local authority,2013,male,42690
+S12000039,West Dunbartonshire,local authority,2014,male,42693
+S12000039,West Dunbartonshire,local authority,2015,male,42606
+S12000039,West Dunbartonshire,local authority,2016,male,42747
+S12000039,West Dunbartonshire,local authority,2017,male,42714
+S12000039,West Dunbartonshire,local authority,2018,male,42496
+S12000039,West Dunbartonshire,local authority,2019,male,42518
+S12000040,West Lothian,local authority,2001,male,76842
+S12000040,West Lothian,local authority,2002,male,77501
+S12000040,West Lothian,local authority,2003,male,78234
+S12000040,West Lothian,local authority,2004,male,79168
+S12000040,West Lothian,local authority,2005,male,79969
+S12000040,West Lothian,local authority,2006,male,80996
+S12000040,West Lothian,local authority,2007,male,82186
+S12000040,West Lothian,local authority,2008,male,83161
+S12000040,West Lothian,local authority,2009,male,84397
+S12000040,West Lothian,local authority,2010,male,84986
+S12000040,West Lothian,local authority,2011,male,85712
+S12000040,West Lothian,local authority,2012,male,86230
+S12000040,West Lothian,local authority,2013,male,86243
+S12000040,West Lothian,local authority,2014,male,86797
+S12000040,West Lothian,local authority,2015,male,87551
+S12000040,West Lothian,local authority,2016,male,88253
+S12000040,West Lothian,local authority,2017,male,88857
+S12000040,West Lothian,local authority,2018,male,89338
+S12000040,West Lothian,local authority,2019,male,89953
+S08000015,Ayrshire and Arran,health board,2001,male,175547
+S08000015,Ayrshire and Arran,health board,2002,male,175000
+S08000015,Ayrshire and Arran,health board,2003,male,175184
+S08000015,Ayrshire and Arran,health board,2004,male,175727
+S08000015,Ayrshire and Arran,health board,2005,male,175997
+S08000015,Ayrshire and Arran,health board,2006,male,176243
+S08000015,Ayrshire and Arran,health board,2007,male,177026
+S08000015,Ayrshire and Arran,health board,2008,male,177874
+S08000015,Ayrshire and Arran,health board,2009,male,178142
+S08000015,Ayrshire and Arran,health board,2010,male,178299
+S08000015,Ayrshire and Arran,health board,2011,male,178895
+S08000015,Ayrshire and Arran,health board,2012,male,178674
+S08000015,Ayrshire and Arran,health board,2013,male,178241
+S08000015,Ayrshire and Arran,health board,2014,male,177737
+S08000015,Ayrshire and Arran,health board,2015,male,177579
+S08000015,Ayrshire and Arran,health board,2016,male,177602
+S08000015,Ayrshire and Arran,health board,2017,male,177610
+S08000015,Ayrshire and Arran,health board,2018,male,177216
+S08000015,Ayrshire and Arran,health board,2019,male,177049
+S08000016,Borders,health board,2001,male,51467
+S08000016,Borders,health board,2002,male,51873
+S08000016,Borders,health board,2003,male,52294
+S08000016,Borders,health board,2004,male,52879
+S08000016,Borders,health board,2005,male,53306
+S08000016,Borders,health board,2006,male,53675
+S08000016,Borders,health board,2007,male,54355
+S08000016,Borders,health board,2008,male,54852
+S08000016,Borders,health board,2009,male,54911
+S08000016,Borders,health board,2010,male,54941
+S08000016,Borders,health board,2011,male,55195
+S08000016,Borders,health board,2012,male,55183
+S08000016,Borders,health board,2013,male,55311
+S08000016,Borders,health board,2014,male,55319
+S08000016,Borders,health board,2015,male,55273
+S08000016,Borders,health board,2016,male,55516
+S08000016,Borders,health board,2017,male,55789
+S08000016,Borders,health board,2018,male,55989
+S08000016,Borders,health board,2019,male,56123
+S08000017,Dumfries and Galloway,health board,2001,male,71309
+S08000017,Dumfries and Galloway,health board,2002,male,71324
+S08000017,Dumfries and Galloway,health board,2003,male,71462
+S08000017,Dumfries and Galloway,health board,2004,male,71881
+S08000017,Dumfries and Galloway,health board,2005,male,72382
+S08000017,Dumfries and Galloway,health board,2006,male,72469
+S08000017,Dumfries and Galloway,health board,2007,male,72868
+S08000017,Dumfries and Galloway,health board,2008,male,73167
+S08000017,Dumfries and Galloway,health board,2009,male,73179
+S08000017,Dumfries and Galloway,health board,2010,male,73181
+S08000017,Dumfries and Galloway,health board,2011,male,73379
+S08000017,Dumfries and Galloway,health board,2012,male,73212
+S08000017,Dumfries and Galloway,health board,2013,male,72980
+S08000017,Dumfries and Galloway,health board,2014,male,72825
+S08000017,Dumfries and Galloway,health board,2015,male,72691
+S08000017,Dumfries and Galloway,health board,2016,male,72533
+S08000017,Dumfries and Galloway,health board,2017,male,72424
+S08000017,Dumfries and Galloway,health board,2018,male,72321
+S08000017,Dumfries and Galloway,health board,2019,male,72435
+S08000029,Fife,health board,2001,male,167765
+S08000029,Fife,health board,2002,male,168091
+S08000029,Fife,health board,2003,male,168727
+S08000029,Fife,health board,2004,male,169701
+S08000029,Fife,health board,2005,male,171104
+S08000029,Fife,health board,2006,male,172259
+S08000029,Fife,health board,2007,male,173185
+S08000029,Fife,health board,2008,male,173864
+S08000029,Fife,health board,2009,male,174614
+S08000029,Fife,health board,2010,male,175198
+S08000029,Fife,health board,2011,male,176975
+S08000029,Fife,health board,2012,male,177448
+S08000029,Fife,health board,2013,male,177971
+S08000029,Fife,health board,2014,male,177912
+S08000029,Fife,health board,2015,male,178047
+S08000029,Fife,health board,2016,male,179552
+S08000029,Fife,health board,2017,male,180312
+S08000029,Fife,health board,2018,male,180620
+S08000029,Fife,health board,2019,male,181414
+S08000019,Forth Valley,health board,2001,male,134465
+S08000019,Forth Valley,health board,2002,male,134974
+S08000019,Forth Valley,health board,2003,male,135790
+S08000019,Forth Valley,health board,2004,male,136805
+S08000019,Forth Valley,health board,2005,male,138342
+S08000019,Forth Valley,health board,2006,male,139349
+S08000019,Forth Valley,health board,2007,male,140931
+S08000019,Forth Valley,health board,2008,male,141899
+S08000019,Forth Valley,health board,2009,male,142570
+S08000019,Forth Valley,health board,2010,male,143590
+S08000019,Forth Valley,health board,2011,male,144740
+S08000019,Forth Valley,health board,2012,male,145360
+S08000019,Forth Valley,health board,2013,male,145791
+S08000019,Forth Valley,health board,2014,male,146125
+S08000019,Forth Valley,health board,2015,male,147313
+S08000019,Forth Valley,health board,2016,male,148274
+S08000019,Forth Valley,health board,2017,male,148836
+S08000019,Forth Valley,health board,2018,male,149167
+S08000019,Forth Valley,health board,2019,male,149627
+S08000020,Grampian,health board,2001,male,259672
+S08000020,Grampian,health board,2002,male,260462
+S08000020,Grampian,health board,2003,male,261615
+S08000020,Grampian,health board,2004,male,262569
+S08000020,Grampian,health board,2005,male,264590
+S08000020,Grampian,health board,2006,male,267507
+S08000020,Grampian,health board,2007,male,270977
+S08000020,Grampian,health board,2008,male,274148
+S08000020,Grampian,health board,2009,male,276801
+S08000020,Grampian,health board,2010,male,279509
+S08000020,Grampian,health board,2011,male,281772
+S08000020,Grampian,health board,2012,male,283628
+S08000020,Grampian,health board,2013,male,287185
+S08000020,Grampian,health board,2014,male,289615
+S08000020,Grampian,health board,2015,male,291775
+S08000020,Grampian,health board,2016,male,292145
+S08000020,Grampian,health board,2017,male,291657
+S08000020,Grampian,health board,2018,male,290728
+S08000020,Grampian,health board,2019,male,291283
+S08000031,Greater Glasgow and Clyde,health board,2001,male,534390
+S08000031,Greater Glasgow and Clyde,health board,2002,male,532890
+S08000031,Greater Glasgow and Clyde,health board,2003,male,529844
+S08000031,Greater Glasgow and Clyde,health board,2004,male,528384
+S08000031,Greater Glasgow and Clyde,health board,2005,male,528794
+S08000031,Greater Glasgow and Clyde,health board,2006,male,528196
+S08000031,Greater Glasgow and Clyde,health board,2007,male,530591
+S08000031,Greater Glasgow and Clyde,health board,2008,male,533891
+S08000031,Greater Glasgow and Clyde,health board,2009,male,537716
+S08000031,Greater Glasgow and Clyde,health board,2010,male,541152
+S08000031,Greater Glasgow and Clyde,health board,2011,male,545664
+S08000031,Greater Glasgow and Clyde,health board,2012,male,546994
+S08000031,Greater Glasgow and Clyde,health board,2013,male,547844
+S08000031,Greater Glasgow and Clyde,health board,2014,male,550378
+S08000031,Greater Glasgow and Clyde,health board,2015,male,554844
+S08000031,Greater Glasgow and Clyde,health board,2016,male,560944
+S08000031,Greater Glasgow and Clyde,health board,2017,male,566027
+S08000031,Greater Glasgow and Clyde,health board,2018,male,569757
+S08000031,Greater Glasgow and Clyde,health board,2019,male,574694
+S08000022,Highland,health board,2001,male,147159
+S08000022,Highland,health board,2002,male,147730
+S08000022,Highland,health board,2003,male,148458
+S08000022,Highland,health board,2004,male,149094
+S08000022,Highland,health board,2005,male,150611
+S08000022,Highland,health board,2006,male,152656
+S08000022,Highland,health board,2007,male,154254
+S08000022,Highland,health board,2008,male,155385
+S08000022,Highland,health board,2009,male,155984
+S08000022,Highland,health board,2010,male,156166
+S08000022,Highland,health board,2011,male,157608
+S08000022,Highland,health board,2012,male,156216
+S08000022,Highland,health board,2013,male,157483
+S08000022,Highland,health board,2014,male,157465
+S08000022,Highland,health board,2015,male,157652
+S08000022,Highland,health board,2016,male,158165
+S08000022,Highland,health board,2017,male,158306
+S08000022,Highland,health board,2018,male,158307
+S08000022,Highland,health board,2019,male,158311
+S08000032,Lanarkshire,health board,2001,male,298252
+S08000032,Lanarkshire,health board,2002,male,299211
+S08000032,Lanarkshire,health board,2003,male,300242
+S08000032,Lanarkshire,health board,2004,male,302384
+S08000032,Lanarkshire,health board,2005,male,303956
+S08000032,Lanarkshire,health board,2006,male,305850
+S08000032,Lanarkshire,health board,2007,male,308348
+S08000032,Lanarkshire,health board,2008,male,309954
+S08000032,Lanarkshire,health board,2009,male,311613
+S08000032,Lanarkshire,health board,2010,male,312771
+S08000032,Lanarkshire,health board,2011,male,314191
+S08000032,Lanarkshire,health board,2012,male,314559
+S08000032,Lanarkshire,health board,2013,male,314915
+S08000032,Lanarkshire,health board,2014,male,315228
+S08000032,Lanarkshire,health board,2015,male,316003
+S08000032,Lanarkshire,health board,2016,male,317237
+S08000032,Lanarkshire,health board,2017,male,318274
+S08000032,Lanarkshire,health board,2018,male,319022
+S08000032,Lanarkshire,health board,2019,male,320396
+S08000024,Lothian,health board,2001,male,373481
+S08000024,Lothian,health board,2002,male,374149
+S08000024,Lothian,health board,2003,male,374282
+S08000024,Lothian,health board,2004,male,376012
+S08000024,Lothian,health board,2005,male,379205
+S08000024,Lothian,health board,2006,male,382529
+S08000024,Lothian,health board,2007,male,387690
+S08000024,Lothian,health board,2008,male,391745
+S08000024,Lothian,health board,2009,male,396163
+S08000024,Lothian,health board,2010,male,401095
+S08000024,Lothian,health board,2011,male,407188
+S08000024,Lothian,health board,2012,male,410349
+S08000024,Lothian,health board,2013,male,412948
+S08000024,Lothian,health board,2014,male,417087
+S08000024,Lothian,health board,2015,male,421564
+S08000024,Lothian,health board,2016,male,427440
+S08000024,Lothian,health board,2017,male,432512
+S08000024,Lothian,health board,2018,male,436939
+S08000024,Lothian,health board,2019,male,442123
+S08000025,Orkney,health board,2001,male,9487
+S08000025,Orkney,health board,2002,male,9544
+S08000025,Orkney,health board,2003,male,9655
+S08000025,Orkney,health board,2004,male,9786
+S08000025,Orkney,health board,2005,male,9886
+S08000025,Orkney,health board,2006,male,10013
+S08000025,Orkney,health board,2007,male,10154
+S08000025,Orkney,health board,2008,male,10228
+S08000025,Orkney,health board,2009,male,10331
+S08000025,Orkney,health board,2010,male,10471
+S08000025,Orkney,health board,2011,male,10610
+S08000025,Orkney,health board,2012,male,10693
+S08000025,Orkney,health board,2013,male,10723
+S08000025,Orkney,health board,2014,male,10729
+S08000025,Orkney,health board,2015,male,10785
+S08000025,Orkney,health board,2016,male,10880
+S08000025,Orkney,health board,2017,male,10945
+S08000025,Orkney,health board,2018,male,11039
+S08000025,Orkney,health board,2019,male,11086
+S08000026,Shetland,health board,2001,male,11055
+S08000026,Shetland,health board,2002,male,11065
+S08000026,Shetland,health board,2003,male,11065
+S08000026,Shetland,health board,2004,male,11114
+S08000026,Shetland,health board,2005,male,11175
+S08000026,Shetland,health board,2006,male,11145
+S08000026,Shetland,health board,2007,male,11242
+S08000026,Shetland,health board,2008,male,11351
+S08000026,Shetland,health board,2009,male,11512
+S08000026,Shetland,health board,2010,male,11679
+S08000026,Shetland,health board,2011,male,11788
+S08000026,Shetland,health board,2012,male,11770
+S08000026,Shetland,health board,2013,male,11771
+S08000026,Shetland,health board,2014,male,11793
+S08000026,Shetland,health board,2015,male,11783
+S08000026,Shetland,health board,2016,male,11783
+S08000026,Shetland,health board,2017,male,11731
+S08000026,Shetland,health board,2018,male,11713
+S08000026,Shetland,health board,2019,male,11685
+S08000030,Tayside,health board,2001,male,186628
+S08000030,Tayside,health board,2002,male,186361
+S08000030,Tayside,health board,2003,male,186479
+S08000030,Tayside,health board,2004,male,187201
+S08000030,Tayside,health board,2005,male,188666
+S08000030,Tayside,health board,2006,male,189829
+S08000030,Tayside,health board,2007,male,191537
+S08000030,Tayside,health board,2008,male,193497
+S08000030,Tayside,health board,2009,male,194933
+S08000030,Tayside,health board,2010,male,196560
+S08000030,Tayside,health board,2011,male,198643
+S08000030,Tayside,health board,2012,male,199598
+S08000030,Tayside,health board,2013,male,199998
+S08000030,Tayside,health board,2014,male,200873
+S08000030,Tayside,health board,2015,male,201786
+S08000030,Tayside,health board,2016,male,202163
+S08000030,Tayside,health board,2017,male,202567
+S08000030,Tayside,health board,2018,male,202686
+S08000030,Tayside,health board,2019,male,203581
+S08000028,Western Isles,health board,2001,male,13056
+S08000028,Western Isles,health board,2002,male,12961
+S08000028,Western Isles,health board,2003,male,12991
+S08000028,Western Isles,health board,2004,male,13066
+S08000028,Western Isles,health board,2005,male,13260
+S08000028,Western Isles,health board,2006,male,13344
+S08000028,Western Isles,health board,2007,male,13401
+S08000028,Western Isles,health board,2008,male,13443
+S08000028,Western Isles,health board,2009,male,13500
+S08000028,Western Isles,health board,2010,male,13606
+S08000028,Western Isles,health board,2011,male,13652
+S08000028,Western Isles,health board,2012,male,13606
+S08000028,Western Isles,health board,2013,male,13519
+S08000028,Western Isles,health board,2014,male,13444
+S08000028,Western Isles,health board,2015,male,13374
+S08000028,Western Isles,health board,2016,male,13269
+S08000028,Western Isles,health board,2017,male,13310
+S08000028,Western Isles,health board,2018,male,13247
+S08000028,Western Isles,health board,2019,male,13196
+S12000033,Aberdeen City,local authority,2001,female,108175
+S12000033,Aberdeen City,local authority,2002,female,107336
+S12000033,Aberdeen City,local authority,2003,female,106511
+S12000033,Aberdeen City,local authority,2004,female,105673
+S12000033,Aberdeen City,local authority,2005,female,106150
+S12000033,Aberdeen City,local authority,2006,female,106491
+S12000033,Aberdeen City,local authority,2007,female,107777
+S12000033,Aberdeen City,local authority,2008,female,108437
+S12000033,Aberdeen City,local authority,2009,female,109797
+S12000033,Aberdeen City,local authority,2010,female,111100
+S12000033,Aberdeen City,local authority,2011,female,112400
+S12000033,Aberdeen City,local authority,2012,female,113624
+S12000033,Aberdeen City,local authority,2013,female,114535
+S12000033,Aberdeen City,local authority,2014,female,115443
+S12000033,Aberdeen City,local authority,2015,female,115936
+S12000033,Aberdeen City,local authority,2016,female,115719
+S12000033,Aberdeen City,local authority,2017,female,114948
+S12000033,Aberdeen City,local authority,2018,female,114308
+S12000033,Aberdeen City,local authority,2019,female,114873
+S12000034,Aberdeenshire,local authority,2001,female,114472
+S12000034,Aberdeenshire,local authority,2002,female,115539
+S12000034,Aberdeenshire,local authority,2003,female,116904
+S12000034,Aberdeenshire,local authority,2004,female,118710
+S12000034,Aberdeenshire,local authority,2005,female,120208
+S12000034,Aberdeenshire,local authority,2006,female,121912
+S12000034,Aberdeenshire,local authority,2007,female,123480
+S12000034,Aberdeenshire,local authority,2008,female,124574
+S12000034,Aberdeenshire,local authority,2009,female,125624
+S12000034,Aberdeenshire,local authority,2010,female,126957
+S12000034,Aberdeenshire,local authority,2011,female,128058
+S12000034,Aberdeenshire,local authority,2012,female,128833
+S12000034,Aberdeenshire,local authority,2013,female,129734
+S12000034,Aberdeenshire,local authority,2014,female,131059
+S12000034,Aberdeenshire,local authority,2015,female,131816
+S12000034,Aberdeenshire,local authority,2016,female,131819
+S12000034,Aberdeenshire,local authority,2017,female,131470
+S12000034,Aberdeenshire,local authority,2018,female,131291
+S12000034,Aberdeenshire,local authority,2019,female,131270
+S12000041,Angus,local authority,2001,female,55942
+S12000041,Angus,local authority,2002,female,56166
+S12000041,Angus,local authority,2003,female,56315
+S12000041,Angus,local authority,2004,female,57027
+S12000041,Angus,local authority,2005,female,57606
+S12000041,Angus,local authority,2006,female,58225
+S12000041,Angus,local authority,2007,female,58689
+S12000041,Angus,local authority,2008,female,59126
+S12000041,Angus,local authority,2009,female,59278
+S12000041,Angus,local authority,2010,female,59588
+S12000041,Angus,local authority,2011,female,59754
+S12000041,Angus,local authority,2012,female,59758
+S12000041,Angus,local authority,2013,female,59687
+S12000041,Angus,local authority,2014,female,59923
+S12000041,Angus,local authority,2015,female,59950
+S12000041,Angus,local authority,2016,female,59751
+S12000041,Angus,local authority,2017,female,59594
+S12000041,Angus,local authority,2018,female,59503
+S12000041,Angus,local authority,2019,female,59476
+S12000035,Argyll and Bute,local authority,2001,female,46422
+S12000035,Argyll and Bute,local authority,2002,female,45950
+S12000035,Argyll and Bute,local authority,2003,female,45912
+S12000035,Argyll and Bute,local authority,2004,female,46156
+S12000035,Argyll and Bute,local authority,2005,female,46064
+S12000035,Argyll and Bute,local authority,2006,female,45872
+S12000035,Argyll and Bute,local authority,2007,female,45887
+S12000035,Argyll and Bute,local authority,2008,female,45513
+S12000035,Argyll and Bute,local authority,2009,female,45229
+S12000035,Argyll and Bute,local authority,2010,female,45121
+S12000035,Argyll and Bute,local authority,2011,female,45100
+S12000035,Argyll and Bute,local authority,2012,female,44717
+S12000035,Argyll and Bute,local authority,2013,female,44583
+S12000035,Argyll and Bute,local authority,2014,female,44245
+S12000035,Argyll and Bute,local authority,2015,female,43915
+S12000035,Argyll and Bute,local authority,2016,female,43811
+S12000035,Argyll and Bute,local authority,2017,female,43696
+S12000035,Argyll and Bute,local authority,2018,female,43344
+S12000035,Argyll and Bute,local authority,2019,female,43123
+S12000036,City of Edinburgh,local authority,2001,female,234067
+S12000036,City of Edinburgh,local authority,2002,female,233017
+S12000036,City of Edinburgh,local authority,2003,female,231374
+S12000036,City of Edinburgh,local authority,2004,female,231410
+S12000036,City of Edinburgh,local authority,2005,female,232946
+S12000036,City of Edinburgh,local authority,2006,female,233778
+S12000036,City of Edinburgh,local authority,2007,female,234895
+S12000036,City of Edinburgh,local authority,2008,female,235783
+S12000036,City of Edinburgh,local authority,2009,female,237880
+S12000036,City of Edinburgh,local authority,2010,female,240934
+S12000036,City of Edinburgh,local authority,2011,female,244672
+S12000036,City of Edinburgh,local authority,2012,female,247458
+S12000036,City of Edinburgh,local authority,2013,female,250001
+S12000036,City of Edinburgh,local authority,2014,female,252729
+S12000036,City of Edinburgh,local authority,2015,female,256157
+S12000036,City of Edinburgh,local authority,2016,female,260392
+S12000036,City of Edinburgh,local authority,2017,female,263081
+S12000036,City of Edinburgh,local authority,2018,female,265511
+S12000036,City of Edinburgh,local authority,2019,female,268627
+S12000005,Clackmannanshire,local authority,2001,female,24841
+S12000005,Clackmannanshire,local authority,2002,female,24867
+S12000005,Clackmannanshire,local authority,2003,female,24867
+S12000005,Clackmannanshire,local authority,2004,female,25081
+S12000005,Clackmannanshire,local authority,2005,female,25417
+S12000005,Clackmannanshire,local authority,2006,female,25563
+S12000005,Clackmannanshire,local authority,2007,female,26005
+S12000005,Clackmannanshire,local authority,2008,female,26234
+S12000005,Clackmannanshire,local authority,2009,female,26283
+S12000005,Clackmannanshire,local authority,2010,female,26289
+S12000005,Clackmannanshire,local authority,2011,female,26312
+S12000005,Clackmannanshire,local authority,2012,female,26184
+S12000005,Clackmannanshire,local authority,2013,female,26128
+S12000005,Clackmannanshire,local authority,2014,female,26084
+S12000005,Clackmannanshire,local authority,2015,female,26165
+S12000005,Clackmannanshire,local authority,2016,female,26183
+S12000005,Clackmannanshire,local authority,2017,female,26256
+S12000005,Clackmannanshire,local authority,2018,female,26175
+S12000005,Clackmannanshire,local authority,2019,female,26197
+S12000006,Dumfries and Galloway,local authority,2001,female,76471
+S12000006,Dumfries and Galloway,local authority,2002,female,76346
+S12000006,Dumfries and Galloway,local authority,2003,female,76398
+S12000006,Dumfries and Galloway,local authority,2004,female,76819
+S12000006,Dumfries and Galloway,local authority,2005,female,77238
+S12000006,Dumfries and Galloway,local authority,2006,female,77301
+S12000006,Dumfries and Galloway,local authority,2007,female,77502
+S12000006,Dumfries and Galloway,local authority,2008,female,77843
+S12000006,Dumfries and Galloway,local authority,2009,female,77981
+S12000006,Dumfries and Galloway,local authority,2010,female,77919
+S12000006,Dumfries and Galloway,local authority,2011,female,78031
+S12000006,Dumfries and Galloway,local authority,2012,female,77628
+S12000006,Dumfries and Galloway,local authority,2013,female,77300
+S12000006,Dumfries and Galloway,local authority,2014,female,77135
+S12000006,Dumfries and Galloway,local authority,2015,female,76979
+S12000006,Dumfries and Galloway,local authority,2016,female,76987
+S12000006,Dumfries and Galloway,local authority,2017,female,76776
+S12000006,Dumfries and Galloway,local authority,2018,female,76469
+S12000006,Dumfries and Galloway,local authority,2019,female,76425
+S12000042,Dundee City,local authority,2001,female,76435
+S12000042,Dundee City,local authority,2002,female,75849
+S12000042,Dundee City,local authority,2003,female,75729
+S12000042,Dundee City,local authority,2004,female,75142
+S12000042,Dundee City,local authority,2005,female,75251
+S12000042,Dundee City,local authority,2006,female,75009
+S12000042,Dundee City,local authority,2007,female,75201
+S12000042,Dundee City,local authority,2008,female,75518
+S12000042,Dundee City,local authority,2009,female,75917
+S12000042,Dundee City,local authority,2010,female,76072
+S12000042,Dundee City,local authority,2011,female,76510
+S12000042,Dundee City,local authority,2012,female,76671
+S12000042,Dundee City,local authority,2013,female,76787
+S12000042,Dundee City,local authority,2014,female,76801
+S12000042,Dundee City,local authority,2015,female,76783
+S12000042,Dundee City,local authority,2016,female,76838
+S12000042,Dundee City,local authority,2017,female,77016
+S12000042,Dundee City,local authority,2018,female,76968
+S12000042,Dundee City,local authority,2019,female,77192
+S12000008,East Ayrshire,local authority,2001,female,62417
+S12000008,East Ayrshire,local authority,2002,female,62241
+S12000008,East Ayrshire,local authority,2003,female,62099
+S12000008,East Ayrshire,local authority,2004,female,62288
+S12000008,East Ayrshire,local authority,2005,female,62300
+S12000008,East Ayrshire,local authority,2006,female,62294
+S12000008,East Ayrshire,local authority,2007,female,62484
+S12000008,East Ayrshire,local authority,2008,female,62723
+S12000008,East Ayrshire,local authority,2009,female,63033
+S12000008,East Ayrshire,local authority,2010,female,63213
+S12000008,East Ayrshire,local authority,2011,female,63301
+S12000008,East Ayrshire,local authority,2012,female,63291
+S12000008,East Ayrshire,local authority,2013,female,63158
+S12000008,East Ayrshire,local authority,2014,female,62966
+S12000008,East Ayrshire,local authority,2015,female,62874
+S12000008,East Ayrshire,local authority,2016,female,62927
+S12000008,East Ayrshire,local authority,2017,female,62763
+S12000008,East Ayrshire,local authority,2018,female,62735
+S12000008,East Ayrshire,local authority,2019,female,62821
+S12000045,East Dunbartonshire,local authority,2001,female,56251
+S12000045,East Dunbartonshire,local authority,2002,female,55864
+S12000045,East Dunbartonshire,local authority,2003,female,55620
+S12000045,East Dunbartonshire,local authority,2004,female,55312
+S12000045,East Dunbartonshire,local authority,2005,female,55026
+S12000045,East Dunbartonshire,local authority,2006,female,54804
+S12000045,East Dunbartonshire,local authority,2007,female,54600
+S12000045,East Dunbartonshire,local authority,2008,female,54462
+S12000045,East Dunbartonshire,local authority,2009,female,54430
+S12000045,East Dunbartonshire,local authority,2010,female,54402
+S12000045,East Dunbartonshire,local authority,2011,female,54426
+S12000045,East Dunbartonshire,local authority,2012,female,54607
+S12000045,East Dunbartonshire,local authority,2013,female,54533
+S12000045,East Dunbartonshire,local authority,2014,female,55025
+S12000045,East Dunbartonshire,local authority,2015,female,55225
+S12000045,East Dunbartonshire,local authority,2016,female,55526
+S12000045,East Dunbartonshire,local authority,2017,female,55779
+S12000045,East Dunbartonshire,local authority,2018,female,55862
+S12000045,East Dunbartonshire,local authority,2019,female,56069
+S12000010,East Lothian,local authority,2001,female,47171
+S12000010,East Lothian,local authority,2002,female,47533
+S12000010,East Lothian,local authority,2003,female,47835
+S12000010,East Lothian,local authority,2004,female,48061
+S12000010,East Lothian,local authority,2005,female,48223
+S12000010,East Lothian,local authority,2006,female,48780
+S12000010,East Lothian,local authority,2007,female,49661
+S12000010,East Lothian,local authority,2008,female,50837
+S12000010,East Lothian,local authority,2009,female,51217
+S12000010,East Lothian,local authority,2010,female,51600
+S12000010,East Lothian,local authority,2011,female,51944
+S12000010,East Lothian,local authority,2012,female,52530
+S12000010,East Lothian,local authority,2013,female,52802
+S12000010,East Lothian,local authority,2014,female,53210
+S12000010,East Lothian,local authority,2015,female,53729
+S12000010,East Lothian,local authority,2016,female,54260
+S12000010,East Lothian,local authority,2017,female,54617
+S12000010,East Lothian,local authority,2018,female,55071
+S12000010,East Lothian,local authority,2019,female,55657
+S12000011,East Renfrewshire,local authority,2001,female,46771
+S12000011,East Renfrewshire,local authority,2002,female,47106
+S12000011,East Renfrewshire,local authority,2003,female,47093
+S12000011,East Renfrewshire,local authority,2004,female,47027
+S12000011,East Renfrewshire,local authority,2005,female,47103
+S12000011,East Renfrewshire,local authority,2006,female,47055
+S12000011,East Renfrewshire,local authority,2007,female,47081
+S12000011,East Renfrewshire,local authority,2008,female,47009
+S12000011,East Renfrewshire,local authority,2009,female,47077
+S12000011,East Renfrewshire,local authority,2010,female,47362
+S12000011,East Renfrewshire,local authority,2011,female,47511
+S12000011,East Renfrewshire,local authority,2012,female,47669
+S12000011,East Renfrewshire,local authority,2013,female,47921
+S12000011,East Renfrewshire,local authority,2014,female,48396
+S12000011,East Renfrewshire,local authority,2015,female,48692
+S12000011,East Renfrewshire,local authority,2016,female,49190
+S12000011,East Renfrewshire,local authority,2017,female,49537
+S12000011,East Renfrewshire,local authority,2018,female,49697
+S12000011,East Renfrewshire,local authority,2019,female,49822
+S12000014,Falkirk,local authority,2001,female,75228
+S12000014,Falkirk,local authority,2002,female,75612
+S12000014,Falkirk,local authority,2003,female,75963
+S12000014,Falkirk,local authority,2004,female,76663
+S12000014,Falkirk,local authority,2005,female,77429
+S12000014,Falkirk,local authority,2006,female,77920
+S12000014,Falkirk,local authority,2007,female,78359
+S12000014,Falkirk,local authority,2008,female,78850
+S12000014,Falkirk,local authority,2009,female,79149
+S12000014,Falkirk,local authority,2010,female,79477
+S12000014,Falkirk,local authority,2011,female,79992
+S12000014,Falkirk,local authority,2012,female,80245
+S12000014,Falkirk,local authority,2013,female,80399
+S12000014,Falkirk,local authority,2014,female,80645
+S12000014,Falkirk,local authority,2015,female,80966
+S12000014,Falkirk,local authority,2016,female,81354
+S12000014,Falkirk,local authority,2017,female,81734
+S12000014,Falkirk,local authority,2018,female,81843
+S12000014,Falkirk,local authority,2019,female,82039
+S12000047,Fife,local authority,2001,female,182005
+S12000047,Fife,local authority,2002,female,182649
+S12000047,Fife,local authority,2003,female,182633
+S12000047,Fife,local authority,2004,female,183349
+S12000047,Fife,local authority,2005,female,184356
+S12000047,Fife,local authority,2006,female,185001
+S12000047,Fife,local authority,2007,female,185555
+S12000047,Fife,local authority,2008,female,186176
+S12000047,Fife,local authority,2009,female,186806
+S12000047,Fife,local authority,2010,female,187412
+S12000047,Fife,local authority,2011,female,188325
+S12000047,Fife,local authority,2012,female,188762
+S12000047,Fife,local authority,2013,female,188929
+S12000047,Fife,local authority,2014,female,189338
+S12000047,Fife,local authority,2015,female,190033
+S12000047,Fife,local authority,2016,female,190778
+S12000047,Fife,local authority,2017,female,191098
+S12000047,Fife,local authority,2018,female,191290
+S12000047,Fife,local authority,2019,female,192136
+S12000049,Glasgow City,local authority,2001,female,305708
+S12000049,Glasgow City,local authority,2002,female,304089
+S12000049,Glasgow City,local authority,2003,female,301873
+S12000049,Glasgow City,local authority,2004,female,299947
+S12000049,Glasgow City,local authority,2005,female,298940
+S12000049,Glasgow City,local authority,2006,female,298106
+S12000049,Glasgow City,local authority,2007,female,299075
+S12000049,Glasgow City,local authority,2008,female,300697
+S12000049,Glasgow City,local authority,2009,female,302505
+S12000049,Glasgow City,local authority,2010,female,304388
+S12000049,Glasgow City,local authority,2011,female,307128
+S12000049,Glasgow City,local authority,2012,female,308144
+S12000049,Glasgow City,local authority,2013,female,308353
+S12000049,Glasgow City,local authority,2014,female,309573
+S12000049,Glasgow City,local authority,2015,female,312065
+S12000049,Glasgow City,local authority,2016,female,316035
+S12000049,Glasgow City,local authority,2017,female,318207
+S12000049,Glasgow City,local authority,2018,female,320360
+S12000049,Glasgow City,local authority,2019,female,323084
+S12000017,Highland,local authority,2001,female,106639
+S12000017,Highland,local authority,2002,female,107100
+S12000017,Highland,local authority,2003,female,108200
+S12000017,Highland,local authority,2004,female,109890
+S12000017,Highland,local authority,2005,female,111725
+S12000017,Highland,local authority,2006,female,113112
+S12000017,Highland,local authority,2007,female,114649
+S12000017,Highland,local authority,2008,female,115982
+S12000017,Highland,local authority,2009,female,116987
+S12000017,Highland,local authority,2010,female,118063
+S12000017,Highland,local authority,2011,female,118952
+S12000017,Highland,local authority,2012,female,118867
+S12000017,Highland,local authority,2013,female,118914
+S12000017,Highland,local authority,2014,female,119020
+S12000017,Highland,local authority,2015,female,119433
+S12000017,Highland,local authority,2016,female,119924
+S12000017,Highland,local authority,2017,female,119988
+S12000017,Highland,local authority,2018,female,120149
+S12000017,Highland,local authority,2019,female,120266
+S12000018,Inverclyde,local authority,2001,female,44077
+S12000018,Inverclyde,local authority,2002,female,43906
+S12000018,Inverclyde,local authority,2003,female,43727
+S12000018,Inverclyde,local authority,2004,female,43405
+S12000018,Inverclyde,local authority,2005,female,43331
+S12000018,Inverclyde,local authority,2006,female,43097
+S12000018,Inverclyde,local authority,2007,female,42968
+S12000018,Inverclyde,local authority,2008,female,42836
+S12000018,Inverclyde,local authority,2009,female,42593
+S12000018,Inverclyde,local authority,2010,female,42532
+S12000018,Inverclyde,local authority,2011,female,42376
+S12000018,Inverclyde,local authority,2012,female,42104
+S12000018,Inverclyde,local authority,2013,female,41924
+S12000018,Inverclyde,local authority,2014,female,41736
+S12000018,Inverclyde,local authority,2015,female,41446
+S12000018,Inverclyde,local authority,2016,female,41324
+S12000018,Inverclyde,local authority,2017,female,41094
+S12000018,Inverclyde,local authority,2018,female,40749
+S12000018,Inverclyde,local authority,2019,female,40512
+S12000019,Midlothian,local authority,2001,female,42273
+S12000019,Midlothian,local authority,2002,female,42242
+S12000019,Midlothian,local authority,2003,female,41963
+S12000019,Midlothian,local authority,2004,female,41955
+S12000019,Midlothian,local authority,2005,female,41845
+S12000019,Midlothian,local authority,2006,female,41789
+S12000019,Midlothian,local authority,2007,female,41920
+S12000019,Midlothian,local authority,2008,female,42346
+S12000019,Midlothian,local authority,2009,female,42607
+S12000019,Midlothian,local authority,2010,female,42787
+S12000019,Midlothian,local authority,2011,female,43218
+S12000019,Midlothian,local authority,2012,female,43623
+S12000019,Midlothian,local authority,2013,female,44052
+S12000019,Midlothian,local authority,2014,female,44691
+S12000019,Midlothian,local authority,2015,female,45351
+S12000019,Midlothian,local authority,2016,female,46031
+S12000019,Midlothian,local authority,2017,female,46787
+S12000019,Midlothian,local authority,2018,female,47447
+S12000019,Midlothian,local authority,2019,female,48026
+S12000020,Moray,local authority,2001,female,43531
+S12000020,Moray,local authority,2002,female,43863
+S12000020,Moray,local authority,2003,female,44330
+S12000020,Moray,local authority,2004,female,44938
+S12000020,Moray,local authority,2005,female,45412
+S12000020,Moray,local authority,2006,female,45680
+S12000020,Moray,local authority,2007,female,46066
+S12000020,Moray,local authority,2008,female,46531
+S12000020,Moray,local authority,2009,female,46978
+S12000020,Moray,local authority,2010,female,47284
+S12000020,Moray,local authority,2011,female,47350
+S12000020,Moray,local authority,2012,female,47315
+S12000020,Moray,local authority,2013,female,47746
+S12000020,Moray,local authority,2014,female,48103
+S12000020,Moray,local authority,2015,female,48293
+S12000020,Moray,local authority,2016,female,48417
+S12000020,Moray,local authority,2017,female,48305
+S12000020,Moray,local authority,2018,female,48223
+S12000020,Moray,local authority,2019,female,48274
+S12000013,Na h-Eileanan Siar,local authority,2001,female,13394
+S12000013,Na h-Eileanan Siar,local authority,2002,female,13389
+S12000013,Na h-Eileanan Siar,local authority,2003,female,13439
+S12000013,Na h-Eileanan Siar,local authority,2004,female,13584
+S12000013,Na h-Eileanan Siar,local authority,2005,female,13670
+S12000013,Na h-Eileanan Siar,local authority,2006,female,13716
+S12000013,Na h-Eileanan Siar,local authority,2007,female,13809
+S12000013,Na h-Eileanan Siar,local authority,2008,female,13837
+S12000013,Na h-Eileanan Siar,local authority,2009,female,13920
+S12000013,Na h-Eileanan Siar,local authority,2010,female,13994
+S12000013,Na h-Eileanan Siar,local authority,2011,female,14038
+S12000013,Na h-Eileanan Siar,local authority,2012,female,13954
+S12000013,Na h-Eileanan Siar,local authority,2013,female,13881
+S12000013,Na h-Eileanan Siar,local authority,2014,female,13806
+S12000013,Na h-Eileanan Siar,local authority,2015,female,13696
+S12000013,Na h-Eileanan Siar,local authority,2016,female,13631
+S12000013,Na h-Eileanan Siar,local authority,2017,female,13640
+S12000013,Na h-Eileanan Siar,local authority,2018,female,13583
+S12000013,Na h-Eileanan Siar,local authority,2019,female,13524
+S12000021,North Ayrshire,local authority,2001,female,71603
+S12000021,North Ayrshire,local authority,2002,female,71678
+S12000021,North Ayrshire,local authority,2003,female,71888
+S12000021,North Ayrshire,local authority,2004,female,71900
+S12000021,North Ayrshire,local authority,2005,female,71893
+S12000021,North Ayrshire,local authority,2006,female,71976
+S12000021,North Ayrshire,local authority,2007,female,72202
+S12000021,North Ayrshire,local authority,2008,female,72422
+S12000021,North Ayrshire,local authority,2009,female,72314
+S12000021,North Ayrshire,local authority,2010,female,72320
+S12000021,North Ayrshire,local authority,2011,female,72404
+S12000021,North Ayrshire,local authority,2012,female,72150
+S12000021,North Ayrshire,local authority,2013,female,71764
+S12000021,North Ayrshire,local authority,2014,female,71598
+S12000021,North Ayrshire,local authority,2015,female,71397
+S12000021,North Ayrshire,local authority,2016,female,71235
+S12000021,North Ayrshire,local authority,2017,female,71151
+S12000021,North Ayrshire,local authority,2018,female,70881
+S12000021,North Ayrshire,local authority,2019,female,70589
+S12000050,North Lanarkshire,local authority,2001,female,167194
+S12000050,North Lanarkshire,local authority,2002,female,167844
+S12000050,North Lanarkshire,local authority,2003,female,168428
+S12000050,North Lanarkshire,local authority,2004,female,169081
+S12000050,North Lanarkshire,local authority,2005,female,169817
+S12000050,North Lanarkshire,local authority,2006,female,170455
+S12000050,North Lanarkshire,local authority,2007,female,171450
+S12000050,North Lanarkshire,local authority,2008,female,172519
+S12000050,North Lanarkshire,local authority,2009,female,173240
+S12000050,North Lanarkshire,local authority,2010,female,173843
+S12000050,North Lanarkshire,local authority,2011,female,174402
+S12000050,North Lanarkshire,local authority,2012,female,174480
+S12000050,North Lanarkshire,local authority,2013,female,174379
+S12000050,North Lanarkshire,local authority,2014,female,174575
+S12000050,North Lanarkshire,local authority,2015,female,174656
+S12000050,North Lanarkshire,local authority,2016,female,175148
+S12000050,North Lanarkshire,local authority,2017,female,175437
+S12000050,North Lanarkshire,local authority,2018,female,175360
+S12000050,North Lanarkshire,local authority,2019,female,176007
+S12000023,Orkney Islands,local authority,2001,female,9733
+S12000023,Orkney Islands,local authority,2002,female,9786
+S12000023,Orkney Islands,local authority,2003,female,9885
+S12000023,Orkney Islands,local authority,2004,female,10044
+S12000023,Orkney Islands,local authority,2005,female,10184
+S12000023,Orkney Islands,local authority,2006,female,10327
+S12000023,Orkney Islands,local authority,2007,female,10426
+S12000023,Orkney Islands,local authority,2008,female,10512
+S12000023,Orkney Islands,local authority,2009,female,10609
+S12000023,Orkney Islands,local authority,2010,female,10749
+S12000023,Orkney Islands,local authority,2011,female,10810
+S12000023,Orkney Islands,local authority,2012,female,10837
+S12000023,Orkney Islands,local authority,2013,female,10837
+S12000023,Orkney Islands,local authority,2014,female,10851
+S12000023,Orkney Islands,local authority,2015,female,10885
+S12000023,Orkney Islands,local authority,2016,female,10970
+S12000023,Orkney Islands,local authority,2017,female,11055
+S12000023,Orkney Islands,local authority,2018,female,11151
+S12000023,Orkney Islands,local authority,2019,female,11184
+S12000048,Perth and Kinross,local authority,2001,female,69775
+S12000048,Perth and Kinross,local authority,2002,female,69934
+S12000048,Perth and Kinross,local authority,2003,female,70217
+S12000048,Perth and Kinross,local authority,2004,female,70800
+S12000048,Perth and Kinross,local authority,2005,female,71477
+S12000048,Perth and Kinross,local authority,2006,female,72177
+S12000048,Perth and Kinross,local authority,2007,female,72953
+S12000048,Perth and Kinross,local authority,2008,female,73769
+S12000048,Perth and Kinross,local authority,2009,female,74242
+S12000048,Perth and Kinross,local authority,2010,female,74850
+S12000048,Perth and Kinross,local authority,2011,female,75343
+S12000048,Perth and Kinross,local authority,2012,female,75713
+S12000048,Perth and Kinross,local authority,2013,female,75688
+S12000048,Perth and Kinross,local authority,2014,female,76203
+S12000048,Perth and Kinross,local authority,2015,female,76521
+S12000048,Perth and Kinross,local authority,2016,female,76718
+S12000048,Perth and Kinross,local authority,2017,female,76913
+S12000048,Perth and Kinross,local authority,2018,female,76923
+S12000048,Perth and Kinross,local authority,2019,female,77221
+S12000038,Renfrewshire,local authority,2001,female,90341
+S12000038,Renfrewshire,local authority,2002,female,89968
+S12000038,Renfrewshire,local authority,2003,female,89630
+S12000038,Renfrewshire,local authority,2004,female,89571
+S12000038,Renfrewshire,local authority,2005,female,89454
+S12000038,Renfrewshire,local authority,2006,female,89416
+S12000038,Renfrewshire,local authority,2007,female,89651
+S12000038,Renfrewshire,local authority,2008,female,89984
+S12000038,Renfrewshire,local authority,2009,female,90134
+S12000038,Renfrewshire,local authority,2010,female,90358
+S12000038,Renfrewshire,local authority,2011,female,90758
+S12000038,Renfrewshire,local authority,2012,female,90513
+S12000038,Renfrewshire,local authority,2013,female,90235
+S12000038,Renfrewshire,local authority,2014,female,90465
+S12000038,Renfrewshire,local authority,2015,female,90634
+S12000038,Renfrewshire,local authority,2016,female,91238
+S12000038,Renfrewshire,local authority,2017,female,91570
+S12000038,Renfrewshire,local authority,2018,female,91921
+S12000038,Renfrewshire,local authority,2019,female,92527
+S12000026,Scottish Borders,local authority,2001,female,55483
+S12000026,Scottish Borders,local authority,2002,female,55657
+S12000026,Scottish Borders,local authority,2003,female,56096
+S12000026,Scottish Borders,local authority,2004,female,56571
+S12000026,Scottish Borders,local authority,2005,female,56944
+S12000026,Scottish Borders,local authority,2006,female,57185
+S12000026,Scottish Borders,local authority,2007,female,57845
+S12000026,Scottish Borders,local authority,2008,female,58508
+S12000026,Scottish Borders,local authority,2009,female,58679
+S12000026,Scottish Borders,local authority,2010,female,58759
+S12000026,Scottish Borders,local authority,2011,female,58685
+S12000026,Scottish Borders,local authority,2012,female,58537
+S12000026,Scottish Borders,local authority,2013,female,58569
+S12000026,Scottish Borders,local authority,2014,female,58721
+S12000026,Scottish Borders,local authority,2015,female,58757
+S12000026,Scottish Borders,local authority,2016,female,59014
+S12000026,Scottish Borders,local authority,2017,female,59231
+S12000026,Scottish Borders,local authority,2018,female,59281
+S12000026,Scottish Borders,local authority,2019,female,59387
+S12000027,Shetland Islands,local authority,2001,female,10905
+S12000027,Shetland Islands,local authority,2002,female,10935
+S12000027,Shetland Islands,local authority,2003,female,10885
+S12000027,Shetland Islands,local authority,2004,female,10976
+S12000027,Shetland Islands,local authority,2005,female,11075
+S12000027,Shetland Islands,local authority,2006,female,11065
+S12000027,Shetland Islands,local authority,2007,female,11108
+S12000027,Shetland Islands,local authority,2008,female,11129
+S12000027,Shetland Islands,local authority,2009,female,11288
+S12000027,Shetland Islands,local authority,2010,female,11381
+S12000027,Shetland Islands,local authority,2011,female,11452
+S12000027,Shetland Islands,local authority,2012,female,11440
+S12000027,Shetland Islands,local authority,2013,female,11429
+S12000027,Shetland Islands,local authority,2014,female,11427
+S12000027,Shetland Islands,local authority,2015,female,11417
+S12000027,Shetland Islands,local authority,2016,female,11417
+S12000027,Shetland Islands,local authority,2017,female,11349
+S12000027,Shetland Islands,local authority,2018,female,11277
+S12000027,Shetland Islands,local authority,2019,female,11235
+S12000028,South Ayrshire,local authority,2001,female,58723
+S12000028,South Ayrshire,local authority,2002,female,58581
+S12000028,South Ayrshire,local authority,2003,female,58539
+S12000028,South Ayrshire,local authority,2004,female,58635
+S12000028,South Ayrshire,local authority,2005,female,58810
+S12000028,South Ayrshire,local authority,2006,female,58817
+S12000028,South Ayrshire,local authority,2007,female,59038
+S12000028,South Ayrshire,local authority,2008,female,59101
+S12000028,South Ayrshire,local authority,2009,female,58941
+S12000028,South Ayrshire,local authority,2010,female,58978
+S12000028,South Ayrshire,local authority,2011,female,59160
+S12000028,South Ayrshire,local authority,2012,female,59105
+S12000028,South Ayrshire,local authority,2013,female,59077
+S12000028,South Ayrshire,local authority,2014,female,58839
+S12000028,South Ayrshire,local authority,2015,female,58740
+S12000028,South Ayrshire,local authority,2016,female,58796
+S12000028,South Ayrshire,local authority,2017,female,58886
+S12000028,South Ayrshire,local authority,2018,female,58838
+S12000028,South Ayrshire,local authority,2019,female,58901
+S12000029,South Lanarkshire,local authority,2001,female,158074
+S12000029,South Lanarkshire,local authority,2002,female,158235
+S12000029,South Lanarkshire,local authority,2003,female,158510
+S12000029,South Lanarkshire,local authority,2004,female,159595
+S12000029,South Lanarkshire,local authority,2005,female,160217
+S12000029,South Lanarkshire,local authority,2006,female,160885
+S12000029,South Lanarkshire,local authority,2007,female,161732
+S12000029,South Lanarkshire,local authority,2008,female,162117
+S12000029,South Lanarkshire,local authority,2009,female,162487
+S12000029,South Lanarkshire,local authority,2010,female,162846
+S12000029,South Lanarkshire,local authority,2011,female,163027
+S12000029,South Lanarkshire,local authority,2012,female,163181
+S12000029,South Lanarkshire,local authority,2013,female,163296
+S12000029,South Lanarkshire,local authority,2014,female,163497
+S12000029,South Lanarkshire,local authority,2015,female,163831
+S12000029,South Lanarkshire,local authority,2016,female,164105
+S12000029,South Lanarkshire,local authority,2017,female,164419
+S12000029,South Lanarkshire,local authority,2018,female,164818
+S12000029,South Lanarkshire,local authority,2019,female,165497
+S12000030,Stirling,local authority,2001,female,45006
+S12000030,Stirling,local authority,2002,female,45237
+S12000030,Stirling,local authority,2003,female,45410
+S12000030,Stirling,local authority,2004,female,45351
+S12000030,Stirling,local authority,2005,female,45612
+S12000030,Stirling,local authority,2006,female,45888
+S12000030,Stirling,local authority,2007,female,46055
+S12000030,Stirling,local authority,2008,female,46037
+S12000030,Stirling,local authority,2009,female,46188
+S12000030,Stirling,local authority,2010,female,46654
+S12000030,Stirling,local authority,2011,female,47036
+S12000030,Stirling,local authority,2012,female,47301
+S12000030,Stirling,local authority,2013,female,47352
+S12000030,Stirling,local authority,2014,female,47546
+S12000030,Stirling,local authority,2015,female,48206
+S12000030,Stirling,local authority,2016,female,48669
+S12000030,Stirling,local authority,2017,female,48754
+S12000030,Stirling,local authority,2018,female,48885
+S12000030,Stirling,local authority,2019,female,48777
+S12000039,West Dunbartonshire,local authority,2001,female,49152
+S12000039,West Dunbartonshire,local authority,2002,female,48977
+S12000039,West Dunbartonshire,local authority,2003,female,48683
+S12000039,West Dunbartonshire,local authority,2004,female,48364
+S12000039,West Dunbartonshire,local authority,2005,female,48162
+S12000039,West Dunbartonshire,local authority,2006,female,48126
+S12000039,West Dunbartonshire,local authority,2007,female,48034
+S12000039,West Dunbartonshire,local authority,2008,female,47961
+S12000039,West Dunbartonshire,local authority,2009,female,47875
+S12000039,West Dunbartonshire,local authority,2010,female,47646
+S12000039,West Dunbartonshire,local authority,2011,female,47537
+S12000039,West Dunbartonshire,local authority,2012,female,47289
+S12000039,West Dunbartonshire,local authority,2013,female,47110
+S12000039,West Dunbartonshire,local authority,2014,female,47017
+S12000039,West Dunbartonshire,local authority,2015,female,46984
+S12000039,West Dunbartonshire,local authority,2016,female,47113
+S12000039,West Dunbartonshire,local authority,2017,female,46896
+S12000039,West Dunbartonshire,local authority,2018,female,46634
+S12000039,West Dunbartonshire,local authority,2019,female,46412
+S12000040,West Lothian,local authority,2001,female,82188
+S12000040,West Lothian,local authority,2002,female,82869
+S12000040,West Lothian,local authority,2003,female,83456
+S12000040,West Lothian,local authority,2004,female,84372
+S12000040,West Lothian,local authority,2005,female,85041
+S12000040,West Lothian,local authority,2006,female,86114
+S12000040,West Lothian,local authority,2007,female,87284
+S12000040,West Lothian,local authority,2008,female,88229
+S12000040,West Lothian,local authority,2009,female,88643
+S12000040,West Lothian,local authority,2010,female,89104
+S12000040,West Lothian,local authority,2011,female,89588
+S12000040,West Lothian,local authority,2012,female,89780
+S12000040,West Lothian,local authority,2013,female,89917
+S12000040,West Lothian,local authority,2014,female,90403
+S12000040,West Lothian,local authority,2015,female,90999
+S12000040,West Lothian,local authority,2016,female,91877
+S12000040,West Lothian,local authority,2017,female,92453
+S12000040,West Lothian,local authority,2018,female,92802
+S12000040,West Lothian,local authority,2019,female,93147
+S08000015,Ayrshire and Arran,health board,2001,female,192743
+S08000015,Ayrshire and Arran,health board,2002,female,192500
+S08000015,Ayrshire and Arran,health board,2003,female,192526
+S08000015,Ayrshire and Arran,health board,2004,female,192823
+S08000015,Ayrshire and Arran,health board,2005,female,193003
+S08000015,Ayrshire and Arran,health board,2006,female,193087
+S08000015,Ayrshire and Arran,health board,2007,female,193724
+S08000015,Ayrshire and Arran,health board,2008,female,194246
+S08000015,Ayrshire and Arran,health board,2009,female,194288
+S08000015,Ayrshire and Arran,health board,2010,female,194511
+S08000015,Ayrshire and Arran,health board,2011,female,194865
+S08000015,Ayrshire and Arran,health board,2012,female,194546
+S08000015,Ayrshire and Arran,health board,2013,female,193999
+S08000015,Ayrshire and Arran,health board,2014,female,193403
+S08000015,Ayrshire and Arran,health board,2015,female,193011
+S08000015,Ayrshire and Arran,health board,2016,female,192958
+S08000015,Ayrshire and Arran,health board,2017,female,192800
+S08000015,Ayrshire and Arran,health board,2018,female,192454
+S08000015,Ayrshire and Arran,health board,2019,female,192311
+S08000016,Borders,health board,2001,female,55483
+S08000016,Borders,health board,2002,female,55657
+S08000016,Borders,health board,2003,female,56096
+S08000016,Borders,health board,2004,female,56571
+S08000016,Borders,health board,2005,female,56944
+S08000016,Borders,health board,2006,female,57185
+S08000016,Borders,health board,2007,female,57845
+S08000016,Borders,health board,2008,female,58508
+S08000016,Borders,health board,2009,female,58679
+S08000016,Borders,health board,2010,female,58759
+S08000016,Borders,health board,2011,female,58685
+S08000016,Borders,health board,2012,female,58537
+S08000016,Borders,health board,2013,female,58569
+S08000016,Borders,health board,2014,female,58721
+S08000016,Borders,health board,2015,female,58757
+S08000016,Borders,health board,2016,female,59014
+S08000016,Borders,health board,2017,female,59231
+S08000016,Borders,health board,2018,female,59281
+S08000016,Borders,health board,2019,female,59387
+S08000017,Dumfries and Galloway,health board,2001,female,76471
+S08000017,Dumfries and Galloway,health board,2002,female,76346
+S08000017,Dumfries and Galloway,health board,2003,female,76398
+S08000017,Dumfries and Galloway,health board,2004,female,76819
+S08000017,Dumfries and Galloway,health board,2005,female,77238
+S08000017,Dumfries and Galloway,health board,2006,female,77301
+S08000017,Dumfries and Galloway,health board,2007,female,77502
+S08000017,Dumfries and Galloway,health board,2008,female,77843
+S08000017,Dumfries and Galloway,health board,2009,female,77981
+S08000017,Dumfries and Galloway,health board,2010,female,77919
+S08000017,Dumfries and Galloway,health board,2011,female,78031
+S08000017,Dumfries and Galloway,health board,2012,female,77628
+S08000017,Dumfries and Galloway,health board,2013,female,77300
+S08000017,Dumfries and Galloway,health board,2014,female,77135
+S08000017,Dumfries and Galloway,health board,2015,female,76979
+S08000017,Dumfries and Galloway,health board,2016,female,76987
+S08000017,Dumfries and Galloway,health board,2017,female,76776
+S08000017,Dumfries and Galloway,health board,2018,female,76469
+S08000017,Dumfries and Galloway,health board,2019,female,76425
+S08000029,Fife,health board,2001,female,182005
+S08000029,Fife,health board,2002,female,182649
+S08000029,Fife,health board,2003,female,182633
+S08000029,Fife,health board,2004,female,183349
+S08000029,Fife,health board,2005,female,184356
+S08000029,Fife,health board,2006,female,185001
+S08000029,Fife,health board,2007,female,185555
+S08000029,Fife,health board,2008,female,186176
+S08000029,Fife,health board,2009,female,186806
+S08000029,Fife,health board,2010,female,187412
+S08000029,Fife,health board,2011,female,188325
+S08000029,Fife,health board,2012,female,188762
+S08000029,Fife,health board,2013,female,188929
+S08000029,Fife,health board,2014,female,189338
+S08000029,Fife,health board,2015,female,190033
+S08000029,Fife,health board,2016,female,190778
+S08000029,Fife,health board,2017,female,191098
+S08000029,Fife,health board,2018,female,191290
+S08000029,Fife,health board,2019,female,192136
+S08000019,Forth Valley,health board,2001,female,145075
+S08000019,Forth Valley,health board,2002,female,145716
+S08000019,Forth Valley,health board,2003,female,146240
+S08000019,Forth Valley,health board,2004,female,147095
+S08000019,Forth Valley,health board,2005,female,148458
+S08000019,Forth Valley,health board,2006,female,149371
+S08000019,Forth Valley,health board,2007,female,150419
+S08000019,Forth Valley,health board,2008,female,151121
+S08000019,Forth Valley,health board,2009,female,151620
+S08000019,Forth Valley,health board,2010,female,152420
+S08000019,Forth Valley,health board,2011,female,153340
+S08000019,Forth Valley,health board,2012,female,153730
+S08000019,Forth Valley,health board,2013,female,153879
+S08000019,Forth Valley,health board,2014,female,154275
+S08000019,Forth Valley,health board,2015,female,155337
+S08000019,Forth Valley,health board,2016,female,156206
+S08000019,Forth Valley,health board,2017,female,156744
+S08000019,Forth Valley,health board,2018,female,156903
+S08000019,Forth Valley,health board,2019,female,157013
+S08000020,Grampian,health board,2001,female,266178
+S08000020,Grampian,health board,2002,female,266738
+S08000020,Grampian,health board,2003,female,267745
+S08000020,Grampian,health board,2004,female,269321
+S08000020,Grampian,health board,2005,female,271770
+S08000020,Grampian,health board,2006,female,274083
+S08000020,Grampian,health board,2007,female,277323
+S08000020,Grampian,health board,2008,female,279542
+S08000020,Grampian,health board,2009,female,282399
+S08000020,Grampian,health board,2010,female,285341
+S08000020,Grampian,health board,2011,female,287808
+S08000020,Grampian,health board,2012,female,289772
+S08000020,Grampian,health board,2013,female,292015
+S08000020,Grampian,health board,2014,female,294605
+S08000020,Grampian,health board,2015,female,296045
+S08000020,Grampian,health board,2016,female,295955
+S08000020,Grampian,health board,2017,female,294723
+S08000020,Grampian,health board,2018,female,293822
+S08000020,Grampian,health board,2019,female,294417
+S08000031,Greater Glasgow and Clyde,health board,2001,female,592300
+S08000031,Greater Glasgow and Clyde,health board,2002,female,589910
+S08000031,Greater Glasgow and Clyde,health board,2003,female,586626
+S08000031,Greater Glasgow and Clyde,health board,2004,female,583626
+S08000031,Greater Glasgow and Clyde,health board,2005,female,582016
+S08000031,Greater Glasgow and Clyde,health board,2006,female,580604
+S08000031,Greater Glasgow and Clyde,health board,2007,female,581409
+S08000031,Greater Glasgow and Clyde,health board,2008,female,582949
+S08000031,Greater Glasgow and Clyde,health board,2009,female,584614
+S08000031,Greater Glasgow and Clyde,health board,2010,female,586688
+S08000031,Greater Glasgow and Clyde,health board,2011,female,589736
+S08000031,Greater Glasgow and Clyde,health board,2012,female,590326
+S08000031,Greater Glasgow and Clyde,health board,2013,female,590076
+S08000031,Greater Glasgow and Clyde,health board,2014,female,592212
+S08000031,Greater Glasgow and Clyde,health board,2015,female,595046
+S08000031,Greater Glasgow and Clyde,health board,2016,female,600426
+S08000031,Greater Glasgow and Clyde,health board,2017,female,603083
+S08000031,Greater Glasgow and Clyde,health board,2018,female,605223
+S08000031,Greater Glasgow and Clyde,health board,2019,female,608426
+S08000022,Highland,health board,2001,female,153061
+S08000022,Highland,health board,2002,female,153050
+S08000022,Highland,health board,2003,female,154112
+S08000022,Highland,health board,2004,female,156046
+S08000022,Highland,health board,2005,female,157789
+S08000022,Highland,health board,2006,female,158984
+S08000022,Highland,health board,2007,female,160536
+S08000022,Highland,health board,2008,female,161495
+S08000022,Highland,health board,2009,female,162216
+S08000022,Highland,health board,2010,female,163184
+S08000022,Highland,health board,2011,female,164052
+S08000022,Highland,health board,2012,female,163584
+S08000022,Highland,health board,2013,female,163497
+S08000022,Highland,health board,2014,female,163265
+S08000022,Highland,health board,2015,female,163348
+S08000022,Highland,health board,2016,female,163735
+S08000022,Highland,health board,2017,female,163684
+S08000022,Highland,health board,2018,female,163493
+S08000022,Highland,health board,2019,female,163389
+S08000032,Lanarkshire,health board,2001,female,325268
+S08000032,Lanarkshire,health board,2002,female,326079
+S08000032,Lanarkshire,health board,2003,female,326938
+S08000032,Lanarkshire,health board,2004,female,328676
+S08000032,Lanarkshire,health board,2005,female,330034
+S08000032,Lanarkshire,health board,2006,female,331340
+S08000032,Lanarkshire,health board,2007,female,333182
+S08000032,Lanarkshire,health board,2008,female,334636
+S08000032,Lanarkshire,health board,2009,female,335727
+S08000032,Lanarkshire,health board,2010,female,336689
+S08000032,Lanarkshire,health board,2011,female,337429
+S08000032,Lanarkshire,health board,2012,female,337661
+S08000032,Lanarkshire,health board,2013,female,337675
+S08000032,Lanarkshire,health board,2014,female,338072
+S08000032,Lanarkshire,health board,2015,female,338487
+S08000032,Lanarkshire,health board,2016,female,339253
+S08000032,Lanarkshire,health board,2017,female,339856
+S08000032,Lanarkshire,health board,2018,female,340178
+S08000032,Lanarkshire,health board,2019,female,341504
+S08000024,Lothian,health board,2001,female,405699
+S08000024,Lothian,health board,2002,female,405661
+S08000024,Lothian,health board,2003,female,404628
+S08000024,Lothian,health board,2004,female,405798
+S08000024,Lothian,health board,2005,female,408055
+S08000024,Lothian,health board,2006,female,410461
+S08000024,Lothian,health board,2007,female,413760
+S08000024,Lothian,health board,2008,female,417195
+S08000024,Lothian,health board,2009,female,420347
+S08000024,Lothian,health board,2010,female,424425
+S08000024,Lothian,health board,2011,female,429422
+S08000024,Lothian,health board,2012,female,433391
+S08000024,Lothian,health board,2013,female,436772
+S08000024,Lothian,health board,2014,female,441033
+S08000024,Lothian,health board,2015,female,446236
+S08000024,Lothian,health board,2016,female,452560
+S08000024,Lothian,health board,2017,female,456938
+S08000024,Lothian,health board,2018,female,460831
+S08000024,Lothian,health board,2019,female,465457
+S08000025,Orkney,health board,2001,female,9733
+S08000025,Orkney,health board,2002,female,9786
+S08000025,Orkney,health board,2003,female,9885
+S08000025,Orkney,health board,2004,female,10044
+S08000025,Orkney,health board,2005,female,10184
+S08000025,Orkney,health board,2006,female,10327
+S08000025,Orkney,health board,2007,female,10426
+S08000025,Orkney,health board,2008,female,10512
+S08000025,Orkney,health board,2009,female,10609
+S08000025,Orkney,health board,2010,female,10749
+S08000025,Orkney,health board,2011,female,10810
+S08000025,Orkney,health board,2012,female,10837
+S08000025,Orkney,health board,2013,female,10837
+S08000025,Orkney,health board,2014,female,10851
+S08000025,Orkney,health board,2015,female,10885
+S08000025,Orkney,health board,2016,female,10970
+S08000025,Orkney,health board,2017,female,11055
+S08000025,Orkney,health board,2018,female,11151
+S08000025,Orkney,health board,2019,female,11184
+S08000026,Shetland,health board,2001,female,10905
+S08000026,Shetland,health board,2002,female,10935
+S08000026,Shetland,health board,2003,female,10885
+S08000026,Shetland,health board,2004,female,10976
+S08000026,Shetland,health board,2005,female,11075
+S08000026,Shetland,health board,2006,female,11065
+S08000026,Shetland,health board,2007,female,11108
+S08000026,Shetland,health board,2008,female,11129
+S08000026,Shetland,health board,2009,female,11288
+S08000026,Shetland,health board,2010,female,11381
+S08000026,Shetland,health board,2011,female,11452
+S08000026,Shetland,health board,2012,female,11440
+S08000026,Shetland,health board,2013,female,11429
+S08000026,Shetland,health board,2014,female,11427
+S08000026,Shetland,health board,2015,female,11417
+S08000026,Shetland,health board,2016,female,11417
+S08000026,Shetland,health board,2017,female,11349
+S08000026,Shetland,health board,2018,female,11277
+S08000026,Shetland,health board,2019,female,11235
+S08000030,Tayside,health board,2001,female,202152
+S08000030,Tayside,health board,2002,female,201949
+S08000030,Tayside,health board,2003,female,202261
+S08000030,Tayside,health board,2004,female,202969
+S08000030,Tayside,health board,2005,female,204334
+S08000030,Tayside,health board,2006,female,205411
+S08000030,Tayside,health board,2007,female,206843
+S08000030,Tayside,health board,2008,female,208413
+S08000030,Tayside,health board,2009,female,209437
+S08000030,Tayside,health board,2010,female,210510
+S08000030,Tayside,health board,2011,female,211607
+S08000030,Tayside,health board,2012,female,212142
+S08000030,Tayside,health board,2013,female,212162
+S08000030,Tayside,health board,2014,female,212927
+S08000030,Tayside,health board,2015,female,213254
+S08000030,Tayside,health board,2016,female,213307
+S08000030,Tayside,health board,2017,female,213523
+S08000030,Tayside,health board,2018,female,213394
+S08000030,Tayside,health board,2019,female,213889
+S08000028,Western Isles,health board,2001,female,13394
+S08000028,Western Isles,health board,2002,female,13389
+S08000028,Western Isles,health board,2003,female,13439
+S08000028,Western Isles,health board,2004,female,13584
+S08000028,Western Isles,health board,2005,female,13670
+S08000028,Western Isles,health board,2006,female,13716
+S08000028,Western Isles,health board,2007,female,13809
+S08000028,Western Isles,health board,2008,female,13837
+S08000028,Western Isles,health board,2009,female,13920
+S08000028,Western Isles,health board,2010,female,13994
+S08000028,Western Isles,health board,2011,female,14038
+S08000028,Western Isles,health board,2012,female,13954
+S08000028,Western Isles,health board,2013,female,13881
+S08000028,Western Isles,health board,2014,female,13806
+S08000028,Western Isles,health board,2015,female,13696
+S08000028,Western Isles,health board,2016,female,13631
+S08000028,Western Isles,health board,2017,female,13640
+S08000028,Western Isles,health board,2018,female,13583
+S08000028,Western Isles,health board,2019,female,13524
