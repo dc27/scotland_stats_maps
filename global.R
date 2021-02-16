@@ -7,25 +7,10 @@ library(purrr)
 library(rgdal)
 library(leaflet)
 
+source("list_of_dfs.R")
+
 # dataframes
-dfs <- list(
-  "Healthy Life Expectancy" = list(
-    data = read_csv("data/clean_data/healthy_life_expectancy.csv"),
-    explorable_vars = c("reference_period", "sex"),
-    explorable_areas = c("health board", "local authority"),
-    units = "years",
-    url = "",
-    notes = ""
-  ),
-  "Council House Sales" = list(
-    data = read_csv("data/clean_data/council_house_sales.csv"),
-    explorable_vars = c("year", "dwelling_type"),
-    explorable_areas = c("health board", "local authority"),
-    units = "dwellings",
-    url = "",
-    notes = ""
-  )
-)
+dfs <- rlist::list.clean(cleaned_dfs, fun = function(x) length(x) == 0L)
 
 
 # colour options

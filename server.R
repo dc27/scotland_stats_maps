@@ -2,11 +2,21 @@ source("R/filter_and_join_df_functions.R")
 source("R/plot_functions.R")
 
 server <- function(input, output, session){
+  category <- reactive({
+    input$category
+  })
+  
+  observeEvent(category(), {
+    updateSelectInput(input = "dataset", choices = names(dfs[[input$category]])) 
+  })
+  
   # dynamic ui
   title <- eventReactive(input$update, {input$dataset})
-  dataset <- reactive(dfs[[input$dataset]]$data)
-  vars <- reactive(dfs[[input$dataset]]$explorable_vars)
-  units <- eventReactive(input$update, {dfs[[input$dataset]]$units})
+  dataset <- reactive(dfs[[input$category]][[input$dataset]]$data)
+  vars <- reactive(dfs[[input$category]][[input$dataset]]$explorable_vars)
+  units <- eventReactive(input$update, {
+    dfs[[input$category]][[input$dataset]]$units
+    })
   
   output$dropdowns <- renderUI(
     map(vars(), ~ make_dropdown(dataset(), .x))
