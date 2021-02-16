@@ -6,6 +6,7 @@ server <- function(input, output, session){
   title <- eventReactive(input$update, {input$dataset})
   dataset <- reactive(dfs[[input$dataset]]$data)
   vars <- reactive(dfs[[input$dataset]]$explorable_vars)
+  units <- eventReactive(input$update, {dfs[[input$dataset]]$units})
   
   output$dropdowns <- renderUI(
     map(vars(), ~ make_dropdown(dataset(), .x))
@@ -52,18 +53,19 @@ server <- function(input, output, session){
   
   observeEvent(input$update, {
     if (nrow(selected_df()) == 0) {
-        leafletProxy("scotland_map") %>% 
-          clearShapes() %>% 
-          addLabelOnlyMarkers(
-            lng = -5, lat = 58,
-            label = "No Data",
-            labelOptions = labelOptions(noHide = T, textsize = "32px")
+      leafletProxy("scotland_map") %>% 
+        clearShapes() %>% 
+        clearMarkers() %>% 
+        addLabelOnlyMarkers(
+          lng = -5, lat = 58,
+          label = "No Data",
+          labelOptions = labelOptions(noHide = T, textsize = "32px")
           )
     } else {
       add_coloured_polygons(
         basemap = "scotland_map", spdf = plot_spdf(),
         colour_scheme = colours(),
-        units = dfs[[input$dataset]]$units
+        units = units()
       )
     }
   })
@@ -76,9 +78,16 @@ server <- function(input, output, session){
       add_legend(
         "scotland_map", spdf = plot_spdf(),
         colour_scheme = colours(),
-        title = title()
+        title = title(),
+        units = units()
       )}
   })
+
+    # basic bar plot
+  output$basic_bar <- renderPlot({
+    basic_bar(selected_df(), units())
+  }, height="auto")
   
+  # table output
   output$table <- renderTable(selected_df())
 }

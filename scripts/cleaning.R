@@ -1,5 +1,24 @@
 library(tidyverse)
 
+# ----- Datazones -----
+datazones <- read_csv("data/raw_data/scotland_datazones_2011.csv")
+
+la_datazones <- datazones %>% 
+  select(area_code = LA_Code, area_name = LA_Name) %>% 
+  unique()
+
+hb_datazones <- datazones %>% 
+  select(area_code = HB_Code, area_name = HB_Name) %>% 
+  unique()
+
+datazone_lookup <- bind_rows(list("local authority" = la_datazones,
+                                  "health board" = hb_datazones),
+                             .id = "area_type")
+
+datazone_lookup %>% 
+  write_csv("data/clean_data/datazone_lookup.csv")
+
+
 # ----- Healthy Life Expectancy ------
 
 # read in data for male and female HLE from separate files
@@ -57,11 +76,18 @@ council_house_data <- read_csv("data/raw_data/council_house_sales.csv") %>%
 
 # units = dwellings
 council_houses_better_vars <- council_house_data %>% 
-  select(-c(measurement, units), area_code = feature_code, year = date_code) %>% 
+  select(-c(measurement, units), area_code = feature_code, year = date_code) %>%
+  # retain only health boards (S08) and local authority (S12) codes
   filter(str_detect(area_code, "^S08|^S12")) %>% 
-  mutate(area_type = case_when(
-    str_detect(area_code, "^S12+") ~ "local authority",
-    str_detect(area_code, "^S08+") ~ "health board"))
+  mutate(year = as.integer(year),
+         value = as.integer(value)) %>% 
+  left_join(datazone_lookup, by = c("area_code" = "area_code")) %>% 
+  select(area_code,
+         reference_area = area_name,
+         area_type,
+         year,
+         dwelling_type,
+         value)
 
 council_houses_better_vars %>% 
   write_csv("data/clean_data/council_house_sales.csv")

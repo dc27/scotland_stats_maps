@@ -21,11 +21,21 @@ add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd",
 
 
 add_legend <- function(basemap, spdf, colour_scheme = "YlOrRd",
-                       title = "") {
+                       title = "", units = "") {
   leafletProxy(basemap) %>%
     addLegend(pal = colorNumeric(
       colour_scheme, (-spdf$value)),
       values = -spdf$value, opacity = 0.6,
-      title = title,
+      title = paste0(title, " </br> (", units, ")"),
       position = "bottomright")
+}
+
+basic_bar <- function(df, units) {
+  ggplot(df) +
+    aes(x = reference_area, y = value) +
+    geom_bar(stat = "identity") + 
+    coord_flip() +
+    theme_bw() +
+    labs(x = "Reference Area",
+         y = paste0("Value (", units, ")"))
 }

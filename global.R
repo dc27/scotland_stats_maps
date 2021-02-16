@@ -2,6 +2,7 @@ library(shiny)
 library(shinydashboard)
 library(readr)
 library(dplyr)
+library(stringr)
 library(purrr)
 library(rgdal)
 library(leaflet)
@@ -12,13 +13,17 @@ dfs <- list(
     data = read_csv("data/clean_data/healthy_life_expectancy.csv"),
     explorable_vars = c("reference_period", "sex"),
     explorable_areas = c("health board", "local authority"),
-    units = "years"
+    units = "years",
+    url = "",
+    notes = ""
   ),
   "Council House Sales" = list(
     data = read_csv("data/clean_data/council_house_sales.csv"),
     explorable_vars = c("year", "dwelling_type"),
     explorable_areas = c("health board", "local authority"),
-    units = "dwellings"
+    units = "dwellings",
+    url = "",
+    notes = ""
   )
 )
 

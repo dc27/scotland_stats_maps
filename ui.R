@@ -4,7 +4,10 @@ ui <- dashboardPage(
   dashboardBody(
     tags$style(
       type = "text/css",
-      "#scotland_map {height: calc(100vh - 160px) !important;}"
+      "
+      #scotland_map {height: calc(100vh - 160px) !important;}
+      #basic_bar {height: calc(100vh - 160px) !important;}
+      "
       ),
     fluidRow(
       column(
@@ -15,6 +18,10 @@ ui <- dashboardPage(
           tabPanel(
             "Map",
             leafletOutput("scotland_map")
+          ),
+          tabPanel(
+            "Plot",
+            plotOutput("basic_bar")
           ),
           tabPanel(
             "Data",
@@ -42,7 +49,7 @@ ui <- dashboardPage(
               "Health Board"
             ),
             tags$hr(),
-            tags$h4("Plot Options"),
+            tags$h4("Map Options"),
             fluidRow(
               tabBox(
                 width = 12,
