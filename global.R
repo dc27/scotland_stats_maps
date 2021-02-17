@@ -6,6 +6,7 @@ library(stringr)
 library(purrr)
 library(rgdal)
 library(leaflet)
+library(ggplot2)
 library(assertthat)
 
 
@@ -30,7 +31,9 @@ for (category in dfs) {
     assert_that(all(c(df$explorable_vars, "area_code",
                   "area_type", "value") %in% names(df$data)))
     # area type must be local authority or health board
-    assert_that(any(c("health board", "local authority") %in% unique(df$data$area_type)))
+    assert_that(
+      any(c("health board", "local authority") %in% unique(df$data$area_type))
+      )
   }
 }
 
