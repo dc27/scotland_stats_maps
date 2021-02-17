@@ -38,10 +38,13 @@ ui <- dashboardPage(
             width = 12,
             tags$h4("Dataset Options"),
             selectInput(
-              "category", label = "Theme", choices = sort(names(dfs))
+              "category",
+              label = "Theme",
+              choices = sort(names(dfs)),
+              selected = "Population"
             ),
             selectInput(
-              "dataset", label = "Dataset", choices = NULL,
+              "dataset", label = "Dataset", choices = NULL
             ),
             tags$hr(),
             uiOutput("dropdowns"),

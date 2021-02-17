@@ -46,8 +46,7 @@ server <- function(input, output, session){
     
   # filter df
   selected_df <- eventReactive(input$update, {
-    browser()
-    if ((by_pop() == FALSE) | !isTruthy(input$population)) {
+    if (!isTruthy(by_pop()) | !isTruthy(input$population)) {
       dataset()[selected(), ] %>% 
         filter(area_type == input$area_type)
     } else {
@@ -77,7 +76,7 @@ server <- function(input, output, session){
   
   # get units. update if option selected: per 1000persons
   units <- eventReactive(input$update, {
-    if ((by_pop() == FALSE) | input$population != TRUE) {
+    if (!isTruthy(by_pop()) | !isTruthy(input$population)) {
       dfs[[input$category]][[input$dataset]]$units
     } else {
       paste0(dfs[[input$category]][[input$dataset]]$units, " per 1000persons")
