@@ -14,9 +14,6 @@ server <- function(input, output, session){
   title <- eventReactive(input$update, {input$dataset})
   dataset <- reactive(dfs[[input$category]][[input$dataset]]$data)
   vars <- reactive(dfs[[input$category]][[input$dataset]]$explorable_vars)
-  units <- eventReactive(input$update, {
-    dfs[[input$category]][[input$dataset]]$units
-    })
   
   output$dropdowns <- renderUI(
     map(vars(), ~ make_dropdown(dataset(), .x))
@@ -40,14 +37,6 @@ server <- function(input, output, session){
     title()
   })
 
-  filtered_pop_data <- eventReactive(input$update, {
-    if ("year" %in% names(input)) {
-      dfs$Population$`Population Estimates`$data %>% 
-        filter(year == input[["year"]]) %>% 
-        filter(sex == "All")
-    }
-  })
-  
   # user inputs for dynamic vars
   selected <- eventReactive(input$update, {
     each_var <- map(vars(), ~ filter_var(dataset()[[.x]], input[[.x]]))
@@ -57,10 +46,24 @@ server <- function(input, output, session){
     
   # filter df
   selected_df <- eventReactive(input$update, {
-    if((by_pop() == FALSE) | input$population != TRUE) {
+    browser()
+    if ((by_pop() == FALSE) | !isTruthy(input$population)) {
       dataset()[selected(), ] %>% 
         filter(area_type == input$area_type)
     } else {
+      # if population has been selected, change measurement to measurement/1000
+      # persons
+      
+      # filter population data before join
+      filtered_pop_data <- eventReactive(input$update, {
+        if ("year" %in% names(input)) {
+          dfs$Population$`Population Estimates`$data %>% 
+            filter(year == input[["year"]]) %>% 
+            filter(sex == "All")
+        }
+      })
+      
+      # join with pop data, calculate, and change col names.
       dataset()[selected(), ] %>% 
         filter(area_type == input$area_type) %>% 
         left_join(select(filtered_pop_data(), c(area_code, population = value)),
@@ -71,6 +74,15 @@ server <- function(input, output, session){
         rename(value = per_1000)
     }
     })
+  
+  # get units. update if option selected: per 1000persons
+  units <- eventReactive(input$update, {
+    if ((by_pop() == FALSE) | input$population != TRUE) {
+      dfs[[input$category]][[input$dataset]]$units
+    } else {
+      paste0(dfs[[input$category]][[input$dataset]]$units, " per 1000persons")
+    }
+  })
 
 
   # render basemap

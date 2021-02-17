@@ -62,7 +62,7 @@
     "Population Estimates" = list(
       data = read_csv("data/clean_data/population_estimates.csv"),
       explorable_vars = c("year", "sex"),
-      eplorable_areas = c("health board", "local authority"),
+      explorable_areas = c("health board", "local authority"),
       units = "persons",
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-2011-datazone-linked-dataset",
