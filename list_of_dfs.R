@@ -38,6 +38,7 @@
       explorable_vars = c("year", "dwelling_type"),
       explorable_areas = c("health board", "local authority"),
       units = "dwellings",
+      by_pop = TRUE,
       url = "",
       notes = ""
     )
@@ -54,6 +55,7 @@
       explorable_vars = c("reference_period", "sex"),
       explorable_areas = c("health board", "local authority"),
       units = "years",
+      by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fhealthy-life-expectancy",
       notes = ""
     ),
@@ -62,7 +64,9 @@
       explorable_vars = c("year", "sex"),
       eplorable_areas = c("health board", "local authority"),
       units = "persons",
-      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-2011-datazone-linked-dataset"
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-2011-datazone-linked-dataset",
+      notes = ""
     )
   ),
   "Transport" = list(

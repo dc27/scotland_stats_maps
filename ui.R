@@ -25,6 +25,8 @@ ui <- dashboardPage(
           ),
           tabPanel(
             "Data",
+            "Source: ",
+            uiOutput("short_url"),
             tableOutput("table")
           )
         )
@@ -43,6 +45,7 @@ ui <- dashboardPage(
             ),
             tags$hr(),
             uiOutput("dropdowns"),
+            uiOutput("pop_button"),
             tags$hr(),
             selectInput(
               "area_type",

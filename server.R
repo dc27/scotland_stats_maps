@@ -22,21 +22,57 @@ server <- function(input, output, session){
     map(vars(), ~ make_dropdown(dataset(), .x))
   )
   
+  by_pop <- reactive({
+    dfs[[input$category]][[input$dataset]]$by_pop & input[["year"]] >= 2001
+  })
+
+  output$pop_button <- renderUI({
+    # make sure by_pop() has a value before continuing (mutes warning)
+    req(by_pop())
+    
+    div(
+      if (by_pop()) {
+        checkboxInput("population", "Per 1000 persons", FALSE)
+      })
+    })
+  
   output$title <- renderText({
     title()
   })
 
-
+  filtered_pop_data <- eventReactive(input$update, {
+    if ("year" %in% names(input)) {
+      dfs$Population$`Population Estimates`$data %>% 
+        filter(year == input[["year"]]) %>% 
+        filter(sex == "All")
+    }
+  })
+  
   # user inputs for dynamic vars
   selected <- eventReactive(input$update, {
     each_var <- map(vars(), ~ filter_var(dataset()[[.x]], input[[.x]]))
     reduce(each_var, `&`)
   })
-  
+
+    
   # filter df
-  selected_df <- eventReactive(input$update, dataset()[selected(), ] %>% 
-    filter(area_type == input$area_type))
-  
+  selected_df <- eventReactive(input$update, {
+    if((by_pop() == FALSE) | input$population != TRUE) {
+      dataset()[selected(), ] %>% 
+        filter(area_type == input$area_type)
+    } else {
+      dataset()[selected(), ] %>% 
+        filter(area_type == input$area_type) %>% 
+        left_join(select(filtered_pop_data(), c(area_code, population = value)),
+                  by = c("area_code" = "area_code")) %>% 
+        mutate(per_1000 = value/(population/1000),
+               per_100000 = value/(population/100000)) %>% 
+        select(-value) %>% 
+        rename(value = per_1000)
+    }
+    })
+
+
   # render basemap
   output$scotland_map <- renderLeaflet({
     leaflet(options = leafletOptions(minZoom = 6)) %>%
@@ -49,6 +85,7 @@ server <- function(input, output, session){
       addProviderTiles(providers$CartoDB.PositronNoLabels)
   })
   
+  
   # join values to polygons based on area type
   plot_spdf <- eventReactive(input$update, {
     if (input$area_type == "health board") {
@@ -57,6 +94,7 @@ server <- function(input, output, session){
       spdf <- join_with_shapes(selected_df(), la_shapes)
     }
   })
+  
   
   # plot polygons (if there is data)
   colours <- eventReactive(input$update, input$colour_choice)
@@ -79,6 +117,8 @@ server <- function(input, output, session){
       )
     }
   })
+  
+  
   # plot legend
   observeEvent(input$update, {
     leafletProxy("scotland_map") %>% 
@@ -93,10 +133,19 @@ server <- function(input, output, session){
       )}
   })
 
-    # basic bar plot
+  # basic bar plot
   output$basic_bar <- renderPlot({
     basic_bar(selected_df(), units())
-  }, height="auto")
+  }, height = "auto")
+  
+  # url output
+  data_url <- eventReactive(input$update, {
+    dfs[[input$category]][[input$dataset]]$url
+  })
+  
+  output$short_url <- renderUI({
+    a(href = data_url(), "statistics.gov.scot", target = "_blank")
+  })
   
   # table output
   output$table <- renderTable(selected_df())
