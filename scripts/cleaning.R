@@ -1,4 +1,13 @@
 library(tidyverse)
+library(opendatascot)
+
+# ----- Dataset Lookup -----
+datasets <- read_csv("data/clean_data/ods_dataset_lookup.csv")
+
+update_lookup <- function(URI_name) {
+  datasets %>%
+    mutate(in_app = ifelse(URI == URI_name, TRUE, in_app))
+}
 
 # ----- Datazones -----
 datazones <- read_csv("data/raw_data/scotland_datazones_2011.csv")
@@ -37,7 +46,6 @@ elongate_pop_df <- function(pop_df) {
 pop_data <- bind_rows(list("Male" = elongate_pop_df(population_data_m),
                            "Female" = elongate_pop_df(population_data_f)),
                       .id = "sex")
-  
 
 add_area_type_col<-function(df) {
   df %>% 
@@ -109,7 +117,10 @@ hle_data <- hle_data %>%
 
 # write data to clean csv
 hle_data %>% 
-  write_csv("../data/clean_data/healthy_life_expectancy.csv")
+  write_csv("data/clean_data/healthy_life_expectancy.csv")
+
+# update dataset_lookup
+updated_lookup <- update_lookup(URI_name = "healthy-life-expectancy")
 
 # ----- Council House Sales -----
 
@@ -134,6 +145,44 @@ council_houses_better_vars <- council_house_data %>%
 council_houses_better_vars %>% 
   write_csv("data/clean_data/council_house_sales.csv")
 
+updated_lookup <- update_lookup(URI_name = "council-house-sales")
+
+# ----- Adults with low or no qualifications ----
+
+# data comes from package: opendatascot
+# geographic areas can be got only one at a time. get each then bind
+adults_with_low_no_qualifications <- ods_dataset(
+  "adults-16-64-years-with-low-or-no-qualifications",geography = "la"
+  ) %>% 
+  bind_rows(ods_dataset("adults-16-64-years-with-low-or-no-qualifications",
+                        geography = "hb"))
+
+# join with datazone lookup and clean up format for final view
+adults_with_low_no_qualifications_clean <- adults_with_low_no_qualifications %>% 
+  janitor::clean_names() %>% 
+  mutate_if(is.character, str_to_title) %>%
+  mutate(age = factor(age,
+                      levels = c("16-64", "16-24", "25-34", "35-49", "50-64"))) %>% 
+  rename(area_code = ref_area,
+         year = ref_period) %>% 
+  left_join(datazone_lookup, by = c("area_code" = "area_code")) %>% 
+  select(area_code,
+         reference_area = area_name,
+         area_type,
+         year,
+         gender,
+         age,
+         measure_type,
+         value)
+
+# write to fresh csv
+adults_with_low_no_qualifications_clean %>% 
+  write_csv("data/clean_data/low_no_qualifications.csv")
+
+updated_lookup <- update_lookup(URI_name = "adults-16-64-years-with-low-or-no-qualifications")
+
+# update dataset lookup csv
+updated_lookup %>% 
+  write_csv("data/clean_data/ods_dataset_lookup.csv")
 
 
-  

@@ -23,6 +23,7 @@ for (category in dfs) {
     assert_that(!is.null(df$explorable_vars))
     assert_that(!is.null(df$explorable_areas))
     assert_that(!is.null(df$units))
+    assert_that(!is.null(df$reverse_colours))
     assert_that(!is.null(df$by_pop))
     assert_that(!is.null(df$url))
     assert_that(!is.null(df$notes))

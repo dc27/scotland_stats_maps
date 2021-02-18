@@ -14,6 +14,10 @@ server <- function(input, output, session){
   title <- eventReactive(input$update, {input$dataset})
   dataset <- reactive(dfs[[input$category]][[input$dataset]]$data)
   vars <- reactive(dfs[[input$category]][[input$dataset]]$explorable_vars)
+  revColours <- eventReactive(input$update, {
+    dfs[[input$category]][[input$dataset]]$reverse_colours
+    })
+  
   
   output$dropdowns <- renderUI(
     map(vars(), ~ make_dropdown(dataset(), .x))
@@ -124,6 +128,7 @@ server <- function(input, output, session){
       add_coloured_polygons(
         basemap = "scotland_map", spdf = plot_spdf(),
         colour_scheme = colours(),
+        revColours = revColours(),
         units = units()
       )
     }
@@ -139,6 +144,7 @@ server <- function(input, output, session){
       add_legend(
         "scotland_map", spdf = plot_spdf(),
         colour_scheme = colours(),
+        revColours = revColours(),
         title = title(),
         units = units()
       )}
@@ -159,5 +165,6 @@ server <- function(input, output, session){
   })
   
   # table output
-  output$table <- renderTable(selected_df())
+  output$table <- renderTable(selected_df() %>% 
+                                select(-area_type))
 }

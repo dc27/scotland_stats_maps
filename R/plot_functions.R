@@ -1,5 +1,9 @@
-add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd",
+add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd", revColours = FALSE,
                                   units = "") {
+  
+  order <- ifelse(revColours == TRUE, -1, 1)
+  
+  
   # pretty labels
   labels <- sprintf(paste0("<strong>%s</strong><br/>%s ",units),
                     spdf$area_name,
@@ -12,8 +16,8 @@ add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd",
     clearMarkers() %>% 
     addPolygons(data = spdf, color = "white",
                 fillColor = ~colorNumeric(
-                  colour_scheme, (-spdf$value))
-                (-spdf$value),
+                  colour_scheme, (order*spdf$value))
+                (order*spdf$value),
                 weight = 1, fillOpacity = 0.8, label = labels,
                 highlightOptions = highlightOptions(
                   color = "black", weight = 2,
@@ -21,12 +25,14 @@ add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd",
 }
 
 
-add_legend <- function(basemap, spdf, colour_scheme = "YlOrRd",
+add_legend <- function(basemap, spdf, colour_scheme = "YlOrRd", revColours = FALSE,
                        title = "", units = "") {
+  order <- ifelse(revColours == TRUE, -1, 1)
+  
   leafletProxy(basemap) %>%
     addLegend(pal = colorNumeric(
-      colour_scheme, (-spdf$value)),
-      values = -spdf$value, opacity = 0.6,
+      colour_scheme, (order*spdf$value)),
+      values = order*spdf$value, opacity = 0.6,
       title = paste0(title, " </br> (", units, ")"),
       position = "bottomright")
 }

@@ -38,13 +38,24 @@
       explorable_vars = c("year", "dwelling_type"),
       explorable_areas = c("health board", "local authority"),
       units = "dwellings",
+      reverse_colours = FALSE,
       by_pop = TRUE,
       url = "",
       notes = ""
     )
   ),
   "Labour Force" = list(
-    
+    "Adults with low or no qualifications" = list(
+      data = read_csv("data/clean_data/low_no_qualifications.csv",
+                      col_types = cols(age = col_factor())),
+      explorable_vars = c("year", "gender", "age", "measure_type"),
+      explorable_areas = c("local authority"),
+      units = "persons",
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fadults-16-64-years-with-low-or-no-qualifications",
+      notes = ""
+    )
   ),
   "Managament Information" = list(
     
@@ -55,6 +66,7 @@
       explorable_vars = c("reference_period", "sex"),
       explorable_areas = c("health board", "local authority"),
       units = "years",
+      reverse_colours = TRUE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fhealthy-life-expectancy",
       notes = ""
@@ -64,6 +76,7 @@
       explorable_vars = c("year", "sex"),
       explorable_areas = c("health board", "local authority"),
       units = "persons",
+      reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-2011-datazone-linked-dataset",
       notes = ""
