@@ -185,4 +185,32 @@ updated_lookup <- update_lookup(URI_name = "adults-16-64-years-with-low-or-no-qu
 updated_lookup %>% 
   write_csv("data/clean_data/ods_dataset_lookup.csv")
 
+# ----- Alcohol related discharges -----
 
+# 1. get data
+alcohol_related_discharge_data <- ods_dataset("alcohol-related-discharge",
+                                              geography = "la") %>% 
+  bind_rows(ods_dataset("alcohol-related-discharge",
+                        geography = "hb"))
+
+# 2. clean data
+alcohol_related_discharge_data_clean <- alcohol_related_discharge_data %>% 
+  janitor::clean_names() %>%
+  rename(area_code = ref_area) %>% 
+  mutate_if(is.character, str_to_title) %>%
+  # Ratios don't seem to make sense - perhaps why dataset is obsolete?
+  filter(measure_type != "Ratio") %>% 
+  left_join(datazone_lookup, by = c("area_code" = "area_code")) %>% 
+  select(area_code,
+         reference_area = area_name,
+         area_type,
+         ref_period,
+         value) %>% 
+  mutate(value = as.integer(value))
+
+# 3. write data
+alcohol_related_discharge_data_clean %>% 
+  write_csv("data/clean_data/alcohol_related_discharge.csv")
+
+# 4. update dataset lookup
+updated_lookup <- update_lookup(URI_name = "alcohol-related-discharge")

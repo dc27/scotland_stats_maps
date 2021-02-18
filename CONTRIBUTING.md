@@ -29,7 +29,8 @@ with the standard for the app. Expected form:
 For consistency in the ui, explanatory vars should be limited to 4 (max.) and
 any reference period/year vars should be listed first.
 
-4. Clean and wrangle the data so that it is in the standard form for the app
+4. Clean and wrangle the data so that it is in the standard form for the app.
+Variables should be snake_case.
 
 Have a look at and follow the style of [cleaning_script](scripts/cleaning.R).
 

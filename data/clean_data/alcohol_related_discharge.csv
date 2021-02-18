@@ -1,0 +1,921 @@
+area_code,reference_area,area_type,ref_period,value
+S12000005,Clackmannanshire,local authority,1997-1998,216
+S12000006,Dumfries and Galloway,local authority,1997-1998,663
+S12000008,East Ayrshire,local authority,1997-1998,796
+S12000010,East Lothian,local authority,1997-1998,364
+S12000011,East Renfrewshire,local authority,1997-1998,254
+S12000013,Na h-Eileanan Siar,local authority,1997-1998,261
+S12000014,Falkirk,local authority,1997-1998,447
+S12000017,Highland,local authority,1997-1998,1383
+S12000018,Inverclyde,local authority,1997-1998,764
+S12000019,Midlothian,local authority,1997-1998,398
+S12000020,Moray,local authority,1997-1998,325
+S12000021,North Ayrshire,local authority,1997-1998,900
+S12000023,Orkney Islands,local authority,1997-1998,112
+S12000026,Scottish Borders,local authority,1997-1998,469
+S12000027,Shetland Islands,local authority,1997-1998,119
+S12000028,South Ayrshire,local authority,1997-1998,852
+S12000029,South Lanarkshire,local authority,1997-1998,1368
+S12000030,Stirling,local authority,1997-1998,383
+S12000033,Aberdeen City,local authority,1997-1998,1449
+S12000034,Aberdeenshire,local authority,1997-1998,754
+S12000035,Argyll and Bute,local authority,1997-1998,669
+S12000036,City of Edinburgh,local authority,1997-1998,2948
+S12000038,Renfrewshire,local authority,1997-1998,1148
+S12000039,West Dunbartonshire,local authority,1997-1998,514
+S12000040,West Lothian,local authority,1997-1998,718
+S12000041,Angus,local authority,1997-1998,356
+S12000042,Dundee City,local authority,1997-1998,800
+S12000045,East Dunbartonshire,local authority,1997-1998,347
+S12000047,Fife,local authority,1997-1998,1602
+S12000048,Perth and Kinross,local authority,1997-1998,496
+S12000049,Glasgow City,local authority,1997-1998,6491
+S12000050,North Lanarkshire,local authority,1997-1998,1281
+S12000005,Clackmannanshire,local authority,1998-1999,284
+S12000006,Dumfries and Galloway,local authority,1998-1999,732
+S12000008,East Ayrshire,local authority,1998-1999,799
+S12000010,East Lothian,local authority,1998-1999,327
+S12000011,East Renfrewshire,local authority,1998-1999,284
+S12000013,Na h-Eileanan Siar,local authority,1998-1999,331
+S12000014,Falkirk,local authority,1998-1999,514
+S12000017,Highland,local authority,1998-1999,1558
+S12000018,Inverclyde,local authority,1998-1999,752
+S12000019,Midlothian,local authority,1998-1999,368
+S12000020,Moray,local authority,1998-1999,365
+S12000021,North Ayrshire,local authority,1998-1999,891
+S12000023,Orkney Islands,local authority,1998-1999,98
+S12000026,Scottish Borders,local authority,1998-1999,462
+S12000027,Shetland Islands,local authority,1998-1999,128
+S12000028,South Ayrshire,local authority,1998-1999,922
+S12000029,South Lanarkshire,local authority,1998-1999,1366
+S12000030,Stirling,local authority,1998-1999,403
+S12000033,Aberdeen City,local authority,1998-1999,1453
+S12000034,Aberdeenshire,local authority,1998-1999,708
+S12000035,Argyll and Bute,local authority,1998-1999,689
+S12000036,City of Edinburgh,local authority,1998-1999,3037
+S12000038,Renfrewshire,local authority,1998-1999,1235
+S12000039,West Dunbartonshire,local authority,1998-1999,588
+S12000040,West Lothian,local authority,1998-1999,699
+S12000041,Angus,local authority,1998-1999,351
+S12000042,Dundee City,local authority,1998-1999,816
+S12000045,East Dunbartonshire,local authority,1998-1999,419
+S12000047,Fife,local authority,1998-1999,1459
+S12000048,Perth and Kinross,local authority,1998-1999,540
+S12000049,Glasgow City,local authority,1998-1999,6330
+S12000050,North Lanarkshire,local authority,1998-1999,1621
+S12000005,Clackmannanshire,local authority,1999-2000,219
+S12000006,Dumfries and Galloway,local authority,1999-2000,689
+S12000008,East Ayrshire,local authority,1999-2000,794
+S12000010,East Lothian,local authority,1999-2000,385
+S12000011,East Renfrewshire,local authority,1999-2000,292
+S12000013,Na h-Eileanan Siar,local authority,1999-2000,399
+S12000014,Falkirk,local authority,1999-2000,536
+S12000017,Highland,local authority,1999-2000,1713
+S12000018,Inverclyde,local authority,1999-2000,766
+S12000019,Midlothian,local authority,1999-2000,386
+S12000020,Moray,local authority,1999-2000,342
+S12000021,North Ayrshire,local authority,1999-2000,952
+S12000023,Orkney Islands,local authority,1999-2000,103
+S12000026,Scottish Borders,local authority,1999-2000,497
+S12000027,Shetland Islands,local authority,1999-2000,108
+S12000028,South Ayrshire,local authority,1999-2000,921
+S12000029,South Lanarkshire,local authority,1999-2000,1449
+S12000030,Stirling,local authority,1999-2000,414
+S12000033,Aberdeen City,local authority,1999-2000,1694
+S12000034,Aberdeenshire,local authority,1999-2000,845
+S12000035,Argyll and Bute,local authority,1999-2000,790
+S12000036,City of Edinburgh,local authority,1999-2000,2859
+S12000038,Renfrewshire,local authority,1999-2000,1347
+S12000039,West Dunbartonshire,local authority,1999-2000,736
+S12000040,West Lothian,local authority,1999-2000,694
+S12000041,Angus,local authority,1999-2000,393
+S12000042,Dundee City,local authority,1999-2000,1025
+S12000045,East Dunbartonshire,local authority,1999-2000,435
+S12000047,Fife,local authority,1999-2000,1675
+S12000048,Perth and Kinross,local authority,1999-2000,630
+S12000049,Glasgow City,local authority,1999-2000,6540
+S12000050,North Lanarkshire,local authority,1999-2000,1933
+S12000005,Clackmannanshire,local authority,2000-2001,237
+S12000006,Dumfries and Galloway,local authority,2000-2001,800
+S12000008,East Ayrshire,local authority,2000-2001,803
+S12000010,East Lothian,local authority,2000-2001,379
+S12000011,East Renfrewshire,local authority,2000-2001,296
+S12000013,Na h-Eileanan Siar,local authority,2000-2001,358
+S12000014,Falkirk,local authority,2000-2001,488
+S12000017,Highland,local authority,2000-2001,1703
+S12000018,Inverclyde,local authority,2000-2001,864
+S12000019,Midlothian,local authority,2000-2001,397
+S12000020,Moray,local authority,2000-2001,422
+S12000021,North Ayrshire,local authority,2000-2001,969
+S12000023,Orkney Islands,local authority,2000-2001,138
+S12000026,Scottish Borders,local authority,2000-2001,517
+S12000027,Shetland Islands,local authority,2000-2001,95
+S12000028,South Ayrshire,local authority,2000-2001,833
+S12000029,South Lanarkshire,local authority,2000-2001,1496
+S12000030,Stirling,local authority,2000-2001,419
+S12000033,Aberdeen City,local authority,2000-2001,1331
+S12000034,Aberdeenshire,local authority,2000-2001,733
+S12000035,Argyll and Bute,local authority,2000-2001,825
+S12000036,City of Edinburgh,local authority,2000-2001,2850
+S12000038,Renfrewshire,local authority,2000-2001,1238
+S12000039,West Dunbartonshire,local authority,2000-2001,733
+S12000040,West Lothian,local authority,2000-2001,751
+S12000041,Angus,local authority,2000-2001,391
+S12000042,Dundee City,local authority,2000-2001,987
+S12000045,East Dunbartonshire,local authority,2000-2001,402
+S12000047,Fife,local authority,2000-2001,1713
+S12000048,Perth and Kinross,local authority,2000-2001,713
+S12000049,Glasgow City,local authority,2000-2001,6565
+S12000050,North Lanarkshire,local authority,2000-2001,1913
+S12000005,Clackmannanshire,local authority,2001-2002,271
+S12000006,Dumfries and Galloway,local authority,2001-2002,757
+S12000008,East Ayrshire,local authority,2001-2002,937
+S12000010,East Lothian,local authority,2001-2002,393
+S12000011,East Renfrewshire,local authority,2001-2002,354
+S12000013,Na h-Eileanan Siar,local authority,2001-2002,396
+S12000014,Falkirk,local authority,2001-2002,505
+S12000017,Highland,local authority,2001-2002,2129
+S12000018,Inverclyde,local authority,2001-2002,757
+S12000019,Midlothian,local authority,2001-2002,440
+S12000020,Moray,local authority,2001-2002,514
+S12000021,North Ayrshire,local authority,2001-2002,1253
+S12000023,Orkney Islands,local authority,2001-2002,131
+S12000026,Scottish Borders,local authority,2001-2002,591
+S12000027,Shetland Islands,local authority,2001-2002,77
+S12000028,South Ayrshire,local authority,2001-2002,953
+S12000029,South Lanarkshire,local authority,2001-2002,1635
+S12000030,Stirling,local authority,2001-2002,475
+S12000033,Aberdeen City,local authority,2001-2002,1451
+S12000034,Aberdeenshire,local authority,2001-2002,719
+S12000035,Argyll and Bute,local authority,2001-2002,724
+S12000036,City of Edinburgh,local authority,2001-2002,3131
+S12000038,Renfrewshire,local authority,2001-2002,1190
+S12000039,West Dunbartonshire,local authority,2001-2002,689
+S12000040,West Lothian,local authority,2001-2002,852
+S12000041,Angus,local authority,2001-2002,402
+S12000042,Dundee City,local authority,2001-2002,941
+S12000045,East Dunbartonshire,local authority,2001-2002,370
+S12000047,Fife,local authority,2001-2002,1728
+S12000048,Perth and Kinross,local authority,2001-2002,710
+S12000049,Glasgow City,local authority,2001-2002,6710
+S12000050,North Lanarkshire,local authority,2001-2002,2099
+S12000005,Clackmannanshire,local authority,2002-2003,321
+S12000006,Dumfries and Galloway,local authority,2002-2003,801
+S12000008,East Ayrshire,local authority,2002-2003,1146
+S12000010,East Lothian,local authority,2002-2003,398
+S12000011,East Renfrewshire,local authority,2002-2003,333
+S12000013,Na h-Eileanan Siar,local authority,2002-2003,482
+S12000014,Falkirk,local authority,2002-2003,568
+S12000017,Highland,local authority,2002-2003,2271
+S12000018,Inverclyde,local authority,2002-2003,884
+S12000019,Midlothian,local authority,2002-2003,388
+S12000020,Moray,local authority,2002-2003,542
+S12000021,North Ayrshire,local authority,2002-2003,1415
+S12000023,Orkney Islands,local authority,2002-2003,138
+S12000026,Scottish Borders,local authority,2002-2003,596
+S12000027,Shetland Islands,local authority,2002-2003,127
+S12000028,South Ayrshire,local authority,2002-2003,1123
+S12000029,South Lanarkshire,local authority,2002-2003,1649
+S12000030,Stirling,local authority,2002-2003,501
+S12000033,Aberdeen City,local authority,2002-2003,1486
+S12000034,Aberdeenshire,local authority,2002-2003,831
+S12000035,Argyll and Bute,local authority,2002-2003,754
+S12000036,City of Edinburgh,local authority,2002-2003,2882
+S12000038,Renfrewshire,local authority,2002-2003,1307
+S12000039,West Dunbartonshire,local authority,2002-2003,818
+S12000040,West Lothian,local authority,2002-2003,906
+S12000041,Angus,local authority,2002-2003,382
+S12000042,Dundee City,local authority,2002-2003,916
+S12000045,East Dunbartonshire,local authority,2002-2003,367
+S12000047,Fife,local authority,2002-2003,1691
+S12000048,Perth and Kinross,local authority,2002-2003,758
+S12000049,Glasgow City,local authority,2002-2003,6858
+S12000050,North Lanarkshire,local authority,2002-2003,2269
+S12000005,Clackmannanshire,local authority,2003-2004,261
+S12000006,Dumfries and Galloway,local authority,2003-2004,801
+S12000008,East Ayrshire,local authority,2003-2004,1036
+S12000010,East Lothian,local authority,2003-2004,411
+S12000011,East Renfrewshire,local authority,2003-2004,372
+S12000013,Na h-Eileanan Siar,local authority,2003-2004,493
+S12000014,Falkirk,local authority,2003-2004,587
+S12000017,Highland,local authority,2003-2004,2098
+S12000018,Inverclyde,local authority,2003-2004,956
+S12000019,Midlothian,local authority,2003-2004,485
+S12000020,Moray,local authority,2003-2004,529
+S12000021,North Ayrshire,local authority,2003-2004,1360
+S12000023,Orkney Islands,local authority,2003-2004,181
+S12000026,Scottish Borders,local authority,2003-2004,574
+S12000027,Shetland Islands,local authority,2003-2004,111
+S12000028,South Ayrshire,local authority,2003-2004,1169
+S12000029,South Lanarkshire,local authority,2003-2004,1759
+S12000030,Stirling,local authority,2003-2004,488
+S12000033,Aberdeen City,local authority,2003-2004,1867
+S12000034,Aberdeenshire,local authority,2003-2004,904
+S12000035,Argyll and Bute,local authority,2003-2004,664
+S12000036,City of Edinburgh,local authority,2003-2004,2782
+S12000038,Renfrewshire,local authority,2003-2004,1259
+S12000039,West Dunbartonshire,local authority,2003-2004,817
+S12000040,West Lothian,local authority,2003-2004,897
+S12000041,Angus,local authority,2003-2004,369
+S12000042,Dundee City,local authority,2003-2004,1015
+S12000045,East Dunbartonshire,local authority,2003-2004,354
+S12000047,Fife,local authority,2003-2004,1573
+S12000048,Perth and Kinross,local authority,2003-2004,796
+S12000049,Glasgow City,local authority,2003-2004,6472
+S12000050,North Lanarkshire,local authority,2003-2004,2374
+S12000005,Clackmannanshire,local authority,2004-2005,217
+S12000006,Dumfries and Galloway,local authority,2004-2005,787
+S12000008,East Ayrshire,local authority,2004-2005,1119
+S12000010,East Lothian,local authority,2004-2005,498
+S12000011,East Renfrewshire,local authority,2004-2005,512
+S12000013,Na h-Eileanan Siar,local authority,2004-2005,425
+S12000014,Falkirk,local authority,2004-2005,672
+S12000017,Highland,local authority,2004-2005,2031
+S12000018,Inverclyde,local authority,2004-2005,1016
+S12000019,Midlothian,local authority,2004-2005,467
+S12000020,Moray,local authority,2004-2005,560
+S12000021,North Ayrshire,local authority,2004-2005,1367
+S12000023,Orkney Islands,local authority,2004-2005,200
+S12000026,Scottish Borders,local authority,2004-2005,586
+S12000027,Shetland Islands,local authority,2004-2005,131
+S12000028,South Ayrshire,local authority,2004-2005,1151
+S12000029,South Lanarkshire,local authority,2004-2005,1942
+S12000030,Stirling,local authority,2004-2005,500
+S12000033,Aberdeen City,local authority,2004-2005,1716
+S12000034,Aberdeenshire,local authority,2004-2005,890
+S12000035,Argyll and Bute,local authority,2004-2005,757
+S12000036,City of Edinburgh,local authority,2004-2005,2862
+S12000038,Renfrewshire,local authority,2004-2005,1574
+S12000039,West Dunbartonshire,local authority,2004-2005,891
+S12000040,West Lothian,local authority,2004-2005,872
+S12000041,Angus,local authority,2004-2005,405
+S12000042,Dundee City,local authority,2004-2005,949
+S12000045,East Dunbartonshire,local authority,2004-2005,385
+S12000047,Fife,local authority,2004-2005,1947
+S12000048,Perth and Kinross,local authority,2004-2005,713
+S12000049,Glasgow City,local authority,2004-2005,7931
+S12000050,North Lanarkshire,local authority,2004-2005,2461
+S12000005,Clackmannanshire,local authority,2005-2006,204
+S12000006,Dumfries and Galloway,local authority,2005-2006,767
+S12000008,East Ayrshire,local authority,2005-2006,1194
+S12000010,East Lothian,local authority,2005-2006,455
+S12000011,East Renfrewshire,local authority,2005-2006,423
+S12000013,Na h-Eileanan Siar,local authority,2005-2006,450
+S12000014,Falkirk,local authority,2005-2006,544
+S12000017,Highland,local authority,2005-2006,2059
+S12000018,Inverclyde,local authority,2005-2006,1052
+S12000019,Midlothian,local authority,2005-2006,461
+S12000020,Moray,local authority,2005-2006,561
+S12000021,North Ayrshire,local authority,2005-2006,1377
+S12000023,Orkney Islands,local authority,2005-2006,158
+S12000026,Scottish Borders,local authority,2005-2006,599
+S12000027,Shetland Islands,local authority,2005-2006,172
+S12000028,South Ayrshire,local authority,2005-2006,1131
+S12000029,South Lanarkshire,local authority,2005-2006,1898
+S12000030,Stirling,local authority,2005-2006,390
+S12000033,Aberdeen City,local authority,2005-2006,1881
+S12000034,Aberdeenshire,local authority,2005-2006,991
+S12000035,Argyll and Bute,local authority,2005-2006,752
+S12000036,City of Edinburgh,local authority,2005-2006,2940
+S12000038,Renfrewshire,local authority,2005-2006,1318
+S12000039,West Dunbartonshire,local authority,2005-2006,826
+S12000040,West Lothian,local authority,2005-2006,974
+S12000041,Angus,local authority,2005-2006,437
+S12000042,Dundee City,local authority,2005-2006,993
+S12000045,East Dunbartonshire,local authority,2005-2006,368
+S12000047,Fife,local authority,2005-2006,2017
+S12000048,Perth and Kinross,local authority,2005-2006,704
+S12000049,Glasgow City,local authority,2005-2006,7671
+S12000050,North Lanarkshire,local authority,2005-2006,2507
+S12000005,Clackmannanshire,local authority,2006-2007,248
+S12000006,Dumfries and Galloway,local authority,2006-2007,726
+S12000008,East Ayrshire,local authority,2006-2007,1250
+S12000010,East Lothian,local authority,2006-2007,562
+S12000011,East Renfrewshire,local authority,2006-2007,426
+S12000013,Na h-Eileanan Siar,local authority,2006-2007,468
+S12000014,Falkirk,local authority,2006-2007,567
+S12000017,Highland,local authority,2006-2007,2151
+S12000018,Inverclyde,local authority,2006-2007,1032
+S12000019,Midlothian,local authority,2006-2007,505
+S12000020,Moray,local authority,2006-2007,596
+S12000021,North Ayrshire,local authority,2006-2007,1385
+S12000023,Orkney Islands,local authority,2006-2007,165
+S12000026,Scottish Borders,local authority,2006-2007,690
+S12000027,Shetland Islands,local authority,2006-2007,146
+S12000028,South Ayrshire,local authority,2006-2007,1108
+S12000029,South Lanarkshire,local authority,2006-2007,2042
+S12000030,Stirling,local authority,2006-2007,434
+S12000033,Aberdeen City,local authority,2006-2007,2020
+S12000034,Aberdeenshire,local authority,2006-2007,994
+S12000035,Argyll and Bute,local authority,2006-2007,779
+S12000036,City of Edinburgh,local authority,2006-2007,3226
+S12000038,Renfrewshire,local authority,2006-2007,1537
+S12000039,West Dunbartonshire,local authority,2006-2007,753
+S12000040,West Lothian,local authority,2006-2007,1252
+S12000041,Angus,local authority,2006-2007,367
+S12000042,Dundee City,local authority,2006-2007,967
+S12000045,East Dunbartonshire,local authority,2006-2007,436
+S12000047,Fife,local authority,2006-2007,2212
+S12000048,Perth and Kinross,local authority,2006-2007,834
+S12000049,Glasgow City,local authority,2006-2007,7751
+S12000050,North Lanarkshire,local authority,2006-2007,2546
+S12000005,Clackmannanshire,local authority,2007-2008,293
+S12000006,Dumfries and Galloway,local authority,2007-2008,849
+S12000008,East Ayrshire,local authority,2007-2008,1295
+S12000010,East Lothian,local authority,2007-2008,630
+S12000011,East Renfrewshire,local authority,2007-2008,472
+S12000013,Na h-Eileanan Siar,local authority,2007-2008,373
+S12000014,Falkirk,local authority,2007-2008,721
+S12000017,Highland,local authority,2007-2008,2115
+S12000018,Inverclyde,local authority,2007-2008,1099
+S12000019,Midlothian,local authority,2007-2008,576
+S12000020,Moray,local authority,2007-2008,578
+S12000021,North Ayrshire,local authority,2007-2008,1567
+S12000023,Orkney Islands,local authority,2007-2008,213
+S12000026,Scottish Borders,local authority,2007-2008,733
+S12000027,Shetland Islands,local authority,2007-2008,148
+S12000028,South Ayrshire,local authority,2007-2008,1087
+S12000029,South Lanarkshire,local authority,2007-2008,2036
+S12000030,Stirling,local authority,2007-2008,469
+S12000033,Aberdeen City,local authority,2007-2008,2222
+S12000034,Aberdeenshire,local authority,2007-2008,1043
+S12000035,Argyll and Bute,local authority,2007-2008,956
+S12000036,City of Edinburgh,local authority,2007-2008,3764
+S12000038,Renfrewshire,local authority,2007-2008,1588
+S12000039,West Dunbartonshire,local authority,2007-2008,956
+S12000040,West Lothian,local authority,2007-2008,1383
+S12000041,Angus,local authority,2007-2008,358
+S12000042,Dundee City,local authority,2007-2008,928
+S12000045,East Dunbartonshire,local authority,2007-2008,441
+S12000047,Fife,local authority,2007-2008,2323
+S12000048,Perth and Kinross,local authority,2007-2008,795
+S12000049,Glasgow City,local authority,2007-2008,8197
+S12000050,North Lanarkshire,local authority,2007-2008,2832
+S12000005,Clackmannanshire,local authority,2008-2009,269
+S12000006,Dumfries and Galloway,local authority,2008-2009,846
+S12000008,East Ayrshire,local authority,2008-2009,1174
+S12000010,East Lothian,local authority,2008-2009,581
+S12000011,East Renfrewshire,local authority,2008-2009,473
+S12000013,Na h-Eileanan Siar,local authority,2008-2009,308
+S12000014,Falkirk,local authority,2008-2009,734
+S12000017,Highland,local authority,2008-2009,2029
+S12000018,Inverclyde,local authority,2008-2009,1111
+S12000019,Midlothian,local authority,2008-2009,503
+S12000020,Moray,local authority,2008-2009,561
+S12000021,North Ayrshire,local authority,2008-2009,1503
+S12000023,Orkney Islands,local authority,2008-2009,189
+S12000026,Scottish Borders,local authority,2008-2009,691
+S12000027,Shetland Islands,local authority,2008-2009,147
+S12000028,South Ayrshire,local authority,2008-2009,1078
+S12000029,South Lanarkshire,local authority,2008-2009,2023
+S12000030,Stirling,local authority,2008-2009,466
+S12000033,Aberdeen City,local authority,2008-2009,2222
+S12000034,Aberdeenshire,local authority,2008-2009,1051
+S12000035,Argyll and Bute,local authority,2008-2009,883
+S12000036,City of Edinburgh,local authority,2008-2009,3374
+S12000038,Renfrewshire,local authority,2008-2009,1549
+S12000039,West Dunbartonshire,local authority,2008-2009,1024
+S12000040,West Lothian,local authority,2008-2009,1267
+S12000041,Angus,local authority,2008-2009,403
+S12000042,Dundee City,local authority,2008-2009,1109
+S12000045,East Dunbartonshire,local authority,2008-2009,407
+S12000047,Fife,local authority,2008-2009,2265
+S12000048,Perth and Kinross,local authority,2008-2009,833
+S12000049,Glasgow City,local authority,2008-2009,8322
+S12000050,North Lanarkshire,local authority,2008-2009,2586
+S12000005,Clackmannanshire,local authority,2009-2010,260
+S12000006,Dumfries and Galloway,local authority,2009-2010,782
+S12000008,East Ayrshire,local authority,2009-2010,1172
+S12000010,East Lothian,local authority,2009-2010,437
+S12000011,East Renfrewshire,local authority,2009-2010,410
+S12000013,Na h-Eileanan Siar,local authority,2009-2010,286
+S12000014,Falkirk,local authority,2009-2010,757
+S12000017,Highland,local authority,2009-2010,1737
+S12000018,Inverclyde,local authority,2009-2010,988
+S12000019,Midlothian,local authority,2009-2010,450
+S12000020,Moray,local authority,2009-2010,486
+S12000021,North Ayrshire,local authority,2009-2010,1561
+S12000023,Orkney Islands,local authority,2009-2010,227
+S12000026,Scottish Borders,local authority,2009-2010,655
+S12000027,Shetland Islands,local authority,2009-2010,176
+S12000028,South Ayrshire,local authority,2009-2010,1136
+S12000029,South Lanarkshire,local authority,2009-2010,1749
+S12000030,Stirling,local authority,2009-2010,516
+S12000033,Aberdeen City,local authority,2009-2010,2209
+S12000034,Aberdeenshire,local authority,2009-2010,1025
+S12000035,Argyll and Bute,local authority,2009-2010,836
+S12000036,City of Edinburgh,local authority,2009-2010,2896
+S12000038,Renfrewshire,local authority,2009-2010,1526
+S12000039,West Dunbartonshire,local authority,2009-2010,1023
+S12000040,West Lothian,local authority,2009-2010,1145
+S12000041,Angus,local authority,2009-2010,426
+S12000042,Dundee City,local authority,2009-2010,959
+S12000045,East Dunbartonshire,local authority,2009-2010,446
+S12000047,Fife,local authority,2009-2010,2273
+S12000048,Perth and Kinross,local authority,2009-2010,715
+S12000049,Glasgow City,local authority,2009-2010,7843
+S12000050,North Lanarkshire,local authority,2009-2010,2237
+S12000005,Clackmannanshire,local authority,2010-2011,230
+S12000006,Dumfries and Galloway,local authority,2010-2011,780
+S12000008,East Ayrshire,local authority,2010-2011,1197
+S12000010,East Lothian,local authority,2010-2011,557
+S12000011,East Renfrewshire,local authority,2010-2011,361
+S12000013,Na h-Eileanan Siar,local authority,2010-2011,293
+S12000014,Falkirk,local authority,2010-2011,571
+S12000017,Highland,local authority,2010-2011,1649
+S12000018,Inverclyde,local authority,2010-2011,954
+S12000019,Midlothian,local authority,2010-2011,477
+S12000020,Moray,local authority,2010-2011,431
+S12000021,North Ayrshire,local authority,2010-2011,1505
+S12000023,Orkney Islands,local authority,2010-2011,373
+S12000026,Scottish Borders,local authority,2010-2011,602
+S12000027,Shetland Islands,local authority,2010-2011,164
+S12000028,South Ayrshire,local authority,2010-2011,1016
+S12000029,South Lanarkshire,local authority,2010-2011,1724
+S12000030,Stirling,local authority,2010-2011,388
+S12000033,Aberdeen City,local authority,2010-2011,1945
+S12000034,Aberdeenshire,local authority,2010-2011,1002
+S12000035,Argyll and Bute,local authority,2010-2011,792
+S12000036,City of Edinburgh,local authority,2010-2011,2990
+S12000038,Renfrewshire,local authority,2010-2011,1577
+S12000039,West Dunbartonshire,local authority,2010-2011,1073
+S12000040,West Lothian,local authority,2010-2011,1221
+S12000041,Angus,local authority,2010-2011,457
+S12000042,Dundee City,local authority,2010-2011,1064
+S12000045,East Dunbartonshire,local authority,2010-2011,418
+S12000047,Fife,local authority,2010-2011,2174
+S12000048,Perth and Kinross,local authority,2010-2011,711
+S12000049,Glasgow City,local authority,2010-2011,8068
+S12000050,North Lanarkshire,local authority,2010-2011,2206
+S12000005,Clackmannanshire,local authority,2011-2012,259
+S12000006,Dumfries and Galloway,local authority,2011-2012,740
+S12000008,East Ayrshire,local authority,2011-2012,1124
+S12000010,East Lothian,local authority,2011-2012,526
+S12000011,East Renfrewshire,local authority,2011-2012,440
+S12000013,Na h-Eileanan Siar,local authority,2011-2012,268
+S12000014,Falkirk,local authority,2011-2012,650
+S12000017,Highland,local authority,2011-2012,1572
+S12000018,Inverclyde,local authority,2011-2012,938
+S12000019,Midlothian,local authority,2011-2012,420
+S12000020,Moray,local authority,2011-2012,490
+S12000021,North Ayrshire,local authority,2011-2012,1484
+S12000023,Orkney Islands,local authority,2011-2012,362
+S12000026,Scottish Borders,local authority,2011-2012,694
+S12000027,Shetland Islands,local authority,2011-2012,223
+S12000028,South Ayrshire,local authority,2011-2012,980
+S12000029,South Lanarkshire,local authority,2011-2012,2090
+S12000030,Stirling,local authority,2011-2012,416
+S12000033,Aberdeen City,local authority,2011-2012,2046
+S12000034,Aberdeenshire,local authority,2011-2012,971
+S12000035,Argyll and Bute,local authority,2011-2012,785
+S12000036,City of Edinburgh,local authority,2011-2012,3015
+S12000038,Renfrewshire,local authority,2011-2012,1626
+S12000039,West Dunbartonshire,local authority,2011-2012,905
+S12000040,West Lothian,local authority,2011-2012,1305
+S12000041,Angus,local authority,2011-2012,429
+S12000042,Dundee City,local authority,2011-2012,879
+S12000045,East Dunbartonshire,local authority,2011-2012,413
+S12000047,Fife,local authority,2011-2012,1992
+S12000048,Perth and Kinross,local authority,2011-2012,700
+S12000049,Glasgow City,local authority,2011-2012,7595
+S12000050,North Lanarkshire,local authority,2011-2012,2480
+S12000005,Clackmannanshire,local authority,2012-2013,260
+S12000006,Dumfries and Galloway,local authority,2012-2013,733
+S12000008,East Ayrshire,local authority,2012-2013,995
+S12000010,East Lothian,local authority,2012-2013,440
+S12000011,East Renfrewshire,local authority,2012-2013,407
+S12000013,Na h-Eileanan Siar,local authority,2012-2013,234
+S12000014,Falkirk,local authority,2012-2013,682
+S12000017,Highland,local authority,2012-2013,1621
+S12000018,Inverclyde,local authority,2012-2013,687
+S12000019,Midlothian,local authority,2012-2013,445
+S12000020,Moray,local authority,2012-2013,390
+S12000021,North Ayrshire,local authority,2012-2013,1230
+S12000023,Orkney Islands,local authority,2012-2013,349
+S12000026,Scottish Borders,local authority,2012-2013,619
+S12000027,Shetland Islands,local authority,2012-2013,166
+S12000028,South Ayrshire,local authority,2012-2013,896
+S12000029,South Lanarkshire,local authority,2012-2013,1918
+S12000030,Stirling,local authority,2012-2013,360
+S12000033,Aberdeen City,local authority,2012-2013,1811
+S12000034,Aberdeenshire,local authority,2012-2013,809
+S12000035,Argyll and Bute,local authority,2012-2013,618
+S12000036,City of Edinburgh,local authority,2012-2013,2904
+S12000038,Renfrewshire,local authority,2012-2013,1635
+S12000039,West Dunbartonshire,local authority,2012-2013,796
+S12000040,West Lothian,local authority,2012-2013,1236
+S12000041,Angus,local authority,2012-2013,434
+S12000042,Dundee City,local authority,2012-2013,923
+S12000045,East Dunbartonshire,local authority,2012-2013,381
+S12000047,Fife,local authority,2012-2013,2253
+S12000048,Perth and Kinross,local authority,2012-2013,641
+S12000049,Glasgow City,local authority,2012-2013,6770
+S12000050,North Lanarkshire,local authority,2012-2013,2567
+S12000005,Clackmannanshire,local authority,2013-2014,262
+S12000006,Dumfries and Galloway,local authority,2013-2014,784
+S12000008,East Ayrshire,local authority,2013-2014,969
+S12000010,East Lothian,local authority,2013-2014,447
+S12000011,East Renfrewshire,local authority,2013-2014,379
+S12000013,Na h-Eileanan Siar,local authority,2013-2014,251
+S12000014,Falkirk,local authority,2013-2014,791
+S12000017,Highland,local authority,2013-2014,1578
+S12000018,Inverclyde,local authority,2013-2014,810
+S12000019,Midlothian,local authority,2013-2014,450
+S12000020,Moray,local authority,2013-2014,403
+S12000021,North Ayrshire,local authority,2013-2014,1207
+S12000023,Orkney Islands,local authority,2013-2014,320
+S12000026,Scottish Borders,local authority,2013-2014,633
+S12000027,Shetland Islands,local authority,2013-2014,161
+S12000028,South Ayrshire,local authority,2013-2014,849
+S12000029,South Lanarkshire,local authority,2013-2014,2194
+S12000030,Stirling,local authority,2013-2014,397
+S12000033,Aberdeen City,local authority,2013-2014,1708
+S12000034,Aberdeenshire,local authority,2013-2014,928
+S12000035,Argyll and Bute,local authority,2013-2014,600
+S12000036,City of Edinburgh,local authority,2013-2014,2969
+S12000038,Renfrewshire,local authority,2013-2014,1718
+S12000039,West Dunbartonshire,local authority,2013-2014,834
+S12000040,West Lothian,local authority,2013-2014,1089
+S12000041,Angus,local authority,2013-2014,438
+S12000042,Dundee City,local authority,2013-2014,1027
+S12000045,East Dunbartonshire,local authority,2013-2014,454
+S12000047,Fife,local authority,2013-2014,2292
+S12000048,Perth and Kinross,local authority,2013-2014,530
+S12000049,Glasgow City,local authority,2013-2014,6661
+S12000050,North Lanarkshire,local authority,2013-2014,2589
+S12000005,Clackmannanshire,local authority,2014-2015,255
+S12000006,Dumfries and Galloway,local authority,2014-2015,636
+S12000008,East Ayrshire,local authority,2014-2015,890
+S12000010,East Lothian,local authority,2014-2015,461
+S12000011,East Renfrewshire,local authority,2014-2015,358
+S12000013,Na h-Eileanan Siar,local authority,2014-2015,179
+S12000014,Falkirk,local authority,2014-2015,808
+S12000017,Highland,local authority,2014-2015,1528
+S12000018,Inverclyde,local authority,2014-2015,850
+S12000019,Midlothian,local authority,2014-2015,493
+S12000020,Moray,local authority,2014-2015,460
+S12000021,North Ayrshire,local authority,2014-2015,1172
+S12000023,Orkney Islands,local authority,2014-2015,160
+S12000026,Scottish Borders,local authority,2014-2015,522
+S12000027,Shetland Islands,local authority,2014-2015,135
+S12000028,South Ayrshire,local authority,2014-2015,803
+S12000029,South Lanarkshire,local authority,2014-2015,2089
+S12000030,Stirling,local authority,2014-2015,328
+S12000033,Aberdeen City,local authority,2014-2015,1552
+S12000034,Aberdeenshire,local authority,2014-2015,784
+S12000035,Argyll and Bute,local authority,2014-2015,682
+S12000036,City of Edinburgh,local authority,2014-2015,2853
+S12000038,Renfrewshire,local authority,2014-2015,1669
+S12000039,West Dunbartonshire,local authority,2014-2015,807
+S12000040,West Lothian,local authority,2014-2015,1114
+S12000041,Angus,local authority,2014-2015,423
+S12000042,Dundee City,local authority,2014-2015,1040
+S12000045,East Dunbartonshire,local authority,2014-2015,462
+S12000047,Fife,local authority,2014-2015,2275
+S12000048,Perth and Kinross,local authority,2014-2015,599
+S12000049,Glasgow City,local authority,2014-2015,6378
+S12000050,North Lanarkshire,local authority,2014-2015,2545
+S12000005,Clackmannanshire,local authority,2015-2016,266
+S12000006,Dumfries and Galloway,local authority,2015-2016,697
+S12000008,East Ayrshire,local authority,2015-2016,793
+S12000010,East Lothian,local authority,2015-2016,430
+S12000011,East Renfrewshire,local authority,2015-2016,386
+S12000013,Na h-Eileanan Siar,local authority,2015-2016,206
+S12000014,Falkirk,local authority,2015-2016,831
+S12000017,Highland,local authority,2015-2016,1556
+S12000018,Inverclyde,local authority,2015-2016,908
+S12000019,Midlothian,local authority,2015-2016,475
+S12000020,Moray,local authority,2015-2016,451
+S12000021,North Ayrshire,local authority,2015-2016,1101
+S12000023,Orkney Islands,local authority,2015-2016,154
+S12000026,Scottish Borders,local authority,2015-2016,497
+S12000027,Shetland Islands,local authority,2015-2016,151
+S12000028,South Ayrshire,local authority,2015-2016,779
+S12000029,South Lanarkshire,local authority,2015-2016,2157
+S12000030,Stirling,local authority,2015-2016,380
+S12000033,Aberdeen City,local authority,2015-2016,1624
+S12000034,Aberdeenshire,local authority,2015-2016,736
+S12000035,Argyll and Bute,local authority,2015-2016,604
+S12000036,City of Edinburgh,local authority,2015-2016,2648
+S12000038,Renfrewshire,local authority,2015-2016,1619
+S12000039,West Dunbartonshire,local authority,2015-2016,911
+S12000040,West Lothian,local authority,2015-2016,1131
+S12000041,Angus,local authority,2015-2016,440
+S12000042,Dundee City,local authority,2015-2016,901
+S12000045,East Dunbartonshire,local authority,2015-2016,486
+S12000047,Fife,local authority,2015-2016,2202
+S12000048,Perth and Kinross,local authority,2015-2016,500
+S12000049,Glasgow City,local authority,2015-2016,6601
+S12000050,North Lanarkshire,local authority,2015-2016,2746
+S12000005,Clackmannanshire,local authority,2016-2017,261
+S12000006,Dumfries and Galloway,local authority,2016-2017,666
+S12000008,East Ayrshire,local authority,2016-2017,889
+S12000010,East Lothian,local authority,2016-2017,399
+S12000011,East Renfrewshire,local authority,2016-2017,364
+S12000013,Na h-Eileanan Siar,local authority,2016-2017,228
+S12000014,Falkirk,local authority,2016-2017,778
+S12000017,Highland,local authority,2016-2017,1463
+S12000018,Inverclyde,local authority,2016-2017,790
+S12000019,Midlothian,local authority,2016-2017,457
+S12000020,Moray,local authority,2016-2017,459
+S12000021,North Ayrshire,local authority,2016-2017,1178
+S12000023,Orkney Islands,local authority,2016-2017,126
+S12000026,Scottish Borders,local authority,2016-2017,507
+S12000027,Shetland Islands,local authority,2016-2017,140
+S12000028,South Ayrshire,local authority,2016-2017,797
+S12000029,South Lanarkshire,local authority,2016-2017,2221
+S12000030,Stirling,local authority,2016-2017,350
+S12000033,Aberdeen City,local authority,2016-2017,1519
+S12000034,Aberdeenshire,local authority,2016-2017,833
+S12000035,Argyll and Bute,local authority,2016-2017,602
+S12000036,City of Edinburgh,local authority,2016-2017,2512
+S12000038,Renfrewshire,local authority,2016-2017,1634
+S12000039,West Dunbartonshire,local authority,2016-2017,946
+S12000040,West Lothian,local authority,2016-2017,1134
+S12000041,Angus,local authority,2016-2017,436
+S12000042,Dundee City,local authority,2016-2017,870
+S12000045,East Dunbartonshire,local authority,2016-2017,555
+S12000047,Fife,local authority,2016-2017,2341
+S12000048,Perth and Kinross,local authority,2016-2017,596
+S12000049,Glasgow City,local authority,2016-2017,7306
+S12000050,North Lanarkshire,local authority,2016-2017,2837
+S08000015,Ayrshire and Arran,health board,1997-1998,2549
+S08000016,Borders,health board,1997-1998,469
+S08000017,Dumfries and Galloway,health board,1997-1998,663
+S08000019,Forth Valley,health board,1997-1998,1056
+S08000020,Grampian,health board,1997-1998,2529
+S08000022,Highland,health board,1997-1998,2052
+S08000024,Lothian,health board,1997-1998,4459
+S08000025,Orkney,health board,1997-1998,112
+S08000026,Shetland,health board,1997-1998,119
+S08000028,Western Isles,health board,1997-1998,261
+S08000029,Fife,health board,1997-1998,1602
+S08000030,Tayside,health board,1997-1998,1653
+S08000031,Greater Glasgow and Clyde,health board,1997-1998,9518
+S08000032,Lanarkshire,health board,1997-1998,2652
+S08000015,Ayrshire and Arran,health board,1998-1999,2613
+S08000016,Borders,health board,1998-1999,463
+S08000017,Dumfries and Galloway,health board,1998-1999,732
+S08000019,Forth Valley,health board,1998-1999,1204
+S08000020,Grampian,health board,1998-1999,2528
+S08000022,Highland,health board,1998-1999,2247
+S08000024,Lothian,health board,1998-1999,4453
+S08000025,Orkney,health board,1998-1999,98
+S08000026,Shetland,health board,1998-1999,128
+S08000028,Western Isles,health board,1998-1999,332
+S08000029,Fife,health board,1998-1999,1459
+S08000030,Tayside,health board,1998-1999,1707
+S08000031,Greater Glasgow and Clyde,health board,1998-1999,9608
+S08000032,Lanarkshire,health board,1998-1999,2993
+S08000015,Ayrshire and Arran,health board,1999-2000,2667
+S08000016,Borders,health board,1999-2000,497
+S08000017,Dumfries and Galloway,health board,1999-2000,689
+S08000019,Forth Valley,health board,1999-2000,1176
+S08000020,Grampian,health board,1999-2000,2883
+S08000022,Highland,health board,1999-2000,2503
+S08000024,Lothian,health board,1999-2000,4337
+S08000025,Orkney,health board,1999-2000,103
+S08000026,Shetland,health board,1999-2000,108
+S08000028,Western Isles,health board,1999-2000,399
+S08000029,Fife,health board,1999-2000,1675
+S08000030,Tayside,health board,1999-2000,2049
+S08000031,Greater Glasgow and Clyde,health board,1999-2000,10116
+S08000032,Lanarkshire,health board,1999-2000,3389
+S08000015,Ayrshire and Arran,health board,2000-2001,2605
+S08000016,Borders,health board,2000-2001,517
+S08000017,Dumfries and Galloway,health board,2000-2001,800
+S08000019,Forth Valley,health board,2000-2001,1150
+S08000020,Grampian,health board,2000-2001,2487
+S08000022,Highland,health board,2000-2001,2528
+S08000024,Lothian,health board,2000-2001,4381
+S08000025,Orkney,health board,2000-2001,139
+S08000026,Shetland,health board,2000-2001,95
+S08000028,Western Isles,health board,2000-2001,358
+S08000029,Fife,health board,2000-2001,1713
+S08000030,Tayside,health board,2000-2001,2093
+S08000031,Greater Glasgow and Clyde,health board,2000-2001,10099
+S08000032,Lanarkshire,health board,2000-2001,3423
+S08000015,Ayrshire and Arran,health board,2001-2002,3143
+S08000016,Borders,health board,2001-2002,591
+S08000017,Dumfries and Galloway,health board,2001-2002,757
+S08000019,Forth Valley,health board,2001-2002,1256
+S08000020,Grampian,health board,2001-2002,2684
+S08000022,Highland,health board,2001-2002,2853
+S08000024,Lothian,health board,2001-2002,4817
+S08000025,Orkney,health board,2001-2002,131
+S08000026,Shetland,health board,2001-2002,77
+S08000028,Western Isles,health board,2001-2002,396
+S08000029,Fife,health board,2001-2002,1728
+S08000030,Tayside,health board,2001-2002,2055
+S08000031,Greater Glasgow and Clyde,health board,2001-2002,10070
+S08000032,Lanarkshire,health board,2001-2002,3762
+S08000015,Ayrshire and Arran,health board,2002-2003,3684
+S08000016,Borders,health board,2002-2003,597
+S08000017,Dumfries and Galloway,health board,2002-2003,801
+S08000019,Forth Valley,health board,2002-2003,1391
+S08000020,Grampian,health board,2002-2003,2859
+S08000022,Highland,health board,2002-2003,3025
+S08000024,Lothian,health board,2002-2003,4579
+S08000025,Orkney,health board,2002-2003,138
+S08000026,Shetland,health board,2002-2003,127
+S08000028,Western Isles,health board,2002-2003,482
+S08000029,Fife,health board,2002-2003,1691
+S08000030,Tayside,health board,2002-2003,2056
+S08000031,Greater Glasgow and Clyde,health board,2002-2003,10567
+S08000032,Lanarkshire,health board,2002-2003,3919
+S08000015,Ayrshire and Arran,health board,2003-2004,3565
+S08000016,Borders,health board,2003-2004,574
+S08000017,Dumfries and Galloway,health board,2003-2004,801
+S08000019,Forth Valley,health board,2003-2004,1336
+S08000020,Grampian,health board,2003-2004,3300
+S08000022,Highland,health board,2003-2004,2762
+S08000024,Lothian,health board,2003-2004,4579
+S08000025,Orkney,health board,2003-2004,181
+S08000026,Shetland,health board,2003-2004,111
+S08000028,Western Isles,health board,2003-2004,493
+S08000029,Fife,health board,2003-2004,1573
+S08000030,Tayside,health board,2003-2004,2180
+S08000031,Greater Glasgow and Clyde,health board,2003-2004,10230
+S08000032,Lanarkshire,health board,2003-2004,4134
+S08000015,Ayrshire and Arran,health board,2004-2005,3637
+S08000016,Borders,health board,2004-2005,586
+S08000017,Dumfries and Galloway,health board,2004-2005,787
+S08000019,Forth Valley,health board,2004-2005,1389
+S08000020,Grampian,health board,2004-2005,3166
+S08000022,Highland,health board,2004-2005,2788
+S08000024,Lothian,health board,2004-2005,4699
+S08000025,Orkney,health board,2004-2005,200
+S08000026,Shetland,health board,2004-2005,131
+S08000028,Western Isles,health board,2004-2005,425
+S08000029,Fife,health board,2004-2005,1947
+S08000030,Tayside,health board,2004-2005,2067
+S08000031,Greater Glasgow and Clyde,health board,2004-2005,12309
+S08000032,Lanarkshire,health board,2004-2005,4403
+S08000015,Ayrshire and Arran,health board,2005-2006,3702
+S08000016,Borders,health board,2005-2006,599
+S08000017,Dumfries and Galloway,health board,2005-2006,767
+S08000019,Forth Valley,health board,2005-2006,1138
+S08000020,Grampian,health board,2005-2006,3434
+S08000022,Highland,health board,2005-2006,2812
+S08000024,Lothian,health board,2005-2006,4832
+S08000025,Orkney,health board,2005-2006,158
+S08000026,Shetland,health board,2005-2006,172
+S08000028,Western Isles,health board,2005-2006,450
+S08000029,Fife,health board,2005-2006,2017
+S08000030,Tayside,health board,2005-2006,2134
+S08000031,Greater Glasgow and Clyde,health board,2005-2006,11658
+S08000032,Lanarkshire,health board,2005-2006,4406
+S08000015,Ayrshire and Arran,health board,2006-2007,3743
+S08000016,Borders,health board,2006-2007,690
+S08000017,Dumfries and Galloway,health board,2006-2007,726
+S08000019,Forth Valley,health board,2006-2007,1249
+S08000020,Grampian,health board,2006-2007,3610
+S08000022,Highland,health board,2006-2007,2930
+S08000024,Lothian,health board,2006-2007,5545
+S08000025,Orkney,health board,2006-2007,165
+S08000026,Shetland,health board,2006-2007,146
+S08000028,Western Isles,health board,2006-2007,468
+S08000029,Fife,health board,2006-2007,2212
+S08000030,Tayside,health board,2006-2007,2168
+S08000031,Greater Glasgow and Clyde,health board,2006-2007,11935
+S08000032,Lanarkshire,health board,2006-2007,4588
+S08000015,Ayrshire and Arran,health board,2007-2008,3949
+S08000016,Borders,health board,2007-2008,733
+S08000017,Dumfries and Galloway,health board,2007-2008,849
+S08000019,Forth Valley,health board,2007-2008,1483
+S08000020,Grampian,health board,2007-2008,3843
+S08000022,Highland,health board,2007-2008,3071
+S08000024,Lothian,health board,2007-2008,6353
+S08000025,Orkney,health board,2007-2008,213
+S08000026,Shetland,health board,2007-2008,148
+S08000028,Western Isles,health board,2007-2008,373
+S08000029,Fife,health board,2007-2008,2323
+S08000030,Tayside,health board,2007-2008,2081
+S08000031,Greater Glasgow and Clyde,health board,2007-2008,12753
+S08000032,Lanarkshire,health board,2007-2008,4868
+S08000015,Ayrshire and Arran,health board,2008-2009,3755
+S08000016,Borders,health board,2008-2009,691
+S08000017,Dumfries and Galloway,health board,2008-2009,846
+S08000019,Forth Valley,health board,2008-2009,1469
+S08000020,Grampian,health board,2008-2009,3834
+S08000022,Highland,health board,2008-2009,2912
+S08000024,Lothian,health board,2008-2009,5725
+S08000025,Orkney,health board,2008-2009,189
+S08000026,Shetland,health board,2008-2009,147
+S08000028,Western Isles,health board,2008-2009,308
+S08000029,Fife,health board,2008-2009,2265
+S08000030,Tayside,health board,2008-2009,2345
+S08000031,Greater Glasgow and Clyde,health board,2008-2009,12886
+S08000032,Lanarkshire,health board,2008-2009,4609
+S08000015,Ayrshire and Arran,health board,2009-2010,3869
+S08000016,Borders,health board,2009-2010,655
+S08000017,Dumfries and Galloway,health board,2009-2010,782
+S08000019,Forth Valley,health board,2009-2010,1533
+S08000020,Grampian,health board,2009-2010,3720
+S08000022,Highland,health board,2009-2010,2573
+S08000024,Lothian,health board,2009-2010,4928
+S08000025,Orkney,health board,2009-2010,227
+S08000026,Shetland,health board,2009-2010,176
+S08000028,Western Isles,health board,2009-2010,286
+S08000029,Fife,health board,2009-2010,2273
+S08000030,Tayside,health board,2009-2010,2100
+S08000031,Greater Glasgow and Clyde,health board,2009-2010,12236
+S08000032,Lanarkshire,health board,2009-2010,3986
+S08000015,Ayrshire and Arran,health board,2010-2011,3718
+S08000016,Borders,health board,2010-2011,602
+S08000017,Dumfries and Galloway,health board,2010-2011,780
+S08000019,Forth Valley,health board,2010-2011,1189
+S08000020,Grampian,health board,2010-2011,3378
+S08000022,Highland,health board,2010-2011,2441
+S08000024,Lothian,health board,2010-2011,5245
+S08000025,Orkney,health board,2010-2011,373
+S08000026,Shetland,health board,2010-2011,164
+S08000028,Western Isles,health board,2010-2011,293
+S08000029,Fife,health board,2010-2011,2174
+S08000030,Tayside,health board,2010-2011,2232
+S08000031,Greater Glasgow and Clyde,health board,2010-2011,12451
+S08000032,Lanarkshire,health board,2010-2011,3930
+S08000015,Ayrshire and Arran,health board,2011-2012,3588
+S08000016,Borders,health board,2011-2012,694
+S08000017,Dumfries and Galloway,health board,2011-2012,740
+S08000019,Forth Valley,health board,2011-2012,1325
+S08000020,Grampian,health board,2011-2012,3507
+S08000022,Highland,health board,2011-2012,2357
+S08000024,Lothian,health board,2011-2012,5266
+S08000025,Orkney,health board,2011-2012,362
+S08000026,Shetland,health board,2011-2012,223
+S08000028,Western Isles,health board,2011-2012,268
+S08000029,Fife,health board,2011-2012,1992
+S08000030,Tayside,health board,2011-2012,2008
+S08000031,Greater Glasgow and Clyde,health board,2011-2012,11917
+S08000032,Lanarkshire,health board,2011-2012,4570
+S08000015,Ayrshire and Arran,health board,2012-2013,3121
+S08000016,Borders,health board,2012-2013,619
+S08000017,Dumfries and Galloway,health board,2012-2013,733
+S08000019,Forth Valley,health board,2012-2013,1302
+S08000020,Grampian,health board,2012-2013,3010
+S08000022,Highland,health board,2012-2013,2239
+S08000024,Lothian,health board,2012-2013,5025
+S08000025,Orkney,health board,2012-2013,349
+S08000026,Shetland,health board,2012-2013,166
+S08000028,Western Isles,health board,2012-2013,234
+S08000029,Fife,health board,2012-2013,2253
+S08000030,Tayside,health board,2012-2013,1998
+S08000031,Greater Glasgow and Clyde,health board,2012-2013,10676
+S08000032,Lanarkshire,health board,2012-2013,4485
+S08000015,Ayrshire and Arran,health board,2013-2014,3025
+S08000016,Borders,health board,2013-2014,633
+S08000017,Dumfries and Galloway,health board,2013-2014,784
+S08000019,Forth Valley,health board,2013-2014,1450
+S08000020,Grampian,health board,2013-2014,3039
+S08000022,Highland,health board,2013-2014,2178
+S08000024,Lothian,health board,2013-2014,4955
+S08000025,Orkney,health board,2013-2014,320
+S08000026,Shetland,health board,2013-2014,161
+S08000028,Western Isles,health board,2013-2014,251
+S08000029,Fife,health board,2013-2014,2292
+S08000030,Tayside,health board,2013-2014,1995
+S08000031,Greater Glasgow and Clyde,health board,2013-2014,10860
+S08000032,Lanarkshire,health board,2013-2014,4783
+S08000015,Ayrshire and Arran,health board,2014-2015,2865
+S08000016,Borders,health board,2014-2015,522
+S08000017,Dumfries and Galloway,health board,2014-2015,636
+S08000019,Forth Valley,health board,2014-2015,1391
+S08000020,Grampian,health board,2014-2015,2796
+S08000022,Highland,health board,2014-2015,2210
+S08000024,Lothian,health board,2014-2015,4921
+S08000025,Orkney,health board,2014-2015,160
+S08000026,Shetland,health board,2014-2015,135
+S08000028,Western Isles,health board,2014-2015,179
+S08000029,Fife,health board,2014-2015,2275
+S08000030,Tayside,health board,2014-2015,2062
+S08000031,Greater Glasgow and Clyde,health board,2014-2015,10525
+S08000032,Lanarkshire,health board,2014-2015,4634
+S08000015,Ayrshire and Arran,health board,2015-2016,2674
+S08000016,Borders,health board,2015-2016,497
+S08000017,Dumfries and Galloway,health board,2015-2016,697
+S08000019,Forth Valley,health board,2015-2016,1478
+S08000020,Grampian,health board,2015-2016,2812
+S08000022,Highland,health board,2015-2016,2160
+S08000024,Lothian,health board,2015-2016,4688
+S08000025,Orkney,health board,2015-2016,154
+S08000026,Shetland,health board,2015-2016,151
+S08000028,Western Isles,health board,2015-2016,206
+S08000029,Fife,health board,2015-2016,2202
+S08000030,Tayside,health board,2015-2016,1841
+S08000031,Greater Glasgow and Clyde,health board,2015-2016,10912
+S08000032,Lanarkshire,health board,2015-2016,4904
+S08000015,Ayrshire and Arran,health board,2016-2017,2866
+S08000016,Borders,health board,2016-2017,507
+S08000017,Dumfries and Galloway,health board,2016-2017,666
+S08000019,Forth Valley,health board,2016-2017,1390
+S08000020,Grampian,health board,2016-2017,2814
+S08000022,Highland,health board,2016-2017,2067
+S08000024,Lothian,health board,2016-2017,4511
+S08000025,Orkney,health board,2016-2017,127
+S08000026,Shetland,health board,2016-2017,140
+S08000028,Western Isles,health board,2016-2017,228
+S08000029,Fife,health board,2016-2017,2344
+S08000030,Tayside,health board,2016-2017,1903
+S08000031,Greater Glasgow and Clyde,health board,2016-2017,11613
+S08000032,Lanarkshire,health board,2016-2017,5059
