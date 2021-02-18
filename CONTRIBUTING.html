@@ -378,31 +378,26 @@ summary {
 <div id="quick-contributions" class="section level1">
 <h1>Quick Contributions:</h1>
 <p>Add a dataset to the app! Currently, 4 of approximately 200 datasets have been cleaned and incorporated into the app. The full list is here: <a href="data/clean_data/ods_dataset_lookup.csv">ods_dataset_lookup</a>.</p>
+<p>After forking this repo</p>
 <ol style="list-style-type: decimal">
-<li>Pick a dataset from the list and investigate it using either the (<code>opendatascot</code>)[<a href="https://github.com/DataScienceScotland/opendatascot" class="uri">https://github.com/DataScienceScotland/opendatascot</a>] library or finidng the dataset on <a href="https://statistics.gov.scot/home">statistics.gov.scot</a>. Make sure the dataset fits the following criteria:</li>
-</ol>
+<li><p>Pick a dataset from the list and investigate it using either the (<code>opendatascot</code>)[<a href="https://github.com/DataScienceScotland/opendatascot" class="uri">https://github.com/DataScienceScotland/opendatascot</a>] library or finidng the dataset on <a href="https://statistics.gov.scot/home">statistics.gov.scot</a>. Make sure the dataset fits the following criteria:</p>
 <ul>
 <li>does not currently exist within the app</li>
 <li>has associated datazones - health boards (S08….), or local authorities (council areas, S12….)</li>
-</ul>
-<ol start="2" style="list-style-type: decimal">
-<li>Get to know the data</li>
-</ol>
+</ul></li>
+<li><p>Get to know the data</p>
 <ul>
 <li>decide which variables <strong>should</strong> be able to be explored by the user in the app</li>
-</ul>
-<ol start="3" style="list-style-type: decimal">
-<li>Decide what changes must be made to the dataset to bring it into accordance with the standard for the app. Expected form:</li>
+</ul></li>
+<li><p>Decide what changes must be made to the dataset to bring it into accordance with the standard for the app. Expected form:</p></li>
 </ol>
-<table style="width:100%;">
+<table>
 <colgroup>
-<col width="14%"></col>
-<col width="14%"></col>
-<col width="14%"></col>
-<col width="14%"></col>
-<col width="14%"></col>
-<col width="14%"></col>
-<col width="14%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
+<col width="20%"></col>
 </colgroup>
 <thead>
 <tr class="header">
@@ -411,27 +406,54 @@ summary {
 <th>area_type</th>
 <th>exploratory_vars(depends on dataset)</th>
 <th>value</th>
-<th></th>
-<th></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>S1200000</td>
-<td>Aberdeenshire</td>
+<td>S12000033</td>
+<td>Aberdeen City</td>
 <td>local authority</td>
-<td>2005</td>
+<td>2005-2007</td>
 <td>100</td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
+<p>For consistency in the ui, explanatory vars should be limited to 4 (max.) and any reference period/year vars should be listed first.</p>
 <ol start="4" style="list-style-type: decimal">
-<li><p>Clean and wrangle the data so that it is in the standard form for the app</p></li>
+<li>Clean and wrangle the data so that it is in the standard form for the app</li>
+</ol>
+<p>Have a look at and follow the style of <a href="scripts/cleaning.R">cleaning_script</a>.</p>
+<ol start="5" style="list-style-type: decimal">
 <li><p>Update the cleaning script</p></li>
 <li><p>Update the file <a href="list_of_dfs.R">list_of_dfs.R</a></p></li>
 </ol>
+<p>The first level of the list contains categories or “themes” from <a href="https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdef%2Fconcept%2Ffolders%2Fthemes">statistics.gov.uk</a>. Each category is a list of lists. When adding the now-cleaned dataset follow this pattern:</p>
+<pre><code>&quot;dataset_name(from statistics.gov)&quot; = list(
+  data = read_csv(&quot;data/clean_data/clean_dataset.csv&quot;),
+  explorable_vars = c(&quot;var_1&quot;, &quot;var_2&quot;),
+  explorable_areas = &quot;local authority&quot;,
+  units = &quot;things&quot;,
+  reverse_colours = FALSE (default is light colour for low numbers, to reverse this, change this value to TRUE),
+  by_pop = FALSE, (if it&#39;s useful to allow the user to compare the value/1000 people then set this to TRUE),
+  url = &quot;link_to_data&quot;,
+  notes = &quot;The data was collected every three years.&quot;
+)</code></pre>
+<p>e.g.</p>
+<pre><code>&quot;Council House Sales&quot; = list(
+  data = read_csv(&quot;data/clean_data/council_house_sales.csv&quot;),
+  explorable_vars = c(&quot;year&quot;, &quot;dwelling_type&quot;),
+  explorable_areas = c(&quot;health board&quot;, &quot;local authority&quot;),
+  units = &quot;dwellings&quot;,
+  reverse_colours = FALSE,
+  by_pop = TRUE,
+  url = &quot;&quot;,
+  notes = &quot;&quot;
+)</code></pre>
+<ol start="7" style="list-style-type: decimal">
+<li><p>Test the app (both for your added dataset and previous (working) datasets)</p></li>
+<li><p>Open pull request</p></li>
+</ol>
+<p>It’s recommended to create a Git branch for each PR and please limit one dataset addition per pull request.</p>
 </div>
 <div id="thoughtful-contributions" class="section level1">
 <h1>Thoughtful Contributions:</h1>

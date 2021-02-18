@@ -11,19 +11,19 @@ After forking this repo
 finidng the dataset on [statistics.gov.scot](https://statistics.gov.scot/home).
 Make sure the dataset fits the following criteria:
 
-+ does not currently exist within the app
-+ has associated datazones - health boards (S08....), or local
+   + does not currently exist within the app
+   + has associated datazones - health boards (S08....), or local
 authorities (council areas, S12....)
 
 2. Get to know the data
-+ decide which variables **should** be able to be explored by the user in the
+   + decide which variables **should** be able to be explored by the user in the
 app
 
 3. Decide what changes must be made to the dataset to bring it into accordance
 with the standard for the app. Expected form:
 
 |area_code|reference_area|area_type|exploratory_vars(depends on dataset)|value|
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|
 |S12000033|Aberdeen City|local authority|2005-2007|100
 
 For consistency in the ui, explanatory vars should be limited to 4 (max.) and
