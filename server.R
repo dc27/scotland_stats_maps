@@ -78,15 +78,21 @@ server <- function(input, output, session){
     }
     })
   
+  fixed_values <- eventReactive(input$update, {
+    coerce_values(selected_df())
+  })
+  
+  
   # get units. update if option selected: per 1000persons
   units <- eventReactive(input$update, {
     if (!isTruthy(by_pop()) | !isTruthy(input$population)) {
       dfs[[input$category]][[input$dataset]]$units
-    } else {
+    }
+    else {
       paste0(dfs[[input$category]][[input$dataset]]$units, " per 1000persons")
     }
   })
-
+  
 
   # render basemap
   output$scotland_map <- renderLeaflet({
@@ -104,9 +110,9 @@ server <- function(input, output, session){
   # join values to polygons based on area type
   plot_spdf <- eventReactive(input$update, {
     if (input$area_type == "health board") {
-      spdf <- join_with_shapes(selected_df(), hb_shapes)
+      spdf <- join_with_shapes(fixed_values(), hb_shapes)
     } else if (input$area_type == "local authority") {
-      spdf <- join_with_shapes(selected_df(), la_shapes)
+      spdf <- join_with_shapes(fixed_values(), la_shapes)
     }
   })
   
@@ -115,7 +121,9 @@ server <- function(input, output, session){
   colours <- eventReactive(input$update, input$colour_choice)
   
   observeEvent(input$update, {
+    # dev/testing! - this is a good spot for a break-point
     if (nrow(selected_df()) == 0) {
+      # no data label
       leafletProxy("scotland_map") %>% 
         clearShapes() %>% 
         clearMarkers() %>% 
@@ -134,13 +142,12 @@ server <- function(input, output, session){
     }
   })
   
-  
   # plot legend
   observeEvent(input$update, {
     leafletProxy("scotland_map") %>% 
       clearControls()
     
-    if (input$legend & nrow(selected_df())!=0)  {
+    if (input$legend & nrow(fixed_values())!=0)  {
       add_legend(
         "scotland_map", spdf = plot_spdf(),
         colour_scheme = colours(),
@@ -152,7 +159,7 @@ server <- function(input, output, session){
 
   # basic bar plot
   output$basic_bar <- renderPlot({
-    basic_bar(selected_df(), units())
+    basic_bar(fixed_values(), units())
   }, height = "auto")
   
   # url output
@@ -165,6 +172,6 @@ server <- function(input, output, session){
   })
   
   # table output
-  output$table <- renderTable(selected_df() %>% 
+  output$table <- renderTable(fixed_values() %>% 
                                 select(-area_type))
 }

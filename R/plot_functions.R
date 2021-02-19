@@ -3,12 +3,19 @@ add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd", revCo
   
   order <- ifelse(revColours == TRUE, -1, 1)
   
-  
-  # pretty labels
-  labels <- sprintf(paste0("<strong>%s</strong><br/>%s ",units),
-                    spdf$area_name,
-                    scales::number_format(big.mark = ",")(spdf$value)) %>%
-    lapply(htmltools::HTML)
+  # pretty labels, if big numbers change to strings to include commas
+  if (mean(spdf$value, na.rm = TRUE) > 10000) {
+    labels <- sprintf(paste0("<strong>%s</strong><br/>%s ",units),
+                      spdf$area_name,
+                      scales::number_format(big.mark = ",")(spdf$value)) %>%
+      lapply(htmltools::HTML)
+  } else {
+    labels <- sprintf(paste0("<strong>%s</strong><br/>%g ",units),
+                      spdf$area_name,
+                      spdf$value) %>%
+      lapply(htmltools::HTML)
+  }
+
   
   # add polygons highlight on hover
   leafletProxy(basemap) %>%
