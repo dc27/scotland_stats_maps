@@ -37,6 +37,7 @@ server <- function(input, output, session){
       })
     })
   
+  
   output$title <- renderText({
     title()
   })
@@ -85,13 +86,20 @@ server <- function(input, output, session){
   
   # get units. update if option selected: per 1000persons
   units <- eventReactive(input$update, {
-    if (!isTruthy(by_pop()) | !isTruthy(input$population)) {
+    # if measure type exists - measure type decides
+    # else if population box is ticked - decides
+    # else use units provided with data
+    
+    if (("measure_type" %in% names(input)) && (input$measure_type == "Ratio")) {
+      "%%"
+    } else if (("population" %in% names(input)) && (input$population)) {
+      paste0(dfs[[input$category]][[input$dataset]]$units, " per 1000persons")
+    } else {
       dfs[[input$category]][[input$dataset]]$units
     }
-    else {
-      paste0(dfs[[input$category]][[input$dataset]]$units, " per 1000persons")
-    }
   })
+  
+  
   
 
   # render basemap
@@ -122,6 +130,7 @@ server <- function(input, output, session){
   
   observeEvent(input$update, {
     # dev/testing! - this is a good spot for a break-point
+    # browser()
     if (nrow(selected_df()) == 0) {
       # no data label
       leafletProxy("scotland_map") %>% 
