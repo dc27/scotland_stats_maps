@@ -100,7 +100,6 @@ server <- function(input, output, session){
   })
   
   
-  
 
   # render basemap
   output$scotland_map <- renderLeaflet({

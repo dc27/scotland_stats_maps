@@ -40,6 +40,16 @@
     by_pop = FALSE,
     url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-discharge",
     notes = "obsolete"
+    ),
+    "Alcohol Related Hospital Statistics" = list(
+      data = read_csv("data/clean_data/alcohol_related_hospital_stats.csv"),
+      explorable_vars = c("reference_period", "alcohol_condition", "measure_type"),
+      explorable_areas = c("health board", "local authority"),
+      units = "",
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics",
+      notes = ""
     )
   ),
   "Housing" = list(

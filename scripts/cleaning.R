@@ -181,10 +181,6 @@ adults_with_low_no_qualifications_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "adults-16-64-years-with-low-or-no-qualifications")
 
-# update dataset lookup csv
-updated_lookup %>% 
-  write_csv("data/clean_data/ods_dataset_lookup.csv")
-
 # ----- Alcohol related discharges -----
 
 # 1. get data
@@ -214,3 +210,37 @@ alcohol_related_discharge_data_clean %>%
 
 # 4. update dataset lookup
 updated_lookup <- update_lookup(URI_name = "alcohol-related-discharge")
+
+
+
+# ----- Alcohol Related Hospital Statistics -----
+
+arhs_data <- read_csv("data/raw_data/alcohol-related-hospital-stats.csv")
+
+arhs_data_clean <- arhs_data %>%
+  janitor::clean_names() %>% 
+  rename(area_code = feature_code,
+         reference_period = date_code) %>% 
+  inner_join(datazone_lookup, by = c("area_code" = "area_code")) %>% 
+  select(area_code,
+         area_name,
+         area_type,
+         reference_period,
+         alcohol_condition,
+         measure_type = measurement,
+         units,
+         value)
+
+arhs_data_clean %>% 
+  write_csv("data/clean_data/alcohol_related_hospital_stats.csv")
+
+updated_lookup <- update_lookup(
+  URI_name = "alcohol-related-hospital-statistics"
+  )
+
+
+# ----- Write Dataset Lookup (must be last) ------
+
+# update dataset lookup csv
+updated_lookup %>% 
+  write_csv("data/clean_data/ods_dataset_lookup.csv")

@@ -1,8 +1,8 @@
 URI,Name,Publisher,good_ref_period,in_app
 adults-16-64-years-with-low-or-no-qualifications,Adults (16-64 years) with low or no qualifications,Scottish Government,TRUE,TRUE
 age-at-first-birth,Age of First Time Mothers,Public Health Scotland,FALSE,FALSE
-alcohol-related-discharge,Alcohol Related Hospital Discharges,Public Health Scotland,TRUE,FALSE
-alcohol-related-hospital-statistics,Alcohol Related Hospital Statistics,Public Health Scotland,TRUE,FALSE
+alcohol-related-discharge,Alcohol Related Hospital Discharges,Public Health Scotland,TRUE,TRUE
+alcohol-related-hospital-statistics,Alcohol Related Hospital Statistics,Public Health Scotland,TRUE,TRUE
 annual-business-survey,Annual Business Survey,Scottish Government,TRUE,FALSE
 smoking-at-booking,Ante-Natal Smoking,Public Health Scotland,FALSE,FALSE
 area-improvement---shs,Area improvement - Scottish Household Survey,Scottish Government,TRUE,FALSE
