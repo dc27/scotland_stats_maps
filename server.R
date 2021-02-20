@@ -129,7 +129,6 @@ server <- function(input, output, session){
   
   observeEvent(input$update, {
     # dev/testing! - this is a good spot for a break-point
-    # browser()
     if (nrow(selected_df()) == 0) {
       # no data label
       leafletProxy("scotland_map") %>% 
@@ -152,9 +151,9 @@ server <- function(input, output, session){
   
   # plot legend
   observeEvent(input$update, {
-    leafletProxy("scotland_map") %>% 
+    leafletProxy("scotland_map") %>%
       clearControls()
-    
+
     if (input$legend & nrow(fixed_values())!=0)  {
       add_legend(
         "scotland_map", spdf = plot_spdf(),

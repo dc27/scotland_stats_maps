@@ -31,15 +31,15 @@
   ),
   "Health and Social Care" = list(
     "Alcohol Related Discharge" = list(
-    data = read_csv("data/clean_data/alcohol_related_discharge.csv",
-                    col_types = cols(value = col_integer())),
-    explorable_vars = c("ref_period"),
-    explorable_areas = c("health board", "local authority"),
-    units = "persons",
-    reverse_colours = FALSE,
-    by_pop = FALSE,
-    url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-discharge",
-    notes = "obsolete"
+      data = read_csv("data/clean_data/alcohol_related_discharge.csv",
+                      col_types = cols(value = col_integer())),
+      explorable_vars = c("ref_period"),
+      explorable_areas = c("health board", "local authority"),
+      units = "persons",
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-discharge",
+      notes = "obsolete"
     ),
     "Alcohol Related Hospital Statistics" = list(
       data = read_csv("data/clean_data/alcohol_related_hospital_stats.csv"),

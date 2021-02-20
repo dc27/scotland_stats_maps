@@ -223,7 +223,7 @@ arhs_data_clean <- arhs_data %>%
          reference_period = date_code) %>% 
   inner_join(datazone_lookup, by = c("area_code" = "area_code")) %>% 
   select(area_code,
-         area_name,
+         reference_area = area_name,
          area_type,
          reference_period,
          alcohol_condition,
