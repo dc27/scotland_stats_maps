@@ -22,15 +22,40 @@ app
 3. Decide what changes must be made to the dataset to bring it into accordance
 with the standard for the app. Expected form:
 
-|area_code|reference_area|area_type|exploratory_vars(depends on dataset)|value|
-|-|-|-|-|-|
-|S12000033|Aberdeen City|local authority|2005-2007|100
+<table>
+  <tr>
+    <td>area_code</td>
+    <td>reference_area</td>
+    <td>area_type</td>
+    <td colspan="2">exploratory_vars (depends on dataset)</td>
+    <td>value</td>
+    <td>units</td>
+  </tr>
+  <tr>
+    <td>S12000033</td>
+    <td>Aberdeen City</td>
+    <td>Local Authority</td>
+    <td>2005-2007</td>
+    <td>Count</td>
+    <td>1000</td>
+    <td>Persons</td>
+  </tr>
+    <tr>
+    <td>S12000033</td>
+    <td>Aberdeen City</td>
+    <td>Local Authority</td>
+    <td>2005-2007</td>
+    <td>Ratio</td>
+    <td>0.62</td>
+    <td>Persons Per 1000</td>
+  </tr>
+</table>
 
 For consistency in the ui, explanatory vars should be limited to 4 (max.) and
 any reference period/year vars should be listed first.
 
 4. Clean and wrangle the data so that it is in the standard form for the app.
-Variables should be snake_case.
+Variables should be snake_case. Values should be in Title Case.
 
 Have a look at and follow the style of [cleaning_script](scripts/cleaning.R).
 
@@ -46,8 +71,6 @@ this pattern:
 "dataset_name(from statistics.gov)" = list(
   data = read_csv("data/clean_data/clean_dataset.csv"),
   explorable_vars = c("var_1", "var_2"),
-  explorable_areas = "local authority",
-  units = "things",
   reverse_colours = FALSE (default is light colour for low numbers, to reverse this, change this value to TRUE),
   by_pop = FALSE, (if it's useful to allow the user to compare the value/1000 people then set this to TRUE),
   url = "link_to_data",
@@ -59,8 +82,6 @@ e.g.
 "Council House Sales" = list(
   data = read_csv("data/clean_data/council_house_sales.csv"),
   explorable_vars = c("year", "dwelling_type"),
-  explorable_areas = c("health board", "local authority"),
-  units = "dwellings",
   reverse_colours = FALSE,
   by_pop = TRUE,
   url = "",

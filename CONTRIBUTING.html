@@ -392,35 +392,76 @@ summary {
 <li><p>Decide what changes must be made to the dataset to bring it into accordance with the standard for the app. Expected form:</p></li>
 </ol>
 <table>
-<colgroup>
-<col width="20%"></col>
-<col width="20%"></col>
-<col width="20%"></col>
-<col width="20%"></col>
-<col width="20%"></col>
-</colgroup>
-<thead>
-<tr class="header">
-<th>area_code</th>
-<th>reference_area</th>
-<th>area_type</th>
-<th>exploratory_vars(depends on dataset)</th>
-<th>value</th>
+<tr>
+<td>
+area_code
+</td>
+<td>
+reference_area
+</td>
+<td>
+area_type
+</td>
+<td colspan="2">
+exploratory_vars (depends on dataset)
+</td>
+<td>
+value
+</td>
+<td>
+units
+</td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>S12000033</td>
-<td>Aberdeen City</td>
-<td>local authority</td>
-<td>2005-2007</td>
-<td>100</td>
+<tr>
+<td>
+S12000033
+</td>
+<td>
+Aberdeen City
+</td>
+<td>
+Local Authority
+</td>
+<td>
+2005-2007
+</td>
+<td>
+Count
+</td>
+<td>
+1000
+</td>
+<td>
+Persons
+</td>
 </tr>
-</tbody>
+<tr>
+<td>
+S12000033
+</td>
+<td>
+Aberdeen City
+</td>
+<td>
+Local Authority
+</td>
+<td>
+2005-2007
+</td>
+<td>
+Ratio
+</td>
+<td>
+0.62
+</td>
+<td>
+Persons Per 1000
+</td>
+</tr>
 </table>
 <p>For consistency in the ui, explanatory vars should be limited to 4 (max.) and any reference period/year vars should be listed first.</p>
 <ol start="4" style="list-style-type: decimal">
-<li>Clean and wrangle the data so that it is in the standard form for the app</li>
+<li>Clean and wrangle the data so that it is in the standard form for the app. Variables should be snake_case. Values should be in Title Case.</li>
 </ol>
 <p>Have a look at and follow the style of <a href="scripts/cleaning.R">cleaning_script</a>.</p>
 <ol start="5" style="list-style-type: decimal">
@@ -431,8 +472,6 @@ summary {
 <pre><code>&quot;dataset_name(from statistics.gov)&quot; = list(
   data = read_csv(&quot;data/clean_data/clean_dataset.csv&quot;),
   explorable_vars = c(&quot;var_1&quot;, &quot;var_2&quot;),
-  explorable_areas = &quot;local authority&quot;,
-  units = &quot;things&quot;,
   reverse_colours = FALSE (default is light colour for low numbers, to reverse this, change this value to TRUE),
   by_pop = FALSE, (if it&#39;s useful to allow the user to compare the value/1000 people then set this to TRUE),
   url = &quot;link_to_data&quot;,
@@ -442,8 +481,6 @@ summary {
 <pre><code>&quot;Council House Sales&quot; = list(
   data = read_csv(&quot;data/clean_data/council_house_sales.csv&quot;),
   explorable_vars = c(&quot;year&quot;, &quot;dwelling_type&quot;),
-  explorable_areas = c(&quot;health board&quot;, &quot;local authority&quot;),
-  units = &quot;dwellings&quot;,
   reverse_colours = FALSE,
   by_pop = TRUE,
   url = &quot;&quot;,
