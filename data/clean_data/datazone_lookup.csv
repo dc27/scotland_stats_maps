@@ -1,47 +1,47 @@
 area_type,area_code,area_name
-local authority,S12000033,Aberdeen City
-local authority,S12000034,Aberdeenshire
-local authority,S12000041,Angus
-local authority,S12000035,Argyll and Bute
-local authority,S12000005,Clackmannanshire
-local authority,S12000006,Dumfries and Galloway
-local authority,S12000042,Dundee City
-local authority,S12000008,East Ayrshire
-local authority,S12000045,East Dunbartonshire
-local authority,S12000010,East Lothian
-local authority,S12000011,East Renfrewshire
-local authority,S12000036,City of Edinburgh
-local authority,S12000013,Na h-Eileanan Siar
-local authority,S12000014,Falkirk
-local authority,S12000047,Fife
-local authority,S12000049,Glasgow City
-local authority,S12000017,Highland
-local authority,S12000018,Inverclyde
-local authority,S12000019,Midlothian
-local authority,S12000020,Moray
-local authority,S12000021,North Ayrshire
-local authority,S12000050,North Lanarkshire
-local authority,S12000023,Orkney Islands
-local authority,S12000048,Perth and Kinross
-local authority,S12000038,Renfrewshire
-local authority,S12000026,Scottish Borders
-local authority,S12000027,Shetland Islands
-local authority,S12000028,South Ayrshire
-local authority,S12000029,South Lanarkshire
-local authority,S12000030,Stirling
-local authority,S12000039,West Dunbartonshire
-local authority,S12000040,West Lothian
-health board,S08000020,Grampian
-health board,S08000030,Tayside
-health board,S08000022,Highland
-health board,S08000019,Forth Valley
-health board,S08000017,Dumfries and Galloway
-health board,S08000015,Ayrshire and Arran
-health board,S08000031,Greater Glasgow and Clyde
-health board,S08000024,Lothian
-health board,S08000028,Western Isles
-health board,S08000029,Fife
-health board,S08000032,Lanarkshire
-health board,S08000025,Orkney
-health board,S08000016,Borders
-health board,S08000026,Shetland
+Local Authority,S12000033,Aberdeen City
+Local Authority,S12000034,Aberdeenshire
+Local Authority,S12000041,Angus
+Local Authority,S12000035,Argyll and Bute
+Local Authority,S12000005,Clackmannanshire
+Local Authority,S12000006,Dumfries and Galloway
+Local Authority,S12000042,Dundee City
+Local Authority,S12000008,East Ayrshire
+Local Authority,S12000045,East Dunbartonshire
+Local Authority,S12000010,East Lothian
+Local Authority,S12000011,East Renfrewshire
+Local Authority,S12000036,City of Edinburgh
+Local Authority,S12000013,Na h-Eileanan Siar
+Local Authority,S12000014,Falkirk
+Local Authority,S12000047,Fife
+Local Authority,S12000049,Glasgow City
+Local Authority,S12000017,Highland
+Local Authority,S12000018,Inverclyde
+Local Authority,S12000019,Midlothian
+Local Authority,S12000020,Moray
+Local Authority,S12000021,North Ayrshire
+Local Authority,S12000050,North Lanarkshire
+Local Authority,S12000023,Orkney Islands
+Local Authority,S12000048,Perth and Kinross
+Local Authority,S12000038,Renfrewshire
+Local Authority,S12000026,Scottish Borders
+Local Authority,S12000027,Shetland Islands
+Local Authority,S12000028,South Ayrshire
+Local Authority,S12000029,South Lanarkshire
+Local Authority,S12000030,Stirling
+Local Authority,S12000039,West Dunbartonshire
+Local Authority,S12000040,West Lothian
+Health Board,S08000020,Grampian
+Health Board,S08000030,Tayside
+Health Board,S08000022,Highland
+Health Board,S08000019,Forth Valley
+Health Board,S08000017,Dumfries and Galloway
+Health Board,S08000015,Ayrshire and Arran
+Health Board,S08000031,Greater Glasgow and Clyde
+Health Board,S08000024,Lothian
+Health Board,S08000028,Western Isles
+Health Board,S08000029,Fife
+Health Board,S08000032,Lanarkshire
+Health Board,S08000025,Orkney
+Health Board,S08000016,Borders
+Health Board,S08000026,Shetland

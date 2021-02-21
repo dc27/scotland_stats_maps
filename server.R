@@ -40,6 +40,16 @@ server <- function(input, output, session){
       })
     })
   
+  observe({
+    updateSelectInput(
+      session, "area_type",
+      label = "Area Type",
+      choices = unique(dfs[[input$category]][[input$dataset]]$data$area_type),
+      selected = unique(
+        dfs[[input$category]][[input$dataset]]$data$area_type)[1]
+      )
+  })
+  
   
   output$title <- renderText({
     title()
@@ -111,9 +121,9 @@ server <- function(input, output, session){
   
   # join values to polygons based on area type
   plot_spdf <- eventReactive(input$update, {
-    if (input$area_type == "health board") {
+    if (input$area_type == "Health Board") {
       spdf <- join_with_shapes(fixed_values(), hb_shapes)
-    } else if (input$area_type == "local authority") {
+    } else if (input$area_type == "Local Authority") {
       spdf <- join_with_shapes(fixed_values(), la_shapes)
     }
   })

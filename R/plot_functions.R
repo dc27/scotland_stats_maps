@@ -32,8 +32,8 @@ add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd", revCo
 }
 
 
-add_legend <- function(basemap, spdf, colour_scheme = "YlOrRd", revColours = FALSE,
-                       title = "", units = "") {
+add_legend <- function(basemap, spdf, colour_scheme = "YlOrRd",
+                       revColours = FALSE, title = "", units = "") {
   order <- ifelse(revColours == TRUE, -1, 1)
   
   leafletProxy(basemap) %>%

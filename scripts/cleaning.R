@@ -20,8 +20,8 @@ hb_datazones <- datazones %>%
   select(area_code = HB_Code, area_name = HB_Name) %>% 
   unique()
 
-datazone_lookup <- bind_rows(list("local authority" = la_datazones,
-                                  "health board" = hb_datazones),
+datazone_lookup <- bind_rows(list("Local Authority" = la_datazones,
+                                  "Health Board" = hb_datazones),
                              .id = "area_type")
 
 datazone_lookup %>% 
@@ -50,8 +50,8 @@ pop_data <- bind_rows(list("Male" = elongate_pop_df(population_data_m),
 add_area_type_col<-function(df) {
   df %>% 
     mutate(area_type = case_when(
-      str_detect(area_code, "^S12+") ~ "local authority",
-      str_detect(area_code, "^S08+") ~ "health board"))
+      str_detect(area_code, "^S12+") ~ "Local Authority",
+      str_detect(area_code, "^S08+") ~ "Health Board"))
 }
 
 pop_data <- add_area_type_col(pop_data) %>% 
@@ -169,7 +169,8 @@ adults_with_low_no_qualifications_clean <- adults_with_low_no_qualifications %>%
   janitor::clean_names() %>% 
   mutate_if(is.character, str_to_title) %>%
   mutate(age = factor(age,
-                      levels = c("16-64", "16-24", "25-34", "35-49", "50-64"))) %>% 
+                      levels = c("16-64", "16-24", "25-34",
+                                 "35-49", "50-64"))) %>% 
   rename(area_code = ref_area,
          year = ref_period) %>% 
   left_join(datazone_lookup, by = c("area_code" = "area_code")) %>% 
@@ -190,7 +191,9 @@ adults_with_low_no_qualifications_clean <- adults_with_low_no_qualifications %>%
 adults_with_low_no_qualifications_clean %>% 
   write_csv("data/clean_data/low_no_qualifications.csv")
 
-updated_lookup <- update_lookup(URI_name = "adults-16-64-years-with-low-or-no-qualifications")
+updated_lookup <- update_lookup(
+  URI_name = "adults-16-64-years-with-low-or-no-qualifications"
+  )
 
 # ----- Alcohol related discharges -----
 

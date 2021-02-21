@@ -21,7 +21,6 @@ for (category in dfs) {
     # only run if all fields not null
     assert_that(!is.null(df$data))
     assert_that(!is.null(df$explorable_vars))
-    assert_that(!is.null(df$explorable_areas))
     assert_that(!is.null(df$reverse_colours))
     assert_that(!is.null(df$by_pop))
     assert_that(!is.null(df$url))
@@ -32,7 +31,7 @@ for (category in dfs) {
                   "area_type", "value", "units") %in% names(df$data)))
     # area type must be local authority or health board
     assert_that(
-      any(c("health board", "local authority") %in% unique(df$data$area_type))
+      any(c("Health Board", "Local Authority") %in% unique(df$data$area_type))
       )
   }
 }

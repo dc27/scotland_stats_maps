@@ -34,7 +34,6 @@
       data = read_csv("data/clean_data/alcohol_related_discharge.csv",
                       col_types = cols(value = col_integer())),
       explorable_vars = c("ref_period"),
-      explorable_areas = c("health board", "local authority"),
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-discharge",
@@ -43,7 +42,6 @@
     "Alcohol Related Hospital Statistics" = list(
       data = read_csv("data/clean_data/alcohol_related_hospital_stats.csv"),
       explorable_vars = c("reference_period", "alcohol_condition", "measure_type"),
-      explorable_areas = c("health board", "local authority"),
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics",
@@ -54,7 +52,6 @@
     "Council House Sales" = list(
       data = read_csv("data/clean_data/council_house_sales.csv"),
       explorable_vars = c("year", "dwelling_type"),
-      explorable_areas = c("health board", "local authority"),
       units = "dwellings",
       reverse_colours = FALSE,
       by_pop = TRUE,
@@ -67,7 +64,6 @@
       data = read_csv("data/clean_data/low_no_qualifications.csv",
                       col_types = cols(age = col_factor())),
       explorable_vars = c("year", "gender", "age", "measure_type"),
-      explorable_areas = c("local authority"),
       units = "persons",
       reverse_colours = FALSE,
       by_pop = FALSE,
@@ -82,7 +78,6 @@
     "Healthy Life Expectancy" = list(
       data = read_csv("data/clean_data/healthy_life_expectancy.csv"),
       explorable_vars = c("reference_period", "sex"),
-      explorable_areas = c("health board", "local authority"),
       reverse_colours = TRUE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fhealthy-life-expectancy",
@@ -91,7 +86,6 @@
     "Population Estimates" = list(
       data = read_csv("data/clean_data/population_estimates.csv"),
       explorable_vars = c("year", "sex"),
-      explorable_areas = c("health board", "local authority"),
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-2011-datazone-linked-dataset",
