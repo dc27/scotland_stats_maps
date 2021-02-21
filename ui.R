@@ -10,6 +10,7 @@ ui <- dashboardPage(
       "
       ),
     fluidRow(
+      # Data Vis
       column(
         9,
         tabBox(
@@ -31,43 +32,42 @@ ui <- dashboardPage(
           )
         )
       ),
+      # Input Options
       column(
         3,
         fluidRow(
           box(
             width = 12,
-            tags$h4("Dataset Options"),
-            selectInput(
-              "category",
-              label = "Theme",
-              choices = sort(names(dfs)),
-              selected = "Population"
-            ),
-            selectInput(
-              "dataset", label = "Dataset", choices = NULL
-            ),
-            tags$hr(),
-            uiOutput("dropdowns"),
-            uiOutput("pop_button"),
-            tags$hr(),
-            selectInput(
-              "area_type",
-              "Area Type",
-              c("Health Board" = "health board",
-                "Local Authority" = "local authority"),
-              "Health Board"
-            ),
-            tags$hr(),
-            tags$h4("Map Options"),
+            tags$h4("Options"),
             fluidRow(
               tabBox(
                 width = 12,
                 tabPanel(
-                  "Basic", 
-                  checkboxInput("legend", "Show legend", TRUE)
+                  "Input",
+                  selectInput(
+                    "category",
+                    label = "Theme",
+                    choices = sort(names(dfs)),
+                    selected = "Population"
+                  ),
+                  selectInput(
+                    "dataset", label = "Dataset", choices = NULL
+                  ),
+                  tags$hr(),
+                  uiOutput("dropdowns"),
+                  uiOutput("pop_button"),
+                  tags$hr(),
+                  selectInput(
+                    "area_type",
+                    "Area Type",
+                    c("Health Board" = "health board",
+                      "Local Authority" = "local authority"),
+                    "Health Board"
+                  )
                 ),
                 tabPanel(
-                  "Advanced",
+                  "Appearance",
+                  checkboxInput("legend", "Show legend", TRUE),
                   selectInput(
                     "colour_choice",
                     "Colour Palette",
@@ -77,7 +77,9 @@ ui <- dashboardPage(
                 )
               )
             ),
-            actionButton("update", "Update")
+            textOutput("notes"),
+            tags$div(style = "text-align:center;",
+                     actionButton("update", "Update"))
           )
         )
       )
