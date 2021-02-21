@@ -12,7 +12,7 @@ coerce_values <- function(df) {
   numeric_cols <- df %>% select(where(is.numeric)) %>% names()
   
   for (col in numeric_cols) {
-    if (sum(df[[col]]) %% 1 == 0) {
+    if (sum(df[[col]], na.rm = TRUE) %% 1 == 0) {
       df[[col]] <- as.integer(df[[col]])
     } else {
       df[[col]] <- round(df[[col]], 2)

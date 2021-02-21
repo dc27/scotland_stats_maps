@@ -1,277 +1,277 @@
-area_code,reference_area,area_type,reference_period,sex,value
-S12000033,Aberdeen City,local authority,2015-2017,Male,61.47
-S12000033,Aberdeen City,local authority,2016-2018,Male,60.96
-S12000033,Aberdeen City,local authority,2017-2019,Male,60.59
-S12000034,Aberdeenshire,local authority,2015-2017,Male,68.12
-S12000034,Aberdeenshire,local authority,2016-2018,Male,68.92
-S12000034,Aberdeenshire,local authority,2017-2019,Male,67.91
-S12000041,Angus,local authority,2015-2017,Male,62.92
-S12000041,Angus,local authority,2016-2018,Male,61.15
-S12000041,Angus,local authority,2017-2019,Male,60.98
-S12000035,Argyll and Bute,local authority,2015-2017,Male,64.29
-S12000035,Argyll and Bute,local authority,2016-2018,Male,65.21
-S12000035,Argyll and Bute,local authority,2017-2019,Male,64.7
-S12000036,City of Edinburgh,local authority,2015-2017,Male,65.03
-S12000036,City of Edinburgh,local authority,2016-2018,Male,65.4
-S12000036,City of Edinburgh,local authority,2017-2019,Male,66.29
-S12000005,Clackmannanshire,local authority,2015-2017,Male,62.57
-S12000005,Clackmannanshire,local authority,2016-2018,Male,62.21
-S12000005,Clackmannanshire,local authority,2017-2019,Male,62.78
-S12000006,Dumfries and Galloway,local authority,2015-2017,Male,64.44
-S12000006,Dumfries and Galloway,local authority,2016-2018,Male,64.17
-S12000006,Dumfries and Galloway,local authority,2017-2019,Male,62.39
-S12000042,Dundee City,local authority,2015-2017,Male,56.47
-S12000042,Dundee City,local authority,2016-2018,Male,56.46
-S12000042,Dundee City,local authority,2017-2019,Male,56.84
-S12000008,East Ayrshire,local authority,2015-2017,Male,60.16
-S12000008,East Ayrshire,local authority,2016-2018,Male,57.79
-S12000008,East Ayrshire,local authority,2017-2019,Male,59.33
-S12000045,East Dunbartonshire,local authority,2015-2017,Male,68.92
-S12000045,East Dunbartonshire,local authority,2016-2018,Male,69.69
-S12000045,East Dunbartonshire,local authority,2017-2019,Male,69.81
-S12000010,East Lothian,local authority,2015-2017,Male,65.31
-S12000010,East Lothian,local authority,2016-2018,Male,65.45
-S12000010,East Lothian,local authority,2017-2019,Male,65.2
-S12000011,East Renfrewshire,local authority,2015-2017,Male,66.48
-S12000011,East Renfrewshire,local authority,2016-2018,Male,68.77
-S12000011,East Renfrewshire,local authority,2017-2019,Male,68.28
-S12000014,Falkirk,local authority,2015-2017,Male,63.23
-S12000014,Falkirk,local authority,2016-2018,Male,62.1
-S12000014,Falkirk,local authority,2017-2019,Male,62.39
-S12000047,Fife,local authority,2015-2017,Male,62.29
-S12000047,Fife,local authority,2016-2018,Male,60.97
-S12000047,Fife,local authority,2017-2019,Male,61.56
-S12000049,Glasgow City,local authority,2015-2017,Male,57.22
-S12000049,Glasgow City,local authority,2016-2018,Male,56.08
-S12000049,Glasgow City,local authority,2017-2019,Male,54.59
-S12000017,Highland,local authority,2015-2017,Male,66.26
-S12000017,Highland,local authority,2016-2018,Male,64.34
-S12000017,Highland,local authority,2017-2019,Male,63.95
-S12000018,Inverclyde,local authority,2015-2017,Male,60.47
-S12000018,Inverclyde,local authority,2016-2018,Male,59.58
-S12000018,Inverclyde,local authority,2017-2019,Male,58.35
-S12000019,Midlothian,local authority,2015-2017,Male,61.76
-S12000019,Midlothian,local authority,2016-2018,Male,61.02
-S12000019,Midlothian,local authority,2017-2019,Male,63.36
-S12000020,Moray,local authority,2015-2017,Male,64.24
-S12000020,Moray,local authority,2016-2018,Male,62.12
-S12000020,Moray,local authority,2017-2019,Male,61.48
-S12000013,Na h-Eileanan Siar,local authority,2015-2017,Male,64.97
-S12000013,Na h-Eileanan Siar,local authority,2016-2018,Male,66.07
-S12000013,Na h-Eileanan Siar,local authority,2017-2019,Male,66.99
-S12000021,North Ayrshire,local authority,2015-2017,Male,56.01
-S12000021,North Ayrshire,local authority,2016-2018,Male,57.33
-S12000021,North Ayrshire,local authority,2017-2019,Male,58.52
-S12000050,North Lanarkshire,local authority,2015-2017,Male,58.12
-S12000050,North Lanarkshire,local authority,2016-2018,Male,57.96
-S12000050,North Lanarkshire,local authority,2017-2019,Male,58.67
-S12000023,Orkney Islands,local authority,2015-2017,Male,64.62
-S12000023,Orkney Islands,local authority,2016-2018,Male,66.68
-S12000023,Orkney Islands,local authority,2017-2019,Male,69.33
-S12000048,Perth and Kinross,local authority,2015-2017,Male,67.63
-S12000048,Perth and Kinross,local authority,2016-2018,Male,66.64
-S12000048,Perth and Kinross,local authority,2017-2019,Male,66.32
-S12000038,Renfrewshire,local authority,2015-2017,Male,60.95
-S12000038,Renfrewshire,local authority,2016-2018,Male,60.17
-S12000038,Renfrewshire,local authority,2017-2019,Male,60.74
-S12000026,Scottish Borders,local authority,2015-2017,Male,64.48
-S12000026,Scottish Borders,local authority,2016-2018,Male,63.5
-S12000026,Scottish Borders,local authority,2017-2019,Male,63.31
-S12000027,Shetland Islands,local authority,2015-2017,Male,68.12
-S12000027,Shetland Islands,local authority,2016-2018,Male,67.49
-S12000027,Shetland Islands,local authority,2017-2019,Male,68.95
-S12000028,South Ayrshire,local authority,2015-2017,Male,62.13
-S12000028,South Ayrshire,local authority,2016-2018,Male,61.68
-S12000028,South Ayrshire,local authority,2017-2019,Male,59.96
-S12000029,South Lanarkshire,local authority,2015-2017,Male,60.76
-S12000029,South Lanarkshire,local authority,2016-2018,Male,59.27
-S12000029,South Lanarkshire,local authority,2017-2019,Male,57.91
-S12000030,Stirling,local authority,2015-2017,Male,64.77
-S12000030,Stirling,local authority,2016-2018,Male,63.28
-S12000030,Stirling,local authority,2017-2019,Male,61.79
-S12000039,West Dunbartonshire,local authority,2015-2017,Male,58.18
-S12000039,West Dunbartonshire,local authority,2016-2018,Male,58.35
-S12000039,West Dunbartonshire,local authority,2017-2019,Male,59.13
-S12000040,West Lothian,local authority,2015-2017,Male,61.88
-S12000040,West Lothian,local authority,2016-2018,Male,63.04
-S12000040,West Lothian,local authority,2017-2019,Male,61.33
-S08000015,Ayrshire and Arran,health board,2015-2017,Male,59.16
-S08000015,Ayrshire and Arran,health board,2016-2018,Male,58.83
-S08000015,Ayrshire and Arran,health board,2017-2019,Male,59.42
-S08000016,Borders,health board,2015-2017,Male,64.48
-S08000016,Borders,health board,2016-2018,Male,63.5
-S08000016,Borders,health board,2017-2019,Male,63.31
-S08000017,Dumfries and Galloway,health board,2015-2017,Male,64.44
-S08000017,Dumfries and Galloway,health board,2016-2018,Male,64.17
-S08000017,Dumfries and Galloway,health board,2017-2019,Male,62.39
-S08000029,Fife,health board,2015-2017,Male,62.29
-S08000029,Fife,health board,2016-2018,Male,60.97
-S08000029,Fife,health board,2017-2019,Male,61.56
-S08000019,Forth Valley,health board,2015-2017,Male,63.45
-S08000019,Forth Valley,health board,2016-2018,Male,62.53
-S08000019,Forth Valley,health board,2017-2019,Male,62.26
-S08000020,Grampian,health board,2015-2017,Male,65.16
-S08000020,Grampian,health board,2016-2018,Male,65.01
-S08000020,Grampian,health board,2017-2019,Male,64.4
-S08000031,Greater Glasgow and Clyde,health board,2015-2017,Male,60.06
-S08000031,Greater Glasgow and Clyde,health board,2016-2018,Male,59.53
-S08000031,Greater Glasgow and Clyde,health board,2017-2019,Male,59.01
-S08000022,Highland,health board,2015-2017,Male,65.57
-S08000022,Highland,health board,2016-2018,Male,64.29
-S08000022,Highland,health board,2017-2019,Male,64.1
-S08000032,Lanarkshire,health board,2015-2017,Male,59.33
-S08000032,Lanarkshire,health board,2016-2018,Male,58.57
-S08000032,Lanarkshire,health board,2017-2019,Male,58.28
-S08000024,Lothian,health board,2015-2017,Male,64.1
-S08000024,Lothian,health board,2016-2018,Male,64.47
-S08000024,Lothian,health board,2017-2019,Male,64.82
-S08000025,Orkney,health board,2015-2017,Male,64.62
-S08000025,Orkney,health board,2016-2018,Male,66.68
-S08000025,Orkney,health board,2017-2019,Male,69.33
-S08000026,Shetland,health board,2015-2017,Male,68.12
-S08000026,Shetland,health board,2016-2018,Male,67.49
-S08000026,Shetland,health board,2017-2019,Male,68.95
-S08000030,Tayside,health board,2015-2017,Male,62.62
-S08000030,Tayside,health board,2016-2018,Male,61.65
-S08000030,Tayside,health board,2017-2019,Male,61.39
-S08000028,Western Isles,health board,2015-2017,Male,64.97
-S08000028,Western Isles,health board,2016-2018,Male,66.07
-S08000028,Western Isles,health board,2017-2019,Male,66.99
-S12000033,Aberdeen City,local authority,2015-2017,Female,64.65
-S12000033,Aberdeen City,local authority,2016-2018,Female,63.41
-S12000033,Aberdeen City,local authority,2017-2019,Female,62.52
-S12000034,Aberdeenshire,local authority,2015-2017,Female,67.01
-S12000034,Aberdeenshire,local authority,2016-2018,Female,67.99
-S12000034,Aberdeenshire,local authority,2017-2019,Female,65.96
-S12000041,Angus,local authority,2015-2017,Female,63.1
-S12000041,Angus,local authority,2016-2018,Female,63.39
-S12000041,Angus,local authority,2017-2019,Female,63.09
-S12000035,Argyll and Bute,local authority,2015-2017,Female,62.38
-S12000035,Argyll and Bute,local authority,2016-2018,Female,62.95
-S12000035,Argyll and Bute,local authority,2017-2019,Female,63.43
-S12000036,City of Edinburgh,local authority,2015-2017,Female,65.15
-S12000036,City of Edinburgh,local authority,2016-2018,Female,63.86
-S12000036,City of Edinburgh,local authority,2017-2019,Female,64.99
-S12000005,Clackmannanshire,local authority,2015-2017,Female,60.18
-S12000005,Clackmannanshire,local authority,2016-2018,Female,61.56
-S12000005,Clackmannanshire,local authority,2017-2019,Female,62.41
-S12000006,Dumfries and Galloway,local authority,2015-2017,Female,63.76
-S12000006,Dumfries and Galloway,local authority,2016-2018,Female,64.25
-S12000006,Dumfries and Galloway,local authority,2017-2019,Female,62.53
-S12000042,Dundee City,local authority,2015-2017,Female,59.81
-S12000042,Dundee City,local authority,2016-2018,Female,59.82
-S12000042,Dundee City,local authority,2017-2019,Female,57.88
-S12000008,East Ayrshire,local authority,2015-2017,Female,58.3
-S12000008,East Ayrshire,local authority,2016-2018,Female,58.75
-S12000008,East Ayrshire,local authority,2017-2019,Female,58.24
-S12000045,East Dunbartonshire,local authority,2015-2017,Female,68.2
-S12000045,East Dunbartonshire,local authority,2016-2018,Female,68.36
-S12000045,East Dunbartonshire,local authority,2017-2019,Female,66.53
-S12000010,East Lothian,local authority,2015-2017,Female,63.91
-S12000010,East Lothian,local authority,2016-2018,Female,64.03
-S12000010,East Lothian,local authority,2017-2019,Female,64.61
-S12000011,East Renfrewshire,local authority,2015-2017,Female,65.53
-S12000011,East Renfrewshire,local authority,2016-2018,Female,66.14
-S12000011,East Renfrewshire,local authority,2017-2019,Female,67.19
-S12000014,Falkirk,local authority,2015-2017,Female,60.93
-S12000014,Falkirk,local authority,2016-2018,Female,60.2
-S12000014,Falkirk,local authority,2017-2019,Female,59.71
-S12000047,Fife,local authority,2015-2017,Female,61.87
-S12000047,Fife,local authority,2016-2018,Female,60.16
-S12000047,Fife,local authority,2017-2019,Female,61.27
-S12000049,Glasgow City,local authority,2015-2017,Female,58.89
-S12000049,Glasgow City,local authority,2016-2018,Female,58.16
-S12000049,Glasgow City,local authority,2017-2019,Female,57.59
-S12000017,Highland,local authority,2015-2017,Female,63.58
-S12000017,Highland,local authority,2016-2018,Female,65.41
-S12000017,Highland,local authority,2017-2019,Female,64.36
-S12000018,Inverclyde,local authority,2015-2017,Female,59.47
-S12000018,Inverclyde,local authority,2016-2018,Female,59.71
-S12000018,Inverclyde,local authority,2017-2019,Female,59.65
-S12000019,Midlothian,local authority,2015-2017,Female,63.78
-S12000019,Midlothian,local authority,2016-2018,Female,63.46
-S12000019,Midlothian,local authority,2017-2019,Female,63.97
-S12000020,Moray,local authority,2015-2017,Female,64.16
-S12000020,Moray,local authority,2016-2018,Female,62.11
-S12000020,Moray,local authority,2017-2019,Female,61.38
-S12000013,Na h-Eileanan Siar,local authority,2015-2017,Female,67.22
-S12000013,Na h-Eileanan Siar,local authority,2016-2018,Female,66.91
-S12000013,Na h-Eileanan Siar,local authority,2017-2019,Female,69.58
-S12000021,North Ayrshire,local authority,2015-2017,Female,57.13
-S12000021,North Ayrshire,local authority,2016-2018,Female,56.01
-S12000021,North Ayrshire,local authority,2017-2019,Female,56.34
-S12000050,North Lanarkshire,local authority,2015-2017,Female,60.41
-S12000050,North Lanarkshire,local authority,2016-2018,Female,58.94
-S12000050,North Lanarkshire,local authority,2017-2019,Female,57.77
-S12000023,Orkney Islands,local authority,2015-2017,Female,75.01
-S12000023,Orkney Islands,local authority,2016-2018,Female,73.32
-S12000023,Orkney Islands,local authority,2017-2019,Female,75.05
-S12000048,Perth and Kinross,local authority,2015-2017,Female,67.81
-S12000048,Perth and Kinross,local authority,2016-2018,Female,65.99
-S12000048,Perth and Kinross,local authority,2017-2019,Female,63.66
-S12000038,Renfrewshire,local authority,2015-2017,Female,60.79
-S12000038,Renfrewshire,local authority,2016-2018,Female,62.16
-S12000038,Renfrewshire,local authority,2017-2019,Female,62.26
-S12000026,Scottish Borders,local authority,2015-2017,Female,65.35
-S12000026,Scottish Borders,local authority,2016-2018,Female,65.32
-S12000026,Scottish Borders,local authority,2017-2019,Female,63.81
-S12000027,Shetland Islands,local authority,2015-2017,Female,67.11
-S12000027,Shetland Islands,local authority,2016-2018,Female,58.36
-S12000027,Shetland Islands,local authority,2017-2019,Female,61.87
-S12000028,South Ayrshire,local authority,2015-2017,Female,63.54
-S12000028,South Ayrshire,local authority,2016-2018,Female,63.69
-S12000028,South Ayrshire,local authority,2017-2019,Female,63.28
-S12000029,South Lanarkshire,local authority,2015-2017,Female,62.98
-S12000029,South Lanarkshire,local authority,2016-2018,Female,62.21
-S12000029,South Lanarkshire,local authority,2017-2019,Female,62.98
-S12000030,Stirling,local authority,2015-2017,Female,64.41
-S12000030,Stirling,local authority,2016-2018,Female,64.38
-S12000030,Stirling,local authority,2017-2019,Female,64.9
-S12000039,West Dunbartonshire,local authority,2015-2017,Female,59.66
-S12000039,West Dunbartonshire,local authority,2016-2018,Female,60.66
-S12000039,West Dunbartonshire,local authority,2017-2019,Female,60.55
-S12000040,West Lothian,local authority,2015-2017,Female,62.15
-S12000040,West Lothian,local authority,2016-2018,Female,61.81
-S12000040,West Lothian,local authority,2017-2019,Female,59.07
-S08000015,Ayrshire and Arran,health board,2015-2017,Female,59.77
-S08000015,Ayrshire and Arran,health board,2016-2018,Female,59.51
-S08000015,Ayrshire and Arran,health board,2017-2019,Female,59.08
-S08000016,Borders,health board,2015-2017,Female,65.35
-S08000016,Borders,health board,2016-2018,Female,65.32
-S08000016,Borders,health board,2017-2019,Female,63.81
-S08000017,Dumfries and Galloway,health board,2015-2017,Female,63.76
-S08000017,Dumfries and Galloway,health board,2016-2018,Female,64.25
-S08000017,Dumfries and Galloway,health board,2017-2019,Female,62.53
-S08000029,Fife,health board,2015-2017,Female,61.87
-S08000029,Fife,health board,2016-2018,Female,60.16
-S08000029,Fife,health board,2017-2019,Female,61.27
-S08000019,Forth Valley,health board,2015-2017,Female,61.72
-S08000019,Forth Valley,health board,2016-2018,Female,61.65
-S08000019,Forth Valley,health board,2017-2019,Female,61.49
-S08000020,Grampian,health board,2015-2017,Female,65.9
-S08000020,Grampian,health board,2016-2018,Female,65.54
-S08000020,Grampian,health board,2017-2019,Female,63.96
-S08000031,Greater Glasgow and Clyde,health board,2015-2017,Female,60.9
-S08000031,Greater Glasgow and Clyde,health board,2016-2018,Female,60.74
-S08000031,Greater Glasgow and Clyde,health board,2017-2019,Female,60.43
-S08000022,Highland,health board,2015-2017,Female,63.14
-S08000022,Highland,health board,2016-2018,Female,65.28
-S08000022,Highland,health board,2017-2019,Female,64.24
-S08000032,Lanarkshire,health board,2015-2017,Female,61.64
-S08000032,Lanarkshire,health board,2016-2018,Female,60.43
-S08000032,Lanarkshire,health board,2017-2019,Female,60.15
-S08000024,Lothian,health board,2015-2017,Female,63.98
-S08000024,Lothian,health board,2016-2018,Female,63.2
-S08000024,Lothian,health board,2017-2019,Female,63.56
-S08000025,Orkney,health board,2015-2017,Female,75.01
-S08000025,Orkney,health board,2016-2018,Female,73.32
-S08000025,Orkney,health board,2017-2019,Female,75.05
-S08000026,Shetland,health board,2015-2017,Female,67.11
-S08000026,Shetland,health board,2016-2018,Female,58.36
-S08000026,Shetland,health board,2017-2019,Female,61.87
-S08000030,Tayside,health board,2015-2017,Female,63.74
-S08000030,Tayside,health board,2016-2018,Female,63.27
-S08000030,Tayside,health board,2017-2019,Female,61.63
-S08000028,Western Isles,health board,2015-2017,Female,67.22
-S08000028,Western Isles,health board,2016-2018,Female,66.91
-S08000028,Western Isles,health board,2017-2019,Female,69.58
+area_code,reference_area,area_type,reference_period,sex,value,units
+S12000033,Aberdeen City,local authority,2015-2017,Male,61.47,years
+S12000033,Aberdeen City,local authority,2016-2018,Male,60.96,years
+S12000033,Aberdeen City,local authority,2017-2019,Male,60.59,years
+S12000034,Aberdeenshire,local authority,2015-2017,Male,68.12,years
+S12000034,Aberdeenshire,local authority,2016-2018,Male,68.92,years
+S12000034,Aberdeenshire,local authority,2017-2019,Male,67.91,years
+S12000041,Angus,local authority,2015-2017,Male,62.92,years
+S12000041,Angus,local authority,2016-2018,Male,61.15,years
+S12000041,Angus,local authority,2017-2019,Male,60.98,years
+S12000035,Argyll and Bute,local authority,2015-2017,Male,64.29,years
+S12000035,Argyll and Bute,local authority,2016-2018,Male,65.21,years
+S12000035,Argyll and Bute,local authority,2017-2019,Male,64.7,years
+S12000036,City of Edinburgh,local authority,2015-2017,Male,65.03,years
+S12000036,City of Edinburgh,local authority,2016-2018,Male,65.4,years
+S12000036,City of Edinburgh,local authority,2017-2019,Male,66.29,years
+S12000005,Clackmannanshire,local authority,2015-2017,Male,62.57,years
+S12000005,Clackmannanshire,local authority,2016-2018,Male,62.21,years
+S12000005,Clackmannanshire,local authority,2017-2019,Male,62.78,years
+S12000006,Dumfries and Galloway,local authority,2015-2017,Male,64.44,years
+S12000006,Dumfries and Galloway,local authority,2016-2018,Male,64.17,years
+S12000006,Dumfries and Galloway,local authority,2017-2019,Male,62.39,years
+S12000042,Dundee City,local authority,2015-2017,Male,56.47,years
+S12000042,Dundee City,local authority,2016-2018,Male,56.46,years
+S12000042,Dundee City,local authority,2017-2019,Male,56.84,years
+S12000008,East Ayrshire,local authority,2015-2017,Male,60.16,years
+S12000008,East Ayrshire,local authority,2016-2018,Male,57.79,years
+S12000008,East Ayrshire,local authority,2017-2019,Male,59.33,years
+S12000045,East Dunbartonshire,local authority,2015-2017,Male,68.92,years
+S12000045,East Dunbartonshire,local authority,2016-2018,Male,69.69,years
+S12000045,East Dunbartonshire,local authority,2017-2019,Male,69.81,years
+S12000010,East Lothian,local authority,2015-2017,Male,65.31,years
+S12000010,East Lothian,local authority,2016-2018,Male,65.45,years
+S12000010,East Lothian,local authority,2017-2019,Male,65.2,years
+S12000011,East Renfrewshire,local authority,2015-2017,Male,66.48,years
+S12000011,East Renfrewshire,local authority,2016-2018,Male,68.77,years
+S12000011,East Renfrewshire,local authority,2017-2019,Male,68.28,years
+S12000014,Falkirk,local authority,2015-2017,Male,63.23,years
+S12000014,Falkirk,local authority,2016-2018,Male,62.1,years
+S12000014,Falkirk,local authority,2017-2019,Male,62.39,years
+S12000047,Fife,local authority,2015-2017,Male,62.29,years
+S12000047,Fife,local authority,2016-2018,Male,60.97,years
+S12000047,Fife,local authority,2017-2019,Male,61.56,years
+S12000049,Glasgow City,local authority,2015-2017,Male,57.22,years
+S12000049,Glasgow City,local authority,2016-2018,Male,56.08,years
+S12000049,Glasgow City,local authority,2017-2019,Male,54.59,years
+S12000017,Highland,local authority,2015-2017,Male,66.26,years
+S12000017,Highland,local authority,2016-2018,Male,64.34,years
+S12000017,Highland,local authority,2017-2019,Male,63.95,years
+S12000018,Inverclyde,local authority,2015-2017,Male,60.47,years
+S12000018,Inverclyde,local authority,2016-2018,Male,59.58,years
+S12000018,Inverclyde,local authority,2017-2019,Male,58.35,years
+S12000019,Midlothian,local authority,2015-2017,Male,61.76,years
+S12000019,Midlothian,local authority,2016-2018,Male,61.02,years
+S12000019,Midlothian,local authority,2017-2019,Male,63.36,years
+S12000020,Moray,local authority,2015-2017,Male,64.24,years
+S12000020,Moray,local authority,2016-2018,Male,62.12,years
+S12000020,Moray,local authority,2017-2019,Male,61.48,years
+S12000013,Na h-Eileanan Siar,local authority,2015-2017,Male,64.97,years
+S12000013,Na h-Eileanan Siar,local authority,2016-2018,Male,66.07,years
+S12000013,Na h-Eileanan Siar,local authority,2017-2019,Male,66.99,years
+S12000021,North Ayrshire,local authority,2015-2017,Male,56.01,years
+S12000021,North Ayrshire,local authority,2016-2018,Male,57.33,years
+S12000021,North Ayrshire,local authority,2017-2019,Male,58.52,years
+S12000050,North Lanarkshire,local authority,2015-2017,Male,58.12,years
+S12000050,North Lanarkshire,local authority,2016-2018,Male,57.96,years
+S12000050,North Lanarkshire,local authority,2017-2019,Male,58.67,years
+S12000023,Orkney Islands,local authority,2015-2017,Male,64.62,years
+S12000023,Orkney Islands,local authority,2016-2018,Male,66.68,years
+S12000023,Orkney Islands,local authority,2017-2019,Male,69.33,years
+S12000048,Perth and Kinross,local authority,2015-2017,Male,67.63,years
+S12000048,Perth and Kinross,local authority,2016-2018,Male,66.64,years
+S12000048,Perth and Kinross,local authority,2017-2019,Male,66.32,years
+S12000038,Renfrewshire,local authority,2015-2017,Male,60.95,years
+S12000038,Renfrewshire,local authority,2016-2018,Male,60.17,years
+S12000038,Renfrewshire,local authority,2017-2019,Male,60.74,years
+S12000026,Scottish Borders,local authority,2015-2017,Male,64.48,years
+S12000026,Scottish Borders,local authority,2016-2018,Male,63.5,years
+S12000026,Scottish Borders,local authority,2017-2019,Male,63.31,years
+S12000027,Shetland Islands,local authority,2015-2017,Male,68.12,years
+S12000027,Shetland Islands,local authority,2016-2018,Male,67.49,years
+S12000027,Shetland Islands,local authority,2017-2019,Male,68.95,years
+S12000028,South Ayrshire,local authority,2015-2017,Male,62.13,years
+S12000028,South Ayrshire,local authority,2016-2018,Male,61.68,years
+S12000028,South Ayrshire,local authority,2017-2019,Male,59.96,years
+S12000029,South Lanarkshire,local authority,2015-2017,Male,60.76,years
+S12000029,South Lanarkshire,local authority,2016-2018,Male,59.27,years
+S12000029,South Lanarkshire,local authority,2017-2019,Male,57.91,years
+S12000030,Stirling,local authority,2015-2017,Male,64.77,years
+S12000030,Stirling,local authority,2016-2018,Male,63.28,years
+S12000030,Stirling,local authority,2017-2019,Male,61.79,years
+S12000039,West Dunbartonshire,local authority,2015-2017,Male,58.18,years
+S12000039,West Dunbartonshire,local authority,2016-2018,Male,58.35,years
+S12000039,West Dunbartonshire,local authority,2017-2019,Male,59.13,years
+S12000040,West Lothian,local authority,2015-2017,Male,61.88,years
+S12000040,West Lothian,local authority,2016-2018,Male,63.04,years
+S12000040,West Lothian,local authority,2017-2019,Male,61.33,years
+S08000015,Ayrshire and Arran,health board,2015-2017,Male,59.16,years
+S08000015,Ayrshire and Arran,health board,2016-2018,Male,58.83,years
+S08000015,Ayrshire and Arran,health board,2017-2019,Male,59.42,years
+S08000016,Borders,health board,2015-2017,Male,64.48,years
+S08000016,Borders,health board,2016-2018,Male,63.5,years
+S08000016,Borders,health board,2017-2019,Male,63.31,years
+S08000017,Dumfries and Galloway,health board,2015-2017,Male,64.44,years
+S08000017,Dumfries and Galloway,health board,2016-2018,Male,64.17,years
+S08000017,Dumfries and Galloway,health board,2017-2019,Male,62.39,years
+S08000029,Fife,health board,2015-2017,Male,62.29,years
+S08000029,Fife,health board,2016-2018,Male,60.97,years
+S08000029,Fife,health board,2017-2019,Male,61.56,years
+S08000019,Forth Valley,health board,2015-2017,Male,63.45,years
+S08000019,Forth Valley,health board,2016-2018,Male,62.53,years
+S08000019,Forth Valley,health board,2017-2019,Male,62.26,years
+S08000020,Grampian,health board,2015-2017,Male,65.16,years
+S08000020,Grampian,health board,2016-2018,Male,65.01,years
+S08000020,Grampian,health board,2017-2019,Male,64.4,years
+S08000031,Greater Glasgow and Clyde,health board,2015-2017,Male,60.06,years
+S08000031,Greater Glasgow and Clyde,health board,2016-2018,Male,59.53,years
+S08000031,Greater Glasgow and Clyde,health board,2017-2019,Male,59.01,years
+S08000022,Highland,health board,2015-2017,Male,65.57,years
+S08000022,Highland,health board,2016-2018,Male,64.29,years
+S08000022,Highland,health board,2017-2019,Male,64.1,years
+S08000032,Lanarkshire,health board,2015-2017,Male,59.33,years
+S08000032,Lanarkshire,health board,2016-2018,Male,58.57,years
+S08000032,Lanarkshire,health board,2017-2019,Male,58.28,years
+S08000024,Lothian,health board,2015-2017,Male,64.1,years
+S08000024,Lothian,health board,2016-2018,Male,64.47,years
+S08000024,Lothian,health board,2017-2019,Male,64.82,years
+S08000025,Orkney,health board,2015-2017,Male,64.62,years
+S08000025,Orkney,health board,2016-2018,Male,66.68,years
+S08000025,Orkney,health board,2017-2019,Male,69.33,years
+S08000026,Shetland,health board,2015-2017,Male,68.12,years
+S08000026,Shetland,health board,2016-2018,Male,67.49,years
+S08000026,Shetland,health board,2017-2019,Male,68.95,years
+S08000030,Tayside,health board,2015-2017,Male,62.62,years
+S08000030,Tayside,health board,2016-2018,Male,61.65,years
+S08000030,Tayside,health board,2017-2019,Male,61.39,years
+S08000028,Western Isles,health board,2015-2017,Male,64.97,years
+S08000028,Western Isles,health board,2016-2018,Male,66.07,years
+S08000028,Western Isles,health board,2017-2019,Male,66.99,years
+S12000033,Aberdeen City,local authority,2015-2017,Female,64.65,years
+S12000033,Aberdeen City,local authority,2016-2018,Female,63.41,years
+S12000033,Aberdeen City,local authority,2017-2019,Female,62.52,years
+S12000034,Aberdeenshire,local authority,2015-2017,Female,67.01,years
+S12000034,Aberdeenshire,local authority,2016-2018,Female,67.99,years
+S12000034,Aberdeenshire,local authority,2017-2019,Female,65.96,years
+S12000041,Angus,local authority,2015-2017,Female,63.1,years
+S12000041,Angus,local authority,2016-2018,Female,63.39,years
+S12000041,Angus,local authority,2017-2019,Female,63.09,years
+S12000035,Argyll and Bute,local authority,2015-2017,Female,62.38,years
+S12000035,Argyll and Bute,local authority,2016-2018,Female,62.95,years
+S12000035,Argyll and Bute,local authority,2017-2019,Female,63.43,years
+S12000036,City of Edinburgh,local authority,2015-2017,Female,65.15,years
+S12000036,City of Edinburgh,local authority,2016-2018,Female,63.86,years
+S12000036,City of Edinburgh,local authority,2017-2019,Female,64.99,years
+S12000005,Clackmannanshire,local authority,2015-2017,Female,60.18,years
+S12000005,Clackmannanshire,local authority,2016-2018,Female,61.56,years
+S12000005,Clackmannanshire,local authority,2017-2019,Female,62.41,years
+S12000006,Dumfries and Galloway,local authority,2015-2017,Female,63.76,years
+S12000006,Dumfries and Galloway,local authority,2016-2018,Female,64.25,years
+S12000006,Dumfries and Galloway,local authority,2017-2019,Female,62.53,years
+S12000042,Dundee City,local authority,2015-2017,Female,59.81,years
+S12000042,Dundee City,local authority,2016-2018,Female,59.82,years
+S12000042,Dundee City,local authority,2017-2019,Female,57.88,years
+S12000008,East Ayrshire,local authority,2015-2017,Female,58.3,years
+S12000008,East Ayrshire,local authority,2016-2018,Female,58.75,years
+S12000008,East Ayrshire,local authority,2017-2019,Female,58.24,years
+S12000045,East Dunbartonshire,local authority,2015-2017,Female,68.2,years
+S12000045,East Dunbartonshire,local authority,2016-2018,Female,68.36,years
+S12000045,East Dunbartonshire,local authority,2017-2019,Female,66.53,years
+S12000010,East Lothian,local authority,2015-2017,Female,63.91,years
+S12000010,East Lothian,local authority,2016-2018,Female,64.03,years
+S12000010,East Lothian,local authority,2017-2019,Female,64.61,years
+S12000011,East Renfrewshire,local authority,2015-2017,Female,65.53,years
+S12000011,East Renfrewshire,local authority,2016-2018,Female,66.14,years
+S12000011,East Renfrewshire,local authority,2017-2019,Female,67.19,years
+S12000014,Falkirk,local authority,2015-2017,Female,60.93,years
+S12000014,Falkirk,local authority,2016-2018,Female,60.2,years
+S12000014,Falkirk,local authority,2017-2019,Female,59.71,years
+S12000047,Fife,local authority,2015-2017,Female,61.87,years
+S12000047,Fife,local authority,2016-2018,Female,60.16,years
+S12000047,Fife,local authority,2017-2019,Female,61.27,years
+S12000049,Glasgow City,local authority,2015-2017,Female,58.89,years
+S12000049,Glasgow City,local authority,2016-2018,Female,58.16,years
+S12000049,Glasgow City,local authority,2017-2019,Female,57.59,years
+S12000017,Highland,local authority,2015-2017,Female,63.58,years
+S12000017,Highland,local authority,2016-2018,Female,65.41,years
+S12000017,Highland,local authority,2017-2019,Female,64.36,years
+S12000018,Inverclyde,local authority,2015-2017,Female,59.47,years
+S12000018,Inverclyde,local authority,2016-2018,Female,59.71,years
+S12000018,Inverclyde,local authority,2017-2019,Female,59.65,years
+S12000019,Midlothian,local authority,2015-2017,Female,63.78,years
+S12000019,Midlothian,local authority,2016-2018,Female,63.46,years
+S12000019,Midlothian,local authority,2017-2019,Female,63.97,years
+S12000020,Moray,local authority,2015-2017,Female,64.16,years
+S12000020,Moray,local authority,2016-2018,Female,62.11,years
+S12000020,Moray,local authority,2017-2019,Female,61.38,years
+S12000013,Na h-Eileanan Siar,local authority,2015-2017,Female,67.22,years
+S12000013,Na h-Eileanan Siar,local authority,2016-2018,Female,66.91,years
+S12000013,Na h-Eileanan Siar,local authority,2017-2019,Female,69.58,years
+S12000021,North Ayrshire,local authority,2015-2017,Female,57.13,years
+S12000021,North Ayrshire,local authority,2016-2018,Female,56.01,years
+S12000021,North Ayrshire,local authority,2017-2019,Female,56.34,years
+S12000050,North Lanarkshire,local authority,2015-2017,Female,60.41,years
+S12000050,North Lanarkshire,local authority,2016-2018,Female,58.94,years
+S12000050,North Lanarkshire,local authority,2017-2019,Female,57.77,years
+S12000023,Orkney Islands,local authority,2015-2017,Female,75.01,years
+S12000023,Orkney Islands,local authority,2016-2018,Female,73.32,years
+S12000023,Orkney Islands,local authority,2017-2019,Female,75.05,years
+S12000048,Perth and Kinross,local authority,2015-2017,Female,67.81,years
+S12000048,Perth and Kinross,local authority,2016-2018,Female,65.99,years
+S12000048,Perth and Kinross,local authority,2017-2019,Female,63.66,years
+S12000038,Renfrewshire,local authority,2015-2017,Female,60.79,years
+S12000038,Renfrewshire,local authority,2016-2018,Female,62.16,years
+S12000038,Renfrewshire,local authority,2017-2019,Female,62.26,years
+S12000026,Scottish Borders,local authority,2015-2017,Female,65.35,years
+S12000026,Scottish Borders,local authority,2016-2018,Female,65.32,years
+S12000026,Scottish Borders,local authority,2017-2019,Female,63.81,years
+S12000027,Shetland Islands,local authority,2015-2017,Female,67.11,years
+S12000027,Shetland Islands,local authority,2016-2018,Female,58.36,years
+S12000027,Shetland Islands,local authority,2017-2019,Female,61.87,years
+S12000028,South Ayrshire,local authority,2015-2017,Female,63.54,years
+S12000028,South Ayrshire,local authority,2016-2018,Female,63.69,years
+S12000028,South Ayrshire,local authority,2017-2019,Female,63.28,years
+S12000029,South Lanarkshire,local authority,2015-2017,Female,62.98,years
+S12000029,South Lanarkshire,local authority,2016-2018,Female,62.21,years
+S12000029,South Lanarkshire,local authority,2017-2019,Female,62.98,years
+S12000030,Stirling,local authority,2015-2017,Female,64.41,years
+S12000030,Stirling,local authority,2016-2018,Female,64.38,years
+S12000030,Stirling,local authority,2017-2019,Female,64.9,years
+S12000039,West Dunbartonshire,local authority,2015-2017,Female,59.66,years
+S12000039,West Dunbartonshire,local authority,2016-2018,Female,60.66,years
+S12000039,West Dunbartonshire,local authority,2017-2019,Female,60.55,years
+S12000040,West Lothian,local authority,2015-2017,Female,62.15,years
+S12000040,West Lothian,local authority,2016-2018,Female,61.81,years
+S12000040,West Lothian,local authority,2017-2019,Female,59.07,years
+S08000015,Ayrshire and Arran,health board,2015-2017,Female,59.77,years
+S08000015,Ayrshire and Arran,health board,2016-2018,Female,59.51,years
+S08000015,Ayrshire and Arran,health board,2017-2019,Female,59.08,years
+S08000016,Borders,health board,2015-2017,Female,65.35,years
+S08000016,Borders,health board,2016-2018,Female,65.32,years
+S08000016,Borders,health board,2017-2019,Female,63.81,years
+S08000017,Dumfries and Galloway,health board,2015-2017,Female,63.76,years
+S08000017,Dumfries and Galloway,health board,2016-2018,Female,64.25,years
+S08000017,Dumfries and Galloway,health board,2017-2019,Female,62.53,years
+S08000029,Fife,health board,2015-2017,Female,61.87,years
+S08000029,Fife,health board,2016-2018,Female,60.16,years
+S08000029,Fife,health board,2017-2019,Female,61.27,years
+S08000019,Forth Valley,health board,2015-2017,Female,61.72,years
+S08000019,Forth Valley,health board,2016-2018,Female,61.65,years
+S08000019,Forth Valley,health board,2017-2019,Female,61.49,years
+S08000020,Grampian,health board,2015-2017,Female,65.9,years
+S08000020,Grampian,health board,2016-2018,Female,65.54,years
+S08000020,Grampian,health board,2017-2019,Female,63.96,years
+S08000031,Greater Glasgow and Clyde,health board,2015-2017,Female,60.9,years
+S08000031,Greater Glasgow and Clyde,health board,2016-2018,Female,60.74,years
+S08000031,Greater Glasgow and Clyde,health board,2017-2019,Female,60.43,years
+S08000022,Highland,health board,2015-2017,Female,63.14,years
+S08000022,Highland,health board,2016-2018,Female,65.28,years
+S08000022,Highland,health board,2017-2019,Female,64.24,years
+S08000032,Lanarkshire,health board,2015-2017,Female,61.64,years
+S08000032,Lanarkshire,health board,2016-2018,Female,60.43,years
+S08000032,Lanarkshire,health board,2017-2019,Female,60.15,years
+S08000024,Lothian,health board,2015-2017,Female,63.98,years
+S08000024,Lothian,health board,2016-2018,Female,63.2,years
+S08000024,Lothian,health board,2017-2019,Female,63.56,years
+S08000025,Orkney,health board,2015-2017,Female,75.01,years
+S08000025,Orkney,health board,2016-2018,Female,73.32,years
+S08000025,Orkney,health board,2017-2019,Female,75.05,years
+S08000026,Shetland,health board,2015-2017,Female,67.11,years
+S08000026,Shetland,health board,2016-2018,Female,58.36,years
+S08000026,Shetland,health board,2017-2019,Female,61.87,years
+S08000030,Tayside,health board,2015-2017,Female,63.74,years
+S08000030,Tayside,health board,2016-2018,Female,63.27,years
+S08000030,Tayside,health board,2017-2019,Female,61.63,years
+S08000028,Western Isles,health board,2015-2017,Female,67.22,years
+S08000028,Western Isles,health board,2016-2018,Female,66.91,years
+S08000028,Western Isles,health board,2017-2019,Female,69.58,years

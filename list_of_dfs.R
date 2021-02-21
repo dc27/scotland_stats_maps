@@ -35,7 +35,6 @@
                       col_types = cols(value = col_integer())),
       explorable_vars = c("ref_period"),
       explorable_areas = c("health board", "local authority"),
-      units = "persons",
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-discharge",
@@ -45,7 +44,6 @@
       data = read_csv("data/clean_data/alcohol_related_hospital_stats.csv"),
       explorable_vars = c("reference_period", "alcohol_condition", "measure_type"),
       explorable_areas = c("health board", "local authority"),
-      units = "",
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics",
@@ -74,7 +72,7 @@
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fadults-16-64-years-with-low-or-no-qualifications",
-      notes = ""
+      notes = "The ratio is the number of people who reported having low or no qualification divided by the number of people in employment (16-64 years). A small number with unknown qualifications are excluded from this calculation."
     )
   ),
   "Managament Information" = list(
@@ -85,7 +83,6 @@
       data = read_csv("data/clean_data/healthy_life_expectancy.csv"),
       explorable_vars = c("reference_period", "sex"),
       explorable_areas = c("health board", "local authority"),
-      units = "years",
       reverse_colours = TRUE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fhealthy-life-expectancy",
@@ -95,7 +92,6 @@
       data = read_csv("data/clean_data/population_estimates.csv"),
       explorable_vars = c("year", "sex"),
       explorable_areas = c("health board", "local authority"),
-      units = "persons",
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fpopulation-estimates-2011-datazone-linked-dataset",

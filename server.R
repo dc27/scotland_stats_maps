@@ -84,19 +84,11 @@ server <- function(input, output, session){
   })
   
   
-  # get units. update if option selected: per 1000persons
+  # get units
   units <- eventReactive(input$update, {
-    # if measure type exists - measure type decides
-    # else if population box is ticked - decides
-    # else use units provided with data
-    
-    if (("measure_type" %in% names(input)) && (input$measure_type == "Ratio")) {
-      "%%"
-    } else if (("population" %in% names(input)) && (input$population)) {
-      paste0(dfs[[input$category]][[input$dataset]]$units, " per 1000persons")
-    } else {
-      dfs[[input$category]][[input$dataset]]$units
-    }
+    potential_units <- unique(fixed_values()$units)
+    # remove NAs, select first value in the case where multiple are provided.
+    potential_units[!is.na(potential_units)][1]
   })
   
   
