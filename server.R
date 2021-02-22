@@ -188,7 +188,8 @@ server <- function(input, output, session){
   
   basic_table_data <- eventReactive(input$update, {
     fixed_values() %>% 
-      select(-area_type)
+      select(-area_type) %>% 
+      arrange(reference_area)
   })
   
   # table output
