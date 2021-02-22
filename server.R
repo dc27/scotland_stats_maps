@@ -186,7 +186,15 @@ server <- function(input, output, session){
     a(href = data_url(), "statistics.gov.scot", target = "_blank")
   })
   
+  basic_table_data <- eventReactive(input$update, {
+    fixed_values() %>% 
+      select(-area_type)
+  })
+  
   # table output
-  output$table <- renderTable(fixed_values() %>% 
-                                select(-area_type))
+  output$table <- renderTable({
+    data.table::setnames(basic_table_data(), old = names(basic_table_data()),
+             new = str_to_title(str_replace(names(basic_table_data()), "_", " ")))
+
+  })
 }
