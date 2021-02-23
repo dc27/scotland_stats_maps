@@ -260,6 +260,25 @@ updated_lookup <- update_lookup(
   )
 
 
+# ----- Travel to Work and Other Journeys -----
+travel_to_work <- read_csv("data/raw_data/travel_to_work.csv")
+
+travel_to_work_clean <- travel_to_work %>% 
+  janitor::clean_names() %>% 
+  left_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         indicator = indicator_travel_to_work,
+         value,
+         units)
+
+travel_to_work_clean %>% 
+  write_csv("data/clean_data/travel_to_work.csv")
+
+updated_lookup <- update_lookup(URI_name = "travel-to-work-other")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv
