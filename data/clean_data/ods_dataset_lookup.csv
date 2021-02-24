@@ -129,7 +129,7 @@ local-authority-vacant-dwellings-vacancies-arising-during-the-year,Local Authori
 local-service-satisfaction-sscq,Local Service Satisfaction - Scottish Surveys Core Questions,Scottish Government,TRUE,FALSE
 looked-after-children,Looked After Children,Scottish Government,TRUE,FALSE
 low-birthweight,Low Birthweight,Public Health Scotland,FALSE,FALSE
-measles-mumps-rubella,Measles Mumps Rubella (MMR) Immunisation,Public Health Scotland,TRUE,FALSE
+measles-mumps-rubella,Measles Mumps Rubella (MMR) Immunisation,Public Health Scotland,TRUE,TRUE
 mental-wellbeing-sscq,Mental Wellbeing - Scottish Surveys Core Questions,Scottish Government,TRUE,FALSE
 mid-year-household-estimates,Mid-Year Household Estimates,National Records of Scotland,TRUE,FALSE
 municipal-waste,Municipal Waste,Scottish Government,TRUE,FALSE

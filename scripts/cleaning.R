@@ -279,6 +279,27 @@ travel_to_work_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "travel-to-work-other")
 
+# ----- MMR immunisation -----
+mmr_data <- read_csv("data/raw_data/mmr.csv")
+
+mmr_clean <- mmr_data %>% 
+  janitor::clean_names() %>% 
+  filter(str_detect(feature_code, "^S08|^S12")) %>% 
+  left_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         vaccination_uptake,
+         measure_type = measurement,
+         value,
+         units)
+
+mmr_clean %>% 
+  write_csv("data/clean_data/health/mmr.csv")
+
+updated_lookup <- update_lookup(URI_name = "measles-mumps-rubella")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

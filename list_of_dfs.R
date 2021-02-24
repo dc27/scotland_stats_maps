@@ -46,6 +46,22 @@
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics",
       notes = ""
+    ),
+    "Measles Mumps Rubella (MMR) Immunisation" = list(
+      data = read_csv("data/clean_data/health/mmr.csv"),
+      explorable_vars = c("year", "vaccination_uptake", "measure_type"),
+      reverse_colours = TRUE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fmeasles-mumps-rubella",
+      notes = "Number, and percent of, children who have received 1 dose of
+      Measles, Mumps and Rubella (MMR) vaccine by 5 years of age. 
+      \n\n The NHS Board and local authority are derived from child's home
+      postcode and therefore data with invalid or missing postcodes are not
+      included in the NHS Board and local authority totals. As a result the
+      numbers and rates often differ from those published in the ISD National
+      Statistics publication which can be accessed from the NHS Information
+      Services Division website. \n\n Source: Scottish Immunisation and Recall
+      System (SIRS), ISD Scotland."
     )
   ),
   "Housing" = list(

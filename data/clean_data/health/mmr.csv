@@ -1,0 +1,1309 @@
+area_code,reference_area,area_type,year,vaccination_uptake,measure_type,value,units
+S12000017,Highland,Local Authority,2017,Number In 5 Year Cohort,Count,2511,Children
+S12000017,Highland,Local Authority,2012,Number In 5 Year Cohort,Count,2441,Children
+S12000017,Highland,Local Authority,2008,Number In 5 Year Cohort,Count,2297,Children
+S12000017,Highland,Local Authority,2009,Number In 5 Year Cohort,Count,2345,Children
+S12000017,Highland,Local Authority,2008,Vaccinated by 5 Years,Count,2129,Children
+S12000017,Highland,Local Authority,2011,Number In 5 Year Cohort,Count,2361,Children
+S12000017,Highland,Local Authority,2016,Number In 5 Year Cohort,Count,2430,Children
+S12000017,Highland,Local Authority,2010,Number In 5 Year Cohort,Count,2349,Children
+S12000017,Highland,Local Authority,2018,Vaccinated by 5 Years,Count,2209,Children
+S12000017,Highland,Local Authority,2012,Vaccinated by 5 Years,Count,2357,Children
+S12000017,Highland,Local Authority,2013,Vaccinated by 5 Years,Count,2451,Children
+S12000017,Highland,Local Authority,2010,Vaccinated by 5 Years,Count,2218,Children
+S12000017,Highland,Local Authority,2016,Vaccinated by 5 Years,Count,2334,Children
+S12000017,Highland,Local Authority,2014,Vaccinated by 5 Years,Count,2347,Children
+S12000017,Highland,Local Authority,2018,Number In 5 Year Cohort,Count,2312,Children
+S12000014,Falkirk,Local Authority,2013,Vaccinated by 5 Years,Count,1903,Children
+S12000014,Falkirk,Local Authority,2012,Vaccinated by 5 Years,Count,1872,Children
+S12000014,Falkirk,Local Authority,2009,Vaccinated by 5 Years,Count,1707,Children
+S12000014,Falkirk,Local Authority,2011,Vaccinated by 5 Years,Count,1711,Children
+S12000014,Falkirk,Local Authority,2015,Number In 5 Year Cohort,Count,1852,Children
+S12000014,Falkirk,Local Authority,2012,Number In 5 Year Cohort,Count,1912,Children
+S12000014,Falkirk,Local Authority,2008,Vaccinated by 5 Years,Count,1560,Children
+S12000014,Falkirk,Local Authority,2014,Number In 5 Year Cohort,Count,1923,Children
+S12000017,Highland,Local Authority,2011,Vaccinated by 5 Years,Count,2256,Children
+S12000017,Highland,Local Authority,2017,Vaccinated by 5 Years,Count,2414,Children
+S12000017,Highland,Local Authority,2015,Vaccinated by 5 Years,Count,2375,Children
+S12000017,Highland,Local Authority,2013,Number In 5 Year Cohort,Count,2551,Children
+S12000017,Highland,Local Authority,2014,Number In 5 Year Cohort,Count,2430,Children
+S12000017,Highland,Local Authority,2009,Vaccinated by 5 Years,Count,2207,Children
+S12000017,Highland,Local Authority,2015,Number In 5 Year Cohort,Count,2475,Children
+S12000018,Inverclyde,Local Authority,2017,Number In 5 Year Cohort,Count,788,Children
+S12000018,Inverclyde,Local Authority,2018,Vaccinated by 5 Years,Count,757,Children
+S12000018,Inverclyde,Local Authority,2010,Vaccinated by 5 Years,Count,869,Children
+S12000018,Inverclyde,Local Authority,2010,Number In 5 Year Cohort,Count,893,Children
+S12000018,Inverclyde,Local Authority,2013,Vaccinated by 5 Years,Count,834,Children
+S12000018,Inverclyde,Local Authority,2012,Vaccinated by 5 Years,Count,840,Children
+S12000018,Inverclyde,Local Authority,2012,Number In 5 Year Cohort,Count,863,Children
+S12000018,Inverclyde,Local Authority,2008,Vaccinated by 5 Years,Count,817,Children
+S12000019,Midlothian,Local Authority,2012,Vaccinated by 5 Years,Count,1016,Children
+S12000019,Midlothian,Local Authority,2015,Vaccinated by 5 Years,Count,1121,Children
+S12000019,Midlothian,Local Authority,2011,Number In 5 Year Cohort,Count,974,Children
+S12000019,Midlothian,Local Authority,2013,Vaccinated by 5 Years,Count,995,Children
+S12000019,Midlothian,Local Authority,2011,Vaccinated by 5 Years,Count,942,Children
+S12000019,Midlothian,Local Authority,2015,Number In 5 Year Cohort,Count,1149,Children
+S12000019,Midlothian,Local Authority,2018,Vaccinated by 5 Years,Count,1145,Children
+S12000018,Inverclyde,Local Authority,2009,Vaccinated by 5 Years,Count,800,Children
+S12000018,Inverclyde,Local Authority,2011,Vaccinated by 5 Years,Count,794,Children
+S12000018,Inverclyde,Local Authority,2015,Vaccinated by 5 Years,Count,790,Children
+S12000018,Inverclyde,Local Authority,2017,Vaccinated by 5 Years,Count,766,Children
+S12000018,Inverclyde,Local Authority,2016,Number In 5 Year Cohort,Count,811,Children
+S12000018,Inverclyde,Local Authority,2013,Number In 5 Year Cohort,Count,861,Children
+S12000018,Inverclyde,Local Authority,2014,Number In 5 Year Cohort,Count,805,Children
+S12000018,Inverclyde,Local Authority,2014,Vaccinated by 5 Years,Count,787,Children
+S12000018,Inverclyde,Local Authority,2008,Number In 5 Year Cohort,Count,852,Children
+S12000018,Inverclyde,Local Authority,2016,Vaccinated by 5 Years,Count,793,Children
+S12000018,Inverclyde,Local Authority,2015,Number In 5 Year Cohort,Count,804,Children
+S12000018,Inverclyde,Local Authority,2009,Number In 5 Year Cohort,Count,817,Children
+S12000018,Inverclyde,Local Authority,2011,Number In 5 Year Cohort,Count,826,Children
+S12000018,Inverclyde,Local Authority,2018,Number In 5 Year Cohort,Count,778,Children
+S12000011,East Renfrewshire,Local Authority,2016,Number In 5 Year Cohort,Count,1184,Children
+S12000011,East Renfrewshire,Local Authority,2011,Number In 5 Year Cohort,Count,1059,Children
+S12000011,East Renfrewshire,Local Authority,2010,Number In 5 Year Cohort,Count,1045,Children
+S12000011,East Renfrewshire,Local Authority,2013,Number In 5 Year Cohort,Count,1100,Children
+S12000011,East Renfrewshire,Local Authority,2010,Vaccinated by 5 Years,Count,989,Children
+S12000011,East Renfrewshire,Local Authority,2018,Vaccinated by 5 Years,Count,1239,Children
+S12000011,East Renfrewshire,Local Authority,2016,Vaccinated by 5 Years,Count,1148,Children
+S12000011,East Renfrewshire,Local Authority,2017,Vaccinated by 5 Years,Count,1276,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2018,Number In 5 Year Cohort,Count,271,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2010,Vaccinated by 5 Years,Count,239,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2013,Vaccinated by 5 Years,Count,269,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2008,Vaccinated by 5 Years,Count,247,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2018,Vaccinated by 5 Years,Count,264,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2011,Vaccinated by 5 Years,Count,276,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2009,Vaccinated by 5 Years,Count,242,Children
+S12000011,East Renfrewshire,Local Authority,2009,Number In 5 Year Cohort,Count,1117,Children
+S12000011,East Renfrewshire,Local Authority,2012,Number In 5 Year Cohort,Count,1083,Children
+S12000011,East Renfrewshire,Local Authority,2014,Vaccinated by 5 Years,Count,1131,Children
+S12000011,East Renfrewshire,Local Authority,2012,Vaccinated by 5 Years,Count,1060,Children
+S12000011,East Renfrewshire,Local Authority,2014,Number In 5 Year Cohort,Count,1154,Children
+S12000011,East Renfrewshire,Local Authority,2008,Number In 5 Year Cohort,Count,1060,Children
+S12000011,East Renfrewshire,Local Authority,2018,Number In 5 Year Cohort,Count,1265,Children
+S12000011,East Renfrewshire,Local Authority,2015,Number In 5 Year Cohort,Count,1224,Children
+S12000011,East Renfrewshire,Local Authority,2009,Vaccinated by 5 Years,Count,1085,Children
+S12000011,East Renfrewshire,Local Authority,2008,Vaccinated by 5 Years,Count,1003,Children
+S12000011,East Renfrewshire,Local Authority,2017,Number In 5 Year Cohort,Count,1304,Children
+S12000011,East Renfrewshire,Local Authority,2015,Vaccinated by 5 Years,Count,1202,Children
+S12000011,East Renfrewshire,Local Authority,2013,Vaccinated by 5 Years,Count,1080,Children
+S12000011,East Renfrewshire,Local Authority,2011,Vaccinated by 5 Years,Count,1013,Children
+S12000014,Falkirk,Local Authority,2010,Number In 5 Year Cohort,Count,1746,Children
+S12000014,Falkirk,Local Authority,2014,Vaccinated by 5 Years,Count,1898,Children
+S12000014,Falkirk,Local Authority,2018,Vaccinated by 5 Years,Count,1696,Children
+S12000014,Falkirk,Local Authority,2016,Vaccinated by 5 Years,Count,1804,Children
+S12000014,Falkirk,Local Authority,2017,Vaccinated by 5 Years,Count,1808,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2016,Vaccinated by 5 Years,Count,235,Children
+S12000014,Falkirk,Local Authority,2008,Number In 5 Year Cohort,Count,1623,Children
+S12000014,Falkirk,Local Authority,2011,Number In 5 Year Cohort,Count,1763,Children
+S12000014,Falkirk,Local Authority,2013,Number In 5 Year Cohort,Count,1926,Children
+S12000014,Falkirk,Local Authority,2017,Number In 5 Year Cohort,Count,1840,Children
+S12000014,Falkirk,Local Authority,2010,Vaccinated by 5 Years,Count,1713,Children
+S12000014,Falkirk,Local Authority,2009,Number In 5 Year Cohort,Count,1743,Children
+S12000014,Falkirk,Local Authority,2015,Vaccinated by 5 Years,Count,1821,Children
+S12000014,Falkirk,Local Authority,2016,Number In 5 Year Cohort,Count,1841,Children
+S12000014,Falkirk,Local Authority,2018,Number In 5 Year Cohort,Count,1737,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2009,Number In 5 Year Cohort,Count,254,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2010,Number In 5 Year Cohort,Count,249,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2014,Number In 5 Year Cohort,Count,237,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2017,Number In 5 Year Cohort,Count,263,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2011,Number In 5 Year Cohort,Count,288,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2012,Vaccinated by 5 Years,Count,272,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2012,Number In 5 Year Cohort,Count,280,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2017,Vaccinated by 5 Years,Count,259,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2008,Number In 5 Year Cohort,Count,268,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2014,Vaccinated by 5 Years,Count,233,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2013,Number In 5 Year Cohort,Count,275,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2015,Number In 5 Year Cohort,Count,275,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2015,Vaccinated by 5 Years,Count,265,Children
+S12000013,Na h-Eileanan Siar,Local Authority,2016,Number In 5 Year Cohort,Count,243,Children
+S12000023,Orkney Islands,Local Authority,2008,Vaccinated by 5 Years,Count,178,Children
+S12000023,Orkney Islands,Local Authority,2014,Number In 5 Year Cohort,Count,222,Children
+S12000023,Orkney Islands,Local Authority,2017,Number In 5 Year Cohort,Count,219,Children
+S12000023,Orkney Islands,Local Authority,2011,Vaccinated by 5 Years,Count,226,Children
+S12000023,Orkney Islands,Local Authority,2012,Vaccinated by 5 Years,Count,208,Children
+S12000023,Orkney Islands,Local Authority,2010,Vaccinated by 5 Years,Count,199,Children
+S12000023,Orkney Islands,Local Authority,2013,Number In 5 Year Cohort,Count,249,Children
+S12000023,Orkney Islands,Local Authority,2015,Number In 5 Year Cohort,Count,232,Children
+S12000026,Scottish Borders,Local Authority,2012,Number In 5 Year Cohort,Count,1190,Children
+S12000026,Scottish Borders,Local Authority,2017,Number In 5 Year Cohort,Count,1169,Children
+S12000026,Scottish Borders,Local Authority,2008,Number In 5 Year Cohort,Count,1157,Children
+S12000026,Scottish Borders,Local Authority,2016,Vaccinated by 5 Years,Count,1107,Children
+S12000026,Scottish Borders,Local Authority,2011,Number In 5 Year Cohort,Count,1212,Children
+S12000023,Orkney Islands,Local Authority,2009,Vaccinated by 5 Years,Count,168,Children
+S12000026,Scottish Borders,Local Authority,2010,Number In 5 Year Cohort,Count,1135,Children
+S12000023,Orkney Islands,Local Authority,2016,Number In 5 Year Cohort,Count,220,Children
+S12000023,Orkney Islands,Local Authority,2010,Number In 5 Year Cohort,Count,207,Children
+S12000023,Orkney Islands,Local Authority,2018,Vaccinated by 5 Years,Count,214,Children
+S12000023,Orkney Islands,Local Authority,2015,Vaccinated by 5 Years,Count,220,Children
+S12000023,Orkney Islands,Local Authority,2011,Number In 5 Year Cohort,Count,235,Children
+S12000021,North Ayrshire,Local Authority,2015,Number In 5 Year Cohort,Count,1515,Children
+S12000023,Orkney Islands,Local Authority,2012,Number In 5 Year Cohort,Count,217,Children
+S12000023,Orkney Islands,Local Authority,2008,Number In 5 Year Cohort,Count,201,Children
+S12000023,Orkney Islands,Local Authority,2014,Vaccinated by 5 Years,Count,210,Children
+S12000023,Orkney Islands,Local Authority,2017,Vaccinated by 5 Years,Count,206,Children
+S12000023,Orkney Islands,Local Authority,2013,Vaccinated by 5 Years,Count,240,Children
+S12000023,Orkney Islands,Local Authority,2009,Number In 5 Year Cohort,Count,173,Children
+S12000023,Orkney Islands,Local Authority,2018,Number In 5 Year Cohort,Count,221,Children
+S12000023,Orkney Islands,Local Authority,2016,Vaccinated by 5 Years,Count,208,Children
+S12000027,Shetland Islands,Local Authority,2012,Vaccinated by 5 Years,Count,238,Children
+S12000027,Shetland Islands,Local Authority,2010,Number In 5 Year Cohort,Count,253,Children
+S12000027,Shetland Islands,Local Authority,2012,Number In 5 Year Cohort,Count,249,Children
+S12000027,Shetland Islands,Local Authority,2015,Number In 5 Year Cohort,Count,273,Children
+S12000026,Scottish Borders,Local Authority,2010,Vaccinated by 5 Years,Count,1096,Children
+S12000026,Scottish Borders,Local Authority,2009,Number In 5 Year Cohort,Count,1195,Children
+S12000027,Shetland Islands,Local Authority,2008,Number In 5 Year Cohort,Count,244,Children
+S12000027,Shetland Islands,Local Authority,2011,Number In 5 Year Cohort,Count,283,Children
+S12000027,Shetland Islands,Local Authority,2014,Vaccinated by 5 Years,Count,273,Children
+S12000027,Shetland Islands,Local Authority,2017,Number In 5 Year Cohort,Count,289,Children
+S12000027,Shetland Islands,Local Authority,2009,Number In 5 Year Cohort,Count,242,Children
+S12000027,Shetland Islands,Local Authority,2009,Vaccinated by 5 Years,Count,231,Children
+S12000027,Shetland Islands,Local Authority,2010,Vaccinated by 5 Years,Count,232,Children
+S12000027,Shetland Islands,Local Authority,2011,Vaccinated by 5 Years,Count,264,Children
+S12000027,Shetland Islands,Local Authority,2014,Number In 5 Year Cohort,Count,285,Children
+S12000026,Scottish Borders,Local Authority,2016,Number In 5 Year Cohort,Count,1141,Children
+S12000026,Scottish Borders,Local Authority,2017,Vaccinated by 5 Years,Count,1143,Children
+S12000026,Scottish Borders,Local Authority,2011,Vaccinated by 5 Years,Count,1179,Children
+S12000026,Scottish Borders,Local Authority,2008,Vaccinated by 5 Years,Count,1105,Children
+S12000026,Scottish Borders,Local Authority,2014,Number In 5 Year Cohort,Count,1169,Children
+S12000026,Scottish Borders,Local Authority,2013,Number In 5 Year Cohort,Count,1156,Children
+S12000026,Scottish Borders,Local Authority,2015,Number In 5 Year Cohort,Count,1146,Children
+S12000026,Scottish Borders,Local Authority,2013,Vaccinated by 5 Years,Count,1129,Children
+S12000026,Scottish Borders,Local Authority,2012,Vaccinated by 5 Years,Count,1159,Children
+S12000026,Scottish Borders,Local Authority,2018,Vaccinated by 5 Years,Count,1113,Children
+S12000026,Scottish Borders,Local Authority,2015,Vaccinated by 5 Years,Count,1121,Children
+S12000026,Scottish Borders,Local Authority,2018,Number In 5 Year Cohort,Count,1154,Children
+S12000026,Scottish Borders,Local Authority,2009,Vaccinated by 5 Years,Count,1155,Children
+S12000026,Scottish Borders,Local Authority,2014,Vaccinated by 5 Years,Count,1138,Children
+S12000020,Moray,Local Authority,2008,Vaccinated by 5 Years,Count,820,Children
+S12000020,Moray,Local Authority,2010,Vaccinated by 5 Years,Count,891,Children
+S12000020,Moray,Local Authority,2013,Number In 5 Year Cohort,Count,1012,Children
+S12000020,Moray,Local Authority,2012,Number In 5 Year Cohort,Count,1040,Children
+S12000020,Moray,Local Authority,2014,Number In 5 Year Cohort,Count,1030,Children
+S12000019,Midlothian,Local Authority,2008,Number In 5 Year Cohort,Count,906,Children
+S12000020,Moray,Local Authority,2016,Number In 5 Year Cohort,Count,1021,Children
+S12000020,Moray,Local Authority,2011,Vaccinated by 5 Years,Count,852,Children
+S12000020,Moray,Local Authority,2013,Vaccinated by 5 Years,Count,974,Children
+S12000020,Moray,Local Authority,2016,Vaccinated by 5 Years,Count,999,Children
+S12000020,Moray,Local Authority,2009,Number In 5 Year Cohort,Count,884,Children
+S12000020,Moray,Local Authority,2015,Vaccinated by 5 Years,Count,956,Children
+S12000020,Moray,Local Authority,2008,Number In 5 Year Cohort,Count,867,Children
+S12000020,Moray,Local Authority,2011,Number In 5 Year Cohort,Count,890,Children
+S12000020,Moray,Local Authority,2010,Number In 5 Year Cohort,Count,923,Children
+S12000019,Midlothian,Local Authority,2010,Number In 5 Year Cohort,Count,976,Children
+S12000019,Midlothian,Local Authority,2014,Number In 5 Year Cohort,Count,1048,Children
+S12000019,Midlothian,Local Authority,2017,Number In 5 Year Cohort,Count,1186,Children
+S12000019,Midlothian,Local Authority,2014,Vaccinated by 5 Years,Count,1031,Children
+S12000019,Midlothian,Local Authority,2010,Vaccinated by 5 Years,Count,956,Children
+S12000019,Midlothian,Local Authority,2008,Vaccinated by 5 Years,Count,875,Children
+S12000019,Midlothian,Local Authority,2013,Number In 5 Year Cohort,Count,1018,Children
+S12000019,Midlothian,Local Authority,2017,Vaccinated by 5 Years,Count,1157,Children
+S12000019,Midlothian,Local Authority,2016,Number In 5 Year Cohort,Count,1123,Children
+S12000019,Midlothian,Local Authority,2016,Vaccinated by 5 Years,Count,1092,Children
+S12000019,Midlothian,Local Authority,2009,Vaccinated by 5 Years,Count,894,Children
+S12000019,Midlothian,Local Authority,2009,Number In 5 Year Cohort,Count,924,Children
+S12000019,Midlothian,Local Authority,2018,Number In 5 Year Cohort,Count,1172,Children
+S12000019,Midlothian,Local Authority,2012,Number In 5 Year Cohort,Count,1033,Children
+S12000021,North Ayrshire,Local Authority,2009,Number In 5 Year Cohort,Count,1499,Children
+S12000021,North Ayrshire,Local Authority,2017,Number In 5 Year Cohort,Count,1441,Children
+S12000021,North Ayrshire,Local Authority,2014,Vaccinated by 5 Years,Count,1440,Children
+S12000021,North Ayrshire,Local Authority,2018,Vaccinated by 5 Years,Count,1305,Children
+S12000021,North Ayrshire,Local Authority,2009,Vaccinated by 5 Years,Count,1451,Children
+S12000021,North Ayrshire,Local Authority,2008,Number In 5 Year Cohort,Count,1430,Children
+S12000021,North Ayrshire,Local Authority,2017,Vaccinated by 5 Years,Count,1397,Children
+S12000021,North Ayrshire,Local Authority,2016,Vaccinated by 5 Years,Count,1485,Children
+S12000021,North Ayrshire,Local Authority,2012,Vaccinated by 5 Years,Count,1490,Children
+S12000021,North Ayrshire,Local Authority,2013,Number In 5 Year Cohort,Count,1512,Children
+S12000021,North Ayrshire,Local Authority,2014,Number In 5 Year Cohort,Count,1474,Children
+S12000021,North Ayrshire,Local Authority,2018,Number In 5 Year Cohort,Count,1359,Children
+S12000021,North Ayrshire,Local Authority,2011,Number In 5 Year Cohort,Count,1506,Children
+S12000021,North Ayrshire,Local Authority,2015,Vaccinated by 5 Years,Count,1482,Children
+S12000021,North Ayrshire,Local Authority,2013,Vaccinated by 5 Years,Count,1481,Children
+S12000020,Moray,Local Authority,2009,Vaccinated by 5 Years,Count,845,Children
+S12000020,Moray,Local Authority,2018,Number In 5 Year Cohort,Count,998,Children
+S12000020,Moray,Local Authority,2015,Number In 5 Year Cohort,Count,987,Children
+S12000020,Moray,Local Authority,2017,Number In 5 Year Cohort,Count,1001,Children
+S12000020,Moray,Local Authority,2018,Vaccinated by 5 Years,Count,953,Children
+S12000020,Moray,Local Authority,2014,Vaccinated by 5 Years,Count,997,Children
+S12000020,Moray,Local Authority,2017,Vaccinated by 5 Years,Count,958,Children
+S12000021,North Ayrshire,Local Authority,2011,Vaccinated by 5 Years,Count,1457,Children
+S12000021,North Ayrshire,Local Authority,2012,Number In 5 Year Cohort,Count,1526,Children
+S12000021,North Ayrshire,Local Authority,2010,Vaccinated by 5 Years,Count,1423,Children
+S12000021,North Ayrshire,Local Authority,2010,Number In 5 Year Cohort,Count,1478,Children
+S12000021,North Ayrshire,Local Authority,2008,Vaccinated by 5 Years,Count,1369,Children
+S12000020,Moray,Local Authority,2012,Vaccinated by 5 Years,Count,1005,Children
+S12000021,North Ayrshire,Local Authority,2016,Number In 5 Year Cohort,Count,1530,Children
+S12000039,West Dunbartonshire,Local Authority,2012,Vaccinated by 5 Years,Count,1049,Children
+S12000039,West Dunbartonshire,Local Authority,2016,Number In 5 Year Cohort,Count,1058,Children
+S12000039,West Dunbartonshire,Local Authority,2013,Vaccinated by 5 Years,Count,1044,Children
+S12000039,West Dunbartonshire,Local Authority,2017,Number In 5 Year Cohort,Count,1073,Children
+S12000039,West Dunbartonshire,Local Authority,2014,Number In 5 Year Cohort,Count,1062,Children
+S12000039,West Dunbartonshire,Local Authority,2012,Number In 5 Year Cohort,Count,1086,Children
+S12000039,West Dunbartonshire,Local Authority,2015,Number In 5 Year Cohort,Count,1023,Children
+S12000039,West Dunbartonshire,Local Authority,2009,Number In 5 Year Cohort,Count,994,Children
+S12000039,West Dunbartonshire,Local Authority,2008,Number In 5 Year Cohort,Count,953,Children
+S12000040,West Lothian,Local Authority,2018,Vaccinated by 5 Years,Count,2135,Children
+S12000040,West Lothian,Local Authority,2011,Vaccinated by 5 Years,Count,2188,Children
+S12000040,West Lothian,Local Authority,2015,Vaccinated by 5 Years,Count,2227,Children
+S12000040,West Lothian,Local Authority,2017,Number In 5 Year Cohort,Count,2207,Children
+S12000040,West Lothian,Local Authority,2011,Number In 5 Year Cohort,Count,2254,Children
+S12000040,West Lothian,Local Authority,2013,Number In 5 Year Cohort,Count,2323,Children
+S12000040,West Lothian,Local Authority,2010,Vaccinated by 5 Years,Count,2119,Children
+S12000040,West Lothian,Local Authority,2009,Number In 5 Year Cohort,Count,2154,Children
+S12000040,West Lothian,Local Authority,2018,Number In 5 Year Cohort,Count,2176,Children
+S12000040,West Lothian,Local Authority,2017,Vaccinated by 5 Years,Count,2162,Children
+S12000040,West Lothian,Local Authority,2012,Vaccinated by 5 Years,Count,2243,Children
+S12000040,West Lothian,Local Authority,2014,Vaccinated by 5 Years,Count,2235,Children
+S12000040,West Lothian,Local Authority,2016,Number In 5 Year Cohort,Count,2308,Children
+S12000040,West Lothian,Local Authority,2008,Vaccinated by 5 Years,Count,2047,Children
+S12000040,West Lothian,Local Authority,2014,Number In 5 Year Cohort,Count,2279,Children
+S12000039,West Dunbartonshire,Local Authority,2017,Vaccinated by 5 Years,Count,1052,Children
+S12000039,West Dunbartonshire,Local Authority,2010,Number In 5 Year Cohort,Count,984,Children
+S12000039,West Dunbartonshire,Local Authority,2018,Vaccinated by 5 Years,Count,936,Children
+S12000039,West Dunbartonshire,Local Authority,2009,Vaccinated by 5 Years,Count,969,Children
+S12000039,West Dunbartonshire,Local Authority,2013,Number In 5 Year Cohort,Count,1074,Children
+S12000039,West Dunbartonshire,Local Authority,2014,Vaccinated by 5 Years,Count,1033,Children
+S12000039,West Dunbartonshire,Local Authority,2016,Vaccinated by 5 Years,Count,1032,Children
+S12000039,West Dunbartonshire,Local Authority,2018,Number In 5 Year Cohort,Count,960,Children
+S12000039,West Dunbartonshire,Local Authority,2015,Vaccinated by 5 Years,Count,987,Children
+S12000040,West Lothian,Local Authority,2010,Number In 5 Year Cohort,Count,2163,Children
+S12000039,West Dunbartonshire,Local Authority,2011,Vaccinated by 5 Years,Count,985,Children
+S12000039,West Dunbartonshire,Local Authority,2011,Number In 5 Year Cohort,Count,1032,Children
+S12000039,West Dunbartonshire,Local Authority,2008,Vaccinated by 5 Years,Count,918,Children
+S12000039,West Dunbartonshire,Local Authority,2010,Vaccinated by 5 Years,Count,941,Children
+S12000008,East Ayrshire,Local Authority,2013,Vaccinated by 5 Years,Count,1352,Children
+S12000008,East Ayrshire,Local Authority,2018,Vaccinated by 5 Years,Count,1316,Children
+S12000008,East Ayrshire,Local Authority,2010,Number In 5 Year Cohort,Count,1287,Children
+S12000008,East Ayrshire,Local Authority,2012,Vaccinated by 5 Years,Count,1268,Children
+S12000008,East Ayrshire,Local Authority,2014,Vaccinated by 5 Years,Count,1364,Children
+S12000008,East Ayrshire,Local Authority,2015,Vaccinated by 5 Years,Count,1299,Children
+S12000008,East Ayrshire,Local Authority,2009,Vaccinated by 5 Years,Count,1240,Children
+S12000008,East Ayrshire,Local Authority,2016,Number In 5 Year Cohort,Count,1389,Children
+S12000008,East Ayrshire,Local Authority,2009,Number In 5 Year Cohort,Count,1283,Children
+S12000008,East Ayrshire,Local Authority,2011,Number In 5 Year Cohort,Count,1367,Children
+S12000008,East Ayrshire,Local Authority,2014,Number In 5 Year Cohort,Count,1384,Children
+S12000008,East Ayrshire,Local Authority,2008,Number In 5 Year Cohort,Count,1287,Children
+S12000008,East Ayrshire,Local Authority,2018,Number In 5 Year Cohort,Count,1349,Children
+S12000008,East Ayrshire,Local Authority,2012,Number In 5 Year Cohort,Count,1300,Children
+S12000008,East Ayrshire,Local Authority,2017,Vaccinated by 5 Years,Count,1341,Children
+S12000006,Dumfries and Galloway,Local Authority,2008,Vaccinated by 5 Years,Count,1358,Children
+S12000006,Dumfries and Galloway,Local Authority,2016,Number In 5 Year Cohort,Count,1499,Children
+S12000006,Dumfries and Galloway,Local Authority,2012,Vaccinated by 5 Years,Count,1518,Children
+S12000006,Dumfries and Galloway,Local Authority,2015,Number In 5 Year Cohort,Count,1501,Children
+S12000006,Dumfries and Galloway,Local Authority,2010,Vaccinated by 5 Years,Count,1468,Children
+S12000006,Dumfries and Galloway,Local Authority,2014,Number In 5 Year Cohort,Count,1559,Children
+S12000006,Dumfries and Galloway,Local Authority,2011,Vaccinated by 5 Years,Count,1527,Children
+S12000006,Dumfries and Galloway,Local Authority,2008,Number In 5 Year Cohort,Count,1400,Children
+S12000006,Dumfries and Galloway,Local Authority,2013,Vaccinated by 5 Years,Count,1478,Children
+S12000006,Dumfries and Galloway,Local Authority,2010,Number In 5 Year Cohort,Count,1508,Children
+S12000006,Dumfries and Galloway,Local Authority,2018,Number In 5 Year Cohort,Count,1383,Children
+S12000006,Dumfries and Galloway,Local Authority,2009,Vaccinated by 5 Years,Count,1516,Children
+S12000006,Dumfries and Galloway,Local Authority,2016,Vaccinated by 5 Years,Count,1458,Children
+S12000006,Dumfries and Galloway,Local Authority,2017,Number In 5 Year Cohort,Count,1468,Children
+S12000010,East Lothian,Local Authority,2011,Number In 5 Year Cohort,Count,1172,Children
+S12000010,East Lothian,Local Authority,2009,Vaccinated by 5 Years,Count,1065,Children
+S12000010,East Lothian,Local Authority,2012,Vaccinated by 5 Years,Count,1184,Children
+S12000010,East Lothian,Local Authority,2013,Vaccinated by 5 Years,Count,1206,Children
+S12000010,East Lothian,Local Authority,2008,Number In 5 Year Cohort,Count,1090,Children
+S12000010,East Lothian,Local Authority,2011,Vaccinated by 5 Years,Count,1132,Children
+S12000010,East Lothian,Local Authority,2009,Number In 5 Year Cohort,Count,1097,Children
+S12000010,East Lothian,Local Authority,2014,Number In 5 Year Cohort,Count,1219,Children
+S12000010,East Lothian,Local Authority,2016,Vaccinated by 5 Years,Count,1240,Children
+S12000010,East Lothian,Local Authority,2015,Vaccinated by 5 Years,Count,1246,Children
+S12000010,East Lothian,Local Authority,2017,Number In 5 Year Cohort,Count,1233,Children
+S12000010,East Lothian,Local Authority,2018,Number In 5 Year Cohort,Count,1234,Children
+S12000010,East Lothian,Local Authority,2018,Vaccinated by 5 Years,Count,1188,Children
+S12000010,East Lothian,Local Authority,2008,Vaccinated by 5 Years,Count,1046,Children
+S12000010,East Lothian,Local Authority,2017,Vaccinated by 5 Years,Count,1192,Children
+S12000008,East Ayrshire,Local Authority,2011,Vaccinated by 5 Years,Count,1336,Children
+S12000008,East Ayrshire,Local Authority,2016,Vaccinated by 5 Years,Count,1374,Children
+S12000008,East Ayrshire,Local Authority,2008,Vaccinated by 5 Years,Count,1237,Children
+S12000008,East Ayrshire,Local Authority,2015,Number In 5 Year Cohort,Count,1325,Children
+S12000008,East Ayrshire,Local Authority,2017,Number In 5 Year Cohort,Count,1357,Children
+S12000008,East Ayrshire,Local Authority,2013,Number In 5 Year Cohort,Count,1373,Children
+S12000008,East Ayrshire,Local Authority,2010,Vaccinated by 5 Years,Count,1255,Children
+S12000010,East Lothian,Local Authority,2012,Number In 5 Year Cohort,Count,1230,Children
+S12000010,East Lothian,Local Authority,2014,Vaccinated by 5 Years,Count,1178,Children
+S12000010,East Lothian,Local Authority,2015,Number In 5 Year Cohort,Count,1279,Children
+S12000010,East Lothian,Local Authority,2010,Vaccinated by 5 Years,Count,1156,Children
+S12000010,East Lothian,Local Authority,2010,Number In 5 Year Cohort,Count,1196,Children
+S12000010,East Lothian,Local Authority,2016,Number In 5 Year Cohort,Count,1277,Children
+S12000010,East Lothian,Local Authority,2013,Number In 5 Year Cohort,Count,1236,Children
+S12000005,Clackmannanshire,Local Authority,2011,Number In 5 Year Cohort,Count,558,Children
+S12000040,West Lothian,Local Authority,2016,Vaccinated by 5 Years,Count,2270,Children
+S12000040,West Lothian,Local Authority,2009,Vaccinated by 5 Years,Count,2098,Children
+S12000040,West Lothian,Local Authority,2008,Number In 5 Year Cohort,Count,2135,Children
+S12000040,West Lothian,Local Authority,2012,Number In 5 Year Cohort,Count,2300,Children
+S12000040,West Lothian,Local Authority,2015,Number In 5 Year Cohort,Count,2261,Children
+S12000040,West Lothian,Local Authority,2013,Vaccinated by 5 Years,Count,2279,Children
+S12000005,Clackmannanshire,Local Authority,2013,Number In 5 Year Cohort,Count,658,Children
+S12000005,Clackmannanshire,Local Authority,2014,Number In 5 Year Cohort,Count,593,Children
+S12000006,Dumfries and Galloway,Local Authority,2012,Number In 5 Year Cohort,Count,1548,Children
+S12000005,Clackmannanshire,Local Authority,2009,Number In 5 Year Cohort,Count,563,Children
+S12000005,Clackmannanshire,Local Authority,2010,Vaccinated by 5 Years,Count,556,Children
+S12000005,Clackmannanshire,Local Authority,2017,Vaccinated by 5 Years,Count,620,Children
+S12000005,Clackmannanshire,Local Authority,2010,Number In 5 Year Cohort,Count,581,Children
+S12000005,Clackmannanshire,Local Authority,2008,Number In 5 Year Cohort,Count,528,Children
+S12000006,Dumfries and Galloway,Local Authority,2014,Vaccinated by 5 Years,Count,1528,Children
+S12000006,Dumfries and Galloway,Local Authority,2017,Vaccinated by 5 Years,Count,1444,Children
+S12000006,Dumfries and Galloway,Local Authority,2013,Number In 5 Year Cohort,Count,1508,Children
+S12000006,Dumfries and Galloway,Local Authority,2015,Vaccinated by 5 Years,Count,1456,Children
+S12000006,Dumfries and Galloway,Local Authority,2018,Vaccinated by 5 Years,Count,1358,Children
+S12000006,Dumfries and Galloway,Local Authority,2009,Number In 5 Year Cohort,Count,1546,Children
+S12000006,Dumfries and Galloway,Local Authority,2011,Number In 5 Year Cohort,Count,1565,Children
+S12000005,Clackmannanshire,Local Authority,2008,Vaccinated by 5 Years,Count,505,Children
+S12000005,Clackmannanshire,Local Authority,2017,Number In 5 Year Cohort,Count,631,Children
+S12000005,Clackmannanshire,Local Authority,2013,Vaccinated by 5 Years,Count,636,Children
+S12000005,Clackmannanshire,Local Authority,2009,Vaccinated by 5 Years,Count,536,Children
+S12000005,Clackmannanshire,Local Authority,2018,Number In 5 Year Cohort,Count,565,Children
+S12000005,Clackmannanshire,Local Authority,2012,Number In 5 Year Cohort,Count,666,Children
+S12000005,Clackmannanshire,Local Authority,2018,Vaccinated by 5 Years,Count,554,Children
+S12000005,Clackmannanshire,Local Authority,2016,Vaccinated by 5 Years,Count,560,Children
+S12000005,Clackmannanshire,Local Authority,2011,Vaccinated by 5 Years,Count,541,Children
+S12000005,Clackmannanshire,Local Authority,2014,Vaccinated by 5 Years,Count,584,Children
+S12000005,Clackmannanshire,Local Authority,2015,Vaccinated by 5 Years,Count,579,Children
+S12000005,Clackmannanshire,Local Authority,2016,Number In 5 Year Cohort,Count,570,Children
+S12000005,Clackmannanshire,Local Authority,2015,Number In 5 Year Cohort,Count,596,Children
+S12000005,Clackmannanshire,Local Authority,2012,Vaccinated by 5 Years,Count,640,Children
+S12000047,Fife,Local Authority,2013,Vaccinated by 5 Years,Count,4167,Children
+S12000047,Fife,Local Authority,2008,Vaccinated by 5 Years,Count,3626,Children
+S12000047,Fife,Local Authority,2011,Vaccinated by 5 Years,Count,3928,Children
+S12000047,Fife,Local Authority,2015,Vaccinated by 5 Years,Count,4152,Children
+S12000047,Fife,Local Authority,2017,Vaccinated by 5 Years,Count,4004,Children
+S12000047,Fife,Local Authority,2010,Vaccinated by 5 Years,Count,3815,Children
+S12000047,Fife,Local Authority,2012,Vaccinated by 5 Years,Count,4044,Children
+S12000047,Fife,Local Authority,2014,Vaccinated by 5 Years,Count,4203,Children
+S12000047,Fife,Local Authority,2012,Number In 5 Year Cohort,Count,4183,Children
+S12000047,Fife,Local Authority,2010,Number In 5 Year Cohort,Count,3964,Children
+S12000047,Fife,Local Authority,2016,Number In 5 Year Cohort,Count,4270,Children
+S12000047,Fife,Local Authority,2017,Number In 5 Year Cohort,Count,4136,Children
+S12000047,Fife,Local Authority,2008,Number In 5 Year Cohort,Count,3816,Children
+S12000047,Fife,Local Authority,2014,Number In 5 Year Cohort,Count,4310,Children
+S12000047,Fife,Local Authority,2009,Number In 5 Year Cohort,Count,3930,Children
+S12000048,Perth and Kinross,Local Authority,2008,Vaccinated by 5 Years,Count,1332,Children
+S12000048,Perth and Kinross,Local Authority,2016,Vaccinated by 5 Years,Count,1565,Children
+S12000048,Perth and Kinross,Local Authority,2016,Number In 5 Year Cohort,Count,1619,Children
+S12000048,Perth and Kinross,Local Authority,2009,Vaccinated by 5 Years,Count,1343,Children
+S12000048,Perth and Kinross,Local Authority,2012,Vaccinated by 5 Years,Count,1432,Children
+S12000048,Perth and Kinross,Local Authority,2015,Vaccinated by 5 Years,Count,1508,Children
+S12000048,Perth and Kinross,Local Authority,2014,Vaccinated by 5 Years,Count,1478,Children
+S12000048,Perth and Kinross,Local Authority,2014,Number In 5 Year Cohort,Count,1535,Children
+S12000048,Perth and Kinross,Local Authority,2009,Number In 5 Year Cohort,Count,1412,Children
+S12000048,Perth and Kinross,Local Authority,2010,Number In 5 Year Cohort,Count,1479,Children
+S12000048,Perth and Kinross,Local Authority,2018,Vaccinated by 5 Years,Count,1413,Children
+S12000048,Perth and Kinross,Local Authority,2018,Number In 5 Year Cohort,Count,1456,Children
+S12000048,Perth and Kinross,Local Authority,2017,Number In 5 Year Cohort,Count,1405,Children
+S12000048,Perth and Kinross,Local Authority,2015,Number In 5 Year Cohort,Count,1552,Children
+S12000048,Perth and Kinross,Local Authority,2012,Number In 5 Year Cohort,Count,1494,Children
+S12000047,Fife,Local Authority,2015,Number In 5 Year Cohort,Count,4301,Children
+S12000047,Fife,Local Authority,2009,Vaccinated by 5 Years,Count,3797,Children
+S12000047,Fife,Local Authority,2011,Number In 5 Year Cohort,Count,4072,Children
+S12000047,Fife,Local Authority,2013,Number In 5 Year Cohort,Count,4291,Children
+S12000047,Fife,Local Authority,2018,Number In 5 Year Cohort,Count,4025,Children
+S12000047,Fife,Local Authority,2018,Vaccinated by 5 Years,Count,3877,Children
+S12000047,Fife,Local Authority,2016,Vaccinated by 5 Years,Count,4152,Children
+S12000048,Perth and Kinross,Local Authority,2013,Vaccinated by 5 Years,Count,1505,Children
+S12000048,Perth and Kinross,Local Authority,2017,Vaccinated by 5 Years,Count,1352,Children
+S12000048,Perth and Kinross,Local Authority,2013,Number In 5 Year Cohort,Count,1561,Children
+S12000048,Perth and Kinross,Local Authority,2011,Vaccinated by 5 Years,Count,1369,Children
+S12000048,Perth and Kinross,Local Authority,2008,Number In 5 Year Cohort,Count,1420,Children
+S12000048,Perth and Kinross,Local Authority,2011,Number In 5 Year Cohort,Count,1439,Children
+S12000048,Perth and Kinross,Local Authority,2010,Vaccinated by 5 Years,Count,1398,Children
+S12000049,Glasgow City,Local Authority,2014,Number In 5 Year Cohort,Count,6695,Children
+S12000049,Glasgow City,Local Authority,2015,Vaccinated by 5 Years,Count,6437,Children
+S12000049,Glasgow City,Local Authority,2018,Number In 5 Year Cohort,Count,6643,Children
+S12000049,Glasgow City,Local Authority,2013,Vaccinated by 5 Years,Count,6394,Children
+S12000049,Glasgow City,Local Authority,2013,Number In 5 Year Cohort,Count,6629,Children
+S12000049,Glasgow City,Local Authority,2014,Vaccinated by 5 Years,Count,6457,Children
+S12000049,Glasgow City,Local Authority,2009,Vaccinated by 5 Years,Count,5744,Children
+S12000049,Glasgow City,Local Authority,2010,Vaccinated by 5 Years,Count,5725,Children
+S12000049,Glasgow City,Local Authority,2017,Vaccinated by 5 Years,Count,6422,Children
+S12000049,Glasgow City,Local Authority,2018,Vaccinated by 5 Years,Count,6319,Children
+S12000049,Glasgow City,Local Authority,2016,Vaccinated by 5 Years,Count,6479,Children
+S12000049,Glasgow City,Local Authority,2008,Vaccinated by 5 Years,Count,5401,Children
+S12000049,Glasgow City,Local Authority,2011,Vaccinated by 5 Years,Count,5980,Children
+S12000049,Glasgow City,Local Authority,2012,Vaccinated by 5 Years,Count,6237,Children
+S12000049,Glasgow City,Local Authority,2015,Number In 5 Year Cohort,Count,6700,Children
+S08000032,Lanarkshire,Health Board,2013,Number In 5 Year Cohort,Count,7866,Children
+S08000032,Lanarkshire,Health Board,2015,Number In 5 Year Cohort,Count,7649,Children
+S08000032,Lanarkshire,Health Board,2017,Number In 5 Year Cohort,Count,7548,Children
+S08000032,Lanarkshire,Health Board,2018,Number In 5 Year Cohort,Count,7342,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2016,Number In 5 Year Cohort,Count,12989,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2014,Number In 5 Year Cohort,Count,12749,Children
+S08000032,Lanarkshire,Health Board,2018,Vaccinated by 5 Years,Count,7136,Children
+S08000032,Lanarkshire,Health Board,2014,Vaccinated by 5 Years,Count,7498,Children
+S08000032,Lanarkshire,Health Board,2017,Vaccinated by 5 Years,Count,7331,Children
+S08000032,Lanarkshire,Health Board,2015,Vaccinated by 5 Years,Count,7391,Children
+S08000032,Lanarkshire,Health Board,2013,Vaccinated by 5 Years,Count,7620,Children
+S08000032,Lanarkshire,Health Board,2014,Number In 5 Year Cohort,Count,7700,Children
+S08000032,Lanarkshire,Health Board,2016,Number In 5 Year Cohort,Count,7652,Children
+S08000032,Lanarkshire,Health Board,2016,Vaccinated by 5 Years,Count,7440,Children
+S12000050,North Lanarkshire,Local Authority,2014,Vaccinated by 5 Years,Count,4003,Children
+S12000050,North Lanarkshire,Local Authority,2012,Vaccinated by 5 Years,Count,3945,Children
+S12000050,North Lanarkshire,Local Authority,2008,Number In 5 Year Cohort,Count,3809,Children
+S12000050,North Lanarkshire,Local Authority,2016,Number In 5 Year Cohort,Count,4017,Children
+S12000050,North Lanarkshire,Local Authority,2017,Vaccinated by 5 Years,Count,3867,Children
+S12000050,North Lanarkshire,Local Authority,2016,Vaccinated by 5 Years,Count,3914,Children
+S12000050,North Lanarkshire,Local Authority,2015,Number In 5 Year Cohort,Count,4015,Children
+S12000050,North Lanarkshire,Local Authority,2013,Vaccinated by 5 Years,Count,4006,Children
+S12000050,North Lanarkshire,Local Authority,2014,Number In 5 Year Cohort,Count,4105,Children
+S12000050,North Lanarkshire,Local Authority,2011,Number In 5 Year Cohort,Count,3986,Children
+S12000050,North Lanarkshire,Local Authority,2015,Vaccinated by 5 Years,Count,3883,Children
+S12000050,North Lanarkshire,Local Authority,2009,Number In 5 Year Cohort,Count,4055,Children
+S12000050,North Lanarkshire,Local Authority,2018,Number In 5 Year Cohort,Count,3836,Children
+S12000050,North Lanarkshire,Local Authority,2017,Number In 5 Year Cohort,Count,3966,Children
+S12000050,North Lanarkshire,Local Authority,2012,Number In 5 Year Cohort,Count,4075,Children
+S12000049,Glasgow City,Local Authority,2008,Number In 5 Year Cohort,Count,5691,Children
+S12000049,Glasgow City,Local Authority,2012,Number In 5 Year Cohort,Count,6471,Children
+S12000049,Glasgow City,Local Authority,2017,Number In 5 Year Cohort,Count,6751,Children
+S12000049,Glasgow City,Local Authority,2009,Number In 5 Year Cohort,Count,6008,Children
+S12000049,Glasgow City,Local Authority,2011,Number In 5 Year Cohort,Count,6219,Children
+S12000049,Glasgow City,Local Authority,2016,Number In 5 Year Cohort,Count,6819,Children
+S12000049,Glasgow City,Local Authority,2010,Number In 5 Year Cohort,Count,5987,Children
+S12000050,North Lanarkshire,Local Authority,2011,Vaccinated by 5 Years,Count,3838,Children
+S12000050,North Lanarkshire,Local Authority,2008,Vaccinated by 5 Years,Count,3580,Children
+S12000050,North Lanarkshire,Local Authority,2018,Vaccinated by 5 Years,Count,3729,Children
+S12000050,North Lanarkshire,Local Authority,2009,Vaccinated by 5 Years,Count,3874,Children
+S12000050,North Lanarkshire,Local Authority,2013,Number In 5 Year Cohort,Count,4143,Children
+S12000050,North Lanarkshire,Local Authority,2010,Number In 5 Year Cohort,Count,3917,Children
+S12000050,North Lanarkshire,Local Authority,2010,Vaccinated by 5 Years,Count,3756,Children
+S08000030,Tayside,Health Board,2015,Vaccinated by 5 Years,Count,4307,Children
+S08000030,Tayside,Health Board,2013,Number In 5 Year Cohort,Count,4489,Children
+S08000030,Tayside,Health Board,2014,Number In 5 Year Cohort,Count,4349,Children
+S08000030,Tayside,Health Board,2015,Number In 5 Year Cohort,Count,4392,Children
+S08000030,Tayside,Health Board,2018,Vaccinated by 5 Years,Count,4056,Children
+S08000030,Tayside,Health Board,2016,Vaccinated by 5 Years,Count,4351,Children
+S08000030,Tayside,Health Board,2018,Number In 5 Year Cohort,Count,4160,Children
+S08000030,Tayside,Health Board,2016,Number In 5 Year Cohort,Count,4475,Children
+S08000030,Tayside,Health Board,2013,Vaccinated by 5 Years,Count,4360,Children
+S08000030,Tayside,Health Board,2017,Vaccinated by 5 Years,Count,4142,Children
+S08000029,Fife,Health Board,2015,Number In 5 Year Cohort,Count,4301,Children
+S08000029,Fife,Health Board,2014,Number In 5 Year Cohort,Count,4310,Children
+S08000029,Fife,Health Board,2014,Vaccinated by 5 Years,Count,4203,Children
+S08000029,Fife,Health Board,2017,Vaccinated by 5 Years,Count,4004,Children
+S08000029,Fife,Health Board,2013,Number In 5 Year Cohort,Count,4291,Children
+S08000029,Fife,Health Board,2018,Vaccinated by 5 Years,Count,3877,Children
+S08000029,Fife,Health Board,2017,Number In 5 Year Cohort,Count,4136,Children
+S08000029,Fife,Health Board,2015,Vaccinated by 5 Years,Count,4152,Children
+S08000029,Fife,Health Board,2016,Number In 5 Year Cohort,Count,4270,Children
+S08000030,Tayside,Health Board,2017,Number In 5 Year Cohort,Count,4281,Children
+S08000030,Tayside,Health Board,2014,Vaccinated by 5 Years,Count,4233,Children
+S08000029,Fife,Health Board,2013,Vaccinated by 5 Years,Count,4167,Children
+S08000029,Fife,Health Board,2018,Number In 5 Year Cohort,Count,4025,Children
+S08000029,Fife,Health Board,2016,Vaccinated by 5 Years,Count,4152,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2013,Number In 5 Year Cohort,Count,12737,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2017,Vaccinated by 5 Years,Count,12647,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2018,Number In 5 Year Cohort,Count,12827,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2014,Vaccinated by 5 Years,Count,12369,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2013,Vaccinated by 5 Years,Count,12359,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2015,Number In 5 Year Cohort,Count,12938,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2015,Vaccinated by 5 Years,Count,12537,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2018,Vaccinated by 5 Years,Count,12348,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2017,Number In 5 Year Cohort,Count,13125,Children
+S08000031,Greater Glasgow and Clyde,Health Board,2016,Vaccinated by 5 Years,Count,12491,Children
+S08000022,Highland,Health Board,2018,Vaccinated by 5 Years,Count,3000,Children
+S08000020,Grampian,Health Board,2017,Number In 5 Year Cohort,Count,6551,Children
+S08000022,Highland,Health Board,2016,Vaccinated by 5 Years,Count,3116,Children
+S08000022,Highland,Health Board,2014,Number In 5 Year Cohort,Count,3306,Children
+S08000020,Grampian,Health Board,2013,Number In 5 Year Cohort,Count,6534,Children
+S08000020,Grampian,Health Board,2014,Number In 5 Year Cohort,Count,6765,Children
+S08000020,Grampian,Health Board,2016,Number In 5 Year Cohort,Count,6421,Children
+S08000020,Grampian,Health Board,2013,Vaccinated by 5 Years,Count,6317,Children
+S08000022,Highland,Health Board,2017,Vaccinated by 5 Years,Count,3232,Children
+S08000022,Highland,Health Board,2017,Number In 5 Year Cohort,Count,3366,Children
+S08000022,Highland,Health Board,2015,Vaccinated by 5 Years,Count,3193,Children
+S08000022,Highland,Health Board,2014,Vaccinated by 5 Years,Count,3179,Children
+S08000022,Highland,Health Board,2016,Number In 5 Year Cohort,Count,3240,Children
+S08000022,Highland,Health Board,2013,Number In 5 Year Cohort,Count,3398,Children
+S08000022,Highland,Health Board,2013,Vaccinated by 5 Years,Count,3263,Children
+S08000019,Forth Valley,Health Board,2015,Number In 5 Year Cohort,Count,3372,Children
+S08000019,Forth Valley,Health Board,2018,Number In 5 Year Cohort,Count,3216,Children
+S08000019,Forth Valley,Health Board,2013,Vaccinated by 5 Years,Count,3414,Children
+S08000019,Forth Valley,Health Board,2018,Vaccinated by 5 Years,Count,3141,Children
+S08000019,Forth Valley,Health Board,2013,Number In 5 Year Cohort,Count,3494,Children
+S08000019,Forth Valley,Health Board,2015,Vaccinated by 5 Years,Count,3296,Children
+S08000019,Forth Valley,Health Board,2017,Vaccinated by 5 Years,Count,3343,Children
+S08000019,Forth Valley,Health Board,2016,Number In 5 Year Cohort,Count,3378,Children
+S08000020,Grampian,Health Board,2016,Vaccinated by 5 Years,Count,6197,Children
+S08000020,Grampian,Health Board,2017,Vaccinated by 5 Years,Count,6305,Children
+S08000020,Grampian,Health Board,2018,Number In 5 Year Cohort,Count,6150,Children
+S08000020,Grampian,Health Board,2018,Vaccinated by 5 Years,Count,5907,Children
+S08000020,Grampian,Health Board,2015,Vaccinated by 5 Years,Count,6233,Children
+S08000020,Grampian,Health Board,2015,Number In 5 Year Cohort,Count,6444,Children
+S08000020,Grampian,Health Board,2014,Vaccinated by 5 Years,Count,6578,Children
+S08000025,Orkney,Health Board,2013,Vaccinated by 5 Years,Count,240,Children
+S08000025,Orkney,Health Board,2017,Vaccinated by 5 Years,Count,206,Children
+S08000025,Orkney,Health Board,2015,Number In 5 Year Cohort,Count,232,Children
+S08000025,Orkney,Health Board,2018,Number In 5 Year Cohort,Count,221,Children
+S08000025,Orkney,Health Board,2017,Number In 5 Year Cohort,Count,219,Children
+S08000025,Orkney,Health Board,2016,Vaccinated by 5 Years,Count,208,Children
+S08000025,Orkney,Health Board,2016,Number In 5 Year Cohort,Count,220,Children
+S08000025,Orkney,Health Board,2018,Vaccinated by 5 Years,Count,214,Children
+S08000026,Shetland,Health Board,2015,Vaccinated by 5 Years,Count,259,Children
+S08000025,Orkney,Health Board,2013,Number In 5 Year Cohort,Count,249,Children
+S08000026,Shetland,Health Board,2017,Vaccinated by 5 Years,Count,277,Children
+S08000026,Shetland,Health Board,2014,Number In 5 Year Cohort,Count,285,Children
+S08000025,Orkney,Health Board,2014,Number In 5 Year Cohort,Count,222,Children
+S08000025,Orkney,Health Board,2014,Vaccinated by 5 Years,Count,210,Children
+S08000025,Orkney,Health Board,2015,Vaccinated by 5 Years,Count,220,Children
+S08000024,Lothian,Health Board,2014,Vaccinated by 5 Years,Count,9215,Children
+S08000024,Lothian,Health Board,2014,Number In 5 Year Cohort,Count,9490,Children
+S08000024,Lothian,Health Board,2017,Number In 5 Year Cohort,Count,9796,Children
+S08000024,Lothian,Health Board,2018,Number In 5 Year Cohort,Count,9597,Children
+S08000022,Highland,Health Board,2015,Number In 5 Year Cohort,Count,3338,Children
+S08000022,Highland,Health Board,2018,Number In 5 Year Cohort,Count,3148,Children
+S08000024,Lothian,Health Board,2017,Vaccinated by 5 Years,Count,9473,Children
+S08000024,Lothian,Health Board,2016,Vaccinated by 5 Years,Count,9390,Children
+S08000024,Lothian,Health Board,2016,Number In 5 Year Cohort,Count,9693,Children
+S08000024,Lothian,Health Board,2013,Vaccinated by 5 Years,Count,9239,Children
+S08000024,Lothian,Health Board,2018,Vaccinated by 5 Years,Count,9273,Children
+S08000024,Lothian,Health Board,2015,Number In 5 Year Cohort,Count,9668,Children
+S08000024,Lothian,Health Board,2015,Vaccinated by 5 Years,Count,9382,Children
+S08000024,Lothian,Health Board,2013,Number In 5 Year Cohort,Count,9509,Children
+S08000015,Ayrshire and Arran,Health Board,2014,Vaccinated by 5 Years,Count,3937,Children
+S08000015,Ayrshire and Arran,Health Board,2015,Vaccinated by 5 Years,Count,3954,Children
+S08000015,Ayrshire and Arran,Health Board,2018,Vaccinated by 5 Years,Count,3682,Children
+S08000015,Ayrshire and Arran,Health Board,2013,Number In 5 Year Cohort,Count,4019,Children
+S12000045,East Dunbartonshire,Local Authority,2014,Number In 5 Year Cohort,Count,1159,Children
+S12000045,East Dunbartonshire,Local Authority,2011,Number In 5 Year Cohort,Count,1088,Children
+S12000045,East Dunbartonshire,Local Authority,2017,Number In 5 Year Cohort,Count,1229,Children
+S12000045,East Dunbartonshire,Local Authority,2009,Number In 5 Year Cohort,Count,1065,Children
+S08000015,Ayrshire and Arran,Health Board,2017,Number In 5 Year Cohort,Count,3838,Children
+S08000015,Ayrshire and Arran,Health Board,2014,Number In 5 Year Cohort,Count,4009,Children
+S08000015,Ayrshire and Arran,Health Board,2018,Number In 5 Year Cohort,Count,3801,Children
+S08000015,Ayrshire and Arran,Health Board,2013,Vaccinated by 5 Years,Count,3946,Children
+S08000015,Ayrshire and Arran,Health Board,2016,Number In 5 Year Cohort,Count,4067,Children
+S08000015,Ayrshire and Arran,Health Board,2015,Number In 5 Year Cohort,Count,4033,Children
+S08000015,Ayrshire and Arran,Health Board,2016,Vaccinated by 5 Years,Count,3974,Children
+S12000045,East Dunbartonshire,Local Authority,2018,Vaccinated by 5 Years,Count,1239,Children
+S12000045,East Dunbartonshire,Local Authority,2008,Vaccinated by 5 Years,Count,1080,Children
+S12000045,East Dunbartonshire,Local Authority,2010,Vaccinated by 5 Years,Count,1051,Children
+S12000045,East Dunbartonshire,Local Authority,2018,Number In 5 Year Cohort,Count,1270,Children
+S12000045,East Dunbartonshire,Local Authority,2012,Number In 5 Year Cohort,Count,1115,Children
+S12000045,East Dunbartonshire,Local Authority,2015,Vaccinated by 5 Years,Count,1184,Children
+S12000045,East Dunbartonshire,Local Authority,2014,Vaccinated by 5 Years,Count,1129,Children
+S12000045,East Dunbartonshire,Local Authority,2016,Number In 5 Year Cohort,Count,1234,Children
+S12000045,East Dunbartonshire,Local Authority,2017,Vaccinated by 5 Years,Count,1210,Children
+S12000045,East Dunbartonshire,Local Authority,2013,Number In 5 Year Cohort,Count,1151,Children
+S12000045,East Dunbartonshire,Local Authority,2016,Vaccinated by 5 Years,Count,1204,Children
+S12000045,East Dunbartonshire,Local Authority,2012,Vaccinated by 5 Years,Count,1082,Children
+S12000045,East Dunbartonshire,Local Authority,2009,Vaccinated by 5 Years,Count,1018,Children
+S12000045,East Dunbartonshire,Local Authority,2015,Number In 5 Year Cohort,Count,1211,Children
+S08000017,Dumfries and Galloway,Health Board,2014,Number In 5 Year Cohort,Count,1559,Children
+S08000017,Dumfries and Galloway,Health Board,2013,Vaccinated by 5 Years,Count,1478,Children
+S08000017,Dumfries and Galloway,Health Board,2016,Vaccinated by 5 Years,Count,1458,Children
+S08000017,Dumfries and Galloway,Health Board,2017,Number In 5 Year Cohort,Count,1468,Children
+S08000017,Dumfries and Galloway,Health Board,2016,Number In 5 Year Cohort,Count,1499,Children
+S08000017,Dumfries and Galloway,Health Board,2014,Vaccinated by 5 Years,Count,1528,Children
+S08000017,Dumfries and Galloway,Health Board,2018,Vaccinated by 5 Years,Count,1358,Children
+S08000017,Dumfries and Galloway,Health Board,2015,Vaccinated by 5 Years,Count,1456,Children
+S08000019,Forth Valley,Health Board,2017,Number In 5 Year Cohort,Count,3419,Children
+S08000019,Forth Valley,Health Board,2014,Vaccinated by 5 Years,Count,3437,Children
+S08000019,Forth Valley,Health Board,2014,Number In 5 Year Cohort,Count,3496,Children
+S08000019,Forth Valley,Health Board,2016,Vaccinated by 5 Years,Count,3288,Children
+S08000017,Dumfries and Galloway,Health Board,2013,Number In 5 Year Cohort,Count,1508,Children
+S08000017,Dumfries and Galloway,Health Board,2018,Number In 5 Year Cohort,Count,1383,Children
+S08000017,Dumfries and Galloway,Health Board,2015,Number In 5 Year Cohort,Count,1501,Children
+S08000016,Borders,Health Board,2017,Vaccinated by 5 Years,Count,1143,Children
+S08000016,Borders,Health Board,2015,Vaccinated by 5 Years,Count,1121,Children
+S08000016,Borders,Health Board,2013,Number In 5 Year Cohort,Count,1156,Children
+S08000016,Borders,Health Board,2014,Number In 5 Year Cohort,Count,1169,Children
+S08000016,Borders,Health Board,2016,Number In 5 Year Cohort,Count,1141,Children
+S08000015,Ayrshire and Arran,Health Board,2017,Vaccinated by 5 Years,Count,3753,Children
+S08000016,Borders,Health Board,2018,Number In 5 Year Cohort,Count,1154,Children
+S08000016,Borders,Health Board,2017,Number In 5 Year Cohort,Count,1169,Children
+S08000016,Borders,Health Board,2015,Number In 5 Year Cohort,Count,1146,Children
+S08000017,Dumfries and Galloway,Health Board,2017,Vaccinated by 5 Years,Count,1444,Children
+S08000016,Borders,Health Board,2016,Vaccinated by 5 Years,Count,1107,Children
+S08000016,Borders,Health Board,2014,Vaccinated by 5 Years,Count,1138,Children
+S08000016,Borders,Health Board,2013,Vaccinated by 5 Years,Count,1129,Children
+S08000016,Borders,Health Board,2018,Vaccinated by 5 Years,Count,1113,Children
+S08000028,Western Isles,Health Board,2017,Vaccinated by 5 Years,Count,259,Children
+S08000028,Western Isles,Health Board,2016,Vaccinated by 5 Years,Count,235,Children
+S08000028,Western Isles,Health Board,2013,Vaccinated by 5 Years,Count,269,Children
+S08000028,Western Isles,Health Board,2018,Vaccinated by 5 Years,Count,264,Children
+S08000028,Western Isles,Health Board,2015,Vaccinated by 5 Years,Count,265,Children
+S08000028,Western Isles,Health Board,2014,Vaccinated by 5 Years,Count,233,Children
+S08000028,Western Isles,Health Board,2013,Number In 5 Year Cohort,Count,275,Children
+S08000026,Shetland,Health Board,2018,Number In 5 Year Cohort,Count,246,Children
+S08000026,Shetland,Health Board,2016,Number In 5 Year Cohort,Count,260,Children
+S08000026,Shetland,Health Board,2018,Vaccinated by 5 Years,Count,235,Children
+S08000026,Shetland,Health Board,2014,Vaccinated by 5 Years,Count,273,Children
+S08000026,Shetland,Health Board,2017,Number In 5 Year Cohort,Count,289,Children
+S08000026,Shetland,Health Board,2015,Number In 5 Year Cohort,Count,273,Children
+S08000026,Shetland,Health Board,2013,Vaccinated by 5 Years,Count,245,Children
+S08000028,Western Isles,Health Board,2015,Number In 5 Year Cohort,Count,275,Children
+S08000028,Western Isles,Health Board,2017,Number In 5 Year Cohort,Count,263,Children
+S08000028,Western Isles,Health Board,2014,Number In 5 Year Cohort,Count,237,Children
+S08000028,Western Isles,Health Board,2016,Number In 5 Year Cohort,Count,243,Children
+S08000026,Shetland,Health Board,2016,Vaccinated by 5 Years,Count,247,Children
+S08000026,Shetland,Health Board,2013,Number In 5 Year Cohort,Count,263,Children
+S08000028,Western Isles,Health Board,2018,Number In 5 Year Cohort,Count,271,Children
+S12000033,Aberdeen City,Local Authority,2009,Number In 5 Year Cohort,Count,1889,Children
+S12000033,Aberdeen City,Local Authority,2012,Number In 5 Year Cohort,Count,2247,Children
+S12000033,Aberdeen City,Local Authority,2017,Vaccinated by 5 Years,Count,2241,Children
+S12000033,Aberdeen City,Local Authority,2010,Vaccinated by 5 Years,Count,1912,Children
+S12000030,Stirling,Local Authority,2010,Vaccinated by 5 Years,Count,922,Children
+S12000030,Stirling,Local Authority,2008,Number In 5 Year Cohort,Count,949,Children
+S12000033,Aberdeen City,Local Authority,2008,Number In 5 Year Cohort,Count,1845,Children
+S12000033,Aberdeen City,Local Authority,2015,Vaccinated by 5 Years,Count,2192,Children
+S12000033,Aberdeen City,Local Authority,2011,Vaccinated by 5 Years,Count,2047,Children
+S12000033,Aberdeen City,Local Authority,2013,Vaccinated by 5 Years,Count,2200,Children
+S12000033,Aberdeen City,Local Authority,2012,Vaccinated by 5 Years,Count,2172,Children
+S12000033,Aberdeen City,Local Authority,2016,Vaccinated by 5 Years,Count,2194,Children
+S12000033,Aberdeen City,Local Authority,2009,Vaccinated by 5 Years,Count,1813,Children
+S12000033,Aberdeen City,Local Authority,2016,Number In 5 Year Cohort,Count,2308,Children
+S12000033,Aberdeen City,Local Authority,2013,Number In 5 Year Cohort,Count,2307,Children
+S12000030,Stirling,Local Authority,2010,Number In 5 Year Cohort,Count,962,Children
+S12000030,Stirling,Local Authority,2012,Vaccinated by 5 Years,Count,907,Children
+S12000030,Stirling,Local Authority,2012,Number In 5 Year Cohort,Count,955,Children
+S12000030,Stirling,Local Authority,2017,Number In 5 Year Cohort,Count,948,Children
+S12000030,Stirling,Local Authority,2009,Vaccinated by 5 Years,Count,939,Children
+S12000030,Stirling,Local Authority,2015,Number In 5 Year Cohort,Count,924,Children
+S12000030,Stirling,Local Authority,2008,Vaccinated by 5 Years,Count,897,Children
+S12000030,Stirling,Local Authority,2014,Number In 5 Year Cohort,Count,980,Children
+S12000030,Stirling,Local Authority,2016,Vaccinated by 5 Years,Count,924,Children
+S12000030,Stirling,Local Authority,2017,Vaccinated by 5 Years,Count,915,Children
+S12000030,Stirling,Local Authority,2011,Vaccinated by 5 Years,Count,918,Children
+S12000030,Stirling,Local Authority,2013,Vaccinated by 5 Years,Count,875,Children
+S12000030,Stirling,Local Authority,2011,Number In 5 Year Cohort,Count,957,Children
+S12000030,Stirling,Local Authority,2013,Number In 5 Year Cohort,Count,910,Children
+S12000030,Stirling,Local Authority,2018,Vaccinated by 5 Years,Count,891,Children
+S12000034,Aberdeenshire,Local Authority,2017,Vaccinated by 5 Years,Count,3106,Children
+S12000034,Aberdeenshire,Local Authority,2009,Vaccinated by 5 Years,Count,2736,Children
+S12000034,Aberdeenshire,Local Authority,2011,Number In 5 Year Cohort,Count,2957,Children
+S12000034,Aberdeenshire,Local Authority,2008,Vaccinated by 5 Years,Count,2613,Children
+S12000034,Aberdeenshire,Local Authority,2008,Number In 5 Year Cohort,Count,2723,Children
+S12000034,Aberdeenshire,Local Authority,2014,Number In 5 Year Cohort,Count,3389,Children
+S12000034,Aberdeenshire,Local Authority,2016,Vaccinated by 5 Years,Count,3004,Children
+S12000034,Aberdeenshire,Local Authority,2018,Vaccinated by 5 Years,Count,2914,Children
+S12000034,Aberdeenshire,Local Authority,2013,Vaccinated by 5 Years,Count,3143,Children
+S12000034,Aberdeenshire,Local Authority,2011,Vaccinated by 5 Years,Count,2863,Children
+S12000034,Aberdeenshire,Local Authority,2010,Vaccinated by 5 Years,Count,2713,Children
+S12000034,Aberdeenshire,Local Authority,2018,Number In 5 Year Cohort,Count,2989,Children
+S12000034,Aberdeenshire,Local Authority,2014,Vaccinated by 5 Years,Count,3314,Children
+S12000034,Aberdeenshire,Local Authority,2010,Number In 5 Year Cohort,Count,2823,Children
+S12000034,Aberdeenshire,Local Authority,2015,Number In 5 Year Cohort,Count,3163,Children
+S12000033,Aberdeen City,Local Authority,2011,Number In 5 Year Cohort,Count,2129,Children
+S12000033,Aberdeen City,Local Authority,2018,Vaccinated by 5 Years,Count,2040,Children
+S12000033,Aberdeen City,Local Authority,2017,Number In 5 Year Cohort,Count,2355,Children
+S12000033,Aberdeen City,Local Authority,2014,Vaccinated by 5 Years,Count,2267,Children
+S12000033,Aberdeen City,Local Authority,2014,Number In 5 Year Cohort,Count,2346,Children
+S12000033,Aberdeen City,Local Authority,2010,Number In 5 Year Cohort,Count,2000,Children
+S12000033,Aberdeen City,Local Authority,2015,Number In 5 Year Cohort,Count,2294,Children
+S12000034,Aberdeenshire,Local Authority,2012,Number In 5 Year Cohort,Count,2963,Children
+S12000034,Aberdeenshire,Local Authority,2013,Number In 5 Year Cohort,Count,3215,Children
+S12000034,Aberdeenshire,Local Authority,2009,Number In 5 Year Cohort,Count,2842,Children
+S12000034,Aberdeenshire,Local Authority,2017,Number In 5 Year Cohort,Count,3195,Children
+S12000033,Aberdeen City,Local Authority,2018,Number In 5 Year Cohort,Count,2163,Children
+S12000033,Aberdeen City,Local Authority,2008,Vaccinated by 5 Years,Count,1747,Children
+S12000034,Aberdeenshire,Local Authority,2015,Vaccinated by 5 Years,Count,3085,Children
+S12000028,South Ayrshire,Local Authority,2010,Vaccinated by 5 Years,Count,1034,Children
+S12000028,South Ayrshire,Local Authority,2008,Number In 5 Year Cohort,Count,1058,Children
+S12000028,South Ayrshire,Local Authority,2014,Number In 5 Year Cohort,Count,1151,Children
+S12000028,South Ayrshire,Local Authority,2014,Vaccinated by 5 Years,Count,1133,Children
+S12000028,South Ayrshire,Local Authority,2009,Number In 5 Year Cohort,Count,1098,Children
+S12000028,South Ayrshire,Local Authority,2018,Number In 5 Year Cohort,Count,1093,Children
+S12000028,South Ayrshire,Local Authority,2016,Vaccinated by 5 Years,Count,1115,Children
+S12000028,South Ayrshire,Local Authority,2013,Number In 5 Year Cohort,Count,1134,Children
+S12000028,South Ayrshire,Local Authority,2016,Number In 5 Year Cohort,Count,1148,Children
+S12000028,South Ayrshire,Local Authority,2012,Number In 5 Year Cohort,Count,1119,Children
+S12000028,South Ayrshire,Local Authority,2011,Number In 5 Year Cohort,Count,1131,Children
+S12000028,South Ayrshire,Local Authority,2017,Vaccinated by 5 Years,Count,1015,Children
+S12000028,South Ayrshire,Local Authority,2017,Number In 5 Year Cohort,Count,1040,Children
+S12000028,South Ayrshire,Local Authority,2013,Vaccinated by 5 Years,Count,1113,Children
+S12000028,South Ayrshire,Local Authority,2011,Vaccinated by 5 Years,Count,1097,Children
+S12000027,Shetland Islands,Local Authority,2013,Number In 5 Year Cohort,Count,263,Children
+S12000027,Shetland Islands,Local Authority,2018,Vaccinated by 5 Years,Count,235,Children
+S12000027,Shetland Islands,Local Authority,2013,Vaccinated by 5 Years,Count,245,Children
+S12000027,Shetland Islands,Local Authority,2015,Vaccinated by 5 Years,Count,259,Children
+S12000027,Shetland Islands,Local Authority,2017,Vaccinated by 5 Years,Count,277,Children
+S12000027,Shetland Islands,Local Authority,2008,Vaccinated by 5 Years,Count,226,Children
+S12000027,Shetland Islands,Local Authority,2018,Number In 5 Year Cohort,Count,246,Children
+S12000028,South Ayrshire,Local Authority,2009,Vaccinated by 5 Years,Count,1065,Children
+S12000028,South Ayrshire,Local Authority,2018,Vaccinated by 5 Years,Count,1061,Children
+S12000028,South Ayrshire,Local Authority,2012,Vaccinated by 5 Years,Count,1094,Children
+S12000028,South Ayrshire,Local Authority,2015,Vaccinated by 5 Years,Count,1173,Children
+S12000027,Shetland Islands,Local Authority,2016,Vaccinated by 5 Years,Count,247,Children
+S12000027,Shetland Islands,Local Authority,2016,Number In 5 Year Cohort,Count,260,Children
+S12000028,South Ayrshire,Local Authority,2010,Number In 5 Year Cohort,Count,1064,Children
+S12000029,South Lanarkshire,Local Authority,2016,Number In 5 Year Cohort,Count,3635,Children
+S12000029,South Lanarkshire,Local Authority,2009,Vaccinated by 5 Years,Count,3389,Children
+S12000029,South Lanarkshire,Local Authority,2012,Vaccinated by 5 Years,Count,3426,Children
+S12000029,South Lanarkshire,Local Authority,2015,Vaccinated by 5 Years,Count,3508,Children
+S12000029,South Lanarkshire,Local Authority,2015,Number In 5 Year Cohort,Count,3634,Children
+S12000029,South Lanarkshire,Local Authority,2011,Number In 5 Year Cohort,Count,3563,Children
+S12000029,South Lanarkshire,Local Authority,2017,Vaccinated by 5 Years,Count,3464,Children
+S12000029,South Lanarkshire,Local Authority,2014,Vaccinated by 5 Years,Count,3495,Children
+S12000030,Stirling,Local Authority,2014,Vaccinated by 5 Years,Count,955,Children
+S12000030,Stirling,Local Authority,2018,Number In 5 Year Cohort,Count,914,Children
+S12000030,Stirling,Local Authority,2009,Number In 5 Year Cohort,Count,984,Children
+S12000030,Stirling,Local Authority,2015,Vaccinated by 5 Years,Count,896,Children
+S12000029,South Lanarkshire,Local Authority,2018,Vaccinated by 5 Years,Count,3407,Children
+S12000029,South Lanarkshire,Local Authority,2017,Number In 5 Year Cohort,Count,3582,Children
+S12000030,Stirling,Local Authority,2016,Number In 5 Year Cohort,Count,967,Children
+S12000029,South Lanarkshire,Local Authority,2013,Number In 5 Year Cohort,Count,3723,Children
+S12000029,South Lanarkshire,Local Authority,2013,Vaccinated by 5 Years,Count,3614,Children
+S12000029,South Lanarkshire,Local Authority,2016,Vaccinated by 5 Years,Count,3526,Children
+S12000029,South Lanarkshire,Local Authority,2009,Number In 5 Year Cohort,Count,3523,Children
+S12000028,South Ayrshire,Local Authority,2015,Number In 5 Year Cohort,Count,1193,Children
+S12000028,South Ayrshire,Local Authority,2008,Vaccinated by 5 Years,Count,1016,Children
+S12000029,South Lanarkshire,Local Authority,2010,Number In 5 Year Cohort,Count,3478,Children
+S12000029,South Lanarkshire,Local Authority,2008,Vaccinated by 5 Years,Count,3144,Children
+S12000029,South Lanarkshire,Local Authority,2012,Number In 5 Year Cohort,Count,3540,Children
+S12000029,South Lanarkshire,Local Authority,2014,Number In 5 Year Cohort,Count,3595,Children
+S12000029,South Lanarkshire,Local Authority,2011,Vaccinated by 5 Years,Count,3454,Children
+S12000029,South Lanarkshire,Local Authority,2008,Number In 5 Year Cohort,Count,3290,Children
+S12000029,South Lanarkshire,Local Authority,2018,Number In 5 Year Cohort,Count,3506,Children
+S12000029,South Lanarkshire,Local Authority,2010,Vaccinated by 5 Years,Count,3348,Children
+S12000041,Angus,Local Authority,2016,Vaccinated by 5 Years,Count,1206,Children
+S12000041,Angus,Local Authority,2012,Vaccinated by 5 Years,Count,1177,Children
+S12000041,Angus,Local Authority,2017,Vaccinated by 5 Years,Count,1220,Children
+S12000041,Angus,Local Authority,2008,Number In 5 Year Cohort,Count,1211,Children
+S12000041,Angus,Local Authority,2015,Number In 5 Year Cohort,Count,1208,Children
+S12000041,Angus,Local Authority,2015,Vaccinated by 5 Years,Count,1194,Children
+S12000041,Angus,Local Authority,2014,Number In 5 Year Cohort,Count,1211,Children
+S12000041,Angus,Local Authority,2013,Vaccinated by 5 Years,Count,1227,Children
+S12000041,Angus,Local Authority,2014,Vaccinated by 5 Years,Count,1186,Children
+S12000041,Angus,Local Authority,2011,Number In 5 Year Cohort,Count,1194,Children
+S12000041,Angus,Local Authority,2008,Vaccinated by 5 Years,Count,1157,Children
+S12000041,Angus,Local Authority,2010,Vaccinated by 5 Years,Count,1165,Children
+S12000041,Angus,Local Authority,2016,Number In 5 Year Cohort,Count,1233,Children
+S12000041,Angus,Local Authority,2012,Number In 5 Year Cohort,Count,1218,Children
+S12000041,Angus,Local Authority,2017,Number In 5 Year Cohort,Count,1251,Children
+S12000038,Renfrewshire,Local Authority,2017,Number In 5 Year Cohort,Count,1980,Children
+S12000038,Renfrewshire,Local Authority,2008,Number In 5 Year Cohort,Count,1811,Children
+S12000038,Renfrewshire,Local Authority,2012,Vaccinated by 5 Years,Count,1821,Children
+S12000038,Renfrewshire,Local Authority,2016,Vaccinated by 5 Years,Count,1835,Children
+S12000038,Renfrewshire,Local Authority,2018,Number In 5 Year Cohort,Count,1911,Children
+S12000038,Renfrewshire,Local Authority,2014,Number In 5 Year Cohort,Count,1874,Children
+S12000038,Renfrewshire,Local Authority,2011,Vaccinated by 5 Years,Count,1809,Children
+S12000041,Angus,Local Authority,2011,Vaccinated by 5 Years,Count,1160,Children
+S12000041,Angus,Local Authority,2018,Number In 5 Year Cohort,Count,1223,Children
+S12000041,Angus,Local Authority,2009,Vaccinated by 5 Years,Count,1141,Children
+S12000041,Angus,Local Authority,2013,Number In 5 Year Cohort,Count,1256,Children
+S12000038,Renfrewshire,Local Authority,2016,Number In 5 Year Cohort,Count,1883,Children
+S12000038,Renfrewshire,Local Authority,2017,Vaccinated by 5 Years,Count,1921,Children
+S12000038,Renfrewshire,Local Authority,2018,Vaccinated by 5 Years,Count,1858,Children
+S12000042,Dundee City,Local Authority,2018,Vaccinated by 5 Years,Count,1440,Children
+S12000042,Dundee City,Local Authority,2010,Vaccinated by 5 Years,Count,1397,Children
+S12000042,Dundee City,Local Authority,2011,Vaccinated by 5 Years,Count,1427,Children
+S12000042,Dundee City,Local Authority,2018,Number In 5 Year Cohort,Count,1481,Children
+S12000042,Dundee City,Local Authority,2008,Vaccinated by 5 Years,Count,1386,Children
+S12000042,Dundee City,Local Authority,2017,Vaccinated by 5 Years,Count,1570,Children
+S12000042,Dundee City,Local Authority,2016,Vaccinated by 5 Years,Count,1580,Children
+S12000042,Dundee City,Local Authority,2015,Vaccinated by 5 Years,Count,1605,Children
+S12000045,East Dunbartonshire,Local Authority,2008,Number In 5 Year Cohort,Count,1139,Children
+S12000045,East Dunbartonshire,Local Authority,2011,Vaccinated by 5 Years,Count,1047,Children
+S12000045,East Dunbartonshire,Local Authority,2010,Number In 5 Year Cohort,Count,1090,Children
+S12000045,East Dunbartonshire,Local Authority,2013,Vaccinated by 5 Years,Count,1118,Children
+S12000042,Dundee City,Local Authority,2014,Number In 5 Year Cohort,Count,1603,Children
+S12000042,Dundee City,Local Authority,2015,Number In 5 Year Cohort,Count,1632,Children
+S12000042,Dundee City,Local Authority,2014,Vaccinated by 5 Years,Count,1569,Children
+S12000042,Dundee City,Local Authority,2010,Number In 5 Year Cohort,Count,1444,Children
+S12000042,Dundee City,Local Authority,2008,Number In 5 Year Cohort,Count,1454,Children
+S12000042,Dundee City,Local Authority,2012,Number In 5 Year Cohort,Count,1532,Children
+S12000042,Dundee City,Local Authority,2013,Vaccinated by 5 Years,Count,1628,Children
+S12000041,Angus,Local Authority,2010,Number In 5 Year Cohort,Count,1203,Children
+S12000041,Angus,Local Authority,2009,Number In 5 Year Cohort,Count,1177,Children
+S12000041,Angus,Local Authority,2018,Vaccinated by 5 Years,Count,1203,Children
+S12000042,Dundee City,Local Authority,2011,Number In 5 Year Cohort,Count,1490,Children
+S12000042,Dundee City,Local Authority,2012,Vaccinated by 5 Years,Count,1495,Children
+S12000042,Dundee City,Local Authority,2016,Number In 5 Year Cohort,Count,1623,Children
+S12000042,Dundee City,Local Authority,2009,Number In 5 Year Cohort,Count,1468,Children
+S12000042,Dundee City,Local Authority,2017,Number In 5 Year Cohort,Count,1625,Children
+S12000042,Dundee City,Local Authority,2009,Vaccinated by 5 Years,Count,1417,Children
+S12000042,Dundee City,Local Authority,2013,Number In 5 Year Cohort,Count,1672,Children
+S12000035,Argyll and Bute,Local Authority,2011,Number In 5 Year Cohort,Count,815,Children
+S12000035,Argyll and Bute,Local Authority,2014,Number In 5 Year Cohort,Count,876,Children
+S12000035,Argyll and Bute,Local Authority,2011,Vaccinated by 5 Years,Count,784,Children
+S12000035,Argyll and Bute,Local Authority,2008,Vaccinated by 5 Years,Count,761,Children
+S12000035,Argyll and Bute,Local Authority,2018,Number In 5 Year Cohort,Count,836,Children
+S12000035,Argyll and Bute,Local Authority,2018,Vaccinated by 5 Years,Count,791,Children
+S12000035,Argyll and Bute,Local Authority,2008,Number In 5 Year Cohort,Count,805,Children
+S12000035,Argyll and Bute,Local Authority,2009,Number In 5 Year Cohort,Count,840,Children
+S12000036,City of Edinburgh,Local Authority,2009,Number In 5 Year Cohort,Count,3995,Children
+S12000036,City of Edinburgh,Local Authority,2012,Number In 5 Year Cohort,Count,4683,Children
+S12000036,City of Edinburgh,Local Authority,2008,Vaccinated by 5 Years,Count,3776,Children
+S12000036,City of Edinburgh,Local Authority,2008,Number In 5 Year Cohort,Count,4036,Children
+S12000035,Argyll and Bute,Local Authority,2010,Number In 5 Year Cohort,Count,837,Children
+S12000035,Argyll and Bute,Local Authority,2010,Vaccinated by 5 Years,Count,792,Children
+S12000036,City of Edinburgh,Local Authority,2014,Number In 5 Year Cohort,Count,4944,Children
+S12000035,Argyll and Bute,Local Authority,2012,Number In 5 Year Cohort,Count,829,Children
+S12000035,Argyll and Bute,Local Authority,2015,Number In 5 Year Cohort,Count,863,Children
+S12000035,Argyll and Bute,Local Authority,2017,Vaccinated by 5 Years,Count,818,Children
+S12000035,Argyll and Bute,Local Authority,2016,Number In 5 Year Cohort,Count,810,Children
+S12000034,Aberdeenshire,Local Authority,2016,Number In 5 Year Cohort,Count,3092,Children
+S12000034,Aberdeenshire,Local Authority,2012,Vaccinated by 5 Years,Count,2894,Children
+S12000035,Argyll and Bute,Local Authority,2017,Number In 5 Year Cohort,Count,855,Children
+S12000035,Argyll and Bute,Local Authority,2012,Vaccinated by 5 Years,Count,798,Children
+S12000035,Argyll and Bute,Local Authority,2016,Vaccinated by 5 Years,Count,782,Children
+S12000035,Argyll and Bute,Local Authority,2014,Vaccinated by 5 Years,Count,832,Children
+S12000035,Argyll and Bute,Local Authority,2015,Vaccinated by 5 Years,Count,818,Children
+S12000035,Argyll and Bute,Local Authority,2013,Vaccinated by 5 Years,Count,812,Children
+S12000035,Argyll and Bute,Local Authority,2009,Vaccinated by 5 Years,Count,794,Children
+S12000035,Argyll and Bute,Local Authority,2013,Number In 5 Year Cohort,Count,847,Children
+S12000038,Renfrewshire,Local Authority,2013,Vaccinated by 5 Years,Count,1889,Children
+S12000038,Renfrewshire,Local Authority,2010,Vaccinated by 5 Years,Count,1800,Children
+S12000038,Renfrewshire,Local Authority,2014,Vaccinated by 5 Years,Count,1832,Children
+S12000038,Renfrewshire,Local Authority,2008,Vaccinated by 5 Years,Count,1714,Children
+S12000036,City of Edinburgh,Local Authority,2011,Vaccinated by 5 Years,Count,4100,Children
+S12000036,City of Edinburgh,Local Authority,2010,Vaccinated by 5 Years,Count,3974,Children
+S12000038,Renfrewshire,Local Authority,2009,Vaccinated by 5 Years,Count,1807,Children
+S12000036,City of Edinburgh,Local Authority,2017,Vaccinated by 5 Years,Count,4962,Children
+S12000038,Renfrewshire,Local Authority,2009,Number In 5 Year Cohort,Count,1870,Children
+S12000038,Renfrewshire,Local Authority,2015,Vaccinated by 5 Years,Count,1937,Children
+S12000038,Renfrewshire,Local Authority,2013,Number In 5 Year Cohort,Count,1922,Children
+S12000038,Renfrewshire,Local Authority,2015,Number In 5 Year Cohort,Count,1976,Children
+S12000038,Renfrewshire,Local Authority,2011,Number In 5 Year Cohort,Count,1871,Children
+S12000038,Renfrewshire,Local Authority,2012,Number In 5 Year Cohort,Count,1879,Children
+S12000038,Renfrewshire,Local Authority,2010,Number In 5 Year Cohort,Count,1875,Children
+S12000036,City of Edinburgh,Local Authority,2017,Number In 5 Year Cohort,Count,5170,Children
+S12000036,City of Edinburgh,Local Authority,2011,Number In 5 Year Cohort,Count,4280,Children
+S12000036,City of Edinburgh,Local Authority,2013,Vaccinated by 5 Years,Count,4759,Children
+S12000036,City of Edinburgh,Local Authority,2014,Vaccinated by 5 Years,Count,4771,Children
+S12000036,City of Edinburgh,Local Authority,2009,Vaccinated by 5 Years,Count,3817,Children
+S12000036,City of Edinburgh,Local Authority,2016,Number In 5 Year Cohort,Count,4985,Children
+S12000036,City of Edinburgh,Local Authority,2010,Number In 5 Year Cohort,Count,4193,Children
+S12000036,City of Edinburgh,Local Authority,2015,Vaccinated by 5 Years,Count,4788,Children
+S12000036,City of Edinburgh,Local Authority,2018,Number In 5 Year Cohort,Count,5015,Children
+S12000036,City of Edinburgh,Local Authority,2016,Vaccinated by 5 Years,Count,4788,Children
+S12000036,City of Edinburgh,Local Authority,2015,Number In 5 Year Cohort,Count,4979,Children
+S12000036,City of Edinburgh,Local Authority,2013,Number In 5 Year Cohort,Count,4932,Children
+S12000036,City of Edinburgh,Local Authority,2012,Vaccinated by 5 Years,Count,4520,Children
+S12000036,City of Edinburgh,Local Authority,2018,Vaccinated by 5 Years,Count,4805,Children
+S08000028,Western Isles,Health Board,2017,Vaccinated by 5 Years,Ratio,98.5,Percent Of Children
+S08000026,Shetland,Health Board,2015,Vaccinated by 5 Years,Ratio,94.9,Percent Of Children
+S08000025,Orkney,Health Board,2015,Vaccinated by 5 Years,Ratio,94.8,Percent Of Children
+S08000026,Shetland,Health Board,2013,Vaccinated by 5 Years,Ratio,93.2,Percent Of Children
+S08000026,Shetland,Health Board,2014,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S08000026,Shetland,Health Board,2017,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S08000025,Orkney,Health Board,2016,Vaccinated by 5 Years,Ratio,94.5,Percent Of Children
+S08000025,Orkney,Health Board,2017,Vaccinated by 5 Years,Ratio,94.1,Percent Of Children
+S08000025,Orkney,Health Board,2014,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S08000025,Orkney,Health Board,2018,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S08000028,Western Isles,Health Board,2015,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S08000028,Western Isles,Health Board,2014,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S08000026,Shetland,Health Board,2018,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S08000026,Shetland,Health Board,2016,Vaccinated by 5 Years,Ratio,95,Percent Of Children
+S08000028,Western Isles,Health Board,2016,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S08000028,Western Isles,Health Board,2013,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S08000028,Western Isles,Health Board,2018,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2014,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2008,Vaccinated by 5 Years,Ratio,92.6,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2018,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2016,Vaccinated by 5 Years,Ratio,95,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2010,Vaccinated by 5 Years,Ratio,91.7,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2015,Vaccinated by 5 Years,Ratio,94.9,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2013,Vaccinated by 5 Years,Ratio,93.2,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2017,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2011,Vaccinated by 5 Years,Ratio,93.3,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,98.4,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2012,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2018,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2008,Vaccinated by 5 Years,Ratio,88.6,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2015,Vaccinated by 5 Years,Ratio,94.8,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2009,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2016,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2011,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S12000030,Stirling,Local Authority,2010,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S12000030,Stirling,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S12000030,Stirling,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000030,Stirling,Local Authority,2015,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000030,Stirling,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000030,Stirling,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.9,Percent Of Children
+S12000030,Stirling,Local Authority,2012,Vaccinated by 5 Years,Ratio,95,Percent Of Children
+S12000030,Stirling,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2010,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2014,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2013,Vaccinated by 5 Years,Ratio,95.4,Percent Of Children
+S12000030,Stirling,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.5,Percent Of Children
+S12000030,Stirling,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.4,Percent Of Children
+S12000030,Stirling,Local Authority,2016,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S12000018,Inverclyde,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.9,Percent Of Children
+S12000018,Inverclyde,Local Authority,2010,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000018,Inverclyde,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000018,Inverclyde,Local Authority,2015,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000018,Inverclyde,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000018,Inverclyde,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000018,Inverclyde,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000018,Inverclyde,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000019,Midlothian,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000019,Midlothian,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000019,Midlothian,Local Authority,2008,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000019,Midlothian,Local Authority,2014,Vaccinated by 5 Years,Ratio,98.4,Percent Of Children
+S12000019,Midlothian,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000019,Midlothian,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000019,Midlothian,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S12000019,Midlothian,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S12000019,Midlothian,Local Authority,2010,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000017,Highland,Local Authority,2009,Vaccinated by 5 Years,Ratio,94.1,Percent Of Children
+S12000017,Highland,Local Authority,2016,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000017,Highland,Local Authority,2008,Vaccinated by 5 Years,Ratio,92.7,Percent Of Children
+S12000014,Falkirk,Local Authority,2016,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000017,Highland,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000017,Highland,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000017,Highland,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000017,Highland,Local Authority,2014,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000018,Inverclyde,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000017,Highland,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000017,Highland,Local Authority,2015,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000018,Inverclyde,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S12000018,Inverclyde,Local Authority,2009,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000017,Highland,Local Authority,2010,Vaccinated by 5 Years,Ratio,94.4,Percent Of Children
+S12000017,Highland,Local Authority,2018,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2018,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2014,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2017,Vaccinated by 5 Years,Ratio,94.1,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2012,Vaccinated by 5 Years,Ratio,95.9,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2016,Vaccinated by 5 Years,Ratio,94.5,Percent Of Children
+S12000020,Moray,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000020,Moray,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S12000020,Moray,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S12000019,Midlothian,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000019,Midlothian,Local Authority,2012,Vaccinated by 5 Years,Ratio,98.4,Percent Of Children
+S12000020,Moray,Local Authority,2017,Vaccinated by 5 Years,Ratio,95.7,Percent Of Children
+S12000020,Moray,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.7,Percent Of Children
+S12000020,Moray,Local Authority,2014,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000020,Moray,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000020,Moray,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000020,Moray,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000020,Moray,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.7,Percent Of Children
+S12000020,Moray,Local Authority,2018,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2015,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2016,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2014,Vaccinated by 5 Years,Ratio,98.2,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S08000016,Borders,Health Board,2014,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S08000016,Borders,Health Board,2015,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S08000016,Borders,Health Board,2013,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S08000016,Borders,Health Board,2016,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S08000016,Borders,Health Board,2017,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2013,Vaccinated by 5 Years,Ratio,98.2,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2018,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2017,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S08000016,Borders,Health Board,2018,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000042,Dundee City,Local Authority,2015,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000042,Dundee City,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S12000042,Dundee City,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000042,Dundee City,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S12000042,Dundee City,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.3,Percent Of Children
+S12000042,Dundee City,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S12000042,Dundee City,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.8,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000042,Dundee City,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,98.5,Percent Of Children
+S12000042,Dundee City,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S08000022,Highland,Health Board,2017,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S08000022,Highland,Health Board,2016,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S08000022,Highland,Health Board,2015,Vaccinated by 5 Years,Ratio,95.7,Percent Of Children
+S08000022,Highland,Health Board,2014,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S08000022,Highland,Health Board,2013,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S08000022,Highland,Health Board,2018,Vaccinated by 5 Years,Ratio,95.3,Percent Of Children
+S08000020,Grampian,Health Board,2016,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S08000020,Grampian,Health Board,2015,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S08000020,Grampian,Health Board,2017,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S08000024,Lothian,Health Board,2013,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S08000024,Lothian,Health Board,2014,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S08000024,Lothian,Health Board,2018,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S08000024,Lothian,Health Board,2016,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S08000025,Orkney,Health Board,2013,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S08000024,Lothian,Health Board,2015,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S08000024,Lothian,Health Board,2017,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2016,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2018,Vaccinated by 5 Years,Ratio,98.2,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2017,Vaccinated by 5 Years,Ratio,98.4,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2015,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2013,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2014,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S08000020,Grampian,Health Board,2014,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S08000019,Forth Valley,Health Board,2018,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S08000020,Grampian,Health Board,2018,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S08000020,Grampian,Health Board,2013,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S08000019,Forth Valley,Health Board,2013,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S08000019,Forth Valley,Health Board,2017,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S08000019,Forth Valley,Health Board,2015,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S08000019,Forth Valley,Health Board,2016,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S08000019,Forth Valley,Health Board,2014,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2015,Vaccinated by 5 Years,Ratio,94.8,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2013,Vaccinated by 5 Years,Ratio,95.9,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2016,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2018,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.5,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2017,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2010,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2017,Vaccinated by 5 Years,Ratio,95.7,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2014,Vaccinated by 5 Years,Ratio,95,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2009,Vaccinated by 5 Years,Ratio,94.5,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2018,Vaccinated by 5 Years,Ratio,94.3,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2009,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.7,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2016,Vaccinated by 5 Years,Ratio,95.1,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2015,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2017,Vaccinated by 5 Years,Ratio,95.2,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000041,Angus,Local Authority,2015,Vaccinated by 5 Years,Ratio,98.8,Percent Of Children
+S12000041,Angus,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000041,Angus,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S12000041,Angus,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000041,Angus,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000041,Angus,Local Authority,2011,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000041,Angus,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000042,Dundee City,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000042,Dundee City,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000041,Angus,Local Authority,2018,Vaccinated by 5 Years,Ratio,98.4,Percent Of Children
+S12000041,Angus,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000041,Angus,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S12000041,Angus,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2016,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2018,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2008,Vaccinated by 5 Years,Ratio,93.6,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2014,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2010,Vaccinated by 5 Years,Ratio,94.8,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S08000030,Tayside,Health Board,2014,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2015,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2014,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2013,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.1,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2008,Vaccinated by 5 Years,Ratio,93.8,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2010,Vaccinated by 5 Years,Ratio,94.5,Percent Of Children
+S08000029,Fife,Health Board,2016,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S08000029,Fife,Health Board,2017,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2012,Vaccinated by 5 Years,Ratio,95.9,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2018,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.1,Percent Of Children
+S08000030,Tayside,Health Board,2017,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S08000030,Tayside,Health Board,2015,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S08000029,Fife,Health Board,2018,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S08000030,Tayside,Health Board,2013,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S08000030,Tayside,Health Board,2018,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S08000030,Tayside,Health Board,2016,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S08000029,Fife,Health Board,2014,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S08000029,Fife,Health Board,2013,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S08000029,Fife,Health Board,2015,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000049,Glasgow City,Local Authority,2010,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000049,Glasgow City,Local Authority,2016,Vaccinated by 5 Years,Ratio,95,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000049,Glasgow City,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000049,Glasgow City,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.9,Percent Of Children
+S12000049,Glasgow City,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.5,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,94,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,95.9,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S08000032,Lanarkshire,Health Board,2018,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S08000032,Lanarkshire,Health Board,2014,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S08000032,Lanarkshire,Health Board,2013,Vaccinated by 5 Years,Ratio,96.9,Percent Of Children
+S08000032,Lanarkshire,Health Board,2015,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S08000032,Lanarkshire,Health Board,2016,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2018,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2017,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2016,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000049,Glasgow City,Local Authority,2014,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000049,Glasgow City,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000049,Glasgow City,Local Authority,2018,Vaccinated by 5 Years,Ratio,95.1,Percent Of Children
+S12000049,Glasgow City,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000049,Glasgow City,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S08000032,Lanarkshire,Health Board,2017,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000049,Glasgow City,Local Authority,2017,Vaccinated by 5 Years,Ratio,95.1,Percent Of Children
+S12000047,Fife,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000047,Fife,Local Authority,2018,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000047,Fife,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000047,Fife,Local Authority,2008,Vaccinated by 5 Years,Ratio,95,Percent Of Children
+S12000047,Fife,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000047,Fife,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000047,Fife,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000047,Fife,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.8,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2014,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000047,Fife,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000047,Fife,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.2,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2016,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000047,Fife,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000010,East Lothian,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000010,East Lothian,Local Authority,2017,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,98.8,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,97.7,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,98.9,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000010,East Lothian,Local Authority,2008,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000010,East Lothian,Local Authority,2011,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000010,East Lothian,Local Authority,2018,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000010,East Lothian,Local Authority,2009,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000010,East Lothian,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S12000010,East Lothian,Local Authority,2010,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000010,East Lothian,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000010,East Lothian,Local Authority,2014,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000010,East Lothian,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2017,Vaccinated by 5 Years,Ratio,98.4,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2011,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2013,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2018,Vaccinated by 5 Years,Ratio,98.2,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2010,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2009,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2014,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,98.5,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,98.6,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2012,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2008,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.8,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000014,Falkirk,Local Authority,2010,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000014,Falkirk,Local Authority,2008,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2016,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2017,Vaccinated by 5 Years,Ratio,98.5,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2010,Vaccinated by 5 Years,Ratio,96,Percent Of Children
+S12000014,Falkirk,Local Authority,2013,Vaccinated by 5 Years,Ratio,98.8,Percent Of Children
+S12000014,Falkirk,Local Authority,2014,Vaccinated by 5 Years,Ratio,98.7,Percent Of Children
+S12000014,Falkirk,Local Authority,2015,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000014,Falkirk,Local Authority,2017,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000014,Falkirk,Local Authority,2009,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000014,Falkirk,Local Authority,2011,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000014,Falkirk,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.6,Percent Of Children
+S12000014,Falkirk,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,98.2,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.7,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2014,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.8,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.3,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2008,Vaccinated by 5 Years,Ratio,92.2,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.4,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.9,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,94.6,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,98.2,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,96.3,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,97.2,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.6,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,97.3,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,96.5,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,95.4,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000040,West Lothian,Local Authority,2018,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000040,West Lothian,Local Authority,2015,Vaccinated by 5 Years,Ratio,98.5,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2018,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2011,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2012,Vaccinated by 5 Years,Ratio,96.1,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2009,Vaccinated by 5 Years,Ratio,95.2,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.6,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2017,Vaccinated by 5 Years,Ratio,98.3,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2013,Vaccinated by 5 Years,Ratio,96.7,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2015,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2015,Vaccinated by 5 Years,Ratio,97,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2014,Vaccinated by 5 Years,Ratio,98.5,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2010,Vaccinated by 5 Years,Ratio,95.7,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2016,Vaccinated by 5 Years,Ratio,98.2,Percent Of Children
+S12000040,West Lothian,Local Authority,2014,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000040,West Lothian,Local Authority,2016,Vaccinated by 5 Years,Ratio,98.4,Percent Of Children
+S12000040,West Lothian,Local Authority,2013,Vaccinated by 5 Years,Ratio,98.1,Percent Of Children
+S12000040,West Lothian,Local Authority,2011,Vaccinated by 5 Years,Ratio,97.1,Percent Of Children
+S12000040,West Lothian,Local Authority,2008,Vaccinated by 5 Years,Ratio,95.9,Percent Of Children
+S12000040,West Lothian,Local Authority,2017,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000040,West Lothian,Local Authority,2012,Vaccinated by 5 Years,Ratio,97.5,Percent Of Children
+S12000040,West Lothian,Local Authority,2010,Vaccinated by 5 Years,Ratio,98,Percent Of Children
+S12000040,West Lothian,Local Authority,2009,Vaccinated by 5 Years,Ratio,97.4,Percent Of Children
