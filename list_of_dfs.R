@@ -109,6 +109,16 @@
     )
   ),
   "Transport" = list(
+    "Road Casualties" = list(
+      data = read_csv("data/clean_data/transport/road_casualties.csv"),
+      explorable_vars = c("year", "age", "gender", "outcome", "measure_type"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Froad-safety",
+      notes = "Number of people killed and seriously injured on Scotland's roads. These figures are from the STATS-19 statistical returns collected from the police forces across Scotland. These statistics only focus on those accidents involving killed and seriously injured casualties. From around June/July 2019 Police Scotland has been using a new accident and casualty data recording system called CRASH (Collision Reporting and Sharing). As this is an injury-based reporting system it tends to result in more casualties being classified as \"serious\" and therefore causes a discontinuity in the time series. Please do not try to compare serious casualties from 2019 onwards with previous years.
+
+The statistics were compiled from returns made by police forces, which cover all accidents in which a vehicle is involved that occur on roads (including footways) and result in personal injury, if they become known to the police. The vehicle need not be moving, and need not be in collision - for example, the returns include accidents involving people alighting from buses."
+    ),
     "Travel to Work and Other Purposes" = list(
       data = read_csv("data/clean_data/travel_to_work.csv"),
       explorable_vars = c("year", "indicator"),

@@ -168,7 +168,7 @@ reconvictions,Reconvictions,Scottish Government,TRUE,FALSE
 recorded-crime,Recorded Crimes and Offences,Scottish Government,TRUE,FALSE
 regional-domestic-tourism,Regional Domestic Tourism,VisitScotland,FALSE,FALSE
 gross-value-added,Regional Gross Value Added (GVA),Scottish Government,TRUE,FALSE
-road-safety,Road Casualties,Transport Scotland,TRUE,FALSE
+road-safety,Road Casualties,Transport Scotland,TRUE,TRUE
 road-network-traffic,Road Network and Traffic,Transport Scotland,TRUE,FALSE
 road-transport-expenditure,Road Transport Expenditure,Transport Scotland,TRUE,FALSE
 road-vehicles,Road Vehicles,Transport Scotland,TRUE,FALSE

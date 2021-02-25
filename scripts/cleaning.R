@@ -300,6 +300,32 @@ mmr_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "measles-mumps-rubella")
 
+
+# ----- Road Casualties ----- 
+
+road_casualties <- read_csv("data/raw_data/transport/road_casualties.csv")
+
+road_casualties_clean <- road_casualties %>% 
+  janitor::clean_names() %>% 
+  filter(str_detect(feature_code, "^S08|^S12")) %>% 
+  left_join(datazone_lookup, by = c("feature_code" = "area_code")) %>%
+  mutate(age = factor(age, levels = c("0-19 years", "20-39 years",
+                                      "40-59 years", "60 years and over"))) %>% 
+  select(area_code = feature_code,
+         reference_name = area_name,
+         area_type,
+         year = date_code,
+         age,
+         gender,
+         outcome,
+         measure_type = measurement,
+         value,
+         units)
+road_casualties_clean %>% 
+  write_csv("data/clean_data/transport/road_casualties.csv")
+
+updated_lookup <- update_lookup(URI_name = "road-safety")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv
