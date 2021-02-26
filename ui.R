@@ -12,7 +12,7 @@ ui <- dashboardPage(
     fluidRow(
       # Data Vis
       column(
-        9,
+        6,
         tabBox(
           width = 12,
           title = textOutput("title"),
@@ -76,10 +76,17 @@ ui <- dashboardPage(
                 )
               )
             ),
-            textOutput("notes"),
             tags$div(style = "text-align:center;",
                      actionButton("update", "Update"))
           )
+        )
+      ),
+      column(
+        3,
+        box(
+          "Notes",
+          width = 12,
+          textOutput("notes")
         )
       )
     )
