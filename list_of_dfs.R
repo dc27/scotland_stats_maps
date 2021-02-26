@@ -80,11 +80,18 @@
       data = read_csv("data/clean_data/low_no_qualifications.csv",
                       col_types = cols(age = col_factor())),
       explorable_vars = c("year", "gender", "age", "measure_type"),
-      units = "persons",
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fadults-16-64-years-with-low-or-no-qualifications",
       notes = "The ratio is the number of people who reported having low or no qualification divided by the number of people in employment (16-64 years). A small number with unknown qualifications are excluded from this calculation."
+    ),
+    "Gender Pay Gap" = list(
+      data = read_csv("data/clean_data/labour_force/gender_pay_gap.csv"),
+      explorable_vars = c("year", "working_pattern"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fearnings-paygap",
+      notes = "This indicator measures the difference between male and female median earnings ( gross hourly earnings excluding overtime), expressed as a percentage of male earnings. Estimates are workplace based and cover employees on adult rates whose pay for the survey pay-period was not affected by absence."
     )
   ),
   "Managament Information" = list(

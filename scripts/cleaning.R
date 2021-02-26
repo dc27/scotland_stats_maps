@@ -326,6 +326,27 @@ road_casualties_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "road-safety")
 
+# ----- Gender Pay Gap -----
+
+g_pay_gap_data <- read_csv("data/raw_data/labour_force/gender_pay_gap.csv")
+
+g_pay_data_clean <- g_pay_gap_data %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  mutate(units = "%%") %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         working_pattern,
+         value,
+         units)
+
+g_pay_data_clean %>% 
+  write_csv("data/clean_data/labour_force/gender_pay_gap.csv")
+
+updated_lookup <- update_lookup(URI_name = "earnings-paygap")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

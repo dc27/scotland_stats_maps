@@ -84,7 +84,7 @@ fire---type-of-incident,Fire - Type of Incident,Scottish Fire and Rescue Service
 fuel-poverty-shcs,Fuel Poverty (Scottish House Condition Survey),Scottish Government,FALSE,FALSE
 full-time-employment,Full-Time and Part-Time Employment,Scottish Government,TRUE,FALSE
 gender-employment-gap,Gender Employment Gap,Scottish Government,TRUE,FALSE
-earnings-paygap,Gender Pay Gap,Scottish Government,TRUE,FALSE
+earnings-paygap,Gender Pay Gap,Scottish Government,TRUE,TRUE
 general-health-sscq,General Health - Scottish Surveys Core Questions,Scottish Government,TRUE,FALSE
 general-practice-list-size,General Practice List Size,Public Health Scotland,TRUE,FALSE
 household-waste,Generation and Management of Household Waste,SEPA,TRUE,FALSE
