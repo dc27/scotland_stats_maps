@@ -347,6 +347,28 @@ g_pay_data_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "earnings-paygap")
 
+# ----- Cancer Registrations - Annual -----
+
+cancer_regs_annual <- read_csv(
+  "data/raw_data/health/cancer_registrations_annual.csv"
+  )
+
+cancer_regs_annual_clean <- cancer_regs_annual %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         gender,
+         cancer_type,
+         value,
+         units)
+
+cancer_regs_annual_clean %>% 
+  write_csv("data/clean_data/health/cancer_regs_annual.csv")
+
+updated_lookup <- update_lookup(URI_name = "cancer-registrations---annual-data")
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

@@ -47,6 +47,16 @@
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics",
       notes = ""
     ),
+    "Cancer Registrations - Annual Data" = list(
+      data = read_csv("data/clean_data/health/cancer_regs_annual.csv"),
+      explorable_vars = c("year", "gender", "cancer_type"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fcancer-registrations---annual-data",
+      notes = "Numbers of new cases for the following types of cancer: malignant neoplasms (excluding non melanoma skin cancer), lung cancer (including cancers of the trachea and bronchus), malignant female breast tumours, colorectal cancers (constituting cancers of the colon, rectum and rectosigmoid junction), and malignant prostate tumours.
+
+Note that some information may have been suppressed or adjusted to preserve patient confidentiality"
+    ),
     "Measles Mumps Rubella (MMR) Immunisation" = list(
       data = read_csv("data/clean_data/health/mmr.csv"),
       explorable_vars = c("year", "vaccination_uptake", "measure_type"),

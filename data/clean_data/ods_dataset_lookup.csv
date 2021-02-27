@@ -20,7 +20,7 @@ business-stocks-and-sites,Business Stocks and Sites,Scottish Government,TRUE,FAL
 business-stocks-and-sites-by-region-of-ownership,Business Stocks and Sites by Region of Ownership,Scottish Government,TRUE,FALSE
 business-stocks-and-sites-by-urban-rural-classification,Business Stocks and Sites by Urban Rural Classification,Scottish Government,TRUE,FALSE
 cancer-registrations,Cancer Registrations (1997 to 2009),Public Health Scotland,FALSE,FALSE
-cancer-registrations---annual-data,Cancer Registrations - Annual Data,Scottish Government,TRUE,FALSE
+cancer-registrations---annual-data,Cancer Registrations - Annual Data,Scottish Government,TRUE,TRUE
 care-homes-admissions-discharges-and-deaths,"Care Homes: Admissions, Discharges and Deaths",Public Health Scotland,TRUE,FALSE
 care-homes-average-age-of-residents,Care Homes: Average Age of Residents,Public Health Scotland,TRUE,FALSE
 care-homes-demography,Care Homes: Demographic Characteristics of Residents,Public Health Scotland,TRUE,FALSE
