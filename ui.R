@@ -10,28 +10,6 @@ ui <- dashboardPage(
       "
       ),
     fluidRow(
-      # Data Vis
-      column(
-        6,
-        tabBox(
-          width = 12,
-          title = textOutput("title"),
-          tabPanel(
-            "Map",
-            leafletOutput("scotland_map")
-          ),
-          tabPanel(
-            "Plot",
-            plotOutput("basic_bar")
-          ),
-          tabPanel(
-            "Data",
-            "Source: ",
-            uiOutput("short_url"),
-            tableOutput("table")
-          )
-        )
-      ),
       # Input Options
       column(
         3,
@@ -78,6 +56,28 @@ ui <- dashboardPage(
             ),
             tags$div(style = "text-align:center;",
                      actionButton("update", "Update"))
+          )
+        )
+      ),
+      # Data Vis
+      column(
+        6,
+        tabBox(
+          width = 12,
+          title = textOutput("title"),
+          tabPanel(
+            "Map",
+            leafletOutput("scotland_map")
+          ),
+          tabPanel(
+            "Plot",
+            plotOutput("basic_bar")
+          ),
+          tabPanel(
+            "Data",
+            "Source: ",
+            uiOutput("short_url"),
+            tableOutput("table")
           )
         )
       ),

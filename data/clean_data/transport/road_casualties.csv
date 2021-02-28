@@ -1,4 +1,4 @@
-area_code,reference_name,area_type,year,age,gender,outcome,measure_type,value,units
+area_code,reference_area,area_type,year,age,gender,outcome,measure_type,value,units
 S12000039,West Dunbartonshire,Local Authority,1998,20-39 years,Male,Killed Or Seriously Injured,Count,19,People
 S12000030,Stirling,Local Authority,1996,60 years and over,Male,Killed Or Seriously Injured,Count,3,People
 S12000039,West Dunbartonshire,Local Authority,1998,0-19 years,Male,Killed Or Seriously Injured,Count,10,People

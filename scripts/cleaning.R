@@ -312,7 +312,7 @@ road_casualties_clean <- road_casualties %>%
   mutate(age = factor(age, levels = c("0-19 years", "20-39 years",
                                       "40-59 years", "60 years and over"))) %>% 
   select(area_code = feature_code,
-         reference_name = area_name,
+         reference_area = area_name,
          area_type,
          year = date_code,
          age,
