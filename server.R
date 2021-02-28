@@ -108,8 +108,8 @@ server <- function(input, output, session){
 
   # render basemap
   output$scotland_map <- renderLeaflet({
-    leaflet(options = leafletOptions(minZoom = 6)) %>%
-      setView(lng = -5, lat = 57, zoom = 7) %>%
+    leaflet(options = leafletOptions(minZoom = 7)) %>%
+      setView(lng = -5, lat = 56, zoom = 7) %>%
       # restrict view to around Scotland
       setMaxBounds(lng1 = -1,
                    lat1 = 54,
@@ -117,6 +117,29 @@ server <- function(input, output, session){
                    lat2 = 63) %>% 
       addProviderTiles(providers$Esri.WorldGrayCanvas)
   })
+  
+  output$orkney <- renderLeaflet({
+    leaflet(options = leafletOptions(minZoom = 7)) %>%
+      setView(lng = -2.95, lat = 59, zoom = 7) %>%
+      # restrict view to around Scotland
+      setMaxBounds(lng1 = -2,
+                   lat1 = 54,
+                   lng2 = -4,
+                   lat2 = 63) %>% 
+      addProviderTiles(providers$Esri.WorldGrayCanvas)
+  })
+  
+  output$shetland <- renderLeaflet({
+    leaflet(options = leafletOptions(minZoom = 7)) %>%
+      setView(lng = -1.26, lat = 60.5, zoom = 7) %>%
+      # restrict view to around Scotland
+      setMaxBounds(lng1 = -2.5,
+                   lat1 = 59.5,
+                   lng2 = -0.5,
+                   lat2 = 61.5) %>% 
+      addProviderTiles(providers$Esri.WorldGrayCanvas)
+  })
+  
   
   
   # join values to polygons based on area type
