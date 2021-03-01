@@ -1,0 +1,513 @@
+FeatureCode,DateCode,Measurement,Units,Value
+S12000005,2003,Ratio,Percent Of 16 to 19 Year Olds,15.1
+S12000027,2003,Count,16 to 19 Year Olds,60
+S12000041,2003,Count,16 to 19 Year Olds,550
+S12000020,2003,Count,16 to 19 Year Olds,360
+S12000048,2003,Count,16 to 19 Year Olds,480
+S12000019,2003,Ratio,Percent Of 16 to 19 Year Olds,9.9
+S12000036,2003,Ratio,Percent Of 16 to 19 Year Olds,8.5
+S12000018,2003,Ratio,Percent Of 16 to 19 Year Olds,14.7
+S12000038,2003,Ratio,Percent Of 16 to 19 Year Olds,11.7
+S12000008,2003,Ratio,Percent Of 16 to 19 Year Olds,14.5
+S12000010,2003,Ratio,Percent Of 16 to 19 Year Olds,10.7
+S12000018,2003,Count,16 to 19 Year Olds,660
+S12000013,2003,Ratio,Percent Of 16 to 19 Year Olds,4.3
+S12000030,2003,Ratio,Percent Of 16 to 19 Year Olds,8.5
+S12000013,2003,Count,16 to 19 Year Olds,50
+S12000006,2003,Ratio,Percent Of 16 to 19 Year Olds,9.3
+S12000045,2003,Count,16 to 19 Year Olds,420
+S12000011,2003,Ratio,Percent Of 16 to 19 Year Olds,6.5
+S12000047,2003,Count,16 to 19 Year Olds,2210
+S12000050,2003,Ratio,Percent Of 16 to 19 Year Olds,12.9
+S12000049,2003,Ratio,Percent Of 16 to 19 Year Olds,12.5
+S12000045,2003,Ratio,Percent Of 16 to 19 Year Olds,7.3
+S12000017,2003,Ratio,Percent Of 16 to 19 Year Olds,9.8
+S12000042,2003,Ratio,Percent Of 16 to 19 Year Olds,13.4
+S12000039,2003,Ratio,Percent Of 16 to 19 Year Olds,12.1
+S12000040,2003,Ratio,Percent Of 16 to 19 Year Olds,11.6
+S12000029,2003,Count,16 to 19 Year Olds,1580
+S12000041,2003,Ratio,Percent Of 16 to 19 Year Olds,10.7
+S12000030,2003,Count,16 to 19 Year Olds,440
+S12000047,2003,Ratio,Percent Of 16 to 19 Year Olds,12.3
+S12000048,2003,Ratio,Percent Of 16 to 19 Year Olds,7.6
+S12000014,2003,Ratio,Percent Of 16 to 19 Year Olds,13.8
+S12000039,2003,Count,16 to 19 Year Olds,630
+S12000020,2003,Ratio,Percent Of 16 to 19 Year Olds,8.4
+S12000026,2003,Count,16 to 19 Year Olds,330
+S12000028,2003,Count,16 to 19 Year Olds,590
+S12000040,2003,Count,16 to 19 Year Olds,950
+S12000033,2003,Count,16 to 19 Year Olds,1020
+S12000035,2003,Ratio,Percent Of 16 to 19 Year Olds,8.9
+S12000028,2003,Ratio,Percent Of 16 to 19 Year Olds,11
+S12000034,2003,Ratio,Percent Of 16 to 19 Year Olds,7.3
+S12000014,2003,Count,16 to 19 Year Olds,950
+S12000029,2003,Ratio,Percent Of 16 to 19 Year Olds,10
+S12000023,2003,Count,16 to 19 Year Olds,60
+S12000017,2003,Count,16 to 19 Year Olds,950
+S12000050,2003,Count,16 to 19 Year Olds,2230
+S12000021,2003,Ratio,Percent Of 16 to 19 Year Olds,13.8
+S12000011,2003,Count,16 to 19 Year Olds,310
+S12000026,2003,Ratio,Percent Of 16 to 19 Year Olds,7.2
+S12000023,2003,Ratio,Percent Of 16 to 19 Year Olds,6.9
+S12000021,2003,Count,16 to 19 Year Olds,950
+S12000008,2003,Count,16 to 19 Year Olds,880
+S12000049,2003,Count,16 to 19 Year Olds,4120
+S12000033,2003,Ratio,Percent Of 16 to 19 Year Olds,9.6
+S12000027,2003,Ratio,Percent Of 16 to 19 Year Olds,5.7
+S12000005,2003,Count,16 to 19 Year Olds,360
+S12000036,2003,Count,16 to 19 Year Olds,1870
+S12000034,2003,Count,16 to 19 Year Olds,830
+S12000019,2003,Count,16 to 19 Year Olds,400
+S12000042,2003,Count,16 to 19 Year Olds,1150
+S12000035,2003,Count,16 to 19 Year Olds,370
+S12000038,2003,Count,16 to 19 Year Olds,1020
+S12000006,2003,Count,16 to 19 Year Olds,620
+S12000010,2003,Count,16 to 19 Year Olds,440
+S12000026,2004,Count,16 to 19 Year Olds,380
+S12000029,2004,Count,16 to 19 Year Olds,1430
+S12000041,2004,Count,16 to 19 Year Olds,500
+S12000050,2004,Ratio,Percent Of 16 to 19 Year Olds,12.1
+S12000036,2004,Count,16 to 19 Year Olds,1730
+S12000040,2004,Ratio,Percent Of 16 to 19 Year Olds,10.5
+S12000005,2004,Count,16 to 19 Year Olds,340
+S12000011,2004,Count,16 to 19 Year Olds,390
+S12000049,2004,Ratio,Percent Of 16 to 19 Year Olds,12.3
+S12000050,2004,Count,16 to 19 Year Olds,2100
+S12000041,2004,Ratio,Percent Of 16 to 19 Year Olds,9.8
+S12000048,2004,Count,16 to 19 Year Olds,480
+S12000038,2004,Count,16 to 19 Year Olds,1020
+S12000013,2004,Count,16 to 19 Year Olds,80
+S12000027,2004,Count,16 to 19 Year Olds,80
+S12000017,2004,Count,16 to 19 Year Olds,980
+S12000018,2004,Count,16 to 19 Year Olds,600
+S12000008,2004,Count,16 to 19 Year Olds,830
+S12000035,2004,Count,16 to 19 Year Olds,320
+S12000047,2004,Count,16 to 19 Year Olds,2120
+S12000010,2004,Count,16 to 19 Year Olds,380
+S12000039,2004,Count,16 to 19 Year Olds,680
+S12000048,2004,Ratio,Percent Of 16 to 19 Year Olds,7.6
+S12000049,2004,Count,16 to 19 Year Olds,4100
+S12000033,2004,Count,16 to 19 Year Olds,990
+S12000047,2004,Ratio,Percent Of 16 to 19 Year Olds,11.3
+S12000038,2004,Ratio,Percent Of 16 to 19 Year Olds,11.5
+S12000014,2004,Count,16 to 19 Year Olds,880
+S12000036,2004,Ratio,Percent Of 16 to 19 Year Olds,7.3
+S12000006,2004,Count,16 to 19 Year Olds,640
+S12000035,2004,Ratio,Percent Of 16 to 19 Year Olds,7.5
+S12000045,2004,Count,16 to 19 Year Olds,370
+S12000020,2004,Count,16 to 19 Year Olds,390
+S12000006,2004,Ratio,Percent Of 16 to 19 Year Olds,9.2
+S12000005,2004,Ratio,Percent Of 16 to 19 Year Olds,13.7
+S12000020,2004,Ratio,Percent Of 16 to 19 Year Olds,8.8
+S12000034,2004,Ratio,Percent Of 16 to 19 Year Olds,7.5
+S12000019,2004,Ratio,Percent Of 16 to 19 Year Olds,8.4
+S12000008,2004,Ratio,Percent Of 16 to 19 Year Olds,13.2
+S12000018,2004,Ratio,Percent Of 16 to 19 Year Olds,13.2
+S12000029,2004,Ratio,Percent Of 16 to 19 Year Olds,9
+S12000030,2004,Ratio,Percent Of 16 to 19 Year Olds,7.7
+S12000019,2004,Count,16 to 19 Year Olds,350
+S12000034,2004,Count,16 to 19 Year Olds,870
+S12000033,2004,Ratio,Percent Of 16 to 19 Year Olds,9.4
+S12000011,2004,Ratio,Percent Of 16 to 19 Year Olds,8.2
+S12000042,2004,Count,16 to 19 Year Olds,1000
+S12000023,2004,Count,16 to 19 Year Olds,60
+S12000010,2004,Ratio,Percent Of 16 to 19 Year Olds,8.7
+S12000013,2004,Ratio,Percent Of 16 to 19 Year Olds,6.6
+S12000030,2004,Count,16 to 19 Year Olds,370
+S12000021,2004,Ratio,Percent Of 16 to 19 Year Olds,12.7
+S12000028,2004,Ratio,Percent Of 16 to 19 Year Olds,12.2
+S12000027,2004,Ratio,Percent Of 16 to 19 Year Olds,7.5
+S12000028,2004,Count,16 to 19 Year Olds,660
+S12000026,2004,Ratio,Percent Of 16 to 19 Year Olds,8
+S12000042,2004,Ratio,Percent Of 16 to 19 Year Olds,11.4
+S12000045,2004,Ratio,Percent Of 16 to 19 Year Olds,6.4
+S12000017,2004,Ratio,Percent Of 16 to 19 Year Olds,9.9
+S12000040,2004,Count,16 to 19 Year Olds,890
+S12000014,2004,Ratio,Percent Of 16 to 19 Year Olds,12.2
+S12000039,2004,Ratio,Percent Of 16 to 19 Year Olds,13
+S12000021,2004,Count,16 to 19 Year Olds,910
+S12000023,2004,Ratio,Percent Of 16 to 19 Year Olds,6.3
+S12000038,2005,Count,16 to 19 Year Olds,830
+S12000005,2005,Count,16 to 19 Year Olds,280
+S12000033,2005,Ratio,Percent Of 16 to 19 Year Olds,6.9
+S12000026,2005,Ratio,Percent Of 16 to 19 Year Olds,7.4
+S12000036,2005,Count,16 to 19 Year Olds,1960
+S12000027,2005,Ratio,Percent Of 16 to 19 Year Olds,7.7
+S12000006,2005,Count,16 to 19 Year Olds,670
+S12000034,2005,Ratio,Percent Of 16 to 19 Year Olds,5.5
+S12000035,2005,Ratio,Percent Of 16 to 19 Year Olds,7.3
+S12000023,2005,Ratio,Percent Of 16 to 19 Year Olds,7.7
+S12000049,2005,Count,16 to 19 Year Olds,3370
+S12000028,2005,Ratio,Percent Of 16 to 19 Year Olds,10.2
+S12000029,2005,Ratio,Percent Of 16 to 19 Year Olds,8.8
+S12000017,2005,Count,16 to 19 Year Olds,940
+S12000021,2005,Ratio,Percent Of 16 to 19 Year Olds,11.6
+S12000014,2005,Count,16 to 19 Year Olds,740
+S12000013,2005,Ratio,Percent Of 16 to 19 Year Olds,4.2
+S12000014,2005,Ratio,Percent Of 16 to 19 Year Olds,10.1
+S12000049,2005,Ratio,Percent Of 16 to 19 Year Olds,10.4
+S12000047,2005,Ratio,Percent Of 16 to 19 Year Olds,9.2
+S12000048,2005,Ratio,Percent Of 16 to 19 Year Olds,5.8
+S12000020,2005,Ratio,Percent Of 16 to 19 Year Olds,9.8
+S12000019,2005,Ratio,Percent Of 16 to 19 Year Olds,10
+S12000040,2005,Ratio,Percent Of 16 to 19 Year Olds,11
+S12000050,2005,Ratio,Percent Of 16 to 19 Year Olds,10.2
+S12000039,2005,Ratio,Percent Of 16 to 19 Year Olds,12.1
+S12000045,2005,Ratio,Percent Of 16 to 19 Year Olds,5.6
+S12000042,2005,Ratio,Percent Of 16 to 19 Year Olds,10.7
+S12000017,2005,Ratio,Percent Of 16 to 19 Year Olds,9.6
+S12000041,2005,Ratio,Percent Of 16 to 19 Year Olds,8.3
+S12000018,2005,Count,16 to 19 Year Olds,460
+S12000010,2005,Ratio,Percent Of 16 to 19 Year Olds,9.7
+S12000011,2005,Ratio,Percent Of 16 to 19 Year Olds,5
+S12000047,2005,Count,16 to 19 Year Olds,1780
+S12000035,2005,Count,16 to 19 Year Olds,310
+S12000013,2005,Count,16 to 19 Year Olds,50
+S12000030,2005,Ratio,Percent Of 16 to 19 Year Olds,7.6
+S12000036,2005,Ratio,Percent Of 16 to 19 Year Olds,8.3
+S12000008,2005,Ratio,Percent Of 16 to 19 Year Olds,13.9
+S12000018,2005,Ratio,Percent Of 16 to 19 Year Olds,10.4
+S12000006,2005,Ratio,Percent Of 16 to 19 Year Olds,9.9
+S12000005,2005,Ratio,Percent Of 16 to 19 Year Olds,10.9
+S12000048,2005,Count,16 to 19 Year Olds,370
+S12000038,2005,Ratio,Percent Of 16 to 19 Year Olds,9.5
+S12000033,2005,Count,16 to 19 Year Olds,730
+S12000020,2005,Count,16 to 19 Year Olds,430
+S12000029,2005,Count,16 to 19 Year Olds,1360
+S12000045,2005,Count,16 to 19 Year Olds,310
+S12000021,2005,Count,16 to 19 Year Olds,830
+S12000050,2005,Count,16 to 19 Year Olds,1730
+S12000039,2005,Count,16 to 19 Year Olds,610
+S12000010,2005,Count,16 to 19 Year Olds,420
+S12000030,2005,Count,16 to 19 Year Olds,400
+S12000011,2005,Count,16 to 19 Year Olds,240
+S12000026,2005,Count,16 to 19 Year Olds,350
+S12000019,2005,Count,16 to 19 Year Olds,420
+S12000008,2005,Count,16 to 19 Year Olds,880
+S12000023,2005,Count,16 to 19 Year Olds,70
+S12000034,2005,Count,16 to 19 Year Olds,650
+S12000028,2005,Count,16 to 19 Year Olds,550
+S12000040,2005,Count,16 to 19 Year Olds,950
+S12000042,2005,Count,16 to 19 Year Olds,930
+S12000041,2005,Count,16 to 19 Year Olds,420
+S12000027,2005,Count,16 to 19 Year Olds,80
+S12000026,2006,Count,16 to 19 Year Olds,370
+S12000011,2006,Ratio,Percent Of 16 to 19 Year Olds,5.2
+S12000013,2006,Ratio,Percent Of 16 to 19 Year Olds,6.6
+S12000020,2006,Count,16 to 19 Year Olds,410
+S12000045,2006,Ratio,Percent Of 16 to 19 Year Olds,5.2
+S12000038,2006,Count,16 to 19 Year Olds,830
+S12000028,2006,Count,16 to 19 Year Olds,550
+S12000038,2006,Ratio,Percent Of 16 to 19 Year Olds,9.6
+S12000042,2006,Ratio,Percent Of 16 to 19 Year Olds,11.5
+S12000017,2006,Ratio,Percent Of 16 to 19 Year Olds,8.1
+S12000039,2006,Count,16 to 19 Year Olds,630
+S12000030,2006,Count,16 to 19 Year Olds,320
+S12000013,2006,Count,16 to 19 Year Olds,80
+S12000010,2006,Count,16 to 19 Year Olds,410
+S12000041,2006,Ratio,Percent Of 16 to 19 Year Olds,9.6
+S12000018,2006,Ratio,Percent Of 16 to 19 Year Olds,9.7
+S12000036,2006,Ratio,Percent Of 16 to 19 Year Olds,7.4
+S12000018,2006,Count,16 to 19 Year Olds,420
+S12000019,2006,Ratio,Percent Of 16 to 19 Year Olds,10.1
+S12000048,2006,Count,16 to 19 Year Olds,420
+S12000045,2006,Count,16 to 19 Year Olds,290
+S12000020,2006,Ratio,Percent Of 16 to 19 Year Olds,9.2
+S12000040,2006,Count,16 to 19 Year Olds,890
+S12000008,2006,Count,16 to 19 Year Olds,820
+S12000005,2006,Ratio,Percent Of 16 to 19 Year Olds,12.4
+S12000035,2006,Count,16 to 19 Year Olds,370
+S12000027,2006,Count,16 to 19 Year Olds,60
+S12000006,2006,Ratio,Percent Of 16 to 19 Year Olds,9.4
+S12000014,2006,Ratio,Percent Of 16 to 19 Year Olds,9.3
+S12000008,2006,Ratio,Percent Of 16 to 19 Year Olds,12.9
+S12000006,2006,Count,16 to 19 Year Olds,640
+S12000050,2006,Count,16 to 19 Year Olds,1640
+S12000021,2006,Count,16 to 19 Year Olds,900
+S12000021,2006,Ratio,Percent Of 16 to 19 Year Olds,12.6
+S12000041,2006,Count,16 to 19 Year Olds,480
+S12000047,2006,Ratio,Percent Of 16 to 19 Year Olds,9.2
+S12000034,2006,Ratio,Percent Of 16 to 19 Year Olds,5.2
+S12000033,2006,Ratio,Percent Of 16 to 19 Year Olds,6.7
+S12000023,2006,Ratio,Percent Of 16 to 19 Year Olds,6.2
+S12000040,2006,Ratio,Percent Of 16 to 19 Year Olds,10.4
+S12000042,2006,Count,16 to 19 Year Olds,960
+S12000005,2006,Count,16 to 19 Year Olds,320
+S12000028,2006,Ratio,Percent Of 16 to 19 Year Olds,10.1
+S12000026,2006,Ratio,Percent Of 16 to 19 Year Olds,7.5
+S12000036,2006,Count,16 to 19 Year Olds,1700
+S12000049,2006,Ratio,Percent Of 16 to 19 Year Olds,10.5
+S12000049,2006,Count,16 to 19 Year Olds,3330
+S12000050,2006,Ratio,Percent Of 16 to 19 Year Olds,9.7
+S12000027,2006,Ratio,Percent Of 16 to 19 Year Olds,5.5
+S12000023,2006,Count,16 to 19 Year Olds,60
+S12000047,2006,Count,16 to 19 Year Olds,1800
+S12000034,2006,Count,16 to 19 Year Olds,620
+S12000029,2006,Ratio,Percent Of 16 to 19 Year Olds,8.6
+S12000029,2006,Count,16 to 19 Year Olds,1330
+S12000010,2006,Ratio,Percent Of 16 to 19 Year Olds,9.3
+S12000017,2006,Count,16 to 19 Year Olds,800
+S12000048,2006,Ratio,Percent Of 16 to 19 Year Olds,6.4
+S12000019,2006,Count,16 to 19 Year Olds,420
+S12000030,2006,Ratio,Percent Of 16 to 19 Year Olds,5.6
+S12000035,2006,Ratio,Percent Of 16 to 19 Year Olds,8.5
+S12000033,2006,Count,16 to 19 Year Olds,720
+S12000039,2006,Ratio,Percent Of 16 to 19 Year Olds,12.8
+S12000011,2006,Count,16 to 19 Year Olds,250
+S12000014,2006,Count,16 to 19 Year Olds,690
+S12000041,2007,Ratio,Percent Of 16 to 19 Year Olds,8
+S12000040,2007,Ratio,Percent Of 16 to 19 Year Olds,10.6
+S12000042,2007,Ratio,Percent Of 16 to 19 Year Olds,9.3
+S12000030,2007,Count,16 to 19 Year Olds,300
+S12000049,2007,Ratio,Percent Of 16 to 19 Year Olds,9.3
+S12000039,2007,Ratio,Percent Of 16 to 19 Year Olds,11
+S12000028,2007,Count,16 to 19 Year Olds,470
+S12000029,2007,Count,16 to 19 Year Olds,1170
+S12000050,2007,Ratio,Percent Of 16 to 19 Year Olds,9.5
+S12000035,2007,Ratio,Percent Of 16 to 19 Year Olds,7.7
+S12000029,2007,Ratio,Percent Of 16 to 19 Year Olds,7.5
+S12000034,2007,Ratio,Percent Of 16 to 19 Year Olds,4.6
+S12000033,2007,Ratio,Percent Of 16 to 19 Year Olds,5.7
+S12000030,2007,Ratio,Percent Of 16 to 19 Year Olds,5.2
+S12000019,2007,Count,16 to 19 Year Olds,380
+S12000033,2007,Count,16 to 19 Year Olds,610
+S12000023,2007,Count,16 to 19 Year Olds,50
+S12000027,2007,Ratio,Percent Of 16 to 19 Year Olds,5.5
+S12000042,2007,Count,16 to 19 Year Olds,760
+S12000026,2007,Ratio,Percent Of 16 to 19 Year Olds,5.8
+S12000028,2007,Ratio,Percent Of 16 to 19 Year Olds,8.7
+S12000023,2007,Ratio,Percent Of 16 to 19 Year Olds,5
+S12000021,2007,Count,16 to 19 Year Olds,810
+S12000021,2007,Ratio,Percent Of 16 to 19 Year Olds,11.2
+S12000020,2007,Ratio,Percent Of 16 to 19 Year Olds,7.4
+S12000045,2007,Count,16 to 19 Year Olds,210
+S12000040,2007,Count,16 to 19 Year Olds,920
+S12000006,2007,Ratio,Percent Of 16 to 19 Year Olds,8
+S12000018,2007,Ratio,Percent Of 16 to 19 Year Olds,8.6
+S12000017,2007,Ratio,Percent Of 16 to 19 Year Olds,6.8
+S12000014,2007,Ratio,Percent Of 16 to 19 Year Olds,8.4
+S12000019,2007,Ratio,Percent Of 16 to 19 Year Olds,8.9
+S12000013,2007,Ratio,Percent Of 16 to 19 Year Olds,5.7
+S12000011,2007,Ratio,Percent Of 16 to 19 Year Olds,4.1
+S12000034,2007,Count,16 to 19 Year Olds,550
+S12000010,2007,Ratio,Percent Of 16 to 19 Year Olds,7.2
+S12000018,2007,Count,16 to 19 Year Olds,370
+S12000020,2007,Count,16 to 19 Year Olds,330
+S12000008,2007,Ratio,Percent Of 16 to 19 Year Olds,10.4
+S12000005,2007,Ratio,Percent Of 16 to 19 Year Olds,10.8
+S12000008,2007,Count,16 to 19 Year Olds,670
+S12000048,2007,Ratio,Percent Of 16 to 19 Year Olds,5.5
+S12000013,2007,Count,16 to 19 Year Olds,70
+S12000050,2007,Count,16 to 19 Year Olds,1610
+S12000035,2007,Count,16 to 19 Year Olds,340
+S12000006,2007,Count,16 to 19 Year Olds,550
+S12000047,2007,Ratio,Percent Of 16 to 19 Year Olds,8.6
+S12000038,2007,Count,16 to 19 Year Olds,780
+S12000045,2007,Ratio,Percent Of 16 to 19 Year Olds,3.8
+S12000048,2007,Count,16 to 19 Year Olds,370
+S12000038,2007,Ratio,Percent Of 16 to 19 Year Olds,9
+S12000049,2007,Count,16 to 19 Year Olds,2900
+S12000036,2007,Ratio,Percent Of 16 to 19 Year Olds,6.7
+S12000005,2007,Count,16 to 19 Year Olds,280
+S12000010,2007,Count,16 to 19 Year Olds,330
+S12000036,2007,Count,16 to 19 Year Olds,1540
+S12000027,2007,Count,16 to 19 Year Olds,60
+S12000039,2007,Count,16 to 19 Year Olds,540
+S12000017,2007,Count,16 to 19 Year Olds,690
+S12000026,2007,Count,16 to 19 Year Olds,300
+S12000014,2007,Count,16 to 19 Year Olds,650
+S12000047,2007,Count,16 to 19 Year Olds,1660
+S12000041,2007,Count,16 to 19 Year Olds,410
+S12000011,2007,Count,16 to 19 Year Olds,200
+S12000045,2008,Count,16 to 19 Year Olds,300
+S12000018,2008,Ratio,Percent Of 16 to 19 Year Olds,9.4
+S12000033,2008,Count,16 to 19 Year Olds,670
+S12000006,2008,Ratio,Percent Of 16 to 19 Year Olds,9.2
+S12000035,2008,Ratio,Percent Of 16 to 19 Year Olds,7.9
+S12000023,2008,Count,16 to 19 Year Olds,60
+S12000021,2008,Ratio,Percent Of 16 to 19 Year Olds,11.9
+S12000010,2008,Count,16 to 19 Year Olds,440
+S12000047,2008,Count,16 to 19 Year Olds,1830
+S12000005,2008,Count,16 to 19 Year Olds,320
+S12000027,2008,Count,16 to 19 Year Olds,60
+S12000036,2008,Ratio,Percent Of 16 to 19 Year Olds,7.4
+S12000014,2008,Count,16 to 19 Year Olds,730
+S12000040,2008,Count,16 to 19 Year Olds,990
+S12000048,2008,Count,16 to 19 Year Olds,390
+S12000029,2008,Ratio,Percent Of 16 to 19 Year Olds,8.7
+S12000042,2008,Count,16 to 19 Year Olds,890
+S12000019,2008,Ratio,Percent Of 16 to 19 Year Olds,10.5
+S12000034,2008,Count,16 to 19 Year Olds,550
+S12000008,2008,Count,16 to 19 Year Olds,770
+S12000010,2008,Ratio,Percent Of 16 to 19 Year Olds,8.5
+S12000050,2008,Count,16 to 19 Year Olds,1760
+S12000005,2008,Ratio,Percent Of 16 to 19 Year Olds,12.5
+S12000011,2008,Ratio,Percent Of 16 to 19 Year Olds,4.1
+S12000008,2008,Ratio,Percent Of 16 to 19 Year Olds,11.9
+S12000034,2008,Ratio,Percent Of 16 to 19 Year Olds,4.6
+S12000018,2008,Count,16 to 19 Year Olds,400
+S12000006,2008,Count,16 to 19 Year Olds,640
+S12000020,2008,Ratio,Percent Of 16 to 19 Year Olds,7.7
+S12000019,2008,Count,16 to 19 Year Olds,460
+S12000030,2008,Ratio,Percent Of 16 to 19 Year Olds,6.7
+S12000038,2008,Count,16 to 19 Year Olds,870
+S12000049,2008,Count,16 to 19 Year Olds,3140
+S12000013,2008,Count,16 to 19 Year Olds,70
+S12000035,2008,Count,16 to 19 Year Olds,350
+S12000023,2008,Ratio,Percent Of 16 to 19 Year Olds,6
+S12000011,2008,Count,16 to 19 Year Olds,200
+S12000020,2008,Count,16 to 19 Year Olds,350
+S12000030,2008,Count,16 to 19 Year Olds,380
+S12000021,2008,Count,16 to 19 Year Olds,850
+S12000029,2008,Count,16 to 19 Year Olds,1360
+S12000039,2008,Count,16 to 19 Year Olds,630
+S12000028,2008,Count,16 to 19 Year Olds,530
+S12000014,2008,Ratio,Percent Of 16 to 19 Year Olds,9.5
+S12000033,2008,Ratio,Percent Of 16 to 19 Year Olds,6.5
+S12000017,2008,Count,16 to 19 Year Olds,810
+S12000036,2008,Count,16 to 19 Year Olds,1690
+S12000048,2008,Ratio,Percent Of 16 to 19 Year Olds,5.7
+S12000047,2008,Ratio,Percent Of 16 to 19 Year Olds,9.6
+S12000040,2008,Ratio,Percent Of 16 to 19 Year Olds,11.3
+S12000042,2008,Ratio,Percent Of 16 to 19 Year Olds,11.1
+S12000050,2008,Ratio,Percent Of 16 to 19 Year Olds,10.3
+S12000041,2008,Ratio,Percent Of 16 to 19 Year Olds,7.5
+S12000028,2008,Ratio,Percent Of 16 to 19 Year Olds,9.8
+S12000017,2008,Ratio,Percent Of 16 to 19 Year Olds,7.9
+S12000045,2008,Ratio,Percent Of 16 to 19 Year Olds,5.3
+S12000041,2008,Count,16 to 19 Year Olds,400
+S12000026,2008,Ratio,Percent Of 16 to 19 Year Olds,8.5
+S12000013,2008,Ratio,Percent Of 16 to 19 Year Olds,5.7
+S12000049,2008,Ratio,Percent Of 16 to 19 Year Olds,10.3
+S12000027,2008,Ratio,Percent Of 16 to 19 Year Olds,5.3
+S12000026,2008,Count,16 to 19 Year Olds,450
+S12000038,2008,Ratio,Percent Of 16 to 19 Year Olds,10.1
+S12000039,2008,Ratio,Percent Of 16 to 19 Year Olds,13
+S12000041,2009,Count,16 to 19 Year Olds,520
+S12000018,2009,Count,16 to 19 Year Olds,420
+S12000029,2009,Count,16 to 19 Year Olds,1680
+S12000011,2009,Ratio,Percent Of 16 to 19 Year Olds,5.5
+S12000014,2009,Count,16 to 19 Year Olds,880
+S12000021,2009,Count,16 to 19 Year Olds,980
+S12000021,2009,Ratio,Percent Of 16 to 19 Year Olds,13.9
+S12000008,2009,Ratio,Percent Of 16 to 19 Year Olds,12.9
+S12000040,2009,Ratio,Percent Of 16 to 19 Year Olds,12
+S12000026,2009,Ratio,Percent Of 16 to 19 Year Olds,8.8
+S12000048,2009,Ratio,Percent Of 16 to 19 Year Olds,6.2
+S12000047,2009,Count,16 to 19 Year Olds,1980
+S12000023,2009,Count,16 to 19 Year Olds,50
+S12000030,2009,Ratio,Percent Of 16 to 19 Year Olds,6.4
+S12000026,2009,Count,16 to 19 Year Olds,480
+S12000029,2009,Ratio,Percent Of 16 to 19 Year Olds,10.6
+S12000049,2009,Ratio,Percent Of 16 to 19 Year Olds,11.9
+S12000028,2009,Ratio,Percent Of 16 to 19 Year Olds,10.7
+S12000033,2009,Count,16 to 19 Year Olds,750
+S12000033,2009,Ratio,Percent Of 16 to 19 Year Olds,7.1
+S12000042,2009,Count,16 to 19 Year Olds,1010
+S12000038,2009,Count,16 to 19 Year Olds,990
+S12000010,2009,Ratio,Percent Of 16 to 19 Year Olds,9.2
+S12000008,2009,Count,16 to 19 Year Olds,830
+S12000011,2009,Count,16 to 19 Year Olds,260
+S12000017,2009,Count,16 to 19 Year Olds,990
+S12000050,2009,Ratio,Percent Of 16 to 19 Year Olds,12.5
+S12000034,2009,Ratio,Percent Of 16 to 19 Year Olds,5.3
+S12000028,2009,Count,16 to 19 Year Olds,580
+S12000045,2009,Count,16 to 19 Year Olds,370
+S12000005,2009,Count,16 to 19 Year Olds,350
+S12000048,2009,Count,16 to 19 Year Olds,430
+S12000040,2009,Count,16 to 19 Year Olds,1060
+S12000019,2009,Count,16 to 19 Year Olds,550
+S12000049,2009,Count,16 to 19 Year Olds,3570
+S12000039,2009,Count,16 to 19 Year Olds,650
+S12000018,2009,Ratio,Percent Of 16 to 19 Year Olds,10.2
+S12000017,2009,Ratio,Percent Of 16 to 19 Year Olds,9.6
+S12000036,2009,Ratio,Percent Of 16 to 19 Year Olds,8.3
+S12000027,2009,Ratio,Percent Of 16 to 19 Year Olds,5.2
+S12000013,2009,Ratio,Percent Of 16 to 19 Year Olds,6.8
+S12000038,2009,Ratio,Percent Of 16 to 19 Year Olds,11.5
+S12000006,2009,Count,16 to 19 Year Olds,620
+S12000014,2009,Ratio,Percent Of 16 to 19 Year Olds,11
+S12000027,2009,Count,16 to 19 Year Olds,60
+S12000019,2009,Ratio,Percent Of 16 to 19 Year Olds,12.8
+S12000039,2009,Ratio,Percent Of 16 to 19 Year Olds,13.5
+S12000034,2009,Count,16 to 19 Year Olds,640
+S12000036,2009,Count,16 to 19 Year Olds,1900
+S12000035,2009,Ratio,Percent Of 16 to 19 Year Olds,8.1
+S12000042,2009,Ratio,Percent Of 16 to 19 Year Olds,12.3
+S12000045,2009,Ratio,Percent Of 16 to 19 Year Olds,6.6
+S12000023,2009,Ratio,Percent Of 16 to 19 Year Olds,5.2
+S12000005,2009,Ratio,Percent Of 16 to 19 Year Olds,13.1
+S12000020,2009,Count,16 to 19 Year Olds,370
+S12000010,2009,Count,16 to 19 Year Olds,470
+S12000050,2009,Count,16 to 19 Year Olds,2100
+S12000030,2009,Count,16 to 19 Year Olds,370
+S12000006,2009,Ratio,Percent Of 16 to 19 Year Olds,9
+S12000041,2009,Ratio,Percent Of 16 to 19 Year Olds,9.9
+S12000013,2009,Count,16 to 19 Year Olds,80
+S12000020,2009,Ratio,Percent Of 16 to 19 Year Olds,8.1
+S12000047,2009,Ratio,Percent Of 16 to 19 Year Olds,10.3
+S12000035,2009,Count,16 to 19 Year Olds,360
+S12000033,2010,Ratio,Percent Of 16 to 19 Year Olds,6.6
+S12000005,2010,Count,16 to 19 Year Olds,340
+S12000036,2010,Count,16 to 19 Year Olds,1800
+S12000020,2010,Count,16 to 19 Year Olds,350
+S12000027,2010,Ratio,Percent Of 16 to 19 Year Olds,6.3
+S12000042,2010,Count,16 to 19 Year Olds,920
+S12000026,2010,Ratio,Percent Of 16 to 19 Year Olds,8.5
+S12000021,2010,Count,16 to 19 Year Olds,920
+S12000006,2010,Count,16 to 19 Year Olds,590
+S12000011,2010,Count,16 to 19 Year Olds,270
+S12000049,2010,Count,16 to 19 Year Olds,3370
+S12000033,2010,Count,16 to 19 Year Olds,700
+S12000023,2010,Ratio,Percent Of 16 to 19 Year Olds,5.3
+S12000020,2010,Ratio,Percent Of 16 to 19 Year Olds,7.7
+S12000021,2010,Ratio,Percent Of 16 to 19 Year Olds,13.1
+S12000038,2010,Ratio,Percent Of 16 to 19 Year Olds,10
+S12000039,2010,Count,16 to 19 Year Olds,570
+S12000013,2010,Ratio,Percent Of 16 to 19 Year Olds,6
+S12000036,2010,Ratio,Percent Of 16 to 19 Year Olds,7.6
+S12000041,2010,Ratio,Percent Of 16 to 19 Year Olds,9.3
+S12000027,2010,Count,16 to 19 Year Olds,70
+S12000014,2010,Ratio,Percent Of 16 to 19 Year Olds,10.5
+S12000018,2010,Ratio,Percent Of 16 to 19 Year Olds,10
+S12000017,2010,Ratio,Percent Of 16 to 19 Year Olds,9.5
+S12000050,2010,Count,16 to 19 Year Olds,2020
+S12000028,2010,Count,16 to 19 Year Olds,570
+S12000040,2010,Count,16 to 19 Year Olds,920
+S12000019,2010,Ratio,Percent Of 16 to 19 Year Olds,11.9
+S12000050,2010,Ratio,Percent Of 16 to 19 Year Olds,12.1
+S12000026,2010,Count,16 to 19 Year Olds,450
+S12000029,2010,Count,16 to 19 Year Olds,1660
+S12000041,2010,Count,16 to 19 Year Olds,500
+S12000049,2010,Ratio,Percent Of 16 to 19 Year Olds,11.4
+S12000048,2010,Ratio,Percent Of 16 to 19 Year Olds,7
+S12000030,2010,Count,16 to 19 Year Olds,410
+S12000042,2010,Ratio,Percent Of 16 to 19 Year Olds,11.1
+S12000047,2010,Ratio,Percent Of 16 to 19 Year Olds,10.3
+S12000039,2010,Ratio,Percent Of 16 to 19 Year Olds,12.3
+S12000040,2010,Ratio,Percent Of 16 to 19 Year Olds,10.4
+S12000045,2010,Ratio,Percent Of 16 to 19 Year Olds,6.1
+S12000017,2010,Count,16 to 19 Year Olds,960
+S12000047,2010,Count,16 to 19 Year Olds,1950
+S12000030,2010,Ratio,Percent Of 16 to 19 Year Olds,7
+S12000008,2010,Ratio,Percent Of 16 to 19 Year Olds,12
+S12000018,2010,Count,16 to 19 Year Olds,400
+S12000038,2010,Count,16 to 19 Year Olds,850
+S12000035,2010,Ratio,Percent Of 16 to 19 Year Olds,8.4
+S12000034,2010,Ratio,Percent Of 16 to 19 Year Olds,5.7
+S12000035,2010,Count,16 to 19 Year Olds,360
+S12000029,2010,Ratio,Percent Of 16 to 19 Year Olds,10.5
+S12000028,2010,Ratio,Percent Of 16 to 19 Year Olds,10.8
+S12000023,2010,Count,16 to 19 Year Olds,50
+S12000048,2010,Count,16 to 19 Year Olds,500
+S12000019,2010,Count,16 to 19 Year Olds,510
+S12000013,2010,Count,16 to 19 Year Olds,70
+S12000010,2010,Count,16 to 19 Year Olds,480
+S12000006,2010,Ratio,Percent Of 16 to 19 Year Olds,8.5
+S12000045,2010,Count,16 to 19 Year Olds,340
+S12000014,2010,Count,16 to 19 Year Olds,840
+S12000010,2010,Ratio,Percent Of 16 to 19 Year Olds,9.3
+S12000011,2010,Ratio,Percent Of 16 to 19 Year Olds,5.6
+S12000034,2010,Count,16 to 19 Year Olds,680
+S12000005,2010,Ratio,Percent Of 16 to 19 Year Olds,13
+S12000008,2010,Count,16 to 19 Year Olds,760
