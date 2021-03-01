@@ -102,6 +102,14 @@ Note that some information may have been suppressed or adjusted to preserve pati
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fearnings-paygap",
       notes = "This indicator measures the difference between male and female median earnings ( gross hourly earnings excluding overtime), expressed as a percentage of male earnings. Estimates are workplace based and cover employees on adult rates whose pay for the survey pay-period was not affected by absence."
+    ),
+    "Not in Employment, Education, or Training" = list(
+      data = read_csv("data/clean_data/labour_force/neet.csv"),
+      explorable_vars = c("year", "measure_type"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fneet",
+      notes = "The official measure of those aged 16-19 not in employment, education or training, otherwise known as the More Choices, More Chances (MCMC) group, is taken from the Annual Population Survey (APS)."
     )
   ),
   "Managament Information" = list(

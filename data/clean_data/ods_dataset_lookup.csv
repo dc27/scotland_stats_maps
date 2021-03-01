@@ -139,7 +139,7 @@ net-migration,Net Migration,National Records of Scotland,TRUE,FALSE
 never-worked,Never Worked,Scottish Government,TRUE,FALSE
 new-build-housing-starts-and-completions,New Build Housing Starts and Completions,Scottish Government,TRUE,FALSE
 new-clients-presenting-at-specialist-drug-treatment-services-sdmd,New clients presenting at specialist drug treatment services (SDMD),Public Health Scotland,TRUE,FALSE
-neet,"Not in Employment, Education or Training (NEET)",Scottish Government,TRUE,FALSE
+neet,"Not in Employment, Education or Training (NEET)",Scottish Government,TRUE,TRUE
 number-of-general-practices-with-registered-patients,Number of General Practices with Registered Patients,Public Health Scotland,TRUE,FALSE
 hmo-licences,Number of HMO Licences in Force,Scottish Government,TRUE,FALSE
 pension-credits,Pension Credits,Scottish Government,TRUE,FALSE

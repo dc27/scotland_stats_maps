@@ -369,6 +369,27 @@ cancer_regs_annual_clean %>%
   write_csv("data/clean_data/health/cancer_regs_annual.csv")
 
 updated_lookup <- update_lookup(URI_name = "cancer-registrations---annual-data")
+
+# ----- Not in Employment, Education or Training -----
+
+neet_data <- read_csv("data/raw_data/labour_force/neet.csv")
+
+neet_data_clean <- neet_data %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         measure_type = measurement,
+         value,
+         units)
+
+neet_data_clean %>% 
+  write_csv("data/clean_data/labour_force/neet.csv")
+
+updated_lookup <- update_lookup(URI_name = "neet")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

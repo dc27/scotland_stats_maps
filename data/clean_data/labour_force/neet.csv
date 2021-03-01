@@ -1,0 +1,513 @@
+area_code,reference_area,area_type,year,measure_type,value,units
+S12000005,Clackmannanshire,Local Authority,2003,Ratio,15.1,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2003,Count,60,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2003,Count,550,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2003,Count,360,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2003,Count,480,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2003,Ratio,9.9,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2003,Ratio,8.5,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2003,Ratio,14.7,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2003,Ratio,11.7,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2003,Ratio,14.5,Percent Of 16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2003,Ratio,10.7,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2003,Count,660,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2003,Ratio,4.3,Percent Of 16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2003,Ratio,8.5,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2003,Count,50,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2003,Ratio,9.3,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2003,Count,420,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2003,Ratio,6.5,Percent Of 16 to 19 Year Olds
+S12000047,Fife,Local Authority,2003,Count,2210,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2003,Ratio,12.9,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2003,Ratio,12.5,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2003,Ratio,7.3,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2003,Ratio,9.8,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2003,Ratio,13.4,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2003,Ratio,12.1,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2003,Ratio,11.6,Percent Of 16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2003,Count,1580,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2003,Ratio,10.7,Percent Of 16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2003,Count,440,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2003,Ratio,12.3,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2003,Ratio,7.6,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2003,Ratio,13.8,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2003,Count,630,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2003,Ratio,8.4,Percent Of 16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2003,Count,330,16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2003,Count,590,16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2003,Count,950,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2003,Count,1020,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2003,Ratio,8.9,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2003,Ratio,11,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2003,Ratio,7.3,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2003,Count,950,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2003,Ratio,10,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2003,Count,60,16 to 19 Year Olds
+S12000017,Highland,Local Authority,2003,Count,950,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2003,Count,2230,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2003,Ratio,13.8,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2003,Count,310,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2003,Ratio,7.2,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2003,Ratio,6.9,Percent Of 16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2003,Count,950,16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2003,Count,880,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2003,Count,4120,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2003,Ratio,9.6,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2003,Ratio,5.7,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2003,Count,360,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2003,Count,1870,16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2003,Count,830,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2003,Count,400,16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2003,Count,1150,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2003,Count,370,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2003,Count,1020,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2003,Count,620,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2003,Count,440,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2004,Count,380,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2004,Count,1430,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2004,Count,500,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2004,Ratio,12.1,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2004,Count,1730,16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2004,Ratio,10.5,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2004,Count,340,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2004,Count,390,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2004,Ratio,12.3,Percent Of 16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2004,Count,2100,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2004,Ratio,9.8,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2004,Count,480,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2004,Count,1020,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2004,Count,80,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2004,Count,80,16 to 19 Year Olds
+S12000017,Highland,Local Authority,2004,Count,980,16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2004,Count,600,16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2004,Count,830,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2004,Count,320,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2004,Count,2120,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2004,Count,380,16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2004,Count,680,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2004,Ratio,7.6,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2004,Count,4100,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2004,Count,990,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2004,Ratio,11.3,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2004,Ratio,11.5,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2004,Count,880,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2004,Ratio,7.3,Percent Of 16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2004,Count,640,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2004,Ratio,7.5,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2004,Count,370,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2004,Count,390,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2004,Ratio,9.2,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2004,Ratio,13.7,Percent Of 16 to 19 Year Olds
+S12000020,Moray,Local Authority,2004,Ratio,8.8,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2004,Ratio,7.5,Percent Of 16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2004,Ratio,8.4,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2004,Ratio,13.2,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2004,Ratio,13.2,Percent Of 16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2004,Ratio,9,Percent Of 16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2004,Ratio,7.7,Percent Of 16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2004,Count,350,16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2004,Count,870,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2004,Ratio,9.4,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2004,Ratio,8.2,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2004,Count,1000,16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2004,Count,60,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2004,Ratio,8.7,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2004,Ratio,6.6,Percent Of 16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2004,Count,370,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2004,Ratio,12.7,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2004,Ratio,12.2,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2004,Ratio,7.5,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2004,Count,660,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2004,Ratio,8,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2004,Ratio,11.4,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2004,Ratio,6.4,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2004,Ratio,9.9,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2004,Count,890,16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2004,Ratio,12.2,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2004,Ratio,13,Percent Of 16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2004,Count,910,16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2004,Ratio,6.3,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2005,Count,830,16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2005,Count,280,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2005,Ratio,6.9,Percent Of 16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2005,Ratio,7.4,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2005,Count,1960,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2005,Ratio,7.7,Percent Of 16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2005,Count,670,16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2005,Ratio,5.5,Percent Of 16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2005,Ratio,7.3,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2005,Ratio,7.7,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2005,Count,3370,16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2005,Ratio,10.2,Percent Of 16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2005,Ratio,8.8,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2005,Count,940,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2005,Ratio,11.6,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2005,Count,740,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2005,Ratio,4.2,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2005,Ratio,10.1,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2005,Ratio,10.4,Percent Of 16 to 19 Year Olds
+S12000047,Fife,Local Authority,2005,Ratio,9.2,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2005,Ratio,5.8,Percent Of 16 to 19 Year Olds
+S12000020,Moray,Local Authority,2005,Ratio,9.8,Percent Of 16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2005,Ratio,10,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2005,Ratio,11,Percent Of 16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2005,Ratio,10.2,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2005,Ratio,12.1,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2005,Ratio,5.6,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2005,Ratio,10.7,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2005,Ratio,9.6,Percent Of 16 to 19 Year Olds
+S12000041,Angus,Local Authority,2005,Ratio,8.3,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2005,Count,460,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2005,Ratio,9.7,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2005,Ratio,5,Percent Of 16 to 19 Year Olds
+S12000047,Fife,Local Authority,2005,Count,1780,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2005,Count,310,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2005,Count,50,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2005,Ratio,7.6,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2005,Ratio,8.3,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2005,Ratio,13.9,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2005,Ratio,10.4,Percent Of 16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2005,Ratio,9.9,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2005,Ratio,10.9,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2005,Count,370,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2005,Ratio,9.5,Percent Of 16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2005,Count,730,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2005,Count,430,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2005,Count,1360,16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2005,Count,310,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2005,Count,830,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2005,Count,1730,16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2005,Count,610,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2005,Count,420,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2005,Count,400,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2005,Count,240,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2005,Count,350,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2005,Count,420,16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2005,Count,880,16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2005,Count,70,16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2005,Count,650,16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2005,Count,550,16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2005,Count,950,16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2005,Count,930,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2005,Count,420,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2005,Count,80,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2006,Count,370,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2006,Ratio,5.2,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2006,Ratio,6.6,Percent Of 16 to 19 Year Olds
+S12000020,Moray,Local Authority,2006,Count,410,16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2006,Ratio,5.2,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2006,Count,830,16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2006,Count,550,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2006,Ratio,9.6,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2006,Ratio,11.5,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2006,Ratio,8.1,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2006,Count,630,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2006,Count,320,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2006,Count,80,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2006,Count,410,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2006,Ratio,9.6,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2006,Ratio,9.7,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2006,Ratio,7.4,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2006,Count,420,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2006,Ratio,10.1,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2006,Count,420,16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2006,Count,290,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2006,Ratio,9.2,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2006,Count,890,16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2006,Count,820,16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2006,Ratio,12.4,Percent Of 16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2006,Count,370,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2006,Count,60,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2006,Ratio,9.4,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2006,Ratio,9.3,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2006,Ratio,12.9,Percent Of 16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2006,Count,640,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2006,Count,1640,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2006,Count,900,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2006,Ratio,12.6,Percent Of 16 to 19 Year Olds
+S12000041,Angus,Local Authority,2006,Count,480,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2006,Ratio,9.2,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2006,Ratio,5.2,Percent Of 16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2006,Ratio,6.7,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2006,Ratio,6.2,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2006,Ratio,10.4,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2006,Count,960,16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2006,Count,320,16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2006,Ratio,10.1,Percent Of 16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2006,Ratio,7.5,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2006,Count,1700,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2006,Ratio,10.5,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2006,Count,3330,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2006,Ratio,9.7,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2006,Ratio,5.5,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2006,Count,60,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2006,Count,1800,16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2006,Count,620,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2006,Ratio,8.6,Percent Of 16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2006,Count,1330,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2006,Ratio,9.3,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2006,Count,800,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2006,Ratio,6.4,Percent Of 16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2006,Count,420,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2006,Ratio,5.6,Percent Of 16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2006,Ratio,8.5,Percent Of 16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2006,Count,720,16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2006,Ratio,12.8,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2006,Count,250,16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2006,Count,690,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2007,Ratio,8,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2007,Ratio,10.6,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2007,Ratio,9.3,Percent Of 16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2007,Count,300,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2007,Ratio,9.3,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2007,Ratio,11,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2007,Count,470,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2007,Count,1170,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2007,Ratio,9.5,Percent Of 16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2007,Ratio,7.7,Percent Of 16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2007,Ratio,7.5,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2007,Ratio,4.6,Percent Of 16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2007,Ratio,5.7,Percent Of 16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2007,Ratio,5.2,Percent Of 16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2007,Count,380,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2007,Count,610,16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2007,Count,50,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2007,Ratio,5.5,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2007,Count,760,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2007,Ratio,5.8,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2007,Ratio,8.7,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2007,Ratio,5,Percent Of 16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2007,Count,810,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2007,Ratio,11.2,Percent Of 16 to 19 Year Olds
+S12000020,Moray,Local Authority,2007,Ratio,7.4,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2007,Count,210,16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2007,Count,920,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2007,Ratio,8,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2007,Ratio,8.6,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2007,Ratio,6.8,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2007,Ratio,8.4,Percent Of 16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2007,Ratio,8.9,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2007,Ratio,5.7,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2007,Ratio,4.1,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2007,Count,550,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2007,Ratio,7.2,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2007,Count,370,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2007,Count,330,16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2007,Ratio,10.4,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2007,Ratio,10.8,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2007,Count,670,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2007,Ratio,5.5,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2007,Count,70,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2007,Count,1610,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2007,Count,340,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2007,Count,550,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2007,Ratio,8.6,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2007,Count,780,16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2007,Ratio,3.8,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2007,Count,370,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2007,Ratio,9,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2007,Count,2900,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2007,Ratio,6.7,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2007,Count,280,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2007,Count,330,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2007,Count,1540,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2007,Count,60,16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2007,Count,540,16 to 19 Year Olds
+S12000017,Highland,Local Authority,2007,Count,690,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2007,Count,300,16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2007,Count,650,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2007,Count,1660,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2007,Count,410,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2007,Count,200,16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2008,Count,300,16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2008,Ratio,9.4,Percent Of 16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2008,Count,670,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2008,Ratio,9.2,Percent Of 16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2008,Ratio,7.9,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2008,Count,60,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2008,Ratio,11.9,Percent Of 16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2008,Count,440,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2008,Count,1830,16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2008,Count,320,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2008,Count,60,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2008,Ratio,7.4,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2008,Count,730,16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2008,Count,990,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2008,Count,390,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2008,Ratio,8.7,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2008,Count,890,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2008,Ratio,10.5,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2008,Count,550,16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2008,Count,770,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2008,Ratio,8.5,Percent Of 16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2008,Count,1760,16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2008,Ratio,12.5,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2008,Ratio,4.1,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2008,Ratio,11.9,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2008,Ratio,4.6,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2008,Count,400,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2008,Count,640,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2008,Ratio,7.7,Percent Of 16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2008,Count,460,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2008,Ratio,6.7,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2008,Count,870,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2008,Count,3140,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2008,Count,70,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2008,Count,350,16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2008,Ratio,6,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2008,Count,200,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2008,Count,350,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2008,Count,380,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2008,Count,850,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2008,Count,1360,16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2008,Count,630,16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2008,Count,530,16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2008,Ratio,9.5,Percent Of 16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2008,Ratio,6.5,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2008,Count,810,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2008,Count,1690,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2008,Ratio,5.7,Percent Of 16 to 19 Year Olds
+S12000047,Fife,Local Authority,2008,Ratio,9.6,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2008,Ratio,11.3,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2008,Ratio,11.1,Percent Of 16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2008,Ratio,10.3,Percent Of 16 to 19 Year Olds
+S12000041,Angus,Local Authority,2008,Ratio,7.5,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2008,Ratio,9.8,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2008,Ratio,7.9,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2008,Ratio,5.3,Percent Of 16 to 19 Year Olds
+S12000041,Angus,Local Authority,2008,Count,400,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2008,Ratio,8.5,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2008,Ratio,5.7,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2008,Ratio,10.3,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2008,Ratio,5.3,Percent Of 16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2008,Count,450,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2008,Ratio,10.1,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2008,Ratio,13,Percent Of 16 to 19 Year Olds
+S12000041,Angus,Local Authority,2009,Count,520,16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2009,Count,420,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2009,Count,1680,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2009,Ratio,5.5,Percent Of 16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2009,Count,880,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2009,Count,980,16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2009,Ratio,13.9,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2009,Ratio,12.9,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2009,Ratio,12,Percent Of 16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2009,Ratio,8.8,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2009,Ratio,6.2,Percent Of 16 to 19 Year Olds
+S12000047,Fife,Local Authority,2009,Count,1980,16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2009,Count,50,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2009,Ratio,6.4,Percent Of 16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2009,Count,480,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2009,Ratio,10.6,Percent Of 16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2009,Ratio,11.9,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2009,Ratio,10.7,Percent Of 16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2009,Count,750,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2009,Ratio,7.1,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2009,Count,1010,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2009,Count,990,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2009,Ratio,9.2,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2009,Count,830,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2009,Count,260,16 to 19 Year Olds
+S12000017,Highland,Local Authority,2009,Count,990,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2009,Ratio,12.5,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2009,Ratio,5.3,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2009,Count,580,16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2009,Count,370,16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2009,Count,350,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2009,Count,430,16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2009,Count,1060,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2009,Count,550,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2009,Count,3570,16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2009,Count,650,16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2009,Ratio,10.2,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2009,Ratio,9.6,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2009,Ratio,8.3,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2009,Ratio,5.2,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2009,Ratio,6.8,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2009,Ratio,11.5,Percent Of 16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2009,Count,620,16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2009,Ratio,11,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2009,Count,60,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2009,Ratio,12.8,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2009,Ratio,13.5,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2009,Count,640,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2009,Count,1900,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2009,Ratio,8.1,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2009,Ratio,12.3,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2009,Ratio,6.6,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2009,Ratio,5.2,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2009,Ratio,13.1,Percent Of 16 to 19 Year Olds
+S12000020,Moray,Local Authority,2009,Count,370,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2009,Count,470,16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2009,Count,2100,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2009,Count,370,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2009,Ratio,9,Percent Of 16 to 19 Year Olds
+S12000041,Angus,Local Authority,2009,Ratio,9.9,Percent Of 16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2009,Count,80,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2009,Ratio,8.1,Percent Of 16 to 19 Year Olds
+S12000047,Fife,Local Authority,2009,Ratio,10.3,Percent Of 16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2009,Count,360,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2010,Ratio,6.6,Percent Of 16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2010,Count,340,16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2010,Count,1800,16 to 19 Year Olds
+S12000020,Moray,Local Authority,2010,Count,350,16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2010,Ratio,6.3,Percent Of 16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2010,Count,920,16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2010,Ratio,8.5,Percent Of 16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2010,Count,920,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2010,Count,590,16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2010,Count,270,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2010,Count,3370,16 to 19 Year Olds
+S12000033,Aberdeen City,Local Authority,2010,Count,700,16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2010,Ratio,5.3,Percent Of 16 to 19 Year Olds
+S12000020,Moray,Local Authority,2010,Ratio,7.7,Percent Of 16 to 19 Year Olds
+S12000021,North Ayrshire,Local Authority,2010,Ratio,13.1,Percent Of 16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2010,Ratio,10,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2010,Count,570,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2010,Ratio,6,Percent Of 16 to 19 Year Olds
+S12000036,City of Edinburgh,Local Authority,2010,Ratio,7.6,Percent Of 16 to 19 Year Olds
+S12000041,Angus,Local Authority,2010,Ratio,9.3,Percent Of 16 to 19 Year Olds
+S12000027,Shetland Islands,Local Authority,2010,Count,70,16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2010,Ratio,10.5,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2010,Ratio,10,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2010,Ratio,9.5,Percent Of 16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2010,Count,2020,16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2010,Count,570,16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2010,Count,920,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2010,Ratio,11.9,Percent Of 16 to 19 Year Olds
+S12000050,North Lanarkshire,Local Authority,2010,Ratio,12.1,Percent Of 16 to 19 Year Olds
+S12000026,Scottish Borders,Local Authority,2010,Count,450,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2010,Count,1660,16 to 19 Year Olds
+S12000041,Angus,Local Authority,2010,Count,500,16 to 19 Year Olds
+S12000049,Glasgow City,Local Authority,2010,Ratio,11.4,Percent Of 16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2010,Ratio,7,Percent Of 16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2010,Count,410,16 to 19 Year Olds
+S12000042,Dundee City,Local Authority,2010,Ratio,11.1,Percent Of 16 to 19 Year Olds
+S12000047,Fife,Local Authority,2010,Ratio,10.3,Percent Of 16 to 19 Year Olds
+S12000039,West Dunbartonshire,Local Authority,2010,Ratio,12.3,Percent Of 16 to 19 Year Olds
+S12000040,West Lothian,Local Authority,2010,Ratio,10.4,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2010,Ratio,6.1,Percent Of 16 to 19 Year Olds
+S12000017,Highland,Local Authority,2010,Count,960,16 to 19 Year Olds
+S12000047,Fife,Local Authority,2010,Count,1950,16 to 19 Year Olds
+S12000030,Stirling,Local Authority,2010,Ratio,7,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2010,Ratio,12,Percent Of 16 to 19 Year Olds
+S12000018,Inverclyde,Local Authority,2010,Count,400,16 to 19 Year Olds
+S12000038,Renfrewshire,Local Authority,2010,Count,850,16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2010,Ratio,8.4,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2010,Ratio,5.7,Percent Of 16 to 19 Year Olds
+S12000035,Argyll and Bute,Local Authority,2010,Count,360,16 to 19 Year Olds
+S12000029,South Lanarkshire,Local Authority,2010,Ratio,10.5,Percent Of 16 to 19 Year Olds
+S12000028,South Ayrshire,Local Authority,2010,Ratio,10.8,Percent Of 16 to 19 Year Olds
+S12000023,Orkney Islands,Local Authority,2010,Count,50,16 to 19 Year Olds
+S12000048,Perth and Kinross,Local Authority,2010,Count,500,16 to 19 Year Olds
+S12000019,Midlothian,Local Authority,2010,Count,510,16 to 19 Year Olds
+S12000013,Na h-Eileanan Siar,Local Authority,2010,Count,70,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2010,Count,480,16 to 19 Year Olds
+S12000006,Dumfries and Galloway,Local Authority,2010,Ratio,8.5,Percent Of 16 to 19 Year Olds
+S12000045,East Dunbartonshire,Local Authority,2010,Count,340,16 to 19 Year Olds
+S12000014,Falkirk,Local Authority,2010,Count,840,16 to 19 Year Olds
+S12000010,East Lothian,Local Authority,2010,Ratio,9.3,Percent Of 16 to 19 Year Olds
+S12000011,East Renfrewshire,Local Authority,2010,Ratio,5.6,Percent Of 16 to 19 Year Olds
+S12000034,Aberdeenshire,Local Authority,2010,Count,680,16 to 19 Year Olds
+S12000005,Clackmannanshire,Local Authority,2010,Ratio,13,Percent Of 16 to 19 Year Olds
+S12000008,East Ayrshire,Local Authority,2010,Count,760,16 to 19 Year Olds
