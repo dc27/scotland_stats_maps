@@ -390,6 +390,25 @@ neet_data_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "neet")
 
+# ---- Municipal Waste -----
+
+municipal_waste <- read_csv("data/raw_data/environment/municipal_waste.csv")
+
+municipal_waste_clean <- municipal_waste %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         reference_period = date_code,
+         indicator = indicator_municipal_waste,
+         value,
+         units)
+municipal_waste_clean %>% 
+  write_csv("data/clean_data/environment/municipal_waste.csv")
+
+updated_lookup <- update_lookup(URI_name = "municipal-waste")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

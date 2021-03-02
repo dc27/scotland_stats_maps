@@ -24,7 +24,14 @@
     
   ),
   "Environment" = list(
-    
+    "Municipal Waste" = list(
+      data = read_csv("data/clean_data/environment/municipal_waste.csv"),
+      explorable_vars = c("reference_period", "indicator"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fmunicipal-waste",
+      notes = "Municipal solid waste includes household waste and similar waste from businesses. Local Authority Collected Municipal Solid Waste (LACMSW) is the municipal solid waste collected by, or on behalf of, local authorities. It excludes: abandoned vehicles, road maintenance waste, commercial waste that is delivered to local authority owned or run landfill sites but where the local authority has no part in the collection or disposal arrangements that have led to this delivery, industrial waste collected from industrial premises and taken for disposal or treatment separately from any other waste, and construction and demolition waste that is collected and taken for disposal or treatment separately from any other waste."
+    )
   ),
   "Geography" = list(
     
