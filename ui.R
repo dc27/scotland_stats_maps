@@ -68,7 +68,14 @@ ui <- dashboardPage(
           tabPanel(
             "Map",
             absolutePanel(
-              style ="z-index:500;"
+              style ="z-index:500;",
+              bottom = 20,
+              left = 20,
+              box(
+                width = 100,
+                leafletOutput("orkney"),
+                leafletOutput("shetland")
+              )
             ),
             leafletOutput("scotland_map")
           ),
@@ -86,18 +93,6 @@ ui <- dashboardPage(
       ),
       column(
         3,
-        box(
-          width = 12,
-          title = "Orkney and Shetland Isles",
-          column(
-            width = 6,
-            leafletOutput("orkney")
-          ),
-          column(
-            width = 6,
-            leafletOutput("shetland")
-          )
-        ),
         box(
           title = "Notes",
           width = 12,
