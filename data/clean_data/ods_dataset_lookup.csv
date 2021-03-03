@@ -71,7 +71,7 @@ dwellings-type,Dwellings by Type,National Records of Scotland,TRUE,FALSE
 dwellings-hectare,Dwellings per Hectare,National Records of Scotland,TRUE,FALSE
 early-learning-and-childcare-children-registered,Early Learning and Childcare: Children Registered,Care Inspectorate,TRUE,FALSE
 early-learning-and-childcare-services-registered,Early Learning and Childcare: Services Registered,Care Inspectorate,TRUE,FALSE
-earnings,Earnings,Scottish Government,TRUE,FALSE
+earnings,Earnings,Scottish Government,TRUE,TRUE
 economic-activity,Economic Activity,Scottish Government,TRUE,FALSE
 economic-inactivity,Economic Inactivity,Scottish Government,TRUE,FALSE
 employment,Employment,Scottish Government,TRUE,FALSE

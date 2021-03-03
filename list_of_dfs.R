@@ -15,7 +15,15 @@
     
   ),
   "Economic Activity, Benefits and Tax Credits" = list(
-    
+    "Earnings" = list(
+      data = read_csv("data/clean_data/economic_activity/earnings.csv"),
+      explorable_vars = c("year", "gender", "working_pattern",
+                          "population_group", "measure_type"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fearnings",
+      notes = "The median and mean gross weekly earnings (before deductions for Tax & National Insurance) of full-time employees on adult rates, whose pay for the survey period was not affected by absence. The self-employed are excluded from this study. This information is obtained from the Annual Survey of Hours & Earnings (ASHE). This is an Office for National Statistics (ONS) publication"
+    )
   ),
   "Economy" = list(
     
