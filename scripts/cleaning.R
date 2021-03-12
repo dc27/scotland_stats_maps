@@ -432,6 +432,28 @@ earnings_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "earnings")
 
+
+# ----- Road Transport Expenditure ----- #
+
+road_transport_expenditure <- read_csv(
+  "data/raw_data/transport/road_transport_expenditure.csv"
+  )
+
+rte_clean <- road_transport_expenditure %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         value,
+         units)
+
+rte_clean %>% 
+  write_csv("data/clean_data/transport/road_transport_expenditure.csv")
+
+updated_lookup <- update_lookup(URI_name = "road-transport-expenditure")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

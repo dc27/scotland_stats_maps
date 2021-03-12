@@ -170,7 +170,7 @@ regional-domestic-tourism,Regional Domestic Tourism,VisitScotland,FALSE,FALSE
 gross-value-added,Regional Gross Value Added (GVA),Scottish Government,TRUE,FALSE
 road-safety,Road Casualties,Transport Scotland,TRUE,TRUE
 road-network-traffic,Road Network and Traffic,Transport Scotland,TRUE,FALSE
-road-transport-expenditure,Road Transport Expenditure,Transport Scotland,TRUE,FALSE
+road-transport-expenditure,Road Transport Expenditure,Transport Scotland,TRUE,TRUE
 road-vehicles,Road Vehicles,Transport Scotland,TRUE,FALSE
 school-attendance-rate,School Attendance Rate,Scottish Government,TRUE,FALSE
 school-leaver-destinations-followup,School Leaver Destinations - Follow Up,Scottish Government,TRUE,FALSE

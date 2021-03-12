@@ -159,6 +159,16 @@ Note that some information may have been suppressed or adjusted to preserve pati
 
 The statistics were compiled from returns made by police forces, which cover all accidents in which a vehicle is involved that occur on roads (including footways) and result in personal injury, if they become known to the police. The vehicle need not be moving, and need not be in collision - for example, the returns include accidents involving people alighting from buses."
     ),
+    "Road Transport Expenditure" = list(
+      data = read_csv("data/clean_data/transport/road_transport_expenditure.csv"),
+      explorable_vars = c("year"),
+      reverse_colours = FALSE,
+      by_pop = TRUE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Froad-transport-expenditure",
+      notes = "These figures are the net revenue expenditure on roads and transport (excluding loan charges) by area.
+
+It should be noted that the negative figure of £9,058 thousand pounds for Edinburgh council spending on transport in 2018 is mainly due to receipts from car parking charges."
+    ),
     "Travel to Work and Other Purposes" = list(
       data = read_csv("data/clean_data/travel_to_work.csv"),
       explorable_vars = c("year", "indicator"),
