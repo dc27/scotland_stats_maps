@@ -72,6 +72,14 @@
 
 Note that some information may have been suppressed or adjusted to preserve patient confidentiality"
     ),
+    "General Practice List Size" = list(
+      data = read_csv("data/clean_data/health/gp_list_sizes.csv"),
+      explorable_vars = c("year"),
+      reverse_colours = FALSE,
+      by_pop = TRUE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fgeneral-practice-list-size",
+      notes = "Data indicates patients registered with practices by Health Board and Local Authority as at 1 October for each year presented. Since the introduction of the new GP contract (the General Medical Services contract) on 1 April 2004, patients register with a practice rather than a specific GP. "
+    ),
     "Measles Mumps Rubella (MMR) Immunisation" = list(
       data = read_csv("data/clean_data/health/mmr.csv"),
       explorable_vars = c("year", "vaccination_uptake", "measure_type"),

@@ -1,0 +1,599 @@
+area_code,reference_area,area_type,year,value,units
+S12000039,West Dunbartonshire,Local Authority,2012,96666,People
+S12000039,West Dunbartonshire,Local Authority,2013,96281,People
+S12000039,West Dunbartonshire,Local Authority,2015,96065,People
+S12000039,West Dunbartonshire,Local Authority,2009,97712,People
+S12000039,West Dunbartonshire,Local Authority,2007,98037,People
+S12000039,West Dunbartonshire,Local Authority,2018,96233,People
+S12000039,West Dunbartonshire,Local Authority,2011,97035,People
+S12000039,West Dunbartonshire,Local Authority,2016,96376,People
+S12000039,West Dunbartonshire,Local Authority,2017,96399,People
+S12000039,West Dunbartonshire,Local Authority,2019,96146,People
+S12000039,West Dunbartonshire,Local Authority,2014,96194,People
+S12000039,West Dunbartonshire,Local Authority,2010,97525,People
+S12000039,West Dunbartonshire,Local Authority,2008,97851,People
+S12000040,West Lothian,Local Authority,2011,179508,People
+S12000040,West Lothian,Local Authority,2008,176437,People
+S12000040,West Lothian,Local Authority,2014,182601,People
+S12000040,West Lothian,Local Authority,2012,180047,People
+S12000040,West Lothian,Local Authority,2018,184872,People
+S12000040,West Lothian,Local Authority,2010,178719,People
+S12000040,West Lothian,Local Authority,2017,192409,People
+S12000040,West Lothian,Local Authority,2007,174357,People
+S12000040,West Lothian,Local Authority,2016,190859,People
+S12000040,West Lothian,Local Authority,2013,181026,People
+S12000040,West Lothian,Local Authority,2019,186067,People
+S12000040,West Lothian,Local Authority,2015,183880,People
+S12000040,West Lothian,Local Authority,2009,177832,People
+S12000005,Clackmannanshire,Local Authority,2010,56272,People
+S12000005,Clackmannanshire,Local Authority,2011,56345,People
+S12000005,Clackmannanshire,Local Authority,2013,56379,People
+S12000005,Clackmannanshire,Local Authority,2018,57405,People
+S12000005,Clackmannanshire,Local Authority,2008,55966,People
+S12000005,Clackmannanshire,Local Authority,2017,57256,People
+S12000005,Clackmannanshire,Local Authority,2015,56778,People
+S12000005,Clackmannanshire,Local Authority,2007,55325,People
+S12000005,Clackmannanshire,Local Authority,2009,56072,People
+S12000005,Clackmannanshire,Local Authority,2016,56950,People
+S12000005,Clackmannanshire,Local Authority,2012,56332,People
+S12000005,Clackmannanshire,Local Authority,2014,56528,People
+S12000005,Clackmannanshire,Local Authority,2019,57540,People
+S12000006,Dumfries and Galloway,Local Authority,2009,155406,People
+S12000006,Dumfries and Galloway,Local Authority,2010,155397,People
+S12000006,Dumfries and Galloway,Local Authority,2007,154771,People
+S12000006,Dumfries and Galloway,Local Authority,2015,154115,People
+S12000006,Dumfries and Galloway,Local Authority,2017,154307,People
+S12000006,Dumfries and Galloway,Local Authority,2008,155551,People
+S12000006,Dumfries and Galloway,Local Authority,2013,154310,People
+S12000006,Dumfries and Galloway,Local Authority,2011,155378,People
+S12000006,Dumfries and Galloway,Local Authority,2016,154188,People
+S12000006,Dumfries and Galloway,Local Authority,2019,154430,People
+S12000006,Dumfries and Galloway,Local Authority,2014,154188,People
+S12000006,Dumfries and Galloway,Local Authority,2018,154306,People
+S12000006,Dumfries and Galloway,Local Authority,2012,154898,People
+S12000008,East Ayrshire,Local Authority,2017,132049,People
+S12000008,East Ayrshire,Local Authority,2007,131370,People
+S12000008,East Ayrshire,Local Authority,2013,132237,People
+S12000008,East Ayrshire,Local Authority,2010,132478,People
+S12000008,East Ayrshire,Local Authority,2011,132410,People
+S12000008,East Ayrshire,Local Authority,2014,132113,People
+S12000008,East Ayrshire,Local Authority,2012,132269,People
+S12000008,East Ayrshire,Local Authority,2008,131969,People
+S12000008,East Ayrshire,Local Authority,2016,132070,People
+S12000008,East Ayrshire,Local Authority,2018,132090,People
+S12000008,East Ayrshire,Local Authority,2015,132029,People
+S12000008,East Ayrshire,Local Authority,2019,132359,People
+S12000008,East Ayrshire,Local Authority,2009,132298,People
+S12000010,East Lothian,Local Authority,2017,108332,People
+S12000010,East Lothian,Local Authority,2007,98825,People
+S12000010,East Lothian,Local Authority,2014,104952,People
+S12000010,East Lothian,Local Authority,2016,107355,People
+S12000010,East Lothian,Local Authority,2019,111897,People
+S12000010,East Lothian,Local Authority,2012,103392,People
+S12000010,East Lothian,Local Authority,2010,102147,People
+S12000010,East Lothian,Local Authority,2011,103960,People
+S12000010,East Lothian,Local Authority,2013,104215,People
+S12000010,East Lothian,Local Authority,2015,106091,People
+S12000010,East Lothian,Local Authority,2018,110164,People
+S12000010,East Lothian,Local Authority,2009,101586,People
+S12000010,East Lothian,Local Authority,2008,100674,People
+S12000011,East Renfrewshire,Local Authority,2007,97250,People
+S12000011,East Renfrewshire,Local Authority,2008,98133,People
+S12000011,East Renfrewshire,Local Authority,2014,102862,People
+S12000011,East Renfrewshire,Local Authority,2010,99413,People
+S12000011,East Renfrewshire,Local Authority,2013,102207,People
+S12000011,East Renfrewshire,Local Authority,2015,104003,People
+S12000011,East Renfrewshire,Local Authority,2018,108576,People
+S12000011,East Renfrewshire,Local Authority,2017,107591,People
+S12000011,East Renfrewshire,Local Authority,2009,98503,People
+S12000011,East Renfrewshire,Local Authority,2011,100179,People
+S12000011,East Renfrewshire,Local Authority,2012,101307,People
+S12000011,East Renfrewshire,Local Authority,2019,109493,People
+S12000011,East Renfrewshire,Local Authority,2016,105731,People
+S12000013,Na h-Eileanan Siar,Local Authority,2012,27284,People
+S12000013,Na h-Eileanan Siar,Local Authority,2018,26941,People
+S12000013,Na h-Eileanan Siar,Local Authority,2013,27204,People
+S12000013,Na h-Eileanan Siar,Local Authority,2015,26967,People
+S12000013,Na h-Eileanan Siar,Local Authority,2019,26889,People
+S12000013,Na h-Eileanan Siar,Local Authority,2008,27654,People
+S12000013,Na h-Eileanan Siar,Local Authority,2014,27099,People
+S12000013,Na h-Eileanan Siar,Local Authority,2011,27376,People
+S12000013,Na h-Eileanan Siar,Local Authority,2016,26836,People
+S12000013,Na h-Eileanan Siar,Local Authority,2010,27485,People
+S12000013,Na h-Eileanan Siar,Local Authority,2007,27696,People
+S12000013,Na h-Eileanan Siar,Local Authority,2009,27554,People
+S12000013,Na h-Eileanan Siar,Local Authority,2017,26961,People
+S12000014,Falkirk,Local Authority,2008,154544,People
+S12000014,Falkirk,Local Authority,2011,157040,People
+S12000014,Falkirk,Local Authority,2010,156032,People
+S12000014,Falkirk,Local Authority,2016,161165,People
+S12000014,Falkirk,Local Authority,2013,158272,People
+S12000014,Falkirk,Local Authority,2017,162245,People
+S12000014,Falkirk,Local Authority,2007,153506,People
+S12000014,Falkirk,Local Authority,2019,163322,People
+S12000014,Falkirk,Local Authority,2018,162767,People
+S12000014,Falkirk,Local Authority,2015,160288,People
+S12000014,Falkirk,Local Authority,2009,155259,People
+S12000014,Falkirk,Local Authority,2014,158999,People
+S12000014,Falkirk,Local Authority,2012,157577,People
+S12000017,Highland,Local Authority,2012,234315,People
+S12000017,Highland,Local Authority,2016,238085,People
+S12000017,Highland,Local Authority,2013,234855,People
+S12000017,Highland,Local Authority,2019,241396,People
+S12000017,Highland,Local Authority,2017,238985,People
+S12000017,Highland,Local Authority,2014,235467,People
+S12000017,Highland,Local Authority,2015,236901,People
+S12000017,Highland,Local Authority,2007,229177,People
+S12000017,Highland,Local Authority,2009,232621,People
+S12000017,Highland,Local Authority,2011,233991,People
+S12000017,Highland,Local Authority,2010,233461,People
+S12000017,Highland,Local Authority,2008,232026,People
+S12000017,Highland,Local Authority,2018,240473,People
+S12000018,Inverclyde,Local Authority,2010,85322,People
+S12000018,Inverclyde,Local Authority,2012,83807,People
+S12000018,Inverclyde,Local Authority,2009,85898,People
+S12000018,Inverclyde,Local Authority,2007,86898,People
+S12000018,Inverclyde,Local Authority,2016,82025,People
+S12000018,Inverclyde,Local Authority,2019,80599,People
+S12000018,Inverclyde,Local Authority,2014,82685,People
+S12000018,Inverclyde,Local Authority,2011,84474,People
+S12000018,Inverclyde,Local Authority,2018,81079,People
+S12000018,Inverclyde,Local Authority,2017,81504,People
+S12000018,Inverclyde,Local Authority,2015,82293,People
+S12000018,Inverclyde,Local Authority,2013,83180,People
+S12000018,Inverclyde,Local Authority,2008,86634,People
+S12000019,Midlothian,Local Authority,2012,87609,People
+S12000019,Midlothian,Local Authority,2015,91024,People
+S12000019,Midlothian,Local Authority,2016,92482,People
+S12000019,Midlothian,Local Authority,2010,86132,People
+S12000019,Midlothian,Local Authority,2011,86594,People
+S12000019,Midlothian,Local Authority,2013,88402,People
+S12000019,Midlothian,Local Authority,2018,95924,People
+S12000019,Midlothian,Local Authority,2014,89755,People
+S12000019,Midlothian,Local Authority,2007,84392,People
+S12000019,Midlothian,Local Authority,2019,97458,People
+S12000019,Midlothian,Local Authority,2009,85733,People
+S12000019,Midlothian,Local Authority,2017,94251,People
+S12000019,Midlothian,Local Authority,2008,84982,People
+S12000020,Moray,Local Authority,2018,93418,People
+S12000020,Moray,Local Authority,2010,89480,People
+S12000020,Moray,Local Authority,2016,92571,People
+S12000020,Moray,Local Authority,2019,93803,People
+S12000020,Moray,Local Authority,2007,88223,People
+S12000020,Moray,Local Authority,2014,91780,People
+S12000020,Moray,Local Authority,2017,92998,People
+S12000020,Moray,Local Authority,2008,88745,People
+S12000020,Moray,Local Authority,2013,90871,People
+S12000020,Moray,Local Authority,2009,89364,People
+S12000020,Moray,Local Authority,2011,89555,People
+S12000020,Moray,Local Authority,2012,90047,People
+S12000020,Moray,Local Authority,2015,92247,People
+S12000021,North Ayrshire,Local Authority,2011,141455,People
+S12000021,North Ayrshire,Local Authority,2012,140950,People
+S12000021,North Ayrshire,Local Authority,2008,142443,People
+S12000021,North Ayrshire,Local Authority,2017,139770,People
+S12000021,North Ayrshire,Local Authority,2018,139493,People
+S12000021,North Ayrshire,Local Authority,2013,140399,People
+S12000021,North Ayrshire,Local Authority,2014,139960,People
+S12000021,North Ayrshire,Local Authority,2007,142211,People
+S12000021,North Ayrshire,Local Authority,2015,139671,People
+S12000021,North Ayrshire,Local Authority,2019,139187,People
+S12000021,North Ayrshire,Local Authority,2016,139647,People
+S12000021,North Ayrshire,Local Authority,2010,141566,People
+S12000021,North Ayrshire,Local Authority,2009,141817,People
+S12000023,Orkney Islands,Local Authority,2011,20618,People
+S12000023,Orkney Islands,Local Authority,2018,21711,People
+S12000023,Orkney Islands,Local Authority,2015,21112,People
+S12000023,Orkney Islands,Local Authority,2016,21268,People
+S12000023,Orkney Islands,Local Authority,2017,21476,People
+S12000023,Orkney Islands,Local Authority,2019,21837,People
+S12000023,Orkney Islands,Local Authority,2013,20952,People
+S12000023,Orkney Islands,Local Authority,2009,20390,People
+S12000023,Orkney Islands,Local Authority,2008,20306,People
+S12000023,Orkney Islands,Local Authority,2010,20611,People
+S12000023,Orkney Islands,Local Authority,2012,20808,People
+S12000023,Orkney Islands,Local Authority,2014,21020,People
+S12000023,Orkney Islands,Local Authority,2007,20242,People
+S12000026,Scottish Borders,Local Authority,2010,116288,People
+S12000026,Scottish Borders,Local Authority,2019,119494,People
+S12000026,Scottish Borders,Local Authority,2007,114678,People
+S12000026,Scottish Borders,Local Authority,2011,116168,People
+S12000026,Scottish Borders,Local Authority,2017,118318,People
+S12000026,Scottish Borders,Local Authority,2008,115829,People
+S12000026,Scottish Borders,Local Authority,2018,118921,People
+S12000026,Scottish Borders,Local Authority,2009,116227,People
+S12000026,Scottish Borders,Local Authority,2015,116760,People
+S12000026,Scottish Borders,Local Authority,2013,116633,People
+S12000026,Scottish Borders,Local Authority,2014,116744,People
+S12000026,Scottish Borders,Local Authority,2012,116282,People
+S12000026,Scottish Borders,Local Authority,2016,117583,People
+S12000027,Shetland Islands,Local Authority,2016,23062,People
+S12000027,Shetland Islands,Local Authority,2011,22808,People
+S12000027,Shetland Islands,Local Authority,2007,22241,People
+S12000027,Shetland Islands,Local Authority,2015,23045,People
+S12000027,Shetland Islands,Local Authority,2010,22764,People
+S12000027,Shetland Islands,Local Authority,2017,22973,People
+S12000027,Shetland Islands,Local Authority,2018,22958,People
+S12000027,Shetland Islands,Local Authority,2008,22281,People
+S12000027,Shetland Islands,Local Authority,2009,22621,People
+S12000027,Shetland Islands,Local Authority,2013,22886,People
+S12000027,Shetland Islands,Local Authority,2014,22982,People
+S12000027,Shetland Islands,Local Authority,2019,22982,People
+S12000027,Shetland Islands,Local Authority,2012,22841,People
+S12000028,South Ayrshire,Local Authority,2016,113322,People
+S12000028,South Ayrshire,Local Authority,2017,113810,People
+S12000028,South Ayrshire,Local Authority,2012,113578,People
+S12000028,South Ayrshire,Local Authority,2013,113387,People
+S12000028,South Ayrshire,Local Authority,2014,113058,People
+S12000028,South Ayrshire,Local Authority,2008,114005,People
+S12000028,South Ayrshire,Local Authority,2009,113602,People
+S12000028,South Ayrshire,Local Authority,2015,113003,People
+S12000028,South Ayrshire,Local Authority,2010,113664,People
+S12000028,South Ayrshire,Local Authority,2007,114013,People
+S12000028,South Ayrshire,Local Authority,2011,113620,People
+S12000028,South Ayrshire,Local Authority,2019,114169,People
+S12000028,South Ayrshire,Local Authority,2018,113957,People
+S12000029,South Lanarkshire,Local Authority,2011,323813,People
+S12000029,South Lanarkshire,Local Authority,2012,324520,People
+S12000029,South Lanarkshire,Local Authority,2009,321372,People
+S12000029,South Lanarkshire,Local Authority,2019,337253,People
+S12000029,South Lanarkshire,Local Authority,2010,323280,People
+S12000029,South Lanarkshire,Local Authority,2013,325662,People
+S12000029,South Lanarkshire,Local Authority,2014,326954,People
+S12000029,South Lanarkshire,Local Authority,2016,330422,People
+S12000029,South Lanarkshire,Local Authority,2007,319680,People
+S12000029,South Lanarkshire,Local Authority,2018,334581,People
+S12000029,South Lanarkshire,Local Authority,2015,328719,People
+S12000029,South Lanarkshire,Local Authority,2008,320765,People
+S12000029,South Lanarkshire,Local Authority,2017,332507,People
+S12000030,Stirling,Local Authority,2019,100528,People
+S12000030,Stirling,Local Authority,2015,99178,People
+S12000030,Stirling,Local Authority,2007,96635,People
+S12000030,Stirling,Local Authority,2010,96782,People
+S12000030,Stirling,Local Authority,2011,97046,People
+S12000030,Stirling,Local Authority,2018,100423,People
+S12000030,Stirling,Local Authority,2016,99526,People
+S12000030,Stirling,Local Authority,2008,96761,People
+S12000030,Stirling,Local Authority,2012,96529,People
+S12000030,Stirling,Local Authority,2009,96930,People
+S12000030,Stirling,Local Authority,2014,98335,People
+S12000030,Stirling,Local Authority,2017,100273,People
+S12000030,Stirling,Local Authority,2013,97286,People
+S12000033,Aberdeen City,Local Authority,2013,249709,People
+S12000033,Aberdeen City,Local Authority,2019,254516,People
+S12000033,Aberdeen City,Local Authority,2008,241435,People
+S12000033,Aberdeen City,Local Authority,2011,246324,People
+S12000033,Aberdeen City,Local Authority,2014,252450,People
+S12000033,Aberdeen City,Local Authority,2007,240706,People
+S12000033,Aberdeen City,Local Authority,2016,252871,People
+S12000033,Aberdeen City,Local Authority,2010,244966,People
+S12000033,Aberdeen City,Local Authority,2009,243930,People
+S12000033,Aberdeen City,Local Authority,2018,253776,People
+S12000033,Aberdeen City,Local Authority,2012,248693,People
+S12000033,Aberdeen City,Local Authority,2015,253271,People
+S12000033,Aberdeen City,Local Authority,2017,253155,People
+S12000034,Aberdeenshire,Local Authority,2015,250286,People
+S12000034,Aberdeenshire,Local Authority,2012,242458,People
+S12000034,Aberdeenshire,Local Authority,2018,250348,People
+S12000034,Aberdeenshire,Local Authority,2017,250378,People
+S12000034,Aberdeenshire,Local Authority,2007,233886,People
+S12000034,Aberdeenshire,Local Authority,2019,250258,People
+S12000034,Aberdeenshire,Local Authority,2008,235635,People
+S12000034,Aberdeenshire,Local Authority,2009,237232,People
+S12000034,Aberdeenshire,Local Authority,2016,250485,People
+S12000034,Aberdeenshire,Local Authority,2010,239170,People
+S12000034,Aberdeenshire,Local Authority,2011,240416,People
+S12000034,Aberdeenshire,Local Authority,2013,245035,People
+S12000034,Aberdeenshire,Local Authority,2014,248365,People
+S12000035,Argyll and Bute,Local Authority,2011,88981,People
+S12000035,Argyll and Bute,Local Authority,2013,88669,People
+S12000035,Argyll and Bute,Local Authority,2010,89190,People
+S12000035,Argyll and Bute,Local Authority,2008,89720,People
+S12000035,Argyll and Bute,Local Authority,2015,88336,People
+S12000035,Argyll and Bute,Local Authority,2019,88699,People
+S12000035,Argyll and Bute,Local Authority,2016,88613,People
+S12000035,Argyll and Bute,Local Authority,2007,89823,People
+S12000035,Argyll and Bute,Local Authority,2014,88640,People
+S12000035,Argyll and Bute,Local Authority,2009,89377,People
+S12000035,Argyll and Bute,Local Authority,2012,88746,People
+S12000035,Argyll and Bute,Local Authority,2017,88847,People
+S12000035,Argyll and Bute,Local Authority,2018,88694,People
+S12000036,City of Edinburgh,Local Authority,2013,529512,People
+S12000036,City of Edinburgh,Local Authority,2015,539567,People
+S12000036,City of Edinburgh,Local Authority,2008,501973,People
+S12000036,City of Edinburgh,Local Authority,2007,501571,People
+S12000036,City of Edinburgh,Local Authority,2018,566678,People
+S12000036,City of Edinburgh,Local Authority,2017,548834,People
+S12000036,City of Edinburgh,Local Authority,2016,540790,People
+S12000036,City of Edinburgh,Local Authority,2014,534626,People
+S12000036,City of Edinburgh,Local Authority,2019,575113,People
+S12000036,City of Edinburgh,Local Authority,2011,515868,People
+S12000036,City of Edinburgh,Local Authority,2012,523454,People
+S12000036,City of Edinburgh,Local Authority,2009,509201,People
+S12000036,City of Edinburgh,Local Authority,2010,514660,People
+S12000038,Renfrewshire,Local Authority,2009,178239,People
+S12000038,Renfrewshire,Local Authority,2016,179403,People
+S12000038,Renfrewshire,Local Authority,2015,178132,People
+S12000038,Renfrewshire,Local Authority,2017,180829,People
+S12000038,Renfrewshire,Local Authority,2011,177855,People
+S12000038,Renfrewshire,Local Authority,2012,177565,People
+S12000038,Renfrewshire,Local Authority,2013,177194,People
+S12000038,Renfrewshire,Local Authority,2007,177766,People
+S12000038,Renfrewshire,Local Authority,2019,183610,People
+S12000038,Renfrewshire,Local Authority,2008,178450,People
+S12000038,Renfrewshire,Local Authority,2010,178514,People
+S12000038,Renfrewshire,Local Authority,2014,177830,People
+S12000038,Renfrewshire,Local Authority,2018,181943,People
+S12000041,Angus,Local Authority,2009,115254,People
+S12000041,Angus,Local Authority,2007,113954,People
+S12000041,Angus,Local Authority,2019,119324,People
+S12000041,Angus,Local Authority,2014,117400,People
+S12000041,Angus,Local Authority,2015,117834,People
+S12000041,Angus,Local Authority,2012,116469,People
+S12000041,Angus,Local Authority,2017,118162,People
+S12000041,Angus,Local Authority,2013,116587,People
+S12000041,Angus,Local Authority,2016,117870,People
+S12000041,Angus,Local Authority,2010,115698,People
+S12000041,Angus,Local Authority,2008,114574,People
+S12000041,Angus,Local Authority,2018,118591,People
+S12000041,Angus,Local Authority,2011,116034,People
+S12000042,Dundee City,Local Authority,2009,161107,People
+S12000042,Dundee City,Local Authority,2015,161750,People
+S12000042,Dundee City,Local Authority,2019,162736,People
+S12000042,Dundee City,Local Authority,2017,162408,People
+S12000042,Dundee City,Local Authority,2010,160672,People
+S12000042,Dundee City,Local Authority,2012,161608,People
+S12000042,Dundee City,Local Authority,2007,160375,People
+S12000042,Dundee City,Local Authority,2014,161689,People
+S12000042,Dundee City,Local Authority,2008,160303,People
+S12000042,Dundee City,Local Authority,2018,162716,People
+S12000042,Dundee City,Local Authority,2016,162012,People
+S12000042,Dundee City,Local Authority,2011,162042,People
+S12000042,Dundee City,Local Authority,2013,160737,People
+S12000045,East Dunbartonshire,Local Authority,2014,103583,People
+S12000045,East Dunbartonshire,Local Authority,2016,105262,People
+S12000045,East Dunbartonshire,Local Authority,2011,102008,People
+S12000045,East Dunbartonshire,Local Authority,2007,101915,People
+S12000045,East Dunbartonshire,Local Authority,2015,104416,People
+S12000045,East Dunbartonshire,Local Authority,2013,102716,People
+S12000045,East Dunbartonshire,Local Authority,2010,102042,People
+S12000045,East Dunbartonshire,Local Authority,2009,101905,People
+S12000045,East Dunbartonshire,Local Authority,2012,102433,People
+S12000045,East Dunbartonshire,Local Authority,2017,106120,People
+S12000045,East Dunbartonshire,Local Authority,2019,108278,People
+S12000045,East Dunbartonshire,Local Authority,2008,101892,People
+S12000045,East Dunbartonshire,Local Authority,2018,107193,People
+S08000015,Ayrshire and Arran,Health Board,2009,387717,People
+S08000015,Ayrshire and Arran,Health Board,2015,384703,People
+S08000015,Ayrshire and Arran,Health Board,2014,385131,People
+S08000015,Ayrshire and Arran,Health Board,2011,387485,People
+S08000015,Ayrshire and Arran,Health Board,2017,385629,People
+S08000015,Ayrshire and Arran,Health Board,2008,388417,People
+S08000015,Ayrshire and Arran,Health Board,2013,386023,People
+S08000015,Ayrshire and Arran,Health Board,2010,387708,People
+S08000015,Ayrshire and Arran,Health Board,2016,385039,People
+S08000015,Ayrshire and Arran,Health Board,2012,386797,People
+S08000015,Ayrshire and Arran,Health Board,2018,385540,People
+S08000015,Ayrshire and Arran,Health Board,2007,387594,People
+S08000015,Ayrshire and Arran,Health Board,2019,385715,People
+S08000016,Borders,Health Board,2008,115829,People
+S08000016,Borders,Health Board,2007,114678,People
+S08000016,Borders,Health Board,2014,116744,People
+S08000016,Borders,Health Board,2016,117583,People
+S08000016,Borders,Health Board,2010,116288,People
+S08000016,Borders,Health Board,2019,119494,People
+S08000016,Borders,Health Board,2011,116168,People
+S08000016,Borders,Health Board,2017,118318,People
+S08000016,Borders,Health Board,2018,118921,People
+S08000016,Borders,Health Board,2013,116633,People
+S08000016,Borders,Health Board,2015,116760,People
+S08000016,Borders,Health Board,2012,116282,People
+S08000016,Borders,Health Board,2009,116227,People
+S08000017,Dumfries and Galloway,Health Board,2009,155406,People
+S08000017,Dumfries and Galloway,Health Board,2008,155551,People
+S08000017,Dumfries and Galloway,Health Board,2016,154188,People
+S08000017,Dumfries and Galloway,Health Board,2007,154771,People
+S08000017,Dumfries and Galloway,Health Board,2015,154115,People
+S08000017,Dumfries and Galloway,Health Board,2019,154430,People
+S08000017,Dumfries and Galloway,Health Board,2010,155397,People
+S08000017,Dumfries and Galloway,Health Board,2018,154306,People
+S08000017,Dumfries and Galloway,Health Board,2012,154898,People
+S08000017,Dumfries and Galloway,Health Board,2013,154310,People
+S08000017,Dumfries and Galloway,Health Board,2014,154188,People
+S08000017,Dumfries and Galloway,Health Board,2017,154307,People
+S08000017,Dumfries and Galloway,Health Board,2011,155378,People
+S08000019,Forth Valley,Health Board,2010,309086,People
+S08000019,Forth Valley,Health Board,2015,316244,People
+S08000019,Forth Valley,Health Board,2016,317641,People
+S08000019,Forth Valley,Health Board,2011,310431,People
+S08000019,Forth Valley,Health Board,2018,320595,People
+S08000019,Forth Valley,Health Board,2008,307271,People
+S08000019,Forth Valley,Health Board,2012,310438,People
+S08000019,Forth Valley,Health Board,2019,321390,People
+S08000019,Forth Valley,Health Board,2007,305466,People
+S08000019,Forth Valley,Health Board,2017,319774,People
+S08000019,Forth Valley,Health Board,2013,311937,People
+S08000019,Forth Valley,Health Board,2014,313862,People
+S08000019,Forth Valley,Health Board,2009,308261,People
+S08000020,Grampian,Health Board,2008,565815,People
+S08000020,Grampian,Health Board,2018,597542,People
+S08000020,Grampian,Health Board,2015,595804,People
+S08000020,Grampian,Health Board,2012,581198,People
+S08000020,Grampian,Health Board,2010,573616,People
+S08000020,Grampian,Health Board,2011,576295,People
+S08000020,Grampian,Health Board,2019,598577,People
+S08000020,Grampian,Health Board,2009,570526,People
+S08000020,Grampian,Health Board,2013,585615,People
+S08000020,Grampian,Health Board,2014,592595,People
+S08000020,Grampian,Health Board,2016,595927,People
+S08000020,Grampian,Health Board,2017,596531,People
+S08000020,Grampian,Health Board,2007,562815,People
+S08000022,Highland,Health Board,2016,326698,People
+S08000022,Highland,Health Board,2010,322651,People
+S08000022,Highland,Health Board,2018,329167,People
+S08000022,Highland,Health Board,2011,322972,People
+S08000022,Highland,Health Board,2007,319000,People
+S08000022,Highland,Health Board,2012,323061,People
+S08000022,Highland,Health Board,2013,323524,People
+S08000022,Highland,Health Board,2017,327832,People
+S08000022,Highland,Health Board,2008,321746,People
+S08000022,Highland,Health Board,2019,330095,People
+S08000022,Highland,Health Board,2009,321998,People
+S08000022,Highland,Health Board,2014,324107,People
+S08000022,Highland,Health Board,2015,325237,People
+S08000024,Lothian,Health Board,2007,859145,People
+S08000024,Lothian,Health Board,2015,920562,People
+S08000024,Lothian,Health Board,2014,911934,People
+S08000024,Lothian,Health Board,2011,885930,People
+S08000024,Lothian,Health Board,2016,931486,People
+S08000024,Lothian,Health Board,2017,943826,People
+S08000024,Lothian,Health Board,2013,903155,People
+S08000024,Lothian,Health Board,2019,970535,People
+S08000024,Lothian,Health Board,2008,864066,People
+S08000024,Lothian,Health Board,2009,874352,People
+S08000024,Lothian,Health Board,2012,894502,People
+S08000024,Lothian,Health Board,2018,957638,People
+S08000024,Lothian,Health Board,2010,881658,People
+S08000025,Orkney,Health Board,2019,21837,People
+S08000025,Orkney,Health Board,2018,21711,People
+S08000025,Orkney,Health Board,2008,20306,People
+S08000025,Orkney,Health Board,2013,20952,People
+S08000025,Orkney,Health Board,2016,21268,People
+S08000025,Orkney,Health Board,2011,20618,People
+S08000025,Orkney,Health Board,2007,20242,People
+S08000025,Orkney,Health Board,2014,21020,People
+S08000025,Orkney,Health Board,2015,21112,People
+S08000025,Orkney,Health Board,2012,20808,People
+S08000025,Orkney,Health Board,2009,20390,People
+S08000025,Orkney,Health Board,2017,21476,People
+S08000025,Orkney,Health Board,2010,20611,People
+S08000026,Shetland,Health Board,2016,23062,People
+S08000026,Shetland,Health Board,2008,22281,People
+S08000026,Shetland,Health Board,2009,22621,People
+S08000026,Shetland,Health Board,2018,22958,People
+S08000026,Shetland,Health Board,2014,22982,People
+S08000026,Shetland,Health Board,2010,22764,People
+S08000026,Shetland,Health Board,2017,22973,People
+S08000026,Shetland,Health Board,2015,23045,People
+S08000026,Shetland,Health Board,2011,22808,People
+S08000026,Shetland,Health Board,2019,22982,People
+S08000026,Shetland,Health Board,2013,22886,People
+S08000026,Shetland,Health Board,2007,22241,People
+S08000026,Shetland,Health Board,2012,22841,People
+S08000028,Western Isles,Health Board,2019,26889,People
+S08000028,Western Isles,Health Board,2009,27554,People
+S08000028,Western Isles,Health Board,2014,27099,People
+S08000028,Western Isles,Health Board,2017,26961,People
+S08000028,Western Isles,Health Board,2013,27204,People
+S08000028,Western Isles,Health Board,2008,27654,People
+S08000028,Western Isles,Health Board,2007,27696,People
+S08000028,Western Isles,Health Board,2011,27376,People
+S08000028,Western Isles,Health Board,2018,26941,People
+S08000028,Western Isles,Health Board,2016,26836,People
+S08000028,Western Isles,Health Board,2010,27485,People
+S08000028,Western Isles,Health Board,2012,27284,People
+S08000028,Western Isles,Health Board,2015,26967,People
+S12000047,Fife,Local Authority,2018,383709,People
+S12000047,Fife,Local Authority,2016,381238,People
+S12000047,Fife,Local Authority,2011,376673,People
+S12000047,Fife,Local Authority,2013,378147,People
+S12000047,Fife,Local Authority,2009,373964,People
+S12000047,Fife,Local Authority,2012,377042,People
+S12000047,Fife,Local Authority,2015,379903,People
+S12000047,Fife,Local Authority,2014,379214,People
+S12000047,Fife,Local Authority,2008,372984,People
+S12000047,Fife,Local Authority,2017,382294,People
+S12000047,Fife,Local Authority,2007,369414,People
+S12000047,Fife,Local Authority,2010,375574,People
+S12000047,Fife,Local Authority,2019,385734,People
+S12000048,Perth and Kinross,Local Authority,2012,144140,People
+S12000048,Perth and Kinross,Local Authority,2014,145439,People
+S12000048,Perth and Kinross,Local Authority,2007,140049,People
+S12000048,Perth and Kinross,Local Authority,2008,141041,People
+S12000048,Perth and Kinross,Local Authority,2011,143781,People
+S12000048,Perth and Kinross,Local Authority,2013,144292,People
+S12000048,Perth and Kinross,Local Authority,2017,147134,People
+S12000048,Perth and Kinross,Local Authority,2016,146308,People
+S12000048,Perth and Kinross,Local Authority,2009,142097,People
+S12000048,Perth and Kinross,Local Authority,2015,145630,People
+S12000048,Perth and Kinross,Local Authority,2019,149095,People
+S12000048,Perth and Kinross,Local Authority,2010,143026,People
+S12000048,Perth and Kinross,Local Authority,2018,147946,People
+S08000029,Fife,Health Board,2014,379214,People
+S08000029,Fife,Health Board,2010,375574,People
+S08000029,Fife,Health Board,2011,376673,People
+S08000029,Fife,Health Board,2009,373964,People
+S08000029,Fife,Health Board,2019,385734,People
+S08000029,Fife,Health Board,2015,379903,People
+S08000029,Fife,Health Board,2017,382294,People
+S08000029,Fife,Health Board,2007,369414,People
+S08000029,Fife,Health Board,2018,383709,People
+S08000029,Fife,Health Board,2012,377042,People
+S08000029,Fife,Health Board,2013,378147,People
+S08000029,Fife,Health Board,2008,372984,People
+S08000029,Fife,Health Board,2016,381238,People
+S08000030,Tayside,Health Board,2019,431155,People
+S08000030,Tayside,Health Board,2007,414378,People
+S08000030,Tayside,Health Board,2011,421857,People
+S08000030,Tayside,Health Board,2008,415918,People
+S08000030,Tayside,Health Board,2009,418458,People
+S08000030,Tayside,Health Board,2014,424528,People
+S08000030,Tayside,Health Board,2012,422217,People
+S08000030,Tayside,Health Board,2016,426190,People
+S08000030,Tayside,Health Board,2015,425214,People
+S08000030,Tayside,Health Board,2010,419396,People
+S08000030,Tayside,Health Board,2018,429253,People
+S08000030,Tayside,Health Board,2013,421616,People
+S08000030,Tayside,Health Board,2017,427704,People
+S08000031,Greater Glasgow and Clyde,Health Board,2009,1232446,People
+S08000031,Greater Glasgow and Clyde,Health Board,2008,1231117,People
+S08000031,Greater Glasgow and Clyde,Health Board,2011,1236598,People
+S08000031,Greater Glasgow and Clyde,Health Board,2010,1237889,People
+S08000031,Greater Glasgow and Clyde,Health Board,2017,1289698,People
+S08000031,Greater Glasgow and Clyde,Health Board,2019,1313332,People
+S08000031,Greater Glasgow and Clyde,Health Board,2007,1223185,People
+S08000031,Greater Glasgow and Clyde,Health Board,2016,1278145,People
+S08000031,Greater Glasgow and Clyde,Health Board,2015,1263017,People
+S08000031,Greater Glasgow and Clyde,Health Board,2018,1300105,People
+S08000031,Greater Glasgow and Clyde,Health Board,2013,1245706,People
+S08000031,Greater Glasgow and Clyde,Health Board,2012,1242271,People
+S08000031,Greater Glasgow and Clyde,Health Board,2014,1253463,People
+S08000032,Lanarkshire,Health Board,2011,669064,People
+S08000032,Lanarkshire,Health Board,2012,669634,People
+S08000032,Lanarkshire,Health Board,2009,666807,People
+S08000032,Lanarkshire,Health Board,2010,668683,People
+S08000032,Lanarkshire,Health Board,2015,674784,People
+S08000032,Lanarkshire,Health Board,2016,678306,People
+S08000032,Lanarkshire,Health Board,2013,670596,People
+S08000032,Lanarkshire,Health Board,2014,672307,People
+S08000032,Lanarkshire,Health Board,2017,681418,People
+S08000032,Lanarkshire,Health Board,2007,662407,People
+S08000032,Lanarkshire,Health Board,2018,684116,People
+S08000032,Lanarkshire,Health Board,2008,665074,People
+S08000032,Lanarkshire,Health Board,2019,687820,People
+S12000049,Glasgow City,Local Authority,2013,684128,People
+S12000049,Glasgow City,Local Authority,2014,690309,People
+S12000049,Glasgow City,Local Authority,2011,675047,People
+S12000049,Glasgow City,Local Authority,2012,680493,People
+S12000049,Glasgow City,Local Authority,2015,698108,People
+S12000049,Glasgow City,Local Authority,2018,725081,People
+S12000049,Glasgow City,Local Authority,2016,709348,People
+S12000049,Glasgow City,Local Authority,2017,717255,People
+S12000049,Glasgow City,Local Authority,2007,661319,People
+S12000049,Glasgow City,Local Authority,2019,735206,People
+S12000049,Glasgow City,Local Authority,2009,670189,People
+S12000049,Glasgow City,Local Authority,2010,675073,People
+S12000049,Glasgow City,Local Authority,2008,668157,People
+S12000050,North Lanarkshire,Local Authority,2019,350567,People
+S12000050,North Lanarkshire,Local Authority,2012,345114,People
+S12000050,North Lanarkshire,Local Authority,2013,344934,People
+S12000050,North Lanarkshire,Local Authority,2011,345251,People
+S12000050,North Lanarkshire,Local Authority,2015,346065,People
+S12000050,North Lanarkshire,Local Authority,2016,347884,People
+S12000050,North Lanarkshire,Local Authority,2014,345353,People
+S12000050,North Lanarkshire,Local Authority,2018,349535,People
+S12000050,North Lanarkshire,Local Authority,2007,342727,People
+S12000050,North Lanarkshire,Local Authority,2017,348911,People
+S12000050,North Lanarkshire,Local Authority,2009,345435,People
+S12000050,North Lanarkshire,Local Authority,2010,345403,People
+S12000050,North Lanarkshire,Local Authority,2008,344309,People

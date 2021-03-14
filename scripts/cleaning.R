@@ -409,7 +409,7 @@ municipal_waste_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "municipal-waste")
 
-# ----- Earnings ----- #
+# ----- Earnings ----- 
 
 earnings <- read_csv("data/raw_data/economic_activity/earnings.csv")
 
@@ -433,7 +433,7 @@ earnings_clean %>%
 updated_lookup <- update_lookup(URI_name = "earnings")
 
 
-# ----- Road Transport Expenditure ----- #
+# ----- Road Transport Expenditure ----- 
 
 road_transport_expenditure <- read_csv(
   "data/raw_data/transport/road_transport_expenditure.csv"
@@ -453,6 +453,25 @@ rte_clean %>%
   write_csv("data/clean_data/transport/road_transport_expenditure.csv")
 
 updated_lookup <- update_lookup(URI_name = "road-transport-expenditure")
+
+# ----- GP list size ----- 
+
+gp_list_sizes <- read_csv("data/raw_data/health/gp_list_size.csv")
+
+gp_list_sizes_clean <- gp_list_sizes %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         value,
+         units)
+
+gp_list_sizes_clean %>% 
+  write_csv("data/clean_data/health/gp_list_sizes.csv")
+
+updated_lookup <- update_lookup(URI_name = "general-practice-list-size")
 
 # ----- Write Dataset Lookup (must be last) ------
 

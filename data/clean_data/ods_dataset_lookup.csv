@@ -86,7 +86,7 @@ full-time-employment,Full-Time and Part-Time Employment,Scottish Government,TRUE
 gender-employment-gap,Gender Employment Gap,Scottish Government,TRUE,FALSE
 earnings-paygap,Gender Pay Gap,Scottish Government,TRUE,TRUE
 general-health-sscq,General Health - Scottish Surveys Core Questions,Scottish Government,TRUE,FALSE
-general-practice-list-size,General Practice List Size,Public Health Scotland,TRUE,FALSE
+general-practice-list-size,General Practice List Size,Public Health Scotland,TRUE,TRUE
 household-waste,Generation and Management of Household Waste,SEPA,TRUE,FALSE
 geographic-area-2001,Geographic Area - 2001 Census,Scottish Government,TRUE,FALSE
 headcount-of-general-practice-workforce,Headcount of General Practice Workforce,Public Health Scotland,TRUE,FALSE
