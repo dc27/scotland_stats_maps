@@ -77,7 +77,7 @@ economic-inactivity,Economic Inactivity,Scottish Government,TRUE,FALSE
 employment,Employment,Scottish Government,TRUE,FALSE
 employment-support-allowance,Employment and Support Allowance,Scottish Government,TRUE,FALSE
 end-of-life-care,End of Life Care,Public Health Scotland,TRUE,FALSE
-energy-consumption,Energy Consumption,Scottish Government,TRUE,FALSE
+energy-consumption,Energy Consumption,Scottish Government,TRUE,TRUE
 exports-by-local-authority,Exports by Local Authority,Scottish Government,TRUE,FALSE
 feeling-safe-when-alone-at-home---scottish-household-survey,Feeling safe when alone at home - Scottish Household Survey,Scottish Government,TRUE,FALSE
 fire---type-of-incident,Fire - Type of Incident,Scottish Fire and Rescue Service,TRUE,FALSE

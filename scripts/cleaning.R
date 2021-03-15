@@ -473,6 +473,30 @@ gp_list_sizes_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "general-practice-list-size")
 
+# ----- Energy Consumption ----- 
+
+energy_consumption <- read_csv(
+  "data/raw_data/business_enterprise_and_energy/energy_consumption.csv"
+  )
+
+energy_consumption_clean <- energy_consumption %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         sector = energy_consuming_sector,
+         energy_type,
+         value,
+         units)
+
+energy_consumption_clean %>% 
+  write_csv(
+    "data/clean_data/business_enterprise_and_energy/energy_consumption.csv"
+    )
+
+updated_lookup <- update_lookup(URI_name = "energy-consumption")
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

@@ -3,7 +3,14 @@
     
   ),
   "Business, Enterprise and Energy" = list(
-    
+    "Energy Consumption" = list(
+      data = read_csv("data/clean_data/business_enterprise_and_energy/energy_consumption.csv"),
+      explorable_vars = c("year", "sector", "energy_type"),
+      reverse_colours = FALSE,
+      by_pop = TRUE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fenergy-consumption",
+      notes = "This dataset combines three individual datasets published by the Department for Business, Energy and Industrial Strategy (BEIS) of the UK Government. The datasets are Sub-National Total final Energy Consumption, Sub-National Electricity Consumption and Sub-National Gas Consumption."
+    )
   ),
   "Children and Young People" = list(
     
