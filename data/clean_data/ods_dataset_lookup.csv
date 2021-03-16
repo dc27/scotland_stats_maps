@@ -165,7 +165,7 @@ pupil-attainment-asn,Pupil Attainment (Additional Support Needs),Scottish Govern
 pupil-attainment-em,Pupil Attainment (English and Maths),Scottish Government,TRUE,FALSE
 qualifications-working-age-people,Qualifications of working age adults,Scottish Government,TRUE,FALSE
 reconvictions,Reconvictions,Scottish Government,TRUE,FALSE
-recorded-crime,Recorded Crimes and Offences,Scottish Government,TRUE,FALSE
+recorded-crime,Recorded Crimes and Offences,Scottish Government,TRUE,TRUE
 regional-domestic-tourism,Regional Domestic Tourism,VisitScotland,FALSE,FALSE
 gross-value-added,Regional Gross Value Added (GVA),Scottish Government,TRUE,FALSE
 road-safety,Road Casualties,Transport Scotland,TRUE,TRUE

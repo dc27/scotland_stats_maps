@@ -497,6 +497,31 @@ energy_consumption_clean %>%
     )
 
 updated_lookup <- update_lookup(URI_name = "energy-consumption")
+
+
+# ----- 
+
+crimes_and_offences <- read_csv(
+  "data/raw_data/crime_and_justice/recorded_crimes.csv"
+  )
+
+crimes_and_offences_clean <- crimes_and_offences %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         date_code,
+         crime_or_offence,
+         measure_type = measurement,
+         value,
+         units)
+
+crimes_and_offences_clean %>% 
+  write_csv("data/clean_data/crime_and_justice/recorded_crimes.csv")
+
+updated_lookup <- update_lookup(URI_name = "recorded-crime")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

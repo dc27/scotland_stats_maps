@@ -19,7 +19,16 @@
     
   ),
   "Crime and Justice" = list(
-    
+    "Recorded Crimes and Offences" = list(
+      data = read_csv("data/clean_data/crime_and_justice/recorded_crimes.csv"),
+      explorable_vars = c("date_code", "crime_or_offence", "measure_type"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Frecorded-crime",
+      notes = "Number, and rate per 10,000 population, of crimes and offences recorded by the police. For more information on the recorded crime figures please see the Scottish Government website.
+
+Crimes and offences per 10,000 population rates are calculated as follows: (total number of recorded crimes / mid-year population estimate) x (10,000 / 1). When calculating the rates of crimes and offences per 10,000 population, the relevant mid-year population estimates produced by the National Records of Scotland are used. The mid-year population estimates can be accessed here. The statistical return from which the data are taken is a simple count of the numbers of crimes and offences recorded and cleared up by the police. Returns are submitted quarterly from Police Scotland at local authority level which allows a national total to be obtained. Crimes and offences are included against the year in which they are recorded by the police. This is not necessarily the year in which the crime or offence took place, the year in which the accused is brought to trial for the crime or offence, or the year in which the case is finally disposed of by the courts. Amendments (such as the deletion of incidents found on investigation not to be criminal) which arise after the end of the financial year are not incorporated."
+    )
   ),
   "Economic Activity, Benefits and Tax Credits" = list(
     "Earnings" = list(
