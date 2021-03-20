@@ -52,7 +52,7 @@ debt-arrangement-scheme-das,Debt Arrangement Scheme (DAS),Accountant in Bankrupt
 delayed-discharges-bed-days,Delayed Discharges - Monthly Bed Days Occupied,Public Health Scotland,TRUE,FALSE
 delayed-discharges-monthly-census,Delayed Discharges - Monthly Census,Public Health Scotland,TRUE,FALSE
 population-estimates-dependency,Dependency Ratio,National Records of Scotland,TRUE,FALSE
-vacant-derelict-land,Derelict and Urban Vacant Land,Scottish Government,TRUE,FALSE
+vacant-derelict-land,Derelict and Urban Vacant Land,Scottish Government,TRUE,TRUE
 disability-sscq,Disability - Scottish Surveys Core Questions,Scottish Government,TRUE,FALSE
 disability-living-allowance,Disability Living Allowance,Scottish Government,TRUE,FALSE
 disability-living-allowance-component,Disability Living Allowance (Care Component),Scottish Government,TRUE,FALSE

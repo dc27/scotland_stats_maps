@@ -499,7 +499,7 @@ energy_consumption_clean %>%
 updated_lookup <- update_lookup(URI_name = "energy-consumption")
 
 
-# ----- 
+# ----- Crimes and Offences -----
 
 crimes_and_offences <- read_csv(
   "data/raw_data/crime_and_justice/recorded_crimes.csv"
@@ -521,6 +521,30 @@ crimes_and_offences_clean %>%
   write_csv("data/clean_data/crime_and_justice/recorded_crimes.csv")
 
 updated_lookup <- update_lookup(URI_name = "recorded-crime")
+
+# ----- Derelict Land -----
+
+derelict_land <- read_csv(
+  "data/raw_data/community_wellbeing_and_soc_env/derelict_and_urban_vacant_land.csv"
+  )
+
+derelict_land_clean <- derelict_land %>% 
+  janitor::clean_names() %>% 
+  inner_join(datazone_lookup, by = c("feature_code" = "area_code")) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         area,
+         value,
+         units)
+
+derelict_land_clean %>% 
+  write_csv(
+    "data/clean_data/community_wellbeing_and_soc_env/derelict_and_urban_vacant_land.csv"
+    )
+
+updated_lookup <- update_lookup(URI_name = "vacant-derelict-land")
 
 # ----- Write Dataset Lookup (must be last) ------
 
