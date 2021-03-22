@@ -18,8 +18,7 @@ server <- function(input, output, session){
     dfs[[input$category]][[input$dataset]]$reverse_colours
     })
   notes <- eventReactive(
-    input$update,
-    {dfs[[input$category]][[input$dataset]]$notes}
+    input$update, {dfs[[input$category]][[input$dataset]]$notes}
     )
   
   output$dropdowns <- renderUI(
@@ -191,8 +190,10 @@ server <- function(input, output, session){
         units = units()
       )}
   })
-  output$notes <- renderText({
-    notes()
+  
+  # display data-specific notes
+  output$notes <- renderUI({
+     HTML(paste(notes(), collapse = "<br><br>"))
   })
 
   # basic bar plot

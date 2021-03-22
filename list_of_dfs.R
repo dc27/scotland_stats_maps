@@ -22,11 +22,10 @@
       reverse_colours = FALSE,
       by_pop = TRUE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fvacant-derelict-land",
-      notes = "Derelict land (and buildings) is land which has been so damaged by development, that it is incapable of development for beneficial use without rehabilitation. In addition the land must currently not be used for the purpose for which it is held or a use acceptable in the local plan. Land also qualifies as derelict if it has an un-remedied previous use which could constrain future development.
-
-Vacant land is land which is unused for the purposes for which it is held and is viewed as an appropriate site for development. This land must either have had prior development on it or preparatory work has taken place in anticipation of future development. This indicator covers vacant land (referred to as 'urban vacant') that is located within settlements of over 2,000 in population as defined in council local plans.
-
-Sites covering less than 0.1 hectare are excluded. The survey is voluntary. If a local authority does not complete the survey the most recent available data is used."
+      notes = c(
+        "Derelict land (and buildings) is land which has been so damaged by development, that it is incapable of development for beneficial use without rehabilitation. In addition the land must currently not be used for the purpose for which it is held or a use acceptable in the local plan. Land also qualifies as derelict if it has an un-remedied previous use which could constrain future development.",
+        "Vacant land is land which is unused for the purposes for which it is held and is viewed as an appropriate site for development. This land must either have had prior development on it or preparatory work has taken place in anticipation of future development. This indicator covers vacant land (referred to as 'urban vacant') that is located within settlements of over 2,000 in population as defined in council local plans.",
+        "Sites covering less than 0.1 hectare are excluded. The survey is voluntary. If a local authority does not complete the survey the most recent available data is used.")
     )
     
   ),

@@ -86,7 +86,7 @@ ui <- dashboardPage(
         box(
           title = "Notes",
           width = 12,
-          textOutput("notes")
+          uiOutput("notes")
         )
       )
     )
