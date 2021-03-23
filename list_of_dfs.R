@@ -36,10 +36,9 @@
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Frecorded-crime",
-      notes = "Number, and rate per 10,000 population, of crimes and offences recorded by the police. For more information on the recorded crime figures please see the Scottish Government website.
-
-Crimes and offences per 10,000 population rates are calculated as follows: (total number of recorded crimes / mid-year population estimate) x (10,000 / 1). When calculating the rates of crimes and offences per 10,000 population, the relevant mid-year population estimates produced by the National Records of Scotland are used. The mid-year population estimates can be accessed here. The statistical return from which the data are taken is a simple count of the numbers of crimes and offences recorded and cleared up by the police. Returns are submitted quarterly from Police Scotland at local authority level which allows a national total to be obtained. Crimes and offences are included against the year in which they are recorded by the police. This is not necessarily the year in which the crime or offence took place, the year in which the accused is brought to trial for the crime or offence, or the year in which the case is finally disposed of by the courts. Amendments (such as the deletion of incidents found on investigation not to be criminal) which arise after the end of the financial year are not incorporated."
-    )
+      notes = c("Number, and rate per 10,000 population, of crimes and offences recorded by the police. For more information on the recorded crime figures please see the Scottish Government website.",
+                "Crimes and offences per 10,000 population rates are calculated as follows: (total number of recorded crimes / mid-year population estimate) x (10,000 / 1). When calculating the rates of crimes and offences per 10,000 population, the relevant mid-year population estimates produced by the National Records of Scotland are used. The mid-year population estimates can be accessed here. The statistical return from which the data are taken is a simple count of the numbers of crimes and offences recorded and cleared up by the police. Returns are submitted quarterly from Police Scotland at local authority level which allows a national total to be obtained. Crimes and offences are included against the year in which they are recorded by the police. This is not necessarily the year in which the crime or offence took place, the year in which the accused is brought to trial for the crime or offence, or the year in which the case is finally disposed of by the courts. Amendments (such as the deletion of incidents found on investigation not to be criminal) which arise after the end of the financial year are not incorporated."
+    ))
   ),
   "Economic Activity, Benefits and Tax Credits" = list(
     "Earnings" = list(
@@ -113,15 +112,9 @@ Note that some information may have been suppressed or adjusted to preserve pati
       reverse_colours = TRUE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fmeasles-mumps-rubella",
-      notes = "Number, and percent of, children who have received 1 dose of
-      Measles, Mumps and Rubella (MMR) vaccine by 5 years of age. 
-      \n\n The NHS Board and local authority are derived from child's home
-      postcode and therefore data with invalid or missing postcodes are not
-      included in the NHS Board and local authority totals. As a result the
-      numbers and rates often differ from those published in the ISD National
-      Statistics publication which can be accessed from the NHS Information
-      Services Division website. \n\n Source: Scottish Immunisation and Recall
-      System (SIRS), ISD Scotland."
+      notes = c("Number, and percent of, children who have received 1 dose of Measles, Mumps and Rubella (MMR) vaccine by 5 years of age.",
+      "The NHS Board and local authority are derived from child's home postcode and therefore data with invalid or missing postcodes are not included in the NHS Board and local authority totals. As a result the numbers and rates often differ from those published in the ISD National Statistics publication which can be accessed from the NHS Information Services Division website.",
+      "Source: Scottish Immunisation and Recall System (SIRS), ISD Scotland.")
     )
   ),
   "Housing" = list(
@@ -190,9 +183,9 @@ Note that some information may have been suppressed or adjusted to preserve pati
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Froad-safety",
-      notes = "Number of people killed and seriously injured on Scotland's roads. These figures are from the STATS-19 statistical returns collected from the police forces across Scotland. These statistics only focus on those accidents involving killed and seriously injured casualties. From around June/July 2019 Police Scotland has been using a new accident and casualty data recording system called CRASH (Collision Reporting and Sharing). As this is an injury-based reporting system it tends to result in more casualties being classified as \"serious\" and therefore causes a discontinuity in the time series. Please do not try to compare serious casualties from 2019 onwards with previous years.
-
-The statistics were compiled from returns made by police forces, which cover all accidents in which a vehicle is involved that occur on roads (including footways) and result in personal injury, if they become known to the police. The vehicle need not be moving, and need not be in collision - for example, the returns include accidents involving people alighting from buses."
+      notes = c("Number of people killed and seriously injured on Scotland's roads. These figures are from the STATS-19 statistical returns collected from the police forces across Scotland. These statistics only focus on those accidents involving killed and seriously injured casualties. From around June/July 2019 Police Scotland has been using a new accident and casualty data recording system called CRASH (Collision Reporting and Sharing). As this is an injury-based reporting system it tends to result in more casualties being classified as \"serious\" and therefore causes a discontinuity in the time series. Please do not try to compare serious casualties from 2019 onwards with previous years.",
+                "The statistics were compiled from returns made by police forces, which cover all accidents in which a vehicle is involved that occur on roads (including footways) and result in personal injury, if they become known to the police. The vehicle need not be moving, and need not be in collision - for example, the returns include accidents involving people alighting from buses."
+      )
     ),
     "Road Transport Expenditure" = list(
       data = read_csv("data/clean_data/transport/road_transport_expenditure.csv"),
@@ -200,9 +193,8 @@ The statistics were compiled from returns made by police forces, which cover all
       reverse_colours = FALSE,
       by_pop = TRUE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Froad-transport-expenditure",
-      notes = "These figures are the net revenue expenditure on roads and transport (excluding loan charges) by area.
-
-It should be noted that the negative figure of £9,058 thousand pounds for Edinburgh council spending on transport in 2018 is mainly due to receipts from car parking charges."
+      notes = c("These figures are the net revenue expenditure on roads and transport (excluding loan charges) by area.",
+                "It should be noted that the negative figure of £9,058 thousand pounds for Edinburgh council spending on transport in 2018 is mainly due to receipts from car parking charges."
     ),
     "Travel to Work and Other Purposes" = list(
       data = read_csv("data/clean_data/travel_to_work.csv"),
