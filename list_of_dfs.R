@@ -94,9 +94,8 @@
       reverse_colours = FALSE,
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fcancer-registrations---annual-data",
-      notes = "Numbers of new cases for the following types of cancer: malignant neoplasms (excluding non melanoma skin cancer), lung cancer (including cancers of the trachea and bronchus), malignant female breast tumours, colorectal cancers (constituting cancers of the colon, rectum and rectosigmoid junction), and malignant prostate tumours.
-
-Note that some information may have been suppressed or adjusted to preserve patient confidentiality"
+      notes = c("Numbers of new cases for the following types of cancer: malignant neoplasms (excluding non melanoma skin cancer), lung cancer (including cancers of the trachea and bronchus), malignant female breast tumours, colorectal cancers (constituting cancers of the colon, rectum and rectosigmoid junction), and malignant prostate tumours.",
+                "Note that some information may have been suppressed or adjusted to preserve patient confidentiality")
     ),
     "General Practice List Size" = list(
       data = read_csv("data/clean_data/health/gp_list_sizes.csv"),
@@ -113,8 +112,8 @@ Note that some information may have been suppressed or adjusted to preserve pati
       by_pop = FALSE,
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fmeasles-mumps-rubella",
       notes = c("Number, and percent of, children who have received 1 dose of Measles, Mumps and Rubella (MMR) vaccine by 5 years of age.",
-      "The NHS Board and local authority are derived from child's home postcode and therefore data with invalid or missing postcodes are not included in the NHS Board and local authority totals. As a result the numbers and rates often differ from those published in the ISD National Statistics publication which can be accessed from the NHS Information Services Division website.",
-      "Source: Scottish Immunisation and Recall System (SIRS), ISD Scotland.")
+                "The NHS Board and local authority are derived from child's home postcode and therefore data with invalid or missing postcodes are not included in the NHS Board and local authority totals. As a result the numbers and rates often differ from those published in the ISD National Statistics publication which can be accessed from the NHS Information Services Division website.",
+                "Source: Scottish Immunisation and Recall System (SIRS), ISD Scotland.")
     )
   ),
   "Housing" = list(
