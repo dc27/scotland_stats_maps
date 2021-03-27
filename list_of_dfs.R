@@ -1,6 +1,6 @@
  cleaned_dfs <- list(
   "Access to Services" = list(
-    
+
   ),
   "Business, Enterprise and Energy" = list(
     "Energy Consumption" = list(
@@ -194,6 +194,7 @@
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Froad-transport-expenditure",
       notes = c("These figures are the net revenue expenditure on roads and transport (excluding loan charges) by area.",
                 "It should be noted that the negative figure of £9,058 thousand pounds for Edinburgh council spending on transport in 2018 is mainly due to receipts from car parking charges."
+      )
     ),
     "Travel to Work and Other Purposes" = list(
       data = read_csv("data/clean_data/travel_to_work.csv"),
@@ -203,6 +204,5 @@
       url = "https://statistics.gov.scot/slice?dataset=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Ftravel-to-work-other",
       notes = "These estimates are from the Scottish Household Survey Travel Diary, which asks adult respondents about all the journeys which they made the previous day, as well as information about the mode, purpose, duration and length of these journeys. The SHS has an annual sample size of around 10,000 individuals and, since 2012, has operated with a fully unclustered sample design."
     )
-    
   )
 )

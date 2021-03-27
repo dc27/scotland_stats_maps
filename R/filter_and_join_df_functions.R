@@ -1,6 +1,6 @@
 make_dropdown <- function(df, var) {
   # convert snakecase variable name to title for ui
-  varname <- str_to_title(str_replace(var, "_", " "))
+  varname <- str_to_title(str_replace_all(var, "_", " "))
   selectInput(var, varname, sort(unique(df[[var]])))
 }
 
