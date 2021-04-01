@@ -1,6 +1,8 @@
 library(tidyverse)
 library(opendatascot)
 
+source("scripts/helper_functions.R")
+
 # ----- Dataset Lookup -----
 datasets <- read_csv("data/clean_data/ods_dataset_lookup.csv")
 
@@ -545,6 +547,30 @@ derelict_land_clean %>%
     )
 
 updated_lookup <- update_lookup(URI_name = "vacant-derelict-land")
+
+
+# ----- reconvictions -----
+
+reconvictions <- read_csv("data/raw_data/crime_and_justice/reconvictions.csv")
+
+reconvictions_clean <- reconvictions %>% 
+  janitor::clean_names() %>% 
+  auto_join_dz_lookup(right_index = feature_code) %>% 
+  mutate(age = factor(age, levels = c("All", "Under 21 years", "21-25 years",
+                                      "26-30 years", "31-40 years",
+                                      "Over 40 years"))) %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         date_code,
+         gender,
+         age,
+         measure_type = measurement,
+         value,
+         units)
+
+reconvictions_clean %>% 
+  write_csv("data/clean_data/crime_and_justice/reconvictions.csv")
 
 # ----- Write Dataset Lookup (must be last) ------
 
