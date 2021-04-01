@@ -572,6 +572,8 @@ reconvictions_clean <- reconvictions %>%
 reconvictions_clean %>% 
   write_csv("data/clean_data/crime_and_justice/reconvictions.csv")
 
+updated_lookup <- update_lookup(URI_name = "reconvictions")
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv
