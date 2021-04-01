@@ -38,7 +38,19 @@
       url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Frecorded-crime",
       notes = c("Number, and rate per 10,000 population, of crimes and offences recorded by the police. For more information on the recorded crime figures please see the Scottish Government website.",
                 "Crimes and offences per 10,000 population rates are calculated as follows: (total number of recorded crimes / mid-year population estimate) x (10,000 / 1). When calculating the rates of crimes and offences per 10,000 population, the relevant mid-year population estimates produced by the National Records of Scotland are used. The mid-year population estimates can be accessed here. The statistical return from which the data are taken is a simple count of the numbers of crimes and offences recorded and cleared up by the police. Returns are submitted quarterly from Police Scotland at local authority level which allows a national total to be obtained. Crimes and offences are included against the year in which they are recorded by the police. This is not necessarily the year in which the crime or offence took place, the year in which the accused is brought to trial for the crime or offence, or the year in which the case is finally disposed of by the courts. Amendments (such as the deletion of incidents found on investigation not to be criminal) which arise after the end of the financial year are not incorporated."
-    ))
+    )),
+    "Reconvictions" = list(
+      data = read_csv("data/clean_data/crime_and_justice/reconvictions.csv"),
+      explorable_vars = c("date_code", "gender", "age", "measure_type"),
+      reverse_colours = FALSE,
+      by_pop = TRUE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Freconvictions",
+      notes = c("This dataset includes the reconviction rate and the average number of reconvictions per offender for local authorities and at the national level. These are published annually in the Reconviction Rates in Scotland National Statistics Bulletin.",
+                "Reconvictions are calculated for a cohort of offenders that have either been released from custody or given a non-custodial sentence in Scottish court in each financial year.",
+                "The reconviction rate is the percentage of offenders that were reconvicted in a Scottish court within a year of being released from custody or given a non-custodial sentence.",
+                "The average number of reconvictions is a measure of, on average, how many times offenders are reconvicted in a Scottish court within a year of being released from a custodial sentence or given a non-custodial sentence. Note that as these are averages for the cohort, there would be variation within the cohort; as some offenders are not reconvicted, but others may be reconvicted several times.",
+                "The figures are based on data held on the Scottish Offenders Index (SOI) which is derived from the Criminal History System at the Scottish Police Authority. The SOI covers all convictions where the main offence was a crime in Groups 1-5 of the Scottish Governments classification of crimes and offences; or some crimes and offences in Group 6, including common assault, breach of the peace, racially aggravated harassment or conduct, miscellaneous firearms offences and social security offences.")
+    )
   ),
   "Economic Activity, Benefits and Tax Credits" = list(
     "Earnings" = list(
