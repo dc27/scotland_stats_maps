@@ -574,6 +574,8 @@ reconvictions_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "reconvictions")
 
+# ---- HMO licenses ----
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv

@@ -1,6 +1,6 @@
 # Quick Contributions:
 
-Add a dataset to the app! Currently, 4 of approximately 200 datasets have been
+Add a dataset to the app! Currently, 15 of approximately 200 datasets have been
 cleaned and incorporated into the app. The full list is here:
 [ods_dataset_lookup](data/clean_data/ods_dataset_lookup.csv). 
 
@@ -74,7 +74,7 @@ this pattern:
   reverse_colours = FALSE (default is light colour for low numbers, to reverse this, change this value to TRUE),
   by_pop = FALSE, (if it's useful to allow the user to compare the value/1000 people then set this to TRUE),
   url = "link_to_data",
-  notes = "The data was collected every three years."
+  notes = c("The data was collected every three years.", "In the app, each element of this vector is given a new paragraph")
 )
 ```
 e.g.
