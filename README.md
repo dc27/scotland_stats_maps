@@ -49,6 +49,8 @@ view the data behind the results: navigate to the data tab.
 
 ## Contribution Guidelines
 
+[Guide](CONTRIBUTING.md) to making contributions.
+
 ## Packages Used
 
 |package|used_in|version|
