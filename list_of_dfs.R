@@ -84,7 +84,7 @@
   ),
   "Health and Social Care" = list(
     "Alcohol Related Discharge" = list(
-      data = read_csv("data/clean_data/alcohol_related_discharge.csv",
+      data = read_csv("data/clean_data/health/alcohol_related_discharge.csv",
                       col_types = cols(value = col_integer())),
       explorable_vars = c("ref_period"),
       reverse_colours = FALSE,
@@ -93,7 +93,7 @@
       notes = "obsolete"
     ),
     "Alcohol Related Hospital Statistics" = list(
-      data = read_csv("data/clean_data/alcohol_related_hospital_stats.csv"),
+      data = read_csv("data/clean_data/health/alcohol_related_hospital_stats.csv"),
       explorable_vars = c("reference_period", "alcohol_condition", "measure_type"),
       reverse_colours = FALSE,
       by_pop = FALSE,
@@ -130,7 +130,7 @@
   ),
   "Housing" = list(
     "Council House Sales" = list(
-      data = read_csv("data/clean_data/council_house_sales.csv"),
+      data = read_csv("data/clean_data/housing/council_house_sales.csv"),
       explorable_vars = c("year", "dwelling_type"),
       units = "dwellings",
       reverse_colours = FALSE,
@@ -141,7 +141,7 @@
   ),
   "Labour Force" = list(
     "Adults with low or no qualifications" = list(
-      data = read_csv("data/clean_data/low_no_qualifications.csv",
+      data = read_csv("data/clean_data/labour_force/low_no_qualifications.csv",
                       col_types = cols(age = col_factor())),
       explorable_vars = c("year", "gender", "age", "measure_type"),
       reverse_colours = FALSE,
@@ -171,7 +171,7 @@
   ),
   "Population" = list(
     "Healthy Life Expectancy" = list(
-      data = read_csv("data/clean_data/healthy_life_expectancy.csv"),
+      data = read_csv("data/clean_data/population/healthy_life_expectancy.csv"),
       explorable_vars = c("reference_period", "sex"),
       reverse_colours = TRUE,
       by_pop = FALSE,
@@ -179,7 +179,7 @@
       notes = ""
     ),
     "Population Estimates" = list(
-      data = read_csv("data/clean_data/population_estimates.csv"),
+      data = read_csv("data/clean_data/population/population_estimates.csv"),
       explorable_vars = c("year", "sex"),
       reverse_colours = FALSE,
       by_pop = FALSE,
@@ -209,7 +209,7 @@
       )
     ),
     "Travel to Work and Other Purposes" = list(
-      data = read_csv("data/clean_data/travel_to_work.csv"),
+      data = read_csv("data/clean_data/transport/travel_to_work.csv"),
       explorable_vars = c("year", "indicator"),
       reverse_colours = TRUE,
       by_pop = FALSE,

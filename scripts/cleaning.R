@@ -32,9 +32,9 @@ datazone_lookup %>%
 
 # ----- Population Estimates -----
 
-population_data_f <- read_csv("data/raw_data/population-estimates-f.csv",
+population_data_f <- read_csv("data/raw_data/population/population-estimates-f.csv",
                               skip = 8)
-population_data_m <- read_csv("data/raw_data/population-estimates-m.csv",
+population_data_m <- read_csv("data/raw_data/population/population-estimates-m.csv",
                               skip = 8)
 
 elongate_pop_df <- function(pop_df) {
@@ -76,15 +76,15 @@ pop_data <- pop_data %>%
 
  # write clean data
 pop_data %>% 
-  write_csv("data/clean_data/population_estimates.csv")
+  write_csv("data/clean_data/population/population_estimates.csv")
 
 
 # ----- Healthy Life Expectancy ------
 
-# read in data for male and female HLE from separate files
-male_hle_data <- read_csv("data/raw_data/male-healthy-life-expectancy.csv",
+# read in data for male and female HLE from separate files - raw data is large
+male_hle_data <- read_csv("data/raw_data/population/male-healthy-life-expectancy.csv",
                           skip = 10)
-female_hle_data <- read_csv("data/raw_data/female-healthy-life-expectancy.csv",
+female_hle_data <- read_csv("data/raw_data/population/female-healthy-life-expectancy.csv",
                             skip = 10)
 
 # convert reference periods to long format, apply same pivot to both dfs
@@ -125,14 +125,14 @@ hle_data <- hle_data %>%
 
 # write data to clean csv
 hle_data %>% 
-  write_csv("data/clean_data/healthy_life_expectancy.csv")
+  write_csv("data/clean_data/population/healthy_life_expectancy.csv")
 
 # update dataset_lookup
 updated_lookup <- update_lookup(URI_name = "healthy-life-expectancy")
 
 # ----- Council House Sales -----
 
-council_house_data <- read_csv("data/raw_data/council_house_sales.csv") %>% 
+council_house_data <- read_csv("data/raw_data/housing/council_house_sales.csv") %>% 
   janitor::clean_names()
 
 # units = dwellings
@@ -152,7 +152,7 @@ council_houses_better_vars <- council_house_data %>%
   mutate(units = "Dwellings")
 
 council_houses_better_vars %>% 
-  write_csv("data/clean_data/council_house_sales.csv")
+  write_csv("data/clean_data/housing/council_house_sales.csv")
 
 updated_lookup <- update_lookup(URI_name = "council-house-sales")
 
@@ -191,7 +191,7 @@ adults_with_low_no_qualifications_clean <- adults_with_low_no_qualifications %>%
 
 # write to fresh csv
 adults_with_low_no_qualifications_clean %>% 
-  write_csv("data/clean_data/low_no_qualifications.csv")
+  write_csv("data/clean_data/labour_force/low_no_qualifications.csv")
 
 updated_lookup <- update_lookup(
   URI_name = "adults-16-64-years-with-low-or-no-qualifications"
@@ -224,12 +224,12 @@ alcohol_related_discharge_data_clean <- alcohol_related_discharge_data %>%
     measure_type == "Count" ~ "Persons",
     # rate is dimensionless
     measure_type == "EASR" ~ ""
-  ))
+  )) %>% 
   mutate(value = as.integer(value))
 
 # 3. write data
 alcohol_related_discharge_data_clean %>% 
-  write_csv("data/clean_data/alcohol_related_discharge.csv")
+  write_csv("data/clean_data/health/alcohol_related_discharge.csv")
 
 # 4. update dataset lookup
 updated_lookup <- update_lookup(URI_name = "alcohol-related-discharge")
@@ -238,7 +238,7 @@ updated_lookup <- update_lookup(URI_name = "alcohol-related-discharge")
 
 # ----- Alcohol Related Hospital Statistics -----
 
-arhs_data <- read_csv("data/raw_data/alcohol-related-hospital-stats.csv")
+arhs_data <- read_csv("data/raw_data/health/alcohol-related-hospital-stats.csv")
 
 arhs_data_clean <- arhs_data %>%
   janitor::clean_names() %>% 
@@ -255,7 +255,7 @@ arhs_data_clean <- arhs_data %>%
          units)
 
 arhs_data_clean %>% 
-  write_csv("data/clean_data/alcohol_related_hospital_stats.csv")
+  write_csv("data/clean_data/health/alcohol_related_hospital_stats.csv")
 
 updated_lookup <- update_lookup(
   URI_name = "alcohol-related-hospital-statistics"
@@ -263,7 +263,7 @@ updated_lookup <- update_lookup(
 
 
 # ----- Travel to Work and Other Journeys -----
-travel_to_work <- read_csv("data/raw_data/travel_to_work.csv")
+travel_to_work <- read_csv("data/raw_data/transport/travel_to_work.csv")
 
 travel_to_work_clean <- travel_to_work %>% 
   janitor::clean_names() %>% 
@@ -277,12 +277,12 @@ travel_to_work_clean <- travel_to_work %>%
          units)
 
 travel_to_work_clean %>% 
-  write_csv("data/clean_data/travel_to_work.csv")
+  write_csv("data/clean_data/transport/travel_to_work.csv")
 
 updated_lookup <- update_lookup(URI_name = "travel-to-work-other")
 
 # ----- MMR immunisation -----
-mmr_data <- read_csv("data/raw_data/mmr.csv")
+mmr_data <- read_csv("data/raw_data/health/mmr.csv")
 
 mmr_clean <- mmr_data %>% 
   janitor::clean_names() %>% 

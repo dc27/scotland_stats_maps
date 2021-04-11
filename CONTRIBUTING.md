@@ -7,7 +7,7 @@ cleaned and incorporated into the app. The full list is here:
 After forking this repo
 
 1. Pick a dataset from the list and investigate it using either the
-(`opendatascot`)[https://github.com/DataScienceScotland/opendatascot] library or
+[`opendatascot`](https://github.com/DataScienceScotland/opendatascot) library or
 finidng the dataset on [statistics.gov.scot](https://statistics.gov.scot/home).
 Make sure the dataset fits the following criteria:
 
