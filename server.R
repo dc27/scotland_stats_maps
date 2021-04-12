@@ -199,7 +199,16 @@ server <- function(input, output, session){
   
   # display data-specific notes
   output$notes <- renderUI({
-     HTML(paste(notes(), collapse = "<br><br>"))
+    HTML(
+      paste(
+        paste(
+          notes(),
+          collapse = "<br><br>"
+        ),
+        a(href = data_url(), "statistics.gov.scot", target = "_blank")
+      )
+    )
+    
   })
 
   # basic bar plot
@@ -225,7 +234,9 @@ server <- function(input, output, session){
   # table output
   output$table <- renderTable({
     data.table::setnames(basic_table_data(), old = names(basic_table_data()),
-             new = str_to_title(str_replace(names(basic_table_data()), "_", " ")))
+             new = str_to_title(
+               str_replace(names(basic_table_data()), "_", " "))
+             )
 
   })
 }
