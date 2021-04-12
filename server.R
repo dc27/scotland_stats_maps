@@ -76,6 +76,7 @@ server <- function(input, output, session){
           dfs$Population$`Population Estimates`$data %>% 
             filter(year == input[["year"]]) %>% 
             filter(sex == "All")
+            
         }
       })
       
@@ -86,11 +87,14 @@ server <- function(input, output, session){
                   by = c("area_code" = "area_code")) %>% 
         mutate(per_1000 = value/(population/1000),
                per_100000 = value/(population/100000)) %>% 
+        # change units to include population
+        mutate(units = paste(units, "per 1000 persons", sep = " ")) %>% 
         select(-value) %>% 
         rename(value = per_1000)
     }
     })
   
+  # force numeric values to be integer when integer, otherwise: double
   fixed_values <- eventReactive(input$update, {
     coerce_values(selected_df())
   })
@@ -117,28 +121,30 @@ server <- function(input, output, session){
       addProviderTiles(providers$Esri.WorldGrayCanvas)
   })
   
-  output$orkney <- renderLeaflet({
-    leaflet(options = leafletOptions(minZoom = 7)) %>%
-      setView(lng = -2.95, lat = 59, zoom = 7) %>%
-      # restrict view to around Scotland
-      setMaxBounds(lng1 = -2,
-                   lat1 = 54,
-                   lng2 = -4,
-                   lat2 = 63) %>% 
-      addProviderTiles(providers$Esri.WorldGrayCanvas)
-  })
+  # not run - orkney and shetland islands (map already includes northern
+  # archipelagos but user has to scroll)
   
-  output$shetland <- renderLeaflet({
-    leaflet(options = leafletOptions(minZoom = 7)) %>%
-      setView(lng = -1.26, lat = 60.5, zoom = 7) %>%
-      # restrict view to around Scotland
-      setMaxBounds(lng1 = -2.5,
-                   lat1 = 59.5,
-                   lng2 = -0.5,
-                   lat2 = 61.5) %>% 
-      addProviderTiles(providers$Esri.WorldGrayCanvas)
-  })
-  
+  # output$orkney <- renderLeaflet({
+  #   leaflet(options = leafletOptions(minZoom = 7)) %>%
+  #     setView(lng = -2.95, lat = 59, zoom = 7) %>%
+  #     # restrict view to around Scotland
+  #     setMaxBounds(lng1 = -2,
+  #                  lat1 = 54,
+  #                  lng2 = -4,
+  #                  lat2 = 63) %>% 
+  #     addProviderTiles(providers$Esri.WorldGrayCanvas)
+  # })
+  # 
+  # output$shetland <- renderLeaflet({
+  #   leaflet(options = leafletOptions(minZoom = 7)) %>%
+  #     setView(lng = -1.26, lat = 60.5, zoom = 7) %>%
+  #     # restrict view to around Scotland
+  #     setMaxBounds(lng1 = -2.5,
+  #                  lat1 = 59.5,
+  #                  lng2 = -0.5,
+  #                  lat2 = 61.5) %>% 
+  #     addProviderTiles(providers$Esri.WorldGrayCanvas)
+  # })
   
   
   # join values to polygons based on area type
