@@ -574,7 +574,28 @@ reconvictions_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "reconvictions")
 
-# ---- HMO licenses ----
+# ---- HMO licenses -----
+
+# 1. read raw data
+hmo_licenses <- read_csv("data/raw_data/housing/hmo_licences.csv")
+
+# 2. join datazone lookup and select desired columns
+hmo_licenses_clean <- auto_join_dz_lookup(data = hmo_licenses) %>% 
+  janitor::clean_names() %>% 
+  # only one type of measurement - can be dropped from exploratory vars
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         value,
+         units)
+# 3. write clean (app-ready data)
+hmo_licenses_clean %>% 
+  write_csv("data/clean_data/housing/hmo_licences.csv")
+
+# 4. update dataset-lookup
+
+updated_lookup <- update_lookup(URI_name = "hmo-licences")
 
 # ----- Write Dataset Lookup (must be last) ------
 

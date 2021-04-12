@@ -132,11 +132,18 @@
     "Council House Sales" = list(
       data = read_csv("data/clean_data/housing/council_house_sales.csv"),
       explorable_vars = c("year", "dwelling_type"),
-      units = "dwellings",
       reverse_colours = FALSE,
       by_pop = TRUE,
       url = "",
       notes = ""
+    ),
+    "HMO Licences" = list(
+      data = read_csv("data/clean_data/housing/hmo_licences.csv"),
+      explorable_vars = c("year"),
+      reverse_colours = FALSE,
+      by_pop = TRUE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fhmo-licences",
+      notes = c("Numbers of properties with an HMO licence in force at 31st of March. The mandatory licensing scheme for houses in multiple occupation came into force on 1 October 2001. Information on the scheme can be found on the Scottish Government's website. More information on types of HMO licences in operation and on applications for licensing is also available.")
     )
   ),
   "Labour Force" = list(

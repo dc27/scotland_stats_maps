@@ -1,0 +1,609 @@
+area_code,reference_area,area_type,year,value,units
+S12000005,Clackmannanshire,Local Authority,2002,0,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2003,1,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2004,3,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2005,2,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2006,6,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2007,9,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2008,9,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2009,8,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2010,9,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2011,8,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2012,8,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2013,8,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2001,1,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2002,9,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2003,29,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2004,72,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2005,87,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2006,93,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2007,115,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2008,120,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2009,127,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2010,120,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2011,123,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2012,119,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2013,117,HMO Licences
+S12000008,East Ayrshire,Local Authority,2001,0,HMO Licences
+S12000008,East Ayrshire,Local Authority,2002,2,HMO Licences
+S12000008,East Ayrshire,Local Authority,2003,4,HMO Licences
+S12000008,East Ayrshire,Local Authority,2004,4,HMO Licences
+S12000008,East Ayrshire,Local Authority,2005,8,HMO Licences
+S12000008,East Ayrshire,Local Authority,2006,14,HMO Licences
+S12000008,East Ayrshire,Local Authority,2007,18,HMO Licences
+S12000008,East Ayrshire,Local Authority,2008,20,HMO Licences
+S12000008,East Ayrshire,Local Authority,2009,12,HMO Licences
+S12000008,East Ayrshire,Local Authority,2010,15,HMO Licences
+S12000008,East Ayrshire,Local Authority,2011,16,HMO Licences
+S12000008,East Ayrshire,Local Authority,2012,11,HMO Licences
+S12000008,East Ayrshire,Local Authority,2013,12,HMO Licences
+S12000010,East Lothian,Local Authority,2002,0,HMO Licences
+S12000010,East Lothian,Local Authority,2003,4,HMO Licences
+S12000010,East Lothian,Local Authority,2004,12,HMO Licences
+S12000010,East Lothian,Local Authority,2005,26,HMO Licences
+S12000010,East Lothian,Local Authority,2006,34,HMO Licences
+S12000010,East Lothian,Local Authority,2007,38,HMO Licences
+S12000010,East Lothian,Local Authority,2008,41,HMO Licences
+S12000010,East Lothian,Local Authority,2009,47,HMO Licences
+S12000010,East Lothian,Local Authority,2010,49,HMO Licences
+S12000010,East Lothian,Local Authority,2011,53,HMO Licences
+S12000010,East Lothian,Local Authority,2012,56,HMO Licences
+S12000010,East Lothian,Local Authority,2013,49,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2001,0,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2002,1,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2003,5,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2004,6,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2005,14,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2006,16,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2007,15,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2008,14,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2009,14,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2010,18,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2011,18,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2012,18,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2013,18,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2003,0,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2004,1,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2005,1,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2006,1,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2007,1,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2008,4,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2009,16,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2010,18,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2011,24,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2012,21,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2013,26,HMO Licences
+S12000014,Falkirk,Local Authority,2001,0,HMO Licences
+S12000014,Falkirk,Local Authority,2002,1,HMO Licences
+S12000014,Falkirk,Local Authority,2003,1,HMO Licences
+S12000014,Falkirk,Local Authority,2004,1,HMO Licences
+S12000014,Falkirk,Local Authority,2005,1,HMO Licences
+S12000014,Falkirk,Local Authority,2006,1,HMO Licences
+S12000014,Falkirk,Local Authority,2007,1,HMO Licences
+S12000014,Falkirk,Local Authority,2008,39,HMO Licences
+S12000014,Falkirk,Local Authority,2009,39,HMO Licences
+S12000014,Falkirk,Local Authority,2010,41,HMO Licences
+S12000014,Falkirk,Local Authority,2011,43,HMO Licences
+S12000014,Falkirk,Local Authority,2012,40,HMO Licences
+S12000014,Falkirk,Local Authority,2013,35,HMO Licences
+S12000017,Highland,Local Authority,2001,0,HMO Licences
+S12000017,Highland,Local Authority,2002,45,HMO Licences
+S12000017,Highland,Local Authority,2003,38,HMO Licences
+S12000017,Highland,Local Authority,2004,32,HMO Licences
+S12000017,Highland,Local Authority,2005,40,HMO Licences
+S12000017,Highland,Local Authority,2006,43,HMO Licences
+S12000017,Highland,Local Authority,2007,77,HMO Licences
+S12000017,Highland,Local Authority,2008,81,HMO Licences
+S12000017,Highland,Local Authority,2009,115,HMO Licences
+S12000017,Highland,Local Authority,2010,231,HMO Licences
+S12000017,Highland,Local Authority,2011,239,HMO Licences
+S12000017,Highland,Local Authority,2012,250,HMO Licences
+S12000017,Highland,Local Authority,2013,247,HMO Licences
+S12000018,Inverclyde,Local Authority,2001,0,HMO Licences
+S12000018,Inverclyde,Local Authority,2002,29,HMO Licences
+S12000018,Inverclyde,Local Authority,2003,30,HMO Licences
+S12000018,Inverclyde,Local Authority,2004,53,HMO Licences
+S12000018,Inverclyde,Local Authority,2005,37,HMO Licences
+S12000018,Inverclyde,Local Authority,2006,13,HMO Licences
+S12000018,Inverclyde,Local Authority,2007,13,HMO Licences
+S12000018,Inverclyde,Local Authority,2008,13,HMO Licences
+S12000018,Inverclyde,Local Authority,2009,67,HMO Licences
+S12000018,Inverclyde,Local Authority,2010,71,HMO Licences
+S12000018,Inverclyde,Local Authority,2011,45,HMO Licences
+S12000018,Inverclyde,Local Authority,2012,21,HMO Licences
+S12000018,Inverclyde,Local Authority,2013,11,HMO Licences
+S12000019,Midlothian,Local Authority,2001,0,HMO Licences
+S12000019,Midlothian,Local Authority,2002,3,HMO Licences
+S12000019,Midlothian,Local Authority,2003,8,HMO Licences
+S12000019,Midlothian,Local Authority,2004,11,HMO Licences
+S12000019,Midlothian,Local Authority,2005,14,HMO Licences
+S12000019,Midlothian,Local Authority,2006,14,HMO Licences
+S12000019,Midlothian,Local Authority,2007,25,HMO Licences
+S12000019,Midlothian,Local Authority,2008,13,HMO Licences
+S12000019,Midlothian,Local Authority,2009,21,HMO Licences
+S12000019,Midlothian,Local Authority,2010,24,HMO Licences
+S12000019,Midlothian,Local Authority,2011,36,HMO Licences
+S12000019,Midlothian,Local Authority,2012,43,HMO Licences
+S12000019,Midlothian,Local Authority,2013,45,HMO Licences
+S12000020,Moray,Local Authority,2001,0,HMO Licences
+S12000020,Moray,Local Authority,2002,2,HMO Licences
+S12000020,Moray,Local Authority,2003,3,HMO Licences
+S12000020,Moray,Local Authority,2004,3,HMO Licences
+S12000020,Moray,Local Authority,2005,18,HMO Licences
+S12000020,Moray,Local Authority,2006,28,HMO Licences
+S12000020,Moray,Local Authority,2007,41,HMO Licences
+S12000020,Moray,Local Authority,2008,47,HMO Licences
+S12000020,Moray,Local Authority,2009,49,HMO Licences
+S12000020,Moray,Local Authority,2010,48,HMO Licences
+S12000020,Moray,Local Authority,2011,49,HMO Licences
+S12000020,Moray,Local Authority,2012,46,HMO Licences
+S12000020,Moray,Local Authority,2013,46,HMO Licences
+S12000021,North Ayrshire,Local Authority,2001,0,HMO Licences
+S12000021,North Ayrshire,Local Authority,2002,4,HMO Licences
+S12000021,North Ayrshire,Local Authority,2003,6,HMO Licences
+S12000021,North Ayrshire,Local Authority,2004,6,HMO Licences
+S12000021,North Ayrshire,Local Authority,2005,8,HMO Licences
+S12000021,North Ayrshire,Local Authority,2006,7,HMO Licences
+S12000021,North Ayrshire,Local Authority,2007,8,HMO Licences
+S12000021,North Ayrshire,Local Authority,2008,8,HMO Licences
+S12000021,North Ayrshire,Local Authority,2009,6,HMO Licences
+S12000021,North Ayrshire,Local Authority,2010,7,HMO Licences
+S12000021,North Ayrshire,Local Authority,2011,8,HMO Licences
+S12000021,North Ayrshire,Local Authority,2012,10,HMO Licences
+S12000021,North Ayrshire,Local Authority,2013,9,HMO Licences
+S12000023,Orkney Islands,Local Authority,2005,0,HMO Licences
+S12000023,Orkney Islands,Local Authority,2006,1,HMO Licences
+S12000023,Orkney Islands,Local Authority,2007,1,HMO Licences
+S12000023,Orkney Islands,Local Authority,2008,2,HMO Licences
+S12000023,Orkney Islands,Local Authority,2009,3,HMO Licences
+S12000023,Orkney Islands,Local Authority,2010,6,HMO Licences
+S12000023,Orkney Islands,Local Authority,2011,8,HMO Licences
+S12000023,Orkney Islands,Local Authority,2012,8,HMO Licences
+S12000023,Orkney Islands,Local Authority,2013,7,HMO Licences
+S12000026,Scottish Borders,Local Authority,2001,0,HMO Licences
+S12000026,Scottish Borders,Local Authority,2002,7,HMO Licences
+S12000026,Scottish Borders,Local Authority,2003,10,HMO Licences
+S12000026,Scottish Borders,Local Authority,2004,8,HMO Licences
+S12000026,Scottish Borders,Local Authority,2005,8,HMO Licences
+S12000026,Scottish Borders,Local Authority,2006,85,HMO Licences
+S12000026,Scottish Borders,Local Authority,2007,91,HMO Licences
+S12000026,Scottish Borders,Local Authority,2008,99,HMO Licences
+S12000026,Scottish Borders,Local Authority,2009,103,HMO Licences
+S12000026,Scottish Borders,Local Authority,2010,111,HMO Licences
+S12000026,Scottish Borders,Local Authority,2011,100,HMO Licences
+S12000026,Scottish Borders,Local Authority,2012,104,HMO Licences
+S12000026,Scottish Borders,Local Authority,2013,125,HMO Licences
+S12000027,Shetland Islands,Local Authority,2001,0,HMO Licences
+S12000027,Shetland Islands,Local Authority,2002,2,HMO Licences
+S12000027,Shetland Islands,Local Authority,2003,10,HMO Licences
+S12000027,Shetland Islands,Local Authority,2004,10,HMO Licences
+S12000027,Shetland Islands,Local Authority,2005,11,HMO Licences
+S12000027,Shetland Islands,Local Authority,2006,5,HMO Licences
+S12000027,Shetland Islands,Local Authority,2007,9,HMO Licences
+S12000027,Shetland Islands,Local Authority,2008,9,HMO Licences
+S12000027,Shetland Islands,Local Authority,2009,6,HMO Licences
+S12000027,Shetland Islands,Local Authority,2010,5,HMO Licences
+S12000027,Shetland Islands,Local Authority,2011,8,HMO Licences
+S12000027,Shetland Islands,Local Authority,2012,11,HMO Licences
+S12000027,Shetland Islands,Local Authority,2013,13,HMO Licences
+S12000028,South Ayrshire,Local Authority,2001,0,HMO Licences
+S12000028,South Ayrshire,Local Authority,2002,2,HMO Licences
+S12000028,South Ayrshire,Local Authority,2003,8,HMO Licences
+S12000028,South Ayrshire,Local Authority,2004,16,HMO Licences
+S12000028,South Ayrshire,Local Authority,2005,28,HMO Licences
+S12000028,South Ayrshire,Local Authority,2006,29,HMO Licences
+S12000028,South Ayrshire,Local Authority,2007,32,HMO Licences
+S12000028,South Ayrshire,Local Authority,2008,31,HMO Licences
+S12000028,South Ayrshire,Local Authority,2009,41,HMO Licences
+S12000028,South Ayrshire,Local Authority,2010,40,HMO Licences
+S12000028,South Ayrshire,Local Authority,2011,42,HMO Licences
+S12000028,South Ayrshire,Local Authority,2012,43,HMO Licences
+S12000028,South Ayrshire,Local Authority,2013,43,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2002,0,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2003,5,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2004,7,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2005,20,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2006,24,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2007,24,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2008,18,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2009,16,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2010,17,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2011,16,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2012,17,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2013,16,HMO Licences
+S12000030,Stirling,Local Authority,2001,0,HMO Licences
+S12000030,Stirling,Local Authority,2002,31,HMO Licences
+S12000030,Stirling,Local Authority,2003,24,HMO Licences
+S12000030,Stirling,Local Authority,2004,320,HMO Licences
+S12000030,Stirling,Local Authority,2005,75,HMO Licences
+S12000030,Stirling,Local Authority,2006,357,HMO Licences
+S12000030,Stirling,Local Authority,2007,445,HMO Licences
+S12000030,Stirling,Local Authority,2008,479,HMO Licences
+S12000030,Stirling,Local Authority,2009,556,HMO Licences
+S12000030,Stirling,Local Authority,2010,258,HMO Licences
+S12000030,Stirling,Local Authority,2011,639,HMO Licences
+S12000030,Stirling,Local Authority,2012,625,HMO Licences
+S12000030,Stirling,Local Authority,2013,630,HMO Licences
+S12000033,Aberdeen City,Local Authority,2001,0,HMO Licences
+S12000033,Aberdeen City,Local Authority,2002,6,HMO Licences
+S12000033,Aberdeen City,Local Authority,2003,59,HMO Licences
+S12000033,Aberdeen City,Local Authority,2004,194,HMO Licences
+S12000033,Aberdeen City,Local Authority,2005,384,HMO Licences
+S12000033,Aberdeen City,Local Authority,2006,748,HMO Licences
+S12000033,Aberdeen City,Local Authority,2007,831,HMO Licences
+S12000033,Aberdeen City,Local Authority,2008,669,HMO Licences
+S12000033,Aberdeen City,Local Authority,2009,789,HMO Licences
+S12000033,Aberdeen City,Local Authority,2010,841,HMO Licences
+S12000033,Aberdeen City,Local Authority,2011,951,HMO Licences
+S12000033,Aberdeen City,Local Authority,2012,855,HMO Licences
+S12000033,Aberdeen City,Local Authority,2013,946,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2001,0,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2002,20,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2003,23,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2004,24,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2005,34,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2006,62,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2007,97,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2008,115,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2009,123,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2010,112,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2011,136,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2012,132,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2013,142,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2001,1,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2002,2,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2003,5,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2004,8,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2005,13,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2006,6,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2007,6,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2008,6,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2009,11,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2010,17,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2011,19,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2012,24,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2013,26,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2001,22,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2002,301,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2003,318,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2004,1036,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2005,4286,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2006,1893,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2007,1483,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2008,3492,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2009,4365,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2010,4981,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2011,5417,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2012,5775,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2013,5758,HMO Licences
+S12000038,Renfrewshire,Local Authority,2002,0,HMO Licences
+S12000038,Renfrewshire,Local Authority,2003,3,HMO Licences
+S12000038,Renfrewshire,Local Authority,2004,6,HMO Licences
+S12000038,Renfrewshire,Local Authority,2005,13,HMO Licences
+S12000038,Renfrewshire,Local Authority,2006,106,HMO Licences
+S12000038,Renfrewshire,Local Authority,2007,113,HMO Licences
+S12000038,Renfrewshire,Local Authority,2008,126,HMO Licences
+S12000038,Renfrewshire,Local Authority,2009,92,HMO Licences
+S12000038,Renfrewshire,Local Authority,2010,123,HMO Licences
+S12000038,Renfrewshire,Local Authority,2011,118,HMO Licences
+S12000038,Renfrewshire,Local Authority,2012,113,HMO Licences
+S12000038,Renfrewshire,Local Authority,2013,116,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2001,0,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2002,3,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2003,6,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2004,14,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2005,17,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2006,16,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2007,12,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2008,17,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2009,20,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2010,18,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2011,16,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2012,18,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2013,18,HMO Licences
+S12000040,West Lothian,Local Authority,2001,0,HMO Licences
+S12000040,West Lothian,Local Authority,2002,1,HMO Licences
+S12000040,West Lothian,Local Authority,2003,5,HMO Licences
+S12000040,West Lothian,Local Authority,2004,7,HMO Licences
+S12000040,West Lothian,Local Authority,2005,9,HMO Licences
+S12000040,West Lothian,Local Authority,2006,9,HMO Licences
+S12000040,West Lothian,Local Authority,2007,9,HMO Licences
+S12000040,West Lothian,Local Authority,2008,21,HMO Licences
+S12000040,West Lothian,Local Authority,2009,21,HMO Licences
+S12000040,West Lothian,Local Authority,2010,16,HMO Licences
+S12000040,West Lothian,Local Authority,2011,29,HMO Licences
+S12000040,West Lothian,Local Authority,2012,27,HMO Licences
+S12000040,West Lothian,Local Authority,2013,24,HMO Licences
+S12000041,Angus,Local Authority,2001,0,HMO Licences
+S12000041,Angus,Local Authority,2002,2,HMO Licences
+S12000041,Angus,Local Authority,2003,7,HMO Licences
+S12000041,Angus,Local Authority,2004,7,HMO Licences
+S12000041,Angus,Local Authority,2005,12,HMO Licences
+S12000041,Angus,Local Authority,2006,14,HMO Licences
+S12000041,Angus,Local Authority,2007,15,HMO Licences
+S12000041,Angus,Local Authority,2008,17,HMO Licences
+S12000041,Angus,Local Authority,2009,16,HMO Licences
+S12000041,Angus,Local Authority,2010,20,HMO Licences
+S12000041,Angus,Local Authority,2011,25,HMO Licences
+S12000041,Angus,Local Authority,2012,24,HMO Licences
+S12000041,Angus,Local Authority,2013,22,HMO Licences
+S12000042,Dundee City,Local Authority,2001,1,HMO Licences
+S12000042,Dundee City,Local Authority,2002,64,HMO Licences
+S12000042,Dundee City,Local Authority,2003,148,HMO Licences
+S12000042,Dundee City,Local Authority,2004,249,HMO Licences
+S12000042,Dundee City,Local Authority,2005,370,HMO Licences
+S12000042,Dundee City,Local Authority,2006,370,HMO Licences
+S12000042,Dundee City,Local Authority,2007,794,HMO Licences
+S12000042,Dundee City,Local Authority,2008,1082,HMO Licences
+S12000042,Dundee City,Local Authority,2009,1242,HMO Licences
+S12000042,Dundee City,Local Authority,2010,1348,HMO Licences
+S12000042,Dundee City,Local Authority,2011,1495,HMO Licences
+S12000042,Dundee City,Local Authority,2012,1341,HMO Licences
+S12000042,Dundee City,Local Authority,2013,1430,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2003,0,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2004,6,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2005,0,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2006,11,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2007,10,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2008,10,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2009,10,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2010,21,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2011,18,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2012,2,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2013,22,HMO Licences
+S12000047,Fife,Local Authority,2001,0,HMO Licences
+S12000047,Fife,Local Authority,2002,9,HMO Licences
+S12000047,Fife,Local Authority,2003,284,HMO Licences
+S12000047,Fife,Local Authority,2004,500,HMO Licences
+S12000047,Fife,Local Authority,2005,575,HMO Licences
+S12000047,Fife,Local Authority,2006,745,HMO Licences
+S12000047,Fife,Local Authority,2007,925,HMO Licences
+S12000047,Fife,Local Authority,2008,968,HMO Licences
+S12000047,Fife,Local Authority,2009,820,HMO Licences
+S12000047,Fife,Local Authority,2010,677,HMO Licences
+S12000047,Fife,Local Authority,2011,980,HMO Licences
+S12000047,Fife,Local Authority,2012,804,HMO Licences
+S12000047,Fife,Local Authority,2013,969,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2001,0,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2002,22,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2003,28,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2004,43,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2005,50,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2006,47,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2007,66,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2008,69,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2009,75,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2010,79,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2011,87,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2012,88,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2013,91,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2002,0,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2003,8,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2004,10,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2005,28,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2006,28,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2007,28,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2008,27,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2009,25,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2010,25,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2011,24,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2012,17,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2013,16,HMO Licences
+S12000049,Glasgow City,Local Authority,2001,0,HMO Licences
+S12000049,Glasgow City,Local Authority,2002,142,HMO Licences
+S12000049,Glasgow City,Local Authority,2003,481,HMO Licences
+S12000049,Glasgow City,Local Authority,2004,1611,HMO Licences
+S12000049,Glasgow City,Local Authority,2005,2263,HMO Licences
+S12000049,Glasgow City,Local Authority,2006,2782,HMO Licences
+S12000049,Glasgow City,Local Authority,2007,2572,HMO Licences
+S12000049,Glasgow City,Local Authority,2008,2515,HMO Licences
+S12000049,Glasgow City,Local Authority,2009,2515,HMO Licences
+S12000049,Glasgow City,Local Authority,2010,2515,HMO Licences
+S12000049,Glasgow City,Local Authority,2011,2815,HMO Licences
+S12000049,Glasgow City,Local Authority,2012,2685,HMO Licences
+S12000049,Glasgow City,Local Authority,2013,2874,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2001,0,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2014,9,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2015,8,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2016,6,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2017,5,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2018,9,HMO Licences
+S12000005,Clackmannanshire,Local Authority,2019,12,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2014,117,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2015,109,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2016,106,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2017,107,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2018,133,HMO Licences
+S12000006,Dumfries and Galloway,Local Authority,2019,113,HMO Licences
+S12000008,East Ayrshire,Local Authority,2014,12,HMO Licences
+S12000008,East Ayrshire,Local Authority,2015,13,HMO Licences
+S12000008,East Ayrshire,Local Authority,2016,11,HMO Licences
+S12000008,East Ayrshire,Local Authority,2017,10,HMO Licences
+S12000008,East Ayrshire,Local Authority,2018,12,HMO Licences
+S12000008,East Ayrshire,Local Authority,2019,12,HMO Licences
+S12000010,East Lothian,Local Authority,2001,0,HMO Licences
+S12000010,East Lothian,Local Authority,2014,48,HMO Licences
+S12000010,East Lothian,Local Authority,2015,31,HMO Licences
+S12000010,East Lothian,Local Authority,2016,19,HMO Licences
+S12000010,East Lothian,Local Authority,2017,42,HMO Licences
+S12000010,East Lothian,Local Authority,2018,47,HMO Licences
+S12000010,East Lothian,Local Authority,2019,51,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2014,18,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2015,16,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2016,15,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2017,13,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2018,13,HMO Licences
+S12000011,East Renfrewshire,Local Authority,2019,12,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2001,0,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2002,0,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2014,32,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2015,21,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2016,30,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2017,29,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2018,30,HMO Licences
+S12000013,Na h-Eileanan Siar,Local Authority,2019,31,HMO Licences
+S12000014,Falkirk,Local Authority,2014,34,HMO Licences
+S12000014,Falkirk,Local Authority,2015,34,HMO Licences
+S12000014,Falkirk,Local Authority,2016,29,HMO Licences
+S12000014,Falkirk,Local Authority,2017,26,HMO Licences
+S12000014,Falkirk,Local Authority,2018,29,HMO Licences
+S12000014,Falkirk,Local Authority,2019,21,HMO Licences
+S12000047,Fife,Local Authority,2014,1027,HMO Licences
+S12000047,Fife,Local Authority,2015,950,HMO Licences
+S12000047,Fife,Local Authority,2016,1058,HMO Licences
+S12000047,Fife,Local Authority,2017,1056,HMO Licences
+S12000047,Fife,Local Authority,2018,1046,HMO Licences
+S12000047,Fife,Local Authority,2019,1072,HMO Licences
+S12000017,Highland,Local Authority,2014,228,HMO Licences
+S12000017,Highland,Local Authority,2015,223,HMO Licences
+S12000017,Highland,Local Authority,2016,243,HMO Licences
+S12000017,Highland,Local Authority,2017,268,HMO Licences
+S12000017,Highland,Local Authority,2018,293,HMO Licences
+S12000017,Highland,Local Authority,2019,303,HMO Licences
+S12000018,Inverclyde,Local Authority,2014,33,HMO Licences
+S12000018,Inverclyde,Local Authority,2015,32,HMO Licences
+S12000018,Inverclyde,Local Authority,2016,30,HMO Licences
+S12000018,Inverclyde,Local Authority,2017,33,HMO Licences
+S12000018,Inverclyde,Local Authority,2018,34,HMO Licences
+S12000018,Inverclyde,Local Authority,2019,30,HMO Licences
+S12000019,Midlothian,Local Authority,2014,45,HMO Licences
+S12000019,Midlothian,Local Authority,2015,45,HMO Licences
+S12000019,Midlothian,Local Authority,2016,0,HMO Licences
+S12000019,Midlothian,Local Authority,2017,0,HMO Licences
+S12000019,Midlothian,Local Authority,2018,45,HMO Licences
+S12000019,Midlothian,Local Authority,2019,50,HMO Licences
+S12000020,Moray,Local Authority,2014,35,HMO Licences
+S12000020,Moray,Local Authority,2015,33,HMO Licences
+S12000020,Moray,Local Authority,2016,32,HMO Licences
+S12000020,Moray,Local Authority,2017,32,HMO Licences
+S12000020,Moray,Local Authority,2018,31,HMO Licences
+S12000020,Moray,Local Authority,2019,31,HMO Licences
+S12000021,North Ayrshire,Local Authority,2014,8,HMO Licences
+S12000021,North Ayrshire,Local Authority,2015,9,HMO Licences
+S12000021,North Ayrshire,Local Authority,2016,9,HMO Licences
+S12000021,North Ayrshire,Local Authority,2017,7,HMO Licences
+S12000021,North Ayrshire,Local Authority,2018,9,HMO Licences
+S12000021,North Ayrshire,Local Authority,2019,11,HMO Licences
+S12000023,Orkney Islands,Local Authority,2001,0,HMO Licences
+S12000023,Orkney Islands,Local Authority,2002,0,HMO Licences
+S12000023,Orkney Islands,Local Authority,2003,0,HMO Licences
+S12000023,Orkney Islands,Local Authority,2004,0,HMO Licences
+S12000023,Orkney Islands,Local Authority,2014,11,HMO Licences
+S12000023,Orkney Islands,Local Authority,2015,10,HMO Licences
+S12000023,Orkney Islands,Local Authority,2016,9,HMO Licences
+S12000023,Orkney Islands,Local Authority,2017,9,HMO Licences
+S12000023,Orkney Islands,Local Authority,2018,10,HMO Licences
+S12000023,Orkney Islands,Local Authority,2019,9,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2014,90,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2015,90,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2016,90,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2017,86,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2018,78,HMO Licences
+S12000048,Perth and Kinross,Local Authority,2019,79,HMO Licences
+S12000026,Scottish Borders,Local Authority,2014,126,HMO Licences
+S12000026,Scottish Borders,Local Authority,2015,121,HMO Licences
+S12000026,Scottish Borders,Local Authority,2016,101,HMO Licences
+S12000026,Scottish Borders,Local Authority,2017,94,HMO Licences
+S12000026,Scottish Borders,Local Authority,2018,97,HMO Licences
+S12000026,Scottish Borders,Local Authority,2019,97,HMO Licences
+S12000027,Shetland Islands,Local Authority,2014,10,HMO Licences
+S12000027,Shetland Islands,Local Authority,2015,9,HMO Licences
+S12000027,Shetland Islands,Local Authority,2016,10,HMO Licences
+S12000027,Shetland Islands,Local Authority,2017,13,HMO Licences
+S12000027,Shetland Islands,Local Authority,2018,7,HMO Licences
+S12000027,Shetland Islands,Local Authority,2019,3,HMO Licences
+S12000028,South Ayrshire,Local Authority,2014,33,HMO Licences
+S12000028,South Ayrshire,Local Authority,2015,33,HMO Licences
+S12000028,South Ayrshire,Local Authority,2016,35,HMO Licences
+S12000028,South Ayrshire,Local Authority,2017,35,HMO Licences
+S12000028,South Ayrshire,Local Authority,2018,37,HMO Licences
+S12000028,South Ayrshire,Local Authority,2019,32,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2001,0,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2014,16,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2015,18,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2016,16,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2017,13,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2018,15,HMO Licences
+S12000029,South Lanarkshire,Local Authority,2019,15,HMO Licences
+S12000030,Stirling,Local Authority,2014,666,HMO Licences
+S12000030,Stirling,Local Authority,2015,700,HMO Licences
+S12000030,Stirling,Local Authority,2016,750,HMO Licences
+S12000030,Stirling,Local Authority,2017,752,HMO Licences
+S12000030,Stirling,Local Authority,2018,749,HMO Licences
+S12000030,Stirling,Local Authority,2019,754,HMO Licences
+S12000033,Aberdeen City,Local Authority,2014,1051,HMO Licences
+S12000033,Aberdeen City,Local Authority,2015,1149,HMO Licences
+S12000033,Aberdeen City,Local Authority,2016,1227,HMO Licences
+S12000033,Aberdeen City,Local Authority,2017,1341,HMO Licences
+S12000033,Aberdeen City,Local Authority,2018,1296,HMO Licences
+S12000033,Aberdeen City,Local Authority,2019,1273,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2014,133,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2015,141,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2016,134,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2017,129,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2018,138,HMO Licences
+S12000034,Aberdeenshire,Local Authority,2019,125,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2014,25,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2015,28,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2016,26,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2017,33,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2018,30,HMO Licences
+S12000035,Argyll and Bute,Local Authority,2019,40,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2014,5761,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2015,5949,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2016,5949,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2017,5949,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2018,5949,HMO Licences
+S12000036,City of Edinburgh,Local Authority,2019,5904,HMO Licences
+S12000038,Renfrewshire,Local Authority,2001,0,HMO Licences
+S12000038,Renfrewshire,Local Authority,2014,116,HMO Licences
+S12000038,Renfrewshire,Local Authority,2015,117,HMO Licences
+S12000038,Renfrewshire,Local Authority,2016,97,HMO Licences
+S12000038,Renfrewshire,Local Authority,2017,95,HMO Licences
+S12000038,Renfrewshire,Local Authority,2018,91,HMO Licences
+S12000038,Renfrewshire,Local Authority,2019,87,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2014,22,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2015,22,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2016,24,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2017,22,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2018,23,HMO Licences
+S12000039,West Dunbartonshire,Local Authority,2019,23,HMO Licences
+S12000040,West Lothian,Local Authority,2014,24,HMO Licences
+S12000040,West Lothian,Local Authority,2015,20,HMO Licences
+S12000040,West Lothian,Local Authority,2016,21,HMO Licences
+S12000040,West Lothian,Local Authority,2017,34,HMO Licences
+S12000040,West Lothian,Local Authority,2018,33,HMO Licences
+S12000040,West Lothian,Local Authority,2019,40,HMO Licences
+S12000041,Angus,Local Authority,2014,19,HMO Licences
+S12000041,Angus,Local Authority,2015,21,HMO Licences
+S12000041,Angus,Local Authority,2016,22,HMO Licences
+S12000041,Angus,Local Authority,2017,20,HMO Licences
+S12000041,Angus,Local Authority,2018,15,HMO Licences
+S12000041,Angus,Local Authority,2019,17,HMO Licences
+S12000042,Dundee City,Local Authority,2014,1577,HMO Licences
+S12000042,Dundee City,Local Authority,2015,1694,HMO Licences
+S12000042,Dundee City,Local Authority,2016,1674,HMO Licences
+S12000042,Dundee City,Local Authority,2017,1713,HMO Licences
+S12000042,Dundee City,Local Authority,2018,1707,HMO Licences
+S12000042,Dundee City,Local Authority,2019,1706,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2001,0,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2014,16,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2015,16,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2016,14,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2017,13,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2018,13,HMO Licences
+S12000050,North Lanarkshire,Local Authority,2019,14,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2001,0,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2002,0,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2014,20,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2015,20,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2016,21,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2017,14,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2018,20,HMO Licences
+S12000049,Glasgow City,Local Authority,2019,3662,HMO Licences
+S12000049,Glasgow City,Local Authority,2014,2969,HMO Licences
+S12000049,Glasgow City,Local Authority,2015,3226,HMO Licences
+S12000049,Glasgow City,Local Authority,2016,3226,HMO Licences
+S12000049,Glasgow City,Local Authority,2017,3296,HMO Licences
+S12000049,Glasgow City,Local Authority,2018,3646,HMO Licences
+S12000045,East Dunbartonshire,Local Authority,2019,22,HMO Licences

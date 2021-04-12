@@ -141,7 +141,7 @@ new-build-housing-starts-and-completions,New Build Housing Starts and Completion
 new-clients-presenting-at-specialist-drug-treatment-services-sdmd,New clients presenting at specialist drug treatment services (SDMD),Public Health Scotland,TRUE,FALSE
 neet,"Not in Employment, Education or Training (NEET)",Scottish Government,TRUE,TRUE
 number-of-general-practices-with-registered-patients,Number of General Practices with Registered Patients,Public Health Scotland,TRUE,FALSE
-hmo-licences,Number of HMO Licences in Force,Scottish Government,TRUE,FALSE
+hmo-licences,Number of HMO Licences in Force,Scottish Government,TRUE,TRUE
 pension-credits,Pension Credits,Scottish Government,TRUE,FALSE
 perceptions-of-local-crime-rate-sscq,Perceptions of Local Crime - Scottish Surveys Core Questions,Scottish Government,TRUE,FALSE
 personal-insolvency,Personal Insolvency,Accountant in Bankruptcy,TRUE,FALSE
