@@ -597,6 +597,11 @@ hmo_licenses_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "hmo-licences")
 
+# ---- average houshold size -----
+
+
+
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv
