@@ -597,10 +597,32 @@ hmo_licenses_clean %>%
 
 updated_lookup <- update_lookup(URI_name = "hmo-licences")
 
-# ---- average houshold size -----
+# ---- average household size -----
 
+# 1. read raw data
+avg_household_size <- read_csv(
+  "data/raw_data//housing/average_household_size.csv"
+  )
 
+# 2. join datazone lookup and select desired columns
+avg_household_size_clean <- avg_household_size %>% 
+  auto_join_dz_lookup() %>% 
+  janitor::clean_names() %>%
+  # only one type of measurement - can remove measurement col
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         value,
+         units)
 
+# 3. write clean (app-ready data)
+avg_household_size_clean %>% 
+  write_csv("data/clean_data/housing/average_household_size.csv")
+
+# 4. update dataset lookup
+
+updataed_lookup <- update_lookup(URI_name = "average_household_size")
 
 # ----- Write Dataset Lookup (must be last) ------
 

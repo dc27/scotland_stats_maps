@@ -1,0 +1,609 @@
+area_code,reference_area,area_type,year,value,units
+S12000039,West Dunbartonshire,Local Authority,2007,2.18,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2008,2.16,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2006,2.19,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2009,2.16,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2010,2.14,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2015,2.09,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2002,2.27,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2003,2.25,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2001,2.27,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2004,2.24,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2005,2.21,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2016,2.09,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2019,2.05,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2013,2.12,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2011,2.14,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2012,2.13,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2018,2.06,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2014,2.1,People Per Household
+S12000039,West Dunbartonshire,Local Authority,2017,2.08,People Per Household
+S12000040,West Lothian,Local Authority,2002,2.41,People Per Household
+S12000040,West Lothian,Local Authority,2013,2.35,People Per Household
+S12000040,West Lothian,Local Authority,2005,2.36,People Per Household
+S12000040,West Lothian,Local Authority,2014,2.34,People Per Household
+S12000040,West Lothian,Local Authority,2004,2.38,People Per Household
+S12000040,West Lothian,Local Authority,2003,2.39,People Per Household
+S12000040,West Lothian,Local Authority,2015,2.33,People Per Household
+S12000040,West Lothian,Local Authority,2011,2.36,People Per Household
+S12000040,West Lothian,Local Authority,2010,2.35,People Per Household
+S12000040,West Lothian,Local Authority,2009,2.36,People Per Household
+S12000040,West Lothian,Local Authority,2007,2.35,People Per Household
+S12000040,West Lothian,Local Authority,2006,2.36,People Per Household
+S12000040,West Lothian,Local Authority,2008,2.35,People Per Household
+S12000040,West Lothian,Local Authority,2012,2.36,People Per Household
+S12000040,West Lothian,Local Authority,2016,2.33,People Per Household
+S12000040,West Lothian,Local Authority,2018,2.31,People Per Household
+S12000040,West Lothian,Local Authority,2017,2.32,People Per Household
+S12000040,West Lothian,Local Authority,2019,2.29,People Per Household
+S12000040,West Lothian,Local Authority,2001,2.43,People Per Household
+S12000005,Clackmannanshire,Local Authority,2018,2.13,People Per Household
+S12000005,Clackmannanshire,Local Authority,2001,2.29,People Per Household
+S12000005,Clackmannanshire,Local Authority,2011,2.22,People Per Household
+S12000005,Clackmannanshire,Local Authority,2013,2.19,People Per Household
+S12000005,Clackmannanshire,Local Authority,2019,2.12,People Per Household
+S12000005,Clackmannanshire,Local Authority,2012,2.2,People Per Household
+S12000005,Clackmannanshire,Local Authority,2002,2.28,People Per Household
+S12000005,Clackmannanshire,Local Authority,2005,2.24,People Per Household
+S12000005,Clackmannanshire,Local Authority,2008,2.23,People Per Household
+S12000005,Clackmannanshire,Local Authority,2009,2.21,People Per Household
+S12000005,Clackmannanshire,Local Authority,2007,2.23,People Per Household
+S12000005,Clackmannanshire,Local Authority,2006,2.22,People Per Household
+S12000005,Clackmannanshire,Local Authority,2010,2.21,People Per Household
+S12000005,Clackmannanshire,Local Authority,2003,2.25,People Per Household
+S12000005,Clackmannanshire,Local Authority,2004,2.25,People Per Household
+S12000005,Clackmannanshire,Local Authority,2017,2.14,People Per Household
+S12000005,Clackmannanshire,Local Authority,2014,2.16,People Per Household
+S12000005,Clackmannanshire,Local Authority,2015,2.16,People Per Household
+S12000005,Clackmannanshire,Local Authority,2016,2.15,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2004,2.24,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2005,2.23,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2018,2.11,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2013,2.16,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2010,2.2,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2014,2.15,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2012,2.18,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2001,2.28,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2002,2.27,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2015,2.14,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2011,2.2,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2017,2.12,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2003,2.25,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2007,2.22,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2016,2.13,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2006,2.22,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2009,2.2,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2008,2.21,People Per Household
+S12000006,Dumfries and Galloway,Local Authority,2019,2.11,People Per Household
+S12000008,East Ayrshire,Local Authority,2011,2.25,People Per Household
+S12000008,East Ayrshire,Local Authority,2012,2.24,People Per Household
+S12000008,East Ayrshire,Local Authority,2019,2.18,People Per Household
+S12000008,East Ayrshire,Local Authority,2016,2.21,People Per Household
+S12000008,East Ayrshire,Local Authority,2004,2.31,People Per Household
+S12000008,East Ayrshire,Local Authority,2001,2.35,People Per Household
+S12000008,East Ayrshire,Local Authority,2003,2.32,People Per Household
+S12000008,East Ayrshire,Local Authority,2008,2.26,People Per Household
+S12000008,East Ayrshire,Local Authority,2014,2.22,People Per Household
+S12000008,East Ayrshire,Local Authority,2018,2.18,People Per Household
+S12000008,East Ayrshire,Local Authority,2007,2.28,People Per Household
+S12000008,East Ayrshire,Local Authority,2009,2.25,People Per Household
+S12000008,East Ayrshire,Local Authority,2006,2.29,People Per Household
+S12000008,East Ayrshire,Local Authority,2002,2.34,People Per Household
+S12000008,East Ayrshire,Local Authority,2010,2.25,People Per Household
+S12000008,East Ayrshire,Local Authority,2013,2.22,People Per Household
+S12000008,East Ayrshire,Local Authority,2015,2.21,People Per Household
+S12000008,East Ayrshire,Local Authority,2017,2.2,People Per Household
+S12000008,East Ayrshire,Local Authority,2005,2.31,People Per Household
+S12000010,East Lothian,Local Authority,2002,2.33,People Per Household
+S12000010,East Lothian,Local Authority,2009,2.29,People Per Household
+S12000010,East Lothian,Local Authority,2014,2.28,People Per Household
+S12000010,East Lothian,Local Authority,2005,2.3,People Per Household
+S12000010,East Lothian,Local Authority,2007,2.29,People Per Household
+S12000010,East Lothian,Local Authority,2004,2.31,People Per Household
+S12000010,East Lothian,Local Authority,2010,2.28,People Per Household
+S12000010,East Lothian,Local Authority,2006,2.29,People Per Household
+S12000010,East Lothian,Local Authority,2008,2.29,People Per Household
+S12000010,East Lothian,Local Authority,2003,2.32,People Per Household
+S12000010,East Lothian,Local Authority,2011,2.28,People Per Household
+S12000010,East Lothian,Local Authority,2015,2.28,People Per Household
+S12000010,East Lothian,Local Authority,2018,2.26,People Per Household
+S12000010,East Lothian,Local Authority,2012,2.28,People Per Household
+S12000010,East Lothian,Local Authority,2016,2.28,People Per Household
+S12000010,East Lothian,Local Authority,2001,2.33,People Per Household
+S12000010,East Lothian,Local Authority,2017,2.27,People Per Household
+S12000010,East Lothian,Local Authority,2019,2.25,People Per Household
+S12000010,East Lothian,Local Authority,2013,2.28,People Per Household
+S12000011,East Renfrewshire,Local Authority,2015,2.41,People Per Household
+S12000011,East Renfrewshire,Local Authority,2006,2.47,People Per Household
+S12000011,East Renfrewshire,Local Authority,2016,2.42,People Per Household
+S12000011,East Renfrewshire,Local Authority,2004,2.49,People Per Household
+S12000011,East Renfrewshire,Local Authority,2007,2.46,People Per Household
+S12000011,East Renfrewshire,Local Authority,2013,2.41,People Per Household
+S12000011,East Renfrewshire,Local Authority,2011,2.42,People Per Household
+S12000011,East Renfrewshire,Local Authority,2018,2.42,People Per Household
+S12000011,East Renfrewshire,Local Authority,2010,2.43,People Per Household
+S12000011,East Renfrewshire,Local Authority,2019,2.41,People Per Household
+S12000011,East Renfrewshire,Local Authority,2017,2.42,People Per Household
+S12000011,East Renfrewshire,Local Authority,2012,2.41,People Per Household
+S12000011,East Renfrewshire,Local Authority,2009,2.44,People Per Household
+S12000011,East Renfrewshire,Local Authority,2005,2.48,People Per Household
+S12000011,East Renfrewshire,Local Authority,2002,2.53,People Per Household
+S12000011,East Renfrewshire,Local Authority,2003,2.51,People Per Household
+S12000011,East Renfrewshire,Local Authority,2014,2.41,People Per Household
+S12000011,East Renfrewshire,Local Authority,2008,2.45,People Per Household
+S12000011,East Renfrewshire,Local Authority,2001,2.53,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2006,2.27,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2015,2.06,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2013,2.09,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2019,2.05,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2008,2.23,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2014,2.08,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2009,2.22,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2007,2.25,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2017,2.08,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2018,2.07,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2010,2.2,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2004,2.29,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2001,2.32,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2011,2.17,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2016,2.05,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2002,2.31,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2003,2.29,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2012,2.13,People Per Household
+S12000013,Na h-Eileanan Siar,Local Authority,2005,2.29,People Per Household
+S12000014,Falkirk,Local Authority,2014,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2015,2.22,People Per Household
+S12000014,Falkirk,Local Authority,2001,2.29,People Per Household
+S12000014,Falkirk,Local Authority,2017,2.2,People Per Household
+S12000014,Falkirk,Local Authority,2007,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2005,2.25,People Per Household
+S12000014,Falkirk,Local Authority,2003,2.25,People Per Household
+S12000014,Falkirk,Local Authority,2008,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2018,2.19,People Per Household
+S12000014,Falkirk,Local Authority,2012,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2013,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2004,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2011,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2006,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2002,2.27,People Per Household
+S12000014,Falkirk,Local Authority,2016,2.22,People Per Household
+S12000014,Falkirk,Local Authority,2019,2.19,People Per Household
+S12000014,Falkirk,Local Authority,2010,2.24,People Per Household
+S12000014,Falkirk,Local Authority,2009,2.24,People Per Household
+S12000017,Highland,Local Authority,2019,2.12,People Per Household
+S12000017,Highland,Local Authority,2003,2.27,People Per Household
+S12000017,Highland,Local Authority,2009,2.24,People Per Household
+S12000017,Highland,Local Authority,2002,2.28,People Per Household
+S12000017,Highland,Local Authority,2006,2.26,People Per Household
+S12000017,Highland,Local Authority,2015,2.16,People Per Household
+S12000017,Highland,Local Authority,2016,2.15,People Per Household
+S12000017,Highland,Local Authority,2005,2.26,People Per Household
+S12000017,Highland,Local Authority,2017,2.14,People Per Household
+S12000017,Highland,Local Authority,2018,2.13,People Per Household
+S12000017,Highland,Local Authority,2007,2.25,People Per Household
+S12000017,Highland,Local Authority,2008,2.24,People Per Household
+S12000017,Highland,Local Authority,2004,2.27,People Per Household
+S12000017,Highland,Local Authority,2001,2.29,People Per Household
+S12000017,Highland,Local Authority,2013,2.19,People Per Household
+S12000017,Highland,Local Authority,2011,2.24,People Per Household
+S12000017,Highland,Local Authority,2012,2.22,People Per Household
+S12000017,Highland,Local Authority,2010,2.24,People Per Household
+S12000017,Highland,Local Authority,2014,2.17,People Per Household
+S12000018,Inverclyde,Local Authority,2017,2.06,People Per Household
+S12000018,Inverclyde,Local Authority,2011,2.14,People Per Household
+S12000018,Inverclyde,Local Authority,2007,2.18,People Per Household
+S12000018,Inverclyde,Local Authority,2013,2.12,People Per Household
+S12000018,Inverclyde,Local Authority,2002,2.25,People Per Household
+S12000018,Inverclyde,Local Authority,2014,2.1,People Per Household
+S12000018,Inverclyde,Local Authority,2008,2.17,People Per Household
+S12000018,Inverclyde,Local Authority,2003,2.24,People Per Household
+S12000018,Inverclyde,Local Authority,2018,2.05,People Per Household
+S12000018,Inverclyde,Local Authority,2012,2.13,People Per Household
+S12000018,Inverclyde,Local Authority,2015,2.09,People Per Household
+S12000018,Inverclyde,Local Authority,2006,2.18,People Per Household
+S12000018,Inverclyde,Local Authority,2001,2.26,People Per Household
+S12000018,Inverclyde,Local Authority,2019,2.04,People Per Household
+S12000018,Inverclyde,Local Authority,2009,2.16,People Per Household
+S12000018,Inverclyde,Local Authority,2016,2.07,People Per Household
+S12000018,Inverclyde,Local Authority,2004,2.21,People Per Household
+S12000018,Inverclyde,Local Authority,2010,2.15,People Per Household
+S12000018,Inverclyde,Local Authority,2005,2.2,People Per Household
+S12000019,Midlothian,Local Authority,2001,2.43,People Per Household
+S12000019,Midlothian,Local Authority,2016,2.32,People Per Household
+S12000019,Midlothian,Local Authority,2008,2.38,People Per Household
+S12000019,Midlothian,Local Authority,2005,2.38,People Per Household
+S12000019,Midlothian,Local Authority,2006,2.37,People Per Household
+S12000019,Midlothian,Local Authority,2013,2.33,People Per Household
+S12000019,Midlothian,Local Authority,2007,2.37,People Per Household
+S12000019,Midlothian,Local Authority,2010,2.34,People Per Household
+S12000019,Midlothian,Local Authority,2015,2.33,People Per Household
+S12000019,Midlothian,Local Authority,2012,2.34,People Per Household
+S12000019,Midlothian,Local Authority,2017,2.31,People Per Household
+S12000019,Midlothian,Local Authority,2009,2.36,People Per Household
+S12000019,Midlothian,Local Authority,2018,2.31,People Per Household
+S12000019,Midlothian,Local Authority,2002,2.43,People Per Household
+S12000019,Midlothian,Local Authority,2011,2.35,People Per Household
+S12000019,Midlothian,Local Authority,2019,2.3,People Per Household
+S12000019,Midlothian,Local Authority,2014,2.33,People Per Household
+S12000019,Midlothian,Local Authority,2003,2.4,People Per Household
+S12000019,Midlothian,Local Authority,2004,2.4,People Per Household
+S12000020,Moray,Local Authority,2006,2.31,People Per Household
+S12000020,Moray,Local Authority,2019,2.18,People Per Household
+S12000020,Moray,Local Authority,2002,2.36,People Per Household
+S12000020,Moray,Local Authority,2015,2.24,People Per Household
+S12000020,Moray,Local Authority,2009,2.31,People Per Household
+S12000020,Moray,Local Authority,2005,2.33,People Per Household
+S12000020,Moray,Local Authority,2007,2.3,People Per Household
+S12000020,Moray,Local Authority,2016,2.24,People Per Household
+S12000020,Moray,Local Authority,2010,2.3,People Per Household
+S12000020,Moray,Local Authority,2003,2.37,People Per Household
+S12000020,Moray,Local Authority,2004,2.35,People Per Household
+S12000020,Moray,Local Authority,2017,2.22,People Per Household
+S12000020,Moray,Local Authority,2012,2.24,People Per Household
+S12000020,Moray,Local Authority,2008,2.31,People Per Household
+S12000020,Moray,Local Authority,2018,2.19,People Per Household
+S12000020,Moray,Local Authority,2011,2.28,People Per Household
+S12000020,Moray,Local Authority,2001,2.37,People Per Household
+S12000020,Moray,Local Authority,2013,2.26,People Per Household
+S12000020,Moray,Local Authority,2014,2.24,People Per Household
+S12000021,North Ayrshire,Local Authority,2001,2.29,People Per Household
+S12000021,North Ayrshire,Local Authority,2019,2.08,People Per Household
+S12000021,North Ayrshire,Local Authority,2009,2.19,People Per Household
+S12000021,North Ayrshire,Local Authority,2012,2.18,People Per Household
+S12000021,North Ayrshire,Local Authority,2016,2.12,People Per Household
+S12000021,North Ayrshire,Local Authority,2013,2.16,People Per Household
+S12000021,North Ayrshire,Local Authority,2011,2.19,People Per Household
+S12000021,North Ayrshire,Local Authority,2006,2.22,People Per Household
+S12000021,North Ayrshire,Local Authority,2003,2.26,People Per Household
+S12000021,North Ayrshire,Local Authority,2018,2.09,People Per Household
+S12000021,North Ayrshire,Local Authority,2008,2.21,People Per Household
+S12000021,North Ayrshire,Local Authority,2017,2.11,People Per Household
+S12000021,North Ayrshire,Local Authority,2004,2.25,People Per Household
+S12000021,North Ayrshire,Local Authority,2010,2.19,People Per Household
+S12000021,North Ayrshire,Local Authority,2014,2.15,People Per Household
+S12000021,North Ayrshire,Local Authority,2015,2.13,People Per Household
+S12000021,North Ayrshire,Local Authority,2002,2.27,People Per Household
+S12000021,North Ayrshire,Local Authority,2005,2.24,People Per Household
+S12000021,North Ayrshire,Local Authority,2007,2.22,People Per Household
+S12000023,Orkney Islands,Local Authority,2001,2.28,People Per Household
+S12000023,Orkney Islands,Local Authority,2006,2.22,People Per Household
+S12000023,Orkney Islands,Local Authority,2002,2.26,People Per Household
+S12000023,Orkney Islands,Local Authority,2004,2.24,People Per Household
+S12000023,Orkney Islands,Local Authority,2013,2.15,People Per Household
+S12000023,Orkney Islands,Local Authority,2005,2.22,People Per Household
+S12000023,Orkney Islands,Local Authority,2003,2.25,People Per Household
+S12000023,Orkney Islands,Local Authority,2011,2.17,People Per Household
+S12000023,Orkney Islands,Local Authority,2018,2.09,People Per Household
+S12000023,Orkney Islands,Local Authority,2017,2.1,People Per Household
+S12000023,Orkney Islands,Local Authority,2008,2.2,People Per Household
+S12000023,Orkney Islands,Local Authority,2019,2.08,People Per Household
+S12000023,Orkney Islands,Local Authority,2009,2.18,People Per Household
+S12000023,Orkney Islands,Local Authority,2015,2.12,People Per Household
+S12000023,Orkney Islands,Local Authority,2012,2.16,People Per Household
+S12000023,Orkney Islands,Local Authority,2007,2.21,People Per Household
+S12000023,Orkney Islands,Local Authority,2010,2.18,People Per Household
+S12000023,Orkney Islands,Local Authority,2016,2.11,People Per Household
+S12000023,Orkney Islands,Local Authority,2014,2.13,People Per Household
+S12000026,Scottish Borders,Local Authority,2004,2.2,People Per Household
+S12000026,Scottish Borders,Local Authority,2011,2.15,People Per Household
+S12000026,Scottish Borders,Local Authority,2012,2.13,People Per Household
+S12000026,Scottish Borders,Local Authority,2005,2.19,People Per Household
+S12000026,Scottish Borders,Local Authority,2003,2.2,People Per Household
+S12000026,Scottish Borders,Local Authority,2018,2.09,People Per Household
+S12000026,Scottish Borders,Local Authority,2008,2.18,People Per Household
+S12000026,Scottish Borders,Local Authority,2010,2.15,People Per Household
+S12000026,Scottish Borders,Local Authority,2013,2.13,People Per Household
+S12000026,Scottish Borders,Local Authority,2017,2.09,People Per Household
+S12000026,Scottish Borders,Local Authority,2007,2.18,People Per Household
+S12000026,Scottish Borders,Local Authority,2016,2.11,People Per Household
+S12000026,Scottish Borders,Local Authority,2015,2.11,People Per Household
+S12000026,Scottish Borders,Local Authority,2019,2.09,People Per Household
+S12000026,Scottish Borders,Local Authority,2009,2.17,People Per Household
+S12000026,Scottish Borders,Local Authority,2006,2.18,People Per Household
+S12000026,Scottish Borders,Local Authority,2014,2.12,People Per Household
+S12000026,Scottish Borders,Local Authority,2002,2.21,People Per Household
+S12000026,Scottish Borders,Local Authority,2001,2.22,People Per Household
+S12000027,Shetland Islands,Local Authority,2012,2.28,People Per Household
+S12000027,Shetland Islands,Local Authority,2008,2.31,People Per Household
+S12000027,Shetland Islands,Local Authority,2010,2.31,People Per Household
+S12000027,Shetland Islands,Local Authority,2009,2.31,People Per Household
+S12000027,Shetland Islands,Local Authority,2014,2.27,People Per Household
+S12000027,Shetland Islands,Local Authority,2019,2.18,People Per Household
+S12000027,Shetland Islands,Local Authority,2004,2.35,People Per Household
+S12000027,Shetland Islands,Local Authority,2017,2.21,People Per Household
+S12000027,Shetland Islands,Local Authority,2018,2.2,People Per Household
+S12000027,Shetland Islands,Local Authority,2011,2.31,People Per Household
+S12000027,Shetland Islands,Local Authority,2003,2.35,People Per Household
+S12000027,Shetland Islands,Local Authority,2016,2.24,People Per Household
+S12000027,Shetland Islands,Local Authority,2002,2.37,People Per Household
+S12000027,Shetland Islands,Local Authority,2006,2.32,People Per Household
+S12000027,Shetland Islands,Local Authority,2001,2.38,People Per Household
+S12000027,Shetland Islands,Local Authority,2005,2.34,People Per Household
+S12000027,Shetland Islands,Local Authority,2007,2.32,People Per Household
+S12000027,Shetland Islands,Local Authority,2013,2.27,People Per Household
+S12000027,Shetland Islands,Local Authority,2015,2.25,People Per Household
+S12000028,South Ayrshire,Local Authority,2001,2.26,People Per Household
+S12000028,South Ayrshire,Local Authority,2016,2.14,People Per Household
+S12000028,South Ayrshire,Local Authority,2002,2.24,People Per Household
+S12000028,South Ayrshire,Local Authority,2019,2.11,People Per Household
+S12000028,South Ayrshire,Local Authority,2017,2.13,People Per Household
+S12000028,South Ayrshire,Local Authority,2013,2.16,People Per Household
+S12000028,South Ayrshire,Local Authority,2012,2.16,People Per Household
+S12000028,South Ayrshire,Local Authority,2004,2.21,People Per Household
+S12000028,South Ayrshire,Local Authority,2018,2.12,People Per Household
+S12000028,South Ayrshire,Local Authority,2014,2.14,People Per Household
+S12000028,South Ayrshire,Local Authority,2003,2.22,People Per Household
+S12000028,South Ayrshire,Local Authority,2005,2.2,People Per Household
+S12000028,South Ayrshire,Local Authority,2008,2.18,People Per Household
+S12000028,South Ayrshire,Local Authority,2007,2.19,People Per Household
+S12000028,South Ayrshire,Local Authority,2010,2.17,People Per Household
+S12000028,South Ayrshire,Local Authority,2011,2.17,People Per Household
+S12000028,South Ayrshire,Local Authority,2006,2.2,People Per Household
+S12000028,South Ayrshire,Local Authority,2015,2.14,People Per Household
+S12000028,South Ayrshire,Local Authority,2009,2.18,People Per Household
+S12000029,South Lanarkshire,Local Authority,2003,2.33,People Per Household
+S12000029,South Lanarkshire,Local Authority,2011,2.23,People Per Household
+S12000029,South Lanarkshire,Local Authority,2012,2.22,People Per Household
+S12000029,South Lanarkshire,Local Authority,2005,2.31,People Per Household
+S12000029,South Lanarkshire,Local Authority,2015,2.18,People Per Household
+S12000029,South Lanarkshire,Local Authority,2007,2.27,People Per Household
+S12000029,South Lanarkshire,Local Authority,2013,2.21,People Per Household
+S12000029,South Lanarkshire,Local Authority,2018,2.16,People Per Household
+S12000029,South Lanarkshire,Local Authority,2001,2.36,People Per Household
+S12000029,South Lanarkshire,Local Authority,2016,2.18,People Per Household
+S12000029,South Lanarkshire,Local Authority,2014,2.19,People Per Household
+S12000029,South Lanarkshire,Local Authority,2019,2.15,People Per Household
+S12000029,South Lanarkshire,Local Authority,2002,2.34,People Per Household
+S12000029,South Lanarkshire,Local Authority,2006,2.29,People Per Household
+S12000029,South Lanarkshire,Local Authority,2008,2.26,People Per Household
+S12000029,South Lanarkshire,Local Authority,2010,2.24,People Per Household
+S12000029,South Lanarkshire,Local Authority,2004,2.33,People Per Household
+S12000029,South Lanarkshire,Local Authority,2017,2.17,People Per Household
+S12000029,South Lanarkshire,Local Authority,2009,2.25,People Per Household
+S12000030,Stirling,Local Authority,2002,2.34,People Per Household
+S12000030,Stirling,Local Authority,2009,2.27,People Per Household
+S12000030,Stirling,Local Authority,2015,2.28,People Per Household
+S12000030,Stirling,Local Authority,2018,2.28,People Per Household
+S12000030,Stirling,Local Authority,2017,2.28,People Per Household
+S12000030,Stirling,Local Authority,2004,2.3,People Per Household
+S12000030,Stirling,Local Authority,2006,2.3,People Per Household
+S12000030,Stirling,Local Authority,2011,2.28,People Per Household
+S12000030,Stirling,Local Authority,2019,2.26,People Per Household
+S12000030,Stirling,Local Authority,2014,2.27,People Per Household
+S12000030,Stirling,Local Authority,2016,2.29,People Per Household
+S12000030,Stirling,Local Authority,2005,2.3,People Per Household
+S12000030,Stirling,Local Authority,2013,2.28,People Per Household
+S12000030,Stirling,Local Authority,2008,2.28,People Per Household
+S12000030,Stirling,Local Authority,2012,2.29,People Per Household
+S12000030,Stirling,Local Authority,2001,2.36,People Per Household
+S12000030,Stirling,Local Authority,2010,2.28,People Per Household
+S12000030,Stirling,Local Authority,2007,2.3,People Per Household
+S12000030,Stirling,Local Authority,2003,2.32,People Per Household
+S12000033,Aberdeen City,Local Authority,2012,2.08,People Per Household
+S12000033,Aberdeen City,Local Authority,2008,2.01,People Per Household
+S12000033,Aberdeen City,Local Authority,2009,2.03,People Per Household
+S12000033,Aberdeen City,Local Authority,2005,2.04,People Per Household
+S12000033,Aberdeen City,Local Authority,2010,2.05,People Per Household
+S12000033,Aberdeen City,Local Authority,2001,2.13,People Per Household
+S12000033,Aberdeen City,Local Authority,2015,2.1,People Per Household
+S12000033,Aberdeen City,Local Authority,2018,2.03,People Per Household
+S12000033,Aberdeen City,Local Authority,2016,2.07,People Per Household
+S12000033,Aberdeen City,Local Authority,2006,2.02,People Per Household
+S12000033,Aberdeen City,Local Authority,2017,2.06,People Per Household
+S12000033,Aberdeen City,Local Authority,2007,2.01,People Per Household
+S12000033,Aberdeen City,Local Authority,2003,2.08,People Per Household
+S12000033,Aberdeen City,Local Authority,2013,2.08,People Per Household
+S12000033,Aberdeen City,Local Authority,2002,2.1,People Per Household
+S12000033,Aberdeen City,Local Authority,2014,2.09,People Per Household
+S12000033,Aberdeen City,Local Authority,2019,2.03,People Per Household
+S12000033,Aberdeen City,Local Authority,2004,2.05,People Per Household
+S12000033,Aberdeen City,Local Authority,2011,2.07,People Per Household
+S12000034,Aberdeenshire,Local Authority,2015,2.37,People Per Household
+S12000034,Aberdeenshire,Local Authority,2012,2.39,People Per Household
+S12000034,Aberdeenshire,Local Authority,2013,2.38,People Per Household
+S12000034,Aberdeenshire,Local Authority,2004,2.42,People Per Household
+S12000034,Aberdeenshire,Local Authority,2011,2.39,People Per Household
+S12000034,Aberdeenshire,Local Authority,2006,2.41,People Per Household
+S12000034,Aberdeenshire,Local Authority,2009,2.4,People Per Household
+S12000034,Aberdeenshire,Local Authority,2003,2.44,People Per Household
+S12000034,Aberdeenshire,Local Authority,2007,2.41,People Per Household
+S12000034,Aberdeenshire,Local Authority,2019,2.31,People Per Household
+S12000034,Aberdeenshire,Local Authority,2010,2.39,People Per Household
+S12000034,Aberdeenshire,Local Authority,2001,2.47,People Per Household
+S12000034,Aberdeenshire,Local Authority,2017,2.34,People Per Household
+S12000034,Aberdeenshire,Local Authority,2016,2.35,People Per Household
+S12000034,Aberdeenshire,Local Authority,2008,2.4,People Per Household
+S12000034,Aberdeenshire,Local Authority,2014,2.38,People Per Household
+S12000034,Aberdeenshire,Local Authority,2005,2.41,People Per Household
+S12000034,Aberdeenshire,Local Authority,2018,2.33,People Per Household
+S12000034,Aberdeenshire,Local Authority,2002,2.45,People Per Household
+S12000035,Argyll and Bute,Local Authority,2015,2.06,People Per Household
+S12000035,Argyll and Bute,Local Authority,2016,2.06,People Per Household
+S12000035,Argyll and Bute,Local Authority,2019,2,People Per Household
+S12000035,Argyll and Bute,Local Authority,2009,2.15,People Per Household
+S12000035,Argyll and Bute,Local Authority,2007,2.17,People Per Household
+S12000035,Argyll and Bute,Local Authority,2008,2.15,People Per Household
+S12000035,Argyll and Bute,Local Authority,2018,2.01,People Per Household
+S12000035,Argyll and Bute,Local Authority,2017,2.04,People Per Household
+S12000035,Argyll and Bute,Local Authority,2010,2.13,People Per Household
+S12000035,Argyll and Bute,Local Authority,2005,2.16,People Per Household
+S12000035,Argyll and Bute,Local Authority,2014,2.09,People Per Household
+S12000035,Argyll and Bute,Local Authority,2002,2.23,People Per Household
+S12000035,Argyll and Bute,Local Authority,2013,2.09,People Per Household
+S12000035,Argyll and Bute,Local Authority,2001,2.24,People Per Household
+S12000035,Argyll and Bute,Local Authority,2012,2.09,People Per Household
+S12000035,Argyll and Bute,Local Authority,2011,2.14,People Per Household
+S12000035,Argyll and Bute,Local Authority,2006,2.17,People Per Household
+S12000035,Argyll and Bute,Local Authority,2004,2.19,People Per Household
+S12000035,Argyll and Bute,Local Authority,2003,2.2,People Per Household
+S12000036,City of Edinburgh,Local Authority,2004,2.07,People Per Household
+S12000036,City of Edinburgh,Local Authority,2016,2.13,People Per Household
+S12000036,City of Edinburgh,Local Authority,2015,2.11,People Per Household
+S12000036,City of Edinburgh,Local Authority,2018,2.13,People Per Household
+S12000036,City of Edinburgh,Local Authority,2001,2.14,People Per Household
+S12000036,City of Edinburgh,Local Authority,2009,2.04,People Per Household
+S12000036,City of Edinburgh,Local Authority,2017,2.13,People Per Household
+S12000036,City of Edinburgh,Local Authority,2011,2.07,People Per Household
+S12000036,City of Edinburgh,Local Authority,2003,2.09,People Per Household
+S12000036,City of Edinburgh,Local Authority,2007,2.04,People Per Household
+S12000036,City of Edinburgh,Local Authority,2019,2.14,People Per Household
+S12000036,City of Edinburgh,Local Authority,2005,2.06,People Per Household
+S12000036,City of Edinburgh,Local Authority,2002,2.11,People Per Household
+S12000036,City of Edinburgh,Local Authority,2013,2.08,People Per Household
+S12000036,City of Edinburgh,Local Authority,2008,2.03,People Per Household
+S12000036,City of Edinburgh,Local Authority,2010,2.05,People Per Household
+S12000036,City of Edinburgh,Local Authority,2006,2.05,People Per Household
+S12000036,City of Edinburgh,Local Authority,2014,2.08,People Per Household
+S12000036,City of Edinburgh,Local Authority,2012,2.08,People Per Household
+S12000038,Renfrewshire,Local Authority,2019,2.04,People Per Household
+S12000038,Renfrewshire,Local Authority,2011,2.13,People Per Household
+S12000038,Renfrewshire,Local Authority,2008,2.13,People Per Household
+S12000038,Renfrewshire,Local Authority,2004,2.2,People Per Household
+S12000038,Renfrewshire,Local Authority,2003,2.2,People Per Household
+S12000038,Renfrewshire,Local Authority,2013,2.1,People Per Household
+S12000038,Renfrewshire,Local Authority,2017,2.06,People Per Household
+S12000038,Renfrewshire,Local Authority,2012,2.13,People Per Household
+S12000038,Renfrewshire,Local Authority,2014,2.09,People Per Household
+S12000038,Renfrewshire,Local Authority,2001,2.26,People Per Household
+S12000038,Renfrewshire,Local Authority,2015,2.07,People Per Household
+S12000038,Renfrewshire,Local Authority,2016,2.07,People Per Household
+S12000038,Renfrewshire,Local Authority,2018,2.05,People Per Household
+S12000038,Renfrewshire,Local Authority,2009,2.13,People Per Household
+S12000038,Renfrewshire,Local Authority,2006,2.16,People Per Household
+S12000038,Renfrewshire,Local Authority,2007,2.15,People Per Household
+S12000038,Renfrewshire,Local Authority,2005,2.18,People Per Household
+S12000038,Renfrewshire,Local Authority,2002,2.23,People Per Household
+S12000038,Renfrewshire,Local Authority,2010,2.13,People Per Household
+S12000041,Angus,Local Authority,2015,2.17,People Per Household
+S12000041,Angus,Local Authority,2004,2.24,People Per Household
+S12000041,Angus,Local Authority,2007,2.23,People Per Household
+S12000041,Angus,Local Authority,2003,2.24,People Per Household
+S12000041,Angus,Local Authority,2011,2.22,People Per Household
+S12000041,Angus,Local Authority,2002,2.26,People Per Household
+S12000041,Angus,Local Authority,2019,2.11,People Per Household
+S12000041,Angus,Local Authority,2005,2.24,People Per Household
+S12000041,Angus,Local Authority,2016,2.16,People Per Household
+S12000041,Angus,Local Authority,2001,2.27,People Per Household
+S12000041,Angus,Local Authority,2006,2.23,People Per Household
+S12000041,Angus,Local Authority,2018,2.12,People Per Household
+S12000041,Angus,Local Authority,2009,2.21,People Per Household
+S12000041,Angus,Local Authority,2010,2.21,People Per Household
+S12000041,Angus,Local Authority,2013,2.19,People Per Household
+S12000041,Angus,Local Authority,2017,2.14,People Per Household
+S12000041,Angus,Local Authority,2008,2.23,People Per Household
+S12000041,Angus,Local Authority,2012,2.2,People Per Household
+S12000041,Angus,Local Authority,2014,2.19,People Per Household
+S12000042,Dundee City,Local Authority,2008,2.04,People Per Household
+S12000042,Dundee City,Local Authority,2004,2.07,People Per Household
+S12000042,Dundee City,Local Authority,2011,2.05,People Per Household
+S12000042,Dundee City,Local Authority,2006,2.08,People Per Household
+S12000042,Dundee City,Local Authority,2016,2.05,People Per Household
+S12000042,Dundee City,Local Authority,2013,2.06,People Per Household
+S12000042,Dundee City,Local Authority,2014,2.05,People Per Household
+S12000042,Dundee City,Local Authority,2019,2.04,People Per Household
+S12000042,Dundee City,Local Authority,2002,2.1,People Per Household
+S12000042,Dundee City,Local Authority,2005,2.08,People Per Household
+S12000042,Dundee City,Local Authority,2001,2.13,People Per Household
+S12000042,Dundee City,Local Authority,2012,2.06,People Per Household
+S12000042,Dundee City,Local Authority,2018,2.04,People Per Household
+S12000042,Dundee City,Local Authority,2010,2.04,People Per Household
+S12000042,Dundee City,Local Authority,2017,2.05,People Per Household
+S12000042,Dundee City,Local Authority,2003,2.09,People Per Household
+S12000042,Dundee City,Local Authority,2009,2.03,People Per Household
+S12000042,Dundee City,Local Authority,2015,2.06,People Per Household
+S12000042,Dundee City,Local Authority,2007,2.05,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2018,2.34,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2008,2.42,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2002,2.51,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2005,2.46,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2012,2.4,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2014,2.38,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2015,2.36,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2010,2.41,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2007,2.43,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2001,2.53,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2006,2.44,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2016,2.36,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2013,2.39,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2009,2.41,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2011,2.4,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2004,2.48,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2003,2.5,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2017,2.35,People Per Household
+S12000045,East Dunbartonshire,Local Authority,2019,2.34,People Per Household
+S12000047,Fife,Local Authority,2013,2.21,People Per Household
+S12000047,Fife,Local Authority,2014,2.19,People Per Household
+S12000047,Fife,Local Authority,2012,2.21,People Per Household
+S12000047,Fife,Local Authority,2016,2.19,People Per Household
+S12000047,Fife,Local Authority,2015,2.19,People Per Household
+S12000047,Fife,Local Authority,2002,2.27,People Per Household
+S12000047,Fife,Local Authority,2001,2.28,People Per Household
+S12000047,Fife,Local Authority,2004,2.25,People Per Household
+S12000047,Fife,Local Authority,2003,2.26,People Per Household
+S12000047,Fife,Local Authority,2019,2.16,People Per Household
+S12000047,Fife,Local Authority,2017,2.18,People Per Household
+S12000047,Fife,Local Authority,2018,2.17,People Per Household
+S12000047,Fife,Local Authority,2009,2.21,People Per Household
+S12000047,Fife,Local Authority,2008,2.22,People Per Household
+S12000047,Fife,Local Authority,2011,2.22,People Per Household
+S12000047,Fife,Local Authority,2010,2.21,People Per Household
+S12000047,Fife,Local Authority,2005,2.24,People Per Household
+S12000047,Fife,Local Authority,2006,2.24,People Per Household
+S12000047,Fife,Local Authority,2007,2.23,People Per Household
+S12000048,Perth and Kinross,Local Authority,2018,2.15,People Per Household
+S12000048,Perth and Kinross,Local Authority,2019,2.13,People Per Household
+S12000048,Perth and Kinross,Local Authority,2012,2.2,People Per Household
+S12000048,Perth and Kinross,Local Authority,2011,2.19,People Per Household
+S12000048,Perth and Kinross,Local Authority,2013,2.18,People Per Household
+S12000048,Perth and Kinross,Local Authority,2009,2.17,People Per Household
+S12000048,Perth and Kinross,Local Authority,2010,2.18,People Per Household
+S12000048,Perth and Kinross,Local Authority,2017,2.17,People Per Household
+S12000048,Perth and Kinross,Local Authority,2016,2.18,People Per Household
+S12000048,Perth and Kinross,Local Authority,2014,2.19,People Per Household
+S12000048,Perth and Kinross,Local Authority,2015,2.18,People Per Household
+S12000048,Perth and Kinross,Local Authority,2003,2.2,People Per Household
+S12000048,Perth and Kinross,Local Authority,2004,2.18,People Per Household
+S12000048,Perth and Kinross,Local Authority,2001,2.24,People Per Household
+S12000048,Perth and Kinross,Local Authority,2002,2.22,People Per Household
+S12000048,Perth and Kinross,Local Authority,2007,2.17,People Per Household
+S12000048,Perth and Kinross,Local Authority,2008,2.16,People Per Household
+S12000048,Perth and Kinross,Local Authority,2005,2.17,People Per Household
+S12000048,Perth and Kinross,Local Authority,2006,2.16,People Per Household
+S12000049,Glasgow City,Local Authority,2006,1.98,People Per Household
+S12000049,Glasgow City,Local Authority,2007,1.98,People Per Household
+S12000049,Glasgow City,Local Authority,2005,1.99,People Per Household
+S12000049,Glasgow City,Local Authority,2009,2,People Per Household
+S12000049,Glasgow City,Local Authority,2008,1.98,People Per Household
+S12000049,Glasgow City,Local Authority,2001,2.08,People Per Household
+S12000049,Glasgow City,Local Authority,2002,2.07,People Per Household
+S12000049,Glasgow City,Local Authority,2017,2.08,People Per Household
+S12000049,Glasgow City,Local Authority,2004,2.01,People Per Household
+S12000049,Glasgow City,Local Authority,2003,2.04,People Per Household
+S12000049,Glasgow City,Local Authority,2019,2.09,People Per Household
+S12000049,Glasgow City,Local Authority,2018,2.09,People Per Household
+S12000049,Glasgow City,Local Authority,2014,2.04,People Per Household
+S12000049,Glasgow City,Local Authority,2016,2.07,People Per Household
+S12000049,Glasgow City,Local Authority,2015,2.05,People Per Household
+S12000049,Glasgow City,Local Authority,2011,2.02,People Per Household
+S12000049,Glasgow City,Local Authority,2010,2.01,People Per Household
+S12000049,Glasgow City,Local Authority,2013,2.04,People Per Household
+S12000049,Glasgow City,Local Authority,2012,2.03,People Per Household
+S12000050,North Lanarkshire,Local Authority,2019,2.22,People Per Household
+S12000050,North Lanarkshire,Local Authority,2004,2.34,People Per Household
+S12000050,North Lanarkshire,Local Authority,2005,2.32,People Per Household
+S12000050,North Lanarkshire,Local Authority,2003,2.35,People Per Household
+S12000050,North Lanarkshire,Local Authority,2007,2.3,People Per Household
+S12000050,North Lanarkshire,Local Authority,2006,2.31,People Per Household
+S12000050,North Lanarkshire,Local Authority,2001,2.4,People Per Household
+S12000050,North Lanarkshire,Local Authority,2017,2.23,People Per Household
+S12000050,North Lanarkshire,Local Authority,2002,2.37,People Per Household
+S12000050,North Lanarkshire,Local Authority,2018,2.23,People Per Household
+S12000050,North Lanarkshire,Local Authority,2013,2.27,People Per Household
+S12000050,North Lanarkshire,Local Authority,2014,2.26,People Per Household
+S12000050,North Lanarkshire,Local Authority,2012,2.28,People Per Household
+S12000050,North Lanarkshire,Local Authority,2016,2.24,People Per Household
+S12000050,North Lanarkshire,Local Authority,2015,2.25,People Per Household
+S12000050,North Lanarkshire,Local Authority,2009,2.3,People Per Household
+S12000050,North Lanarkshire,Local Authority,2008,2.3,People Per Household
+S12000050,North Lanarkshire,Local Authority,2011,2.29,People Per Household
+S12000050,North Lanarkshire,Local Authority,2010,2.3,People Per Household
