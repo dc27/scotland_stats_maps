@@ -18,7 +18,11 @@ server <- function(input, output, session){
     dfs[[input$category]][[input$dataset]]$reverse_colours
     })
   notes <- eventReactive(
-    input$update, {dfs[[input$category]][[input$dataset]]$notes}
+    input$update, {
+      str_replace_all(
+        dfs[[input$category]][[input$dataset]]$notes,
+        "'", "'")
+      }
     )
   
   output$dropdowns <- renderUI(
