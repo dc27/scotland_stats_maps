@@ -144,8 +144,9 @@
       explorable_vars = c("year", "dwelling_type"),
       reverse_colours = FALSE,
       by_pop = TRUE,
-      url = "",
-      notes = ""
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fcouncil-house-sales",
+      notes = c("This dataset presents information on the number of council house sales to sitting tenants by housing type, based on an analysis carried out a number of years ago using Scottish Government Housing Statistics SALES3 returns from 1980 to 2005, in which sales were assigned to different geographical areas based on the address data held for each sale. A range of separate tables presenting Scotland and local authority level sales figures are available on the Housing Statistics for Scotland website as Excel downloads, and these contain more up-to-date figures at these geographical levels, as well as presenting further details of some component parts such as whether the sales have been under modernised or old terms.",
+                "The Scottish Government Housing Statistics SALES3 case based return collects information on sales to sitting tenants only. This includes right to buy sales, rent to mortgage sales and voluntary sales. To create a consistent time series of right to buy sales and compare trends across Scotland, sales figures in local authorities that have transferred their housing stock to housing associations are included in the figures.")
     ),
     "HMO Licences" = list(
       data = read_csv("data/clean_data/housing/hmo_licences.csv"),
