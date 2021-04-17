@@ -19,9 +19,7 @@ server <- function(input, output, session){
     })
   notes <- eventReactive(
     input$update, {
-      str_replace_all(
         dfs[[input$category]][[input$dataset]]$notes,
-        "'", "'")
       }
     )
   
