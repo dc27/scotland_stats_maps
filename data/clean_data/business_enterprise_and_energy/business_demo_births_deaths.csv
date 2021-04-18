@@ -1,0 +1,1793 @@
+area_code,reference_area,area_type,year,business_demography,measure_type,value,units
+S12000028,South Ayrshire,Local Authority,2010,De-Registrations,Count,320,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2010,De-Registrations,Count,885,De-Registrations
+S12000026,Scottish Borders,Local Authority,2010,De-Registrations,Count,330,De-Registrations
+S12000027,Shetland Islands,Local Authority,2010,De-Registrations,Count,35,De-Registrations
+S12000040,West Lothian,Local Authority,2010,De-Registrations,Count,470,De-Registrations
+S12000030,Stirling,Local Authority,2010,De-Registrations,Count,335,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2010,De-Registrations,Count,165,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2010,De-Registrations,Count,75,De-Registrations
+S12000021,North Ayrshire,Local Authority,2010,De-Registrations,Count,310,De-Registrations
+S12000019,Midlothian,Local Authority,2010,De-Registrations,Count,185,De-Registrations
+S12000020,Moray,Local Authority,2010,De-Registrations,Count,195,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2010,De-Registrations,Count,430,De-Registrations
+S12000038,Renfrewshire,Local Authority,2010,De-Registrations,Count,465,De-Registrations
+S12000023,Orkney Islands,Local Authority,2010,De-Registrations,Count,55,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2011,De-Registrations,Count,280,De-Registrations
+S12000010,East Lothian,Local Authority,2011,De-Registrations,Count,215,De-Registrations
+S12000042,Dundee City,Local Authority,2011,De-Registrations,Count,300,De-Registrations
+S12000008,East Ayrshire,Local Authority,2011,De-Registrations,Count,285,De-Registrations
+S12000014,Falkirk,Local Authority,2011,De-Registrations,Count,335,De-Registrations
+S12000047,Fife,Local Authority,2011,De-Registrations,Count,755,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2011,De-Registrations,Count,235,De-Registrations
+S12000041,Angus,Local Authority,2011,De-Registrations,Count,270,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2011,De-Registrations,Count,255,De-Registrations
+S12000033,Aberdeen City,Local Authority,2011,De-Registrations,Count,755,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2011,De-Registrations,Count,740,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2011,De-Registrations,Count,120,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2011,De-Registrations,Count,400,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2011,De-Registrations,Count,1600,De-Registrations
+S12000030,Stirling,Local Authority,2009,De-Registrations,Count,305,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2009,De-Registrations,Count,130,De-Registrations
+S12000028,South Ayrshire,Local Authority,2009,De-Registrations,Count,335,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2009,De-Registrations,Count,865,De-Registrations
+S12000033,Aberdeen City,Local Authority,2010,De-Registrations,Count,750,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2010,De-Registrations,Count,680,De-Registrations
+S12000040,West Lothian,Local Authority,2009,De-Registrations,Count,445,De-Registrations
+S12000023,Orkney Islands,Local Authority,2009,De-Registrations,Count,65,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2009,De-Registrations,Count,480,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2009,De-Registrations,Count,70,De-Registrations
+S12000021,North Ayrshire,Local Authority,2009,De-Registrations,Count,285,De-Registrations
+S12000026,Scottish Borders,Local Authority,2009,De-Registrations,Count,385,De-Registrations
+S12000027,Shetland Islands,Local Authority,2009,De-Registrations,Count,85,De-Registrations
+S12000038,Renfrewshire,Local Authority,2009,De-Registrations,Count,455,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2010,De-Registrations,Count,280,De-Registrations
+S12000014,Falkirk,Local Authority,2010,De-Registrations,Count,365,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2010,De-Registrations,Count,285,De-Registrations
+S12000010,East Lothian,Local Authority,2010,De-Registrations,Count,230,De-Registrations
+S12000017,Highland,Local Authority,2010,De-Registrations,Count,760,De-Registrations
+S12000018,Inverclyde,Local Authority,2010,De-Registrations,Count,195,De-Registrations
+S12000047,Fife,Local Authority,2010,De-Registrations,Count,895,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2010,De-Registrations,Count,1745,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2010,De-Registrations,Count,120,De-Registrations
+S12000041,Angus,Local Authority,2010,De-Registrations,Count,295,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2010,De-Registrations,Count,270,De-Registrations
+S12000042,Dundee City,Local Authority,2010,De-Registrations,Count,370,De-Registrations
+S12000008,East Ayrshire,Local Authority,2010,De-Registrations,Count,265,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2010,De-Registrations,Count,425,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2012,De-Registrations,Count,485,De-Registrations
+S12000038,Renfrewshire,Local Authority,2012,De-Registrations,Count,490,De-Registrations
+S12000021,North Ayrshire,Local Authority,2012,De-Registrations,Count,325,De-Registrations
+S12000023,Orkney Islands,Local Authority,2012,De-Registrations,Count,75,De-Registrations
+S12000028,South Ayrshire,Local Authority,2012,De-Registrations,Count,335,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2012,De-Registrations,Count,890,De-Registrations
+S12000026,Scottish Borders,Local Authority,2012,De-Registrations,Count,350,De-Registrations
+S12000027,Shetland Islands,Local Authority,2012,De-Registrations,Count,55,De-Registrations
+S12000017,Highland,Local Authority,2012,De-Registrations,Count,765,De-Registrations
+S12000018,Inverclyde,Local Authority,2012,De-Registrations,Count,185,De-Registrations
+S12000014,Falkirk,Local Authority,2012,De-Registrations,Count,375,De-Registrations
+S12000047,Fife,Local Authority,2012,De-Registrations,Count,905,De-Registrations
+S12000020,Moray,Local Authority,2012,De-Registrations,Count,235,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2012,De-Registrations,Count,85,De-Registrations
+S12000019,Midlothian,Local Authority,2012,De-Registrations,Count,205,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2013,De-Registrations,Count,115,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2013,De-Registrations,Count,320,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2013,De-Registrations,Count,295,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2013,De-Registrations,Count,1785,De-Registrations
+S12000008,East Ayrshire,Local Authority,2013,De-Registrations,Count,250,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2013,De-Registrations,Count,255,De-Registrations
+S12000042,Dundee City,Local Authority,2013,De-Registrations,Count,345,De-Registrations
+S12000040,West Lothian,Local Authority,2012,De-Registrations,Count,475,De-Registrations
+S12000030,Stirling,Local Authority,2012,De-Registrations,Count,360,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2012,De-Registrations,Count,190,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2013,De-Registrations,Count,805,De-Registrations
+S12000041,Angus,Local Authority,2013,De-Registrations,Count,285,De-Registrations
+S12000033,Aberdeen City,Local Authority,2013,De-Registrations,Count,880,De-Registrations
+S12000026,Scottish Borders,Local Authority,2011,De-Registrations,Count,300,De-Registrations
+S12000027,Shetland Islands,Local Authority,2011,De-Registrations,Count,50,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2011,De-Registrations,Count,425,De-Registrations
+S12000038,Renfrewshire,Local Authority,2011,De-Registrations,Count,425,De-Registrations
+S12000030,Stirling,Local Authority,2011,De-Registrations,Count,330,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2011,De-Registrations,Count,135,De-Registrations
+S12000028,South Ayrshire,Local Authority,2011,De-Registrations,Count,280,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2011,De-Registrations,Count,810,De-Registrations
+S12000019,Midlothian,Local Authority,2011,De-Registrations,Count,170,De-Registrations
+S12000020,Moray,Local Authority,2011,De-Registrations,Count,205,De-Registrations
+S12000017,Highland,Local Authority,2011,De-Registrations,Count,635,De-Registrations
+S12000018,Inverclyde,Local Authority,2011,De-Registrations,Count,120,De-Registrations
+S12000021,North Ayrshire,Local Authority,2011,De-Registrations,Count,265,De-Registrations
+S12000023,Orkney Islands,Local Authority,2011,De-Registrations,Count,60,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2011,De-Registrations,Count,70,De-Registrations
+S12000042,Dundee City,Local Authority,2012,De-Registrations,Count,370,De-Registrations
+S12000008,East Ayrshire,Local Authority,2012,De-Registrations,Count,290,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2012,De-Registrations,Count,125,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2012,De-Registrations,Count,420,De-Registrations
+S12000010,East Lothian,Local Authority,2012,De-Registrations,Count,245,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2012,De-Registrations,Count,265,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2012,De-Registrations,Count,325,De-Registrations
+S12000033,Aberdeen City,Local Authority,2012,De-Registrations,Count,885,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2012,De-Registrations,Count,985,De-Registrations
+S12000040,West Lothian,Local Authority,2011,De-Registrations,Count,425,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2012,De-Registrations,Count,310,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2012,De-Registrations,Count,1825,De-Registrations
+S12000041,Angus,Local Authority,2012,De-Registrations,Count,310,De-Registrations
+S12000041,Angus,Local Authority,2007,De-Registrations,Count,215,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2007,De-Registrations,Count,245,De-Registrations
+S12000033,Aberdeen City,Local Authority,2007,De-Registrations,Count,665,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2007,De-Registrations,Count,585,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2007,De-Registrations,Count,280,De-Registrations
+S12000042,Dundee City,Local Authority,2007,De-Registrations,Count,285,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2007,De-Registrations,Count,1485,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2007,De-Registrations,Count,85,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2006,De-Registrations,Count,640,De-Registrations
+S12000030,Stirling,Local Authority,2006,De-Registrations,Count,255,De-Registrations
+S12000027,Shetland Islands,Local Authority,2006,De-Registrations,Count,60,De-Registrations
+S12000028,South Ayrshire,Local Authority,2006,De-Registrations,Count,300,De-Registrations
+S12000040,West Lothian,Local Authority,2006,De-Registrations,Count,370,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2006,De-Registrations,Count,135,De-Registrations
+S12000020,Moray,Local Authority,2007,De-Registrations,Count,185,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2007,De-Registrations,Count,55,De-Registrations
+S12000018,Inverclyde,Local Authority,2007,De-Registrations,Count,135,De-Registrations
+S12000019,Midlothian,Local Authority,2007,De-Registrations,Count,165,De-Registrations
+S12000023,Orkney Islands,Local Authority,2007,De-Registrations,Count,55,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2007,De-Registrations,Count,405,De-Registrations
+S12000021,North Ayrshire,Local Authority,2007,De-Registrations,Count,255,De-Registrations
+S12000010,East Lothian,Local Authority,2007,De-Registrations,Count,205,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2007,De-Registrations,Count,220,De-Registrations
+S12000008,East Ayrshire,Local Authority,2007,De-Registrations,Count,225,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2007,De-Registrations,Count,210,De-Registrations
+S12000047,Fife,Local Authority,2007,De-Registrations,Count,685,De-Registrations
+S12000017,Highland,Local Authority,2007,De-Registrations,Count,590,De-Registrations
+S12000014,Falkirk,Local Authority,2007,De-Registrations,Count,270,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2006,De-Registrations,Count,1440,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2006,De-Registrations,Count,115,De-Registrations
+S12000041,Angus,Local Authority,2006,De-Registrations,Count,235,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2006,De-Registrations,Count,235,De-Registrations
+S12000008,East Ayrshire,Local Authority,2006,De-Registrations,Count,240,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2006,De-Registrations,Count,210,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2006,De-Registrations,Count,370,De-Registrations
+S12000042,Dundee City,Local Authority,2006,De-Registrations,Count,305,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2005,De-Registrations,Count,135,De-Registrations
+S12000040,West Lothian,Local Authority,2005,De-Registrations,Count,410,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2005,De-Registrations,Count,735,De-Registrations
+S12000030,Stirling,Local Authority,2005,De-Registrations,Count,315,De-Registrations
+S12000033,Aberdeen City,Local Authority,2006,De-Registrations,Count,735,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2006,De-Registrations,Count,630,De-Registrations
+S12000021,North Ayrshire,Local Authority,2006,De-Registrations,Count,265,De-Registrations
+S12000023,Orkney Islands,Local Authority,2006,De-Registrations,Count,65,De-Registrations
+S12000020,Moray,Local Authority,2006,De-Registrations,Count,170,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2006,De-Registrations,Count,70,De-Registrations
+S12000038,Renfrewshire,Local Authority,2006,De-Registrations,Count,390,De-Registrations
+S12000026,Scottish Borders,Local Authority,2006,De-Registrations,Count,300,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2006,De-Registrations,Count,415,De-Registrations
+S12000014,Falkirk,Local Authority,2006,De-Registrations,Count,280,De-Registrations
+S12000047,Fife,Local Authority,2006,De-Registrations,Count,720,De-Registrations
+S12000010,East Lothian,Local Authority,2006,De-Registrations,Count,205,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2006,De-Registrations,Count,190,De-Registrations
+S12000018,Inverclyde,Local Authority,2006,De-Registrations,Count,115,De-Registrations
+S12000019,Midlothian,Local Authority,2006,De-Registrations,Count,160,De-Registrations
+S12000017,Highland,Local Authority,2006,De-Registrations,Count,610,De-Registrations
+S12000040,West Lothian,Local Authority,2008,De-Registrations,Count,390,De-Registrations
+S12000030,Stirling,Local Authority,2008,De-Registrations,Count,285,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2008,De-Registrations,Count,130,De-Registrations
+S12000041,Angus,Local Authority,2009,De-Registrations,Count,275,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2009,De-Registrations,Count,295,De-Registrations
+S12000033,Aberdeen City,Local Authority,2009,De-Registrations,Count,735,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2009,De-Registrations,Count,785,De-Registrations
+S12000038,Renfrewshire,Local Authority,2008,De-Registrations,Count,360,De-Registrations
+S12000026,Scottish Borders,Local Authority,2008,De-Registrations,Count,335,De-Registrations
+S12000023,Orkney Islands,Local Authority,2008,De-Registrations,Count,55,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2008,De-Registrations,Count,400,De-Registrations
+S12000028,South Ayrshire,Local Authority,2008,De-Registrations,Count,295,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2008,De-Registrations,Count,690,De-Registrations
+S12000027,Shetland Islands,Local Authority,2008,De-Registrations,Count,50,De-Registrations
+S12000047,Fife,Local Authority,2009,De-Registrations,Count,875,De-Registrations
+S12000017,Highland,Local Authority,2009,De-Registrations,Count,730,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2009,De-Registrations,Count,260,De-Registrations
+S12000014,Falkirk,Local Authority,2009,De-Registrations,Count,330,De-Registrations
+S12000019,Midlothian,Local Authority,2009,De-Registrations,Count,190,De-Registrations
+S12000020,Moray,Local Authority,2009,De-Registrations,Count,210,De-Registrations
+S12000018,Inverclyde,Local Authority,2009,De-Registrations,Count,175,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2009,De-Registrations,Count,370,De-Registrations
+S12000042,Dundee City,Local Authority,2009,De-Registrations,Count,320,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2009,De-Registrations,Count,1740,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2009,De-Registrations,Count,120,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2009,De-Registrations,Count,270,De-Registrations
+S12000010,East Lothian,Local Authority,2009,De-Registrations,Count,250,De-Registrations
+S12000008,East Ayrshire,Local Authority,2009,De-Registrations,Count,275,De-Registrations
+S12000033,Aberdeen City,Local Authority,2008,De-Registrations,Count,670,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2008,De-Registrations,Count,655,De-Registrations
+S12000040,West Lothian,Local Authority,2007,De-Registrations,Count,330,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2008,De-Registrations,Count,1475,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2008,De-Registrations,Count,115,De-Registrations
+S12000041,Angus,Local Authority,2008,De-Registrations,Count,235,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2008,De-Registrations,Count,260,De-Registrations
+S12000027,Shetland Islands,Local Authority,2007,De-Registrations,Count,50,De-Registrations
+S12000028,South Ayrshire,Local Authority,2007,De-Registrations,Count,285,De-Registrations
+S12000038,Renfrewshire,Local Authority,2007,De-Registrations,Count,365,De-Registrations
+S12000026,Scottish Borders,Local Authority,2007,De-Registrations,Count,265,De-Registrations
+S12000030,Stirling,Local Authority,2007,De-Registrations,Count,240,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2007,De-Registrations,Count,120,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2007,De-Registrations,Count,660,De-Registrations
+S12000018,Inverclyde,Local Authority,2008,De-Registrations,Count,160,De-Registrations
+S12000019,Midlothian,Local Authority,2008,De-Registrations,Count,170,De-Registrations
+S12000047,Fife,Local Authority,2008,De-Registrations,Count,745,De-Registrations
+S12000017,Highland,Local Authority,2008,De-Registrations,Count,650,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2008,De-Registrations,Count,65,De-Registrations
+S12000021,North Ayrshire,Local Authority,2008,De-Registrations,Count,270,De-Registrations
+S12000020,Moray,Local Authority,2008,De-Registrations,Count,215,De-Registrations
+S12000008,East Ayrshire,Local Authority,2008,De-Registrations,Count,255,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2008,De-Registrations,Count,210,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2008,De-Registrations,Count,395,De-Registrations
+S12000042,Dundee City,Local Authority,2008,De-Registrations,Count,290,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2008,De-Registrations,Count,210,De-Registrations
+S12000014,Falkirk,Local Authority,2008,De-Registrations,Count,265,De-Registrations
+S12000010,East Lothian,Local Authority,2008,De-Registrations,Count,215,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2006,De-Registrations,Count,555,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2005,De-Registrations,Count,615,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2008,De-Registrations,Count,650,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2007,De-Registrations,Count,515,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2015,Registrations,Count,1200,Registrations
+S12000050,North Lanarkshire,Local Authority,2014,Registrations,Count,1120,Registrations
+S12000050,North Lanarkshire,Local Authority,2004,De-Registrations,Count,655,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2016,Registrations,Count,1270,Registrations
+S12000050,North Lanarkshire,Local Authority,2013,De-Registrations,Count,720,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2012,De-Registrations,Count,775,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2015,De-Registrations,Count,915,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2014,De-Registrations,Count,785,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2010,De-Registrations,Count,765,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2009,De-Registrations,Count,740,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2011,De-Registrations,Count,625,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2004,Registrations,Count,695,Registrations
+S12000040,West Lothian,Local Authority,2017,De-Registrations,Count,560,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2006,Registrations,Count,755,Registrations
+S12000050,North Lanarkshire,Local Authority,2005,Registrations,Count,810,Registrations
+S12000030,Stirling,Local Authority,2017,De-Registrations,Count,445,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2017,De-Registrations,Count,1015,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2017,De-Registrations,Count,225,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2011,Registrations,Count,815,Registrations
+S12000050,North Lanarkshire,Local Authority,2010,Registrations,Count,800,Registrations
+S12000050,North Lanarkshire,Local Authority,2013,Registrations,Count,1090,Registrations
+S12000050,North Lanarkshire,Local Authority,2012,Registrations,Count,850,Registrations
+S12000050,North Lanarkshire,Local Authority,2008,Registrations,Count,810,Registrations
+S12000050,North Lanarkshire,Local Authority,2007,Registrations,Count,920,Registrations
+S12000050,North Lanarkshire,Local Authority,2009,Registrations,Count,760,Registrations
+S12000049,Glasgow City,Local Authority,2007,De-Registrations,Count,1680,De-Registrations
+S12000049,Glasgow City,Local Authority,2006,De-Registrations,Count,1810,De-Registrations
+S12000049,Glasgow City,Local Authority,2009,De-Registrations,Count,2235,De-Registrations
+S12000049,Glasgow City,Local Authority,2008,De-Registrations,Count,1835,De-Registrations
+S12000049,Glasgow City,Local Authority,2016,Registrations,Count,3290,Registrations
+S12000049,Glasgow City,Local Authority,2015,Registrations,Count,3185,Registrations
+S12000049,Glasgow City,Local Authority,2005,De-Registrations,Count,1915,De-Registrations
+S12000049,Glasgow City,Local Authority,2004,De-Registrations,Count,2150,De-Registrations
+S12000049,Glasgow City,Local Authority,2014,De-Registrations,Count,2345,De-Registrations
+S12000049,Glasgow City,Local Authority,2013,De-Registrations,Count,2165,De-Registrations
+S12000049,Glasgow City,Local Authority,2016,De-Registrations,Count,2820,De-Registrations
+S12000049,Glasgow City,Local Authority,2015,De-Registrations,Count,2705,De-Registrations
+S12000049,Glasgow City,Local Authority,2011,De-Registrations,Count,2095,De-Registrations
+S12000049,Glasgow City,Local Authority,2010,De-Registrations,Count,2235,De-Registrations
+S12000049,Glasgow City,Local Authority,2012,De-Registrations,Count,2630,De-Registrations
+S12000049,Glasgow City,Local Authority,2005,Registrations,Count,2170,Registrations
+S12000049,Glasgow City,Local Authority,2004,Registrations,Count,1780,Registrations
+S12000049,Glasgow City,Local Authority,2007,Registrations,Count,2185,Registrations
+S12000049,Glasgow City,Local Authority,2006,Registrations,Count,1825,Registrations
+S12000050,North Lanarkshire,Local Authority,2017,Registrations,Count,1120,Registrations
+S12000050,North Lanarkshire,Local Authority,2016,De-Registrations,Count,915,De-Registrations
+S12000050,North Lanarkshire,Local Authority,2017,De-Registrations,Count,1010,De-Registrations
+S12000049,Glasgow City,Local Authority,2012,Registrations,Count,2300,Registrations
+S12000049,Glasgow City,Local Authority,2011,Registrations,Count,2220,Registrations
+S12000049,Glasgow City,Local Authority,2014,Registrations,Count,2880,Registrations
+S12000049,Glasgow City,Local Authority,2013,Registrations,Count,2830,Registrations
+S12000049,Glasgow City,Local Authority,2009,Registrations,Count,1950,Registrations
+S12000049,Glasgow City,Local Authority,2008,Registrations,Count,2075,Registrations
+S12000049,Glasgow City,Local Authority,2010,Registrations,Count,2145,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2017,Registrations,Count,90,Registrations
+S12000020,Moray,Local Authority,2017,Registrations,Count,315,Registrations
+S12000023,Orkney Islands,Local Authority,2017,Registrations,Count,75,Registrations
+S12000021,North Ayrshire,Local Authority,2017,Registrations,Count,405,Registrations
+S12000017,Highland,Local Authority,2017,Registrations,Count,905,Registrations
+S12000047,Fife,Local Authority,2017,Registrations,Count,1350,Registrations
+S12000019,Midlothian,Local Authority,2017,Registrations,Count,280,Registrations
+S12000018,Inverclyde,Local Authority,2017,Registrations,Count,215,Registrations
+S12000028,South Ayrshire,Local Authority,2017,Registrations,Count,400,Registrations
+S12000027,Shetland Islands,Local Authority,2017,Registrations,Count,90,Registrations
+S12000030,Stirling,Local Authority,2017,Registrations,Count,380,Registrations
+S12000029,South Lanarkshire,Local Authority,2017,Registrations,Count,1165,Registrations
+S12000038,Renfrewshire,Local Authority,2017,Registrations,Count,650,Registrations
+S12000048,Perth and Kinross,Local Authority,2017,Registrations,Count,545,Registrations
+S12000026,Scottish Borders,Local Authority,2017,Registrations,Count,325,Registrations
+S12000035,Argyll and Bute,Local Authority,2017,Registrations,Count,270,Registrations
+S12000041,Angus,Local Authority,2017,Registrations,Count,370,Registrations
+S12000005,Clackmannanshire,Local Authority,2017,Registrations,Count,150,Registrations
+S12000036,City of Edinburgh,Local Authority,2017,Registrations,Count,2640,Registrations
+S12000033,Aberdeen City,Local Authority,2017,Registrations,Count,1945,Registrations
+S12000034,Aberdeenshire,Local Authority,2017,Registrations,Count,1125,Registrations
+S12000010,East Lothian,Local Authority,2017,Registrations,Count,360,Registrations
+S12000045,East Dunbartonshire,Local Authority,2017,Registrations,Count,370,Registrations
+S12000014,Falkirk,Local Authority,2017,Registrations,Count,480,Registrations
+S12000011,East Renfrewshire,Local Authority,2017,Registrations,Count,330,Registrations
+S12000042,Dundee City,Local Authority,2017,Registrations,Count,460,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2017,Registrations,Count,350,Registrations
+S12000008,East Ayrshire,Local Authority,2017,Registrations,Count,420,Registrations
+S12000019,Midlothian,Local Authority,2017,De-Registrations,Count,230,De-Registrations
+S12000018,Inverclyde,Local Authority,2017,De-Registrations,Count,200,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2017,De-Registrations,Count,85,De-Registrations
+S12000020,Moray,Local Authority,2017,De-Registrations,Count,270,De-Registrations
+S12000014,Falkirk,Local Authority,2017,De-Registrations,Count,470,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2017,De-Registrations,Count,335,De-Registrations
+S12000017,Highland,Local Authority,2017,De-Registrations,Count,925,De-Registrations
+S12000047,Fife,Local Authority,2017,De-Registrations,Count,1165,De-Registrations
+S12000026,Scottish Borders,Local Authority,2017,De-Registrations,Count,375,De-Registrations
+S12000038,Renfrewshire,Local Authority,2017,De-Registrations,Count,595,De-Registrations
+S12000028,South Ayrshire,Local Authority,2017,De-Registrations,Count,430,De-Registrations
+S12000027,Shetland Islands,Local Authority,2017,De-Registrations,Count,90,De-Registrations
+S12000023,Orkney Islands,Local Authority,2017,De-Registrations,Count,60,De-Registrations
+S12000021,North Ayrshire,Local Authority,2017,De-Registrations,Count,385,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2017,De-Registrations,Count,520,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2017,De-Registrations,Count,1200,De-Registrations
+S12000033,Aberdeen City,Local Authority,2017,De-Registrations,Count,1640,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2017,De-Registrations,Count,315,De-Registrations
+S12000041,Angus,Local Authority,2017,De-Registrations,Count,365,De-Registrations
+S12000040,West Lothian,Local Authority,2017,Registrations,Count,620,Registrations
+S12000039,West Dunbartonshire,Local Authority,2017,Registrations,Count,260,Registrations
+S12000008,East Ayrshire,Local Authority,2017,De-Registrations,Count,370,De-Registrations
+S12000042,Dundee City,Local Authority,2017,De-Registrations,Count,450,De-Registrations
+S12000010,East Lothian,Local Authority,2017,De-Registrations,Count,290,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2017,De-Registrations,Count,350,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2017,De-Registrations,Count,150,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2017,De-Registrations,Count,2495,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2017,De-Registrations,Count,390,De-Registrations
+S12000020,Moray,Local Authority,2014,De-Registrations,Count,215,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2014,De-Registrations,Count,65,De-Registrations
+S12000018,Inverclyde,Local Authority,2014,De-Registrations,Count,160,De-Registrations
+S12000019,Midlothian,Local Authority,2014,De-Registrations,Count,200,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2014,De-Registrations,Count,480,De-Registrations
+S12000038,Renfrewshire,Local Authority,2014,De-Registrations,Count,450,De-Registrations
+S12000021,North Ayrshire,Local Authority,2014,De-Registrations,Count,305,De-Registrations
+S12000023,Orkney Islands,Local Authority,2014,De-Registrations,Count,50,De-Registrations
+S12000010,East Lothian,Local Authority,2014,De-Registrations,Count,260,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2014,De-Registrations,Count,245,De-Registrations
+S12000008,East Ayrshire,Local Authority,2014,De-Registrations,Count,270,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2014,De-Registrations,Count,315,De-Registrations
+S12000047,Fife,Local Authority,2014,De-Registrations,Count,860,De-Registrations
+S12000017,Highland,Local Authority,2014,De-Registrations,Count,740,De-Registrations
+S12000014,Falkirk,Local Authority,2014,De-Registrations,Count,360,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2015,De-Registrations,Count,1030,De-Registrations
+S12000041,Angus,Local Authority,2015,De-Registrations,Count,320,De-Registrations
+S12000033,Aberdeen City,Local Authority,2015,De-Registrations,Count,1230,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2015,De-Registrations,Count,2295,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2015,De-Registrations,Count,145,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2015,De-Registrations,Count,270,De-Registrations
+S12000028,South Ayrshire,Local Authority,2014,De-Registrations,Count,295,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2014,De-Registrations,Count,830,De-Registrations
+S12000026,Scottish Borders,Local Authority,2014,De-Registrations,Count,350,De-Registrations
+S12000027,Shetland Islands,Local Authority,2014,De-Registrations,Count,70,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2014,De-Registrations,Count,200,De-Registrations
+S12000040,West Lothian,Local Authority,2014,De-Registrations,Count,435,De-Registrations
+S12000030,Stirling,Local Authority,2014,De-Registrations,Count,310,De-Registrations
+S12000021,North Ayrshire,Local Authority,2013,De-Registrations,Count,285,De-Registrations
+S12000023,Orkney Islands,Local Authority,2013,De-Registrations,Count,40,De-Registrations
+S12000020,Moray,Local Authority,2013,De-Registrations,Count,220,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2013,De-Registrations,Count,65,De-Registrations
+S12000026,Scottish Borders,Local Authority,2013,De-Registrations,Count,320,De-Registrations
+S12000027,Shetland Islands,Local Authority,2013,De-Registrations,Count,70,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2013,De-Registrations,Count,465,De-Registrations
+S12000038,Renfrewshire,Local Authority,2013,De-Registrations,Count,440,De-Registrations
+S12000014,Falkirk,Local Authority,2013,De-Registrations,Count,365,De-Registrations
+S12000047,Fife,Local Authority,2013,De-Registrations,Count,800,De-Registrations
+S12000010,East Lothian,Local Authority,2013,De-Registrations,Count,260,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2013,De-Registrations,Count,240,De-Registrations
+S12000018,Inverclyde,Local Authority,2013,De-Registrations,Count,170,De-Registrations
+S12000019,Midlothian,Local Authority,2013,De-Registrations,Count,185,De-Registrations
+S12000017,Highland,Local Authority,2013,De-Registrations,Count,710,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2014,De-Registrations,Count,250,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2014,De-Registrations,Count,1855,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2014,De-Registrations,Count,890,De-Registrations
+S12000041,Angus,Local Authority,2014,De-Registrations,Count,280,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2014,De-Registrations,Count,365,De-Registrations
+S12000042,Dundee City,Local Authority,2014,De-Registrations,Count,385,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2014,De-Registrations,Count,115,De-Registrations
+S12000030,Stirling,Local Authority,2013,De-Registrations,Count,280,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2013,De-Registrations,Count,170,De-Registrations
+S12000028,South Ayrshire,Local Authority,2013,De-Registrations,Count,305,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2013,De-Registrations,Count,845,De-Registrations
+S12000033,Aberdeen City,Local Authority,2014,De-Registrations,Count,880,De-Registrations
+S12000040,West Lothian,Local Authority,2013,De-Registrations,Count,395,De-Registrations
+S12000014,Falkirk,Local Authority,2016,De-Registrations,Count,440,De-Registrations
+S12000047,Fife,Local Authority,2016,De-Registrations,Count,1000,De-Registrations
+S12000010,East Lothian,Local Authority,2016,De-Registrations,Count,285,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2016,De-Registrations,Count,280,De-Registrations
+S12000019,Midlothian,Local Authority,2016,De-Registrations,Count,220,De-Registrations
+S12000020,Moray,Local Authority,2016,De-Registrations,Count,280,De-Registrations
+S12000017,Highland,Local Authority,2016,De-Registrations,Count,925,De-Registrations
+S12000018,Inverclyde,Local Authority,2016,De-Registrations,Count,210,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2016,De-Registrations,Count,135,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2016,De-Registrations,Count,370,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2016,De-Registrations,Count,270,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2016,De-Registrations,Count,2230,De-Registrations
+S12000008,East Ayrshire,Local Authority,2016,De-Registrations,Count,295,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2016,De-Registrations,Count,305,De-Registrations
+S12000042,Dundee City,Local Authority,2016,De-Registrations,Count,425,De-Registrations
+S12000030,Stirling,Local Authority,2016,De-Registrations,Count,350,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2016,De-Registrations,Count,235,De-Registrations
+S12000028,South Ayrshire,Local Authority,2016,De-Registrations,Count,350,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2016,De-Registrations,Count,985,De-Registrations
+S12000049,Glasgow City,Local Authority,2017,De-Registrations,Count,2935,De-Registrations
+S12000049,Glasgow City,Local Authority,2017,Registrations,Count,3105,Registrations
+S12000040,West Lothian,Local Authority,2016,De-Registrations,Count,525,De-Registrations
+S12000023,Orkney Islands,Local Authority,2016,De-Registrations,Count,65,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2016,De-Registrations,Count,460,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2016,De-Registrations,Count,75,De-Registrations
+S12000021,North Ayrshire,Local Authority,2016,De-Registrations,Count,355,De-Registrations
+S12000026,Scottish Borders,Local Authority,2016,De-Registrations,Count,340,De-Registrations
+S12000027,Shetland Islands,Local Authority,2016,De-Registrations,Count,65,De-Registrations
+S12000038,Renfrewshire,Local Authority,2016,De-Registrations,Count,575,De-Registrations
+S12000018,Inverclyde,Local Authority,2015,De-Registrations,Count,205,De-Registrations
+S12000019,Midlothian,Local Authority,2015,De-Registrations,Count,235,De-Registrations
+S12000047,Fife,Local Authority,2015,De-Registrations,Count,985,De-Registrations
+S12000017,Highland,Local Authority,2015,De-Registrations,Count,865,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2015,De-Registrations,Count,100,De-Registrations
+S12000021,North Ayrshire,Local Authority,2015,De-Registrations,Count,345,De-Registrations
+S12000020,Moray,Local Authority,2015,De-Registrations,Count,235,De-Registrations
+S12000008,East Ayrshire,Local Authority,2015,De-Registrations,Count,310,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2015,De-Registrations,Count,315,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2015,De-Registrations,Count,390,De-Registrations
+S12000042,Dundee City,Local Authority,2015,De-Registrations,Count,450,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2015,De-Registrations,Count,325,De-Registrations
+S12000014,Falkirk,Local Authority,2015,De-Registrations,Count,435,De-Registrations
+S12000010,East Lothian,Local Authority,2015,De-Registrations,Count,270,De-Registrations
+S12000040,West Lothian,Local Authority,2015,De-Registrations,Count,475,De-Registrations
+S12000030,Stirling,Local Authority,2015,De-Registrations,Count,355,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2015,De-Registrations,Count,220,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2016,De-Registrations,Count,1215,De-Registrations
+S12000041,Angus,Local Authority,2016,De-Registrations,Count,380,De-Registrations
+S12000033,Aberdeen City,Local Authority,2016,De-Registrations,Count,1500,De-Registrations
+S12000038,Renfrewshire,Local Authority,2015,De-Registrations,Count,565,De-Registrations
+S12000026,Scottish Borders,Local Authority,2015,De-Registrations,Count,385,De-Registrations
+S12000023,Orkney Islands,Local Authority,2015,De-Registrations,Count,65,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2015,De-Registrations,Count,505,De-Registrations
+S12000028,South Ayrshire,Local Authority,2015,De-Registrations,Count,330,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2015,De-Registrations,Count,915,De-Registrations
+S12000027,Shetland Islands,Local Authority,2015,De-Registrations,Count,70,De-Registrations
+S12000030,Stirling,Local Authority,2008,Registrations,Count,400,Registrations
+S12000039,West Dunbartonshire,Local Authority,2008,Registrations,Count,180,Registrations
+S12000028,South Ayrshire,Local Authority,2008,Registrations,Count,320,Registrations
+S12000029,South Lanarkshire,Local Authority,2008,Registrations,Count,875,Registrations
+S12000033,Aberdeen City,Local Authority,2009,Registrations,Count,790,Registrations
+S12000034,Aberdeenshire,Local Authority,2009,Registrations,Count,820,Registrations
+S12000040,West Lothian,Local Authority,2008,Registrations,Count,505,Registrations
+S12000023,Orkney Islands,Local Authority,2008,Registrations,Count,55,Registrations
+S12000048,Perth and Kinross,Local Authority,2008,Registrations,Count,475,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2008,Registrations,Count,90,Registrations
+S12000021,North Ayrshire,Local Authority,2008,Registrations,Count,335,Registrations
+S12000026,Scottish Borders,Local Authority,2008,Registrations,Count,375,Registrations
+S12000027,Shetland Islands,Local Authority,2008,Registrations,Count,50,Registrations
+S12000038,Renfrewshire,Local Authority,2008,Registrations,Count,475,Registrations
+S12000011,East Renfrewshire,Local Authority,2009,Registrations,Count,260,Registrations
+S12000014,Falkirk,Local Authority,2009,Registrations,Count,345,Registrations
+S12000045,East Dunbartonshire,Local Authority,2009,Registrations,Count,275,Registrations
+S12000010,East Lothian,Local Authority,2009,Registrations,Count,265,Registrations
+S12000017,Highland,Local Authority,2009,Registrations,Count,750,Registrations
+S12000018,Inverclyde,Local Authority,2009,Registrations,Count,160,Registrations
+S12000047,Fife,Local Authority,2009,Registrations,Count,865,Registrations
+S12000036,City of Edinburgh,Local Authority,2009,Registrations,Count,1745,Registrations
+S12000005,Clackmannanshire,Local Authority,2009,Registrations,Count,105,Registrations
+S12000041,Angus,Local Authority,2009,Registrations,Count,265,Registrations
+S12000035,Argyll and Bute,Local Authority,2009,Registrations,Count,245,Registrations
+S12000042,Dundee City,Local Authority,2009,Registrations,Count,325,Registrations
+S12000008,East Ayrshire,Local Authority,2009,Registrations,Count,255,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2009,Registrations,Count,345,Registrations
+S12000040,West Lothian,Local Authority,2007,Registrations,Count,525,Registrations
+S12000030,Stirling,Local Authority,2007,Registrations,Count,390,Registrations
+S12000039,West Dunbartonshire,Local Authority,2007,Registrations,Count,215,Registrations
+S12000041,Angus,Local Authority,2008,Registrations,Count,315,Registrations
+S12000035,Argyll and Bute,Local Authority,2008,Registrations,Count,275,Registrations
+S12000033,Aberdeen City,Local Authority,2008,Registrations,Count,935,Registrations
+S12000034,Aberdeenshire,Local Authority,2008,Registrations,Count,1045,Registrations
+S12000038,Renfrewshire,Local Authority,2007,Registrations,Count,530,Registrations
+S12000026,Scottish Borders,Local Authority,2007,Registrations,Count,420,Registrations
+S12000023,Orkney Islands,Local Authority,2007,Registrations,Count,65,Registrations
+S12000048,Perth and Kinross,Local Authority,2007,Registrations,Count,520,Registrations
+S12000028,South Ayrshire,Local Authority,2007,Registrations,Count,365,Registrations
+S12000029,South Lanarkshire,Local Authority,2007,Registrations,Count,985,Registrations
+S12000027,Shetland Islands,Local Authority,2007,Registrations,Count,60,Registrations
+S12000047,Fife,Local Authority,2008,Registrations,Count,980,Registrations
+S12000017,Highland,Local Authority,2008,Registrations,Count,855,Registrations
+S12000011,East Renfrewshire,Local Authority,2008,Registrations,Count,265,Registrations
+S12000014,Falkirk,Local Authority,2008,Registrations,Count,400,Registrations
+S12000019,Midlothian,Local Authority,2008,Registrations,Count,165,Registrations
+S12000020,Moray,Local Authority,2008,Registrations,Count,245,Registrations
+S12000018,Inverclyde,Local Authority,2008,Registrations,Count,175,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2008,Registrations,Count,375,Registrations
+S12000042,Dundee City,Local Authority,2008,Registrations,Count,325,Registrations
+S12000036,City of Edinburgh,Local Authority,2008,Registrations,Count,1845,Registrations
+S12000005,Clackmannanshire,Local Authority,2008,Registrations,Count,135,Registrations
+S12000045,East Dunbartonshire,Local Authority,2008,Registrations,Count,310,Registrations
+S12000010,East Lothian,Local Authority,2008,Registrations,Count,275,Registrations
+S12000008,East Ayrshire,Local Authority,2008,Registrations,Count,285,Registrations
+S12000026,Scottish Borders,Local Authority,2010,Registrations,Count,315,Registrations
+S12000027,Shetland Islands,Local Authority,2010,Registrations,Count,50,Registrations
+S12000048,Perth and Kinross,Local Authority,2010,Registrations,Count,420,Registrations
+S12000038,Renfrewshire,Local Authority,2010,Registrations,Count,475,Registrations
+S12000030,Stirling,Local Authority,2010,Registrations,Count,355,Registrations
+S12000039,West Dunbartonshire,Local Authority,2010,Registrations,Count,185,Registrations
+S12000028,South Ayrshire,Local Authority,2010,Registrations,Count,280,Registrations
+S12000029,South Lanarkshire,Local Authority,2010,Registrations,Count,810,Registrations
+S12000019,Midlothian,Local Authority,2010,Registrations,Count,195,Registrations
+S12000020,Moray,Local Authority,2010,Registrations,Count,200,Registrations
+S12000017,Highland,Local Authority,2010,Registrations,Count,720,Registrations
+S12000018,Inverclyde,Local Authority,2010,Registrations,Count,140,Registrations
+S12000021,North Ayrshire,Local Authority,2010,Registrations,Count,290,Registrations
+S12000023,Orkney Islands,Local Authority,2010,Registrations,Count,50,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2010,Registrations,Count,65,Registrations
+S12000042,Dundee City,Local Authority,2011,Registrations,Count,335,Registrations
+S12000008,East Ayrshire,Local Authority,2011,Registrations,Count,285,Registrations
+S12000005,Clackmannanshire,Local Authority,2011,Registrations,Count,135,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2011,Registrations,Count,385,Registrations
+S12000010,East Lothian,Local Authority,2011,Registrations,Count,275,Registrations
+S12000011,East Renfrewshire,Local Authority,2011,Registrations,Count,295,Registrations
+S12000045,East Dunbartonshire,Local Authority,2011,Registrations,Count,295,Registrations
+S12000033,Aberdeen City,Local Authority,2011,Registrations,Count,1215,Registrations
+S12000034,Aberdeenshire,Local Authority,2011,Registrations,Count,1175,Registrations
+S12000040,West Lothian,Local Authority,2010,Registrations,Count,470,Registrations
+S12000035,Argyll and Bute,Local Authority,2011,Registrations,Count,260,Registrations
+S12000036,City of Edinburgh,Local Authority,2011,Registrations,Count,2150,Registrations
+S12000041,Angus,Local Authority,2011,Registrations,Count,310,Registrations
+S12000028,South Ayrshire,Local Authority,2009,Registrations,Count,315,Registrations
+S12000029,South Lanarkshire,Local Authority,2009,Registrations,Count,880,Registrations
+S12000026,Scottish Borders,Local Authority,2009,Registrations,Count,305,Registrations
+S12000027,Shetland Islands,Local Authority,2009,Registrations,Count,45,Registrations
+S12000040,West Lothian,Local Authority,2009,Registrations,Count,450,Registrations
+S12000030,Stirling,Local Authority,2009,Registrations,Count,305,Registrations
+S12000039,West Dunbartonshire,Local Authority,2009,Registrations,Count,165,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2009,Registrations,Count,60,Registrations
+S12000021,North Ayrshire,Local Authority,2009,Registrations,Count,260,Registrations
+S12000019,Midlothian,Local Authority,2009,Registrations,Count,220,Registrations
+S12000020,Moray,Local Authority,2009,Registrations,Count,215,Registrations
+S12000048,Perth and Kinross,Local Authority,2009,Registrations,Count,445,Registrations
+S12000038,Renfrewshire,Local Authority,2009,Registrations,Count,470,Registrations
+S12000023,Orkney Islands,Local Authority,2009,Registrations,Count,65,Registrations
+S12000045,East Dunbartonshire,Local Authority,2010,Registrations,Count,280,Registrations
+S12000010,East Lothian,Local Authority,2010,Registrations,Count,250,Registrations
+S12000042,Dundee City,Local Authority,2010,Registrations,Count,345,Registrations
+S12000008,East Ayrshire,Local Authority,2010,Registrations,Count,255,Registrations
+S12000014,Falkirk,Local Authority,2010,Registrations,Count,395,Registrations
+S12000047,Fife,Local Authority,2010,Registrations,Count,840,Registrations
+S12000011,East Renfrewshire,Local Authority,2010,Registrations,Count,250,Registrations
+S12000041,Angus,Local Authority,2010,Registrations,Count,275,Registrations
+S12000035,Argyll and Bute,Local Authority,2010,Registrations,Count,265,Registrations
+S12000033,Aberdeen City,Local Authority,2010,Registrations,Count,1035,Registrations
+S12000034,Aberdeenshire,Local Authority,2010,Registrations,Count,880,Registrations
+S12000005,Clackmannanshire,Local Authority,2010,Registrations,Count,115,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2010,Registrations,Count,315,Registrations
+S12000036,City of Edinburgh,Local Authority,2010,Registrations,Count,2070,Registrations
+S12000036,City of Edinburgh,Local Authority,2005,Registrations,Count,1855,Registrations
+S12000005,Clackmannanshire,Local Authority,2005,Registrations,Count,145,Registrations
+S12000041,Angus,Local Authority,2005,Registrations,Count,315,Registrations
+S12000035,Argyll and Bute,Local Authority,2005,Registrations,Count,375,Registrations
+S12000008,East Ayrshire,Local Authority,2005,Registrations,Count,315,Registrations
+S12000045,East Dunbartonshire,Local Authority,2005,Registrations,Count,290,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2005,Registrations,Count,520,Registrations
+S12000042,Dundee City,Local Authority,2005,Registrations,Count,405,Registrations
+S12000039,West Dunbartonshire,Local Authority,2004,Registrations,Count,145,Registrations
+S12000040,West Lothian,Local Authority,2004,Registrations,Count,445,Registrations
+S12000029,South Lanarkshire,Local Authority,2004,Registrations,Count,850,Registrations
+S12000030,Stirling,Local Authority,2004,Registrations,Count,315,Registrations
+S12000033,Aberdeen City,Local Authority,2005,Registrations,Count,830,Registrations
+S12000034,Aberdeenshire,Local Authority,2005,Registrations,Count,1015,Registrations
+S12000021,North Ayrshire,Local Authority,2005,Registrations,Count,360,Registrations
+S12000023,Orkney Islands,Local Authority,2005,Registrations,Count,90,Registrations
+S12000020,Moray,Local Authority,2005,Registrations,Count,295,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2005,Registrations,Count,90,Registrations
+S12000038,Renfrewshire,Local Authority,2005,Registrations,Count,515,Registrations
+S12000026,Scottish Borders,Local Authority,2005,Registrations,Count,405,Registrations
+S12000048,Perth and Kinross,Local Authority,2005,Registrations,Count,530,Registrations
+S12000014,Falkirk,Local Authority,2005,Registrations,Count,395,Registrations
+S12000047,Fife,Local Authority,2005,Registrations,Count,900,Registrations
+S12000010,East Lothian,Local Authority,2005,Registrations,Count,300,Registrations
+S12000011,East Renfrewshire,Local Authority,2005,Registrations,Count,250,Registrations
+S12000018,Inverclyde,Local Authority,2005,Registrations,Count,180,Registrations
+S12000019,Midlothian,Local Authority,2005,Registrations,Count,230,Registrations
+S12000017,Highland,Local Authority,2005,Registrations,Count,920,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2004,Registrations,Count,395,Registrations
+S12000042,Dundee City,Local Authority,2004,Registrations,Count,320,Registrations
+S12000036,City of Edinburgh,Local Authority,2004,Registrations,Count,1710,Registrations
+S12000005,Clackmannanshire,Local Authority,2004,Registrations,Count,110,Registrations
+S12000010,East Lothian,Local Authority,2004,Registrations,Count,220,Registrations
+S12000011,East Renfrewshire,Local Authority,2004,Registrations,Count,210,Registrations
+S12000008,East Ayrshire,Local Authority,2004,Registrations,Count,285,Registrations
+S12000045,East Dunbartonshire,Local Authority,2004,Registrations,Count,250,Registrations
+S12000033,Aberdeen City,Local Authority,2004,Registrations,Count,675,Registrations
+S12000041,Angus,Local Authority,2004,Registrations,Count,285,Registrations
+S12000035,Argyll and Bute,Local Authority,2004,Registrations,Count,295,Registrations
+S12000034,Aberdeenshire,Local Authority,2004,Registrations,Count,795,Registrations
+S12000048,Perth and Kinross,Local Authority,2004,Registrations,Count,460,Registrations
+S12000038,Renfrewshire,Local Authority,2004,Registrations,Count,405,Registrations
+S12000021,North Ayrshire,Local Authority,2004,Registrations,Count,280,Registrations
+S12000023,Orkney Islands,Local Authority,2004,Registrations,Count,75,Registrations
+S12000027,Shetland Islands,Local Authority,2004,Registrations,Count,55,Registrations
+S12000028,South Ayrshire,Local Authority,2004,Registrations,Count,340,Registrations
+S12000026,Scottish Borders,Local Authority,2004,Registrations,Count,360,Registrations
+S12000017,Highland,Local Authority,2004,Registrations,Count,760,Registrations
+S12000018,Inverclyde,Local Authority,2004,Registrations,Count,155,Registrations
+S12000014,Falkirk,Local Authority,2004,Registrations,Count,370,Registrations
+S12000047,Fife,Local Authority,2004,Registrations,Count,850,Registrations
+S12000020,Moray,Local Authority,2004,Registrations,Count,210,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2004,Registrations,Count,60,Registrations
+S12000019,Midlothian,Local Authority,2004,Registrations,Count,215,Registrations
+S12000033,Aberdeen City,Local Authority,2007,Registrations,Count,1220,Registrations
+S12000034,Aberdeenshire,Local Authority,2007,Registrations,Count,1385,Registrations
+S12000040,West Lothian,Local Authority,2006,Registrations,Count,465,Registrations
+S12000036,City of Edinburgh,Local Authority,2007,Registrations,Count,1990,Registrations
+S12000005,Clackmannanshire,Local Authority,2007,Registrations,Count,165,Registrations
+S12000041,Angus,Local Authority,2007,Registrations,Count,400,Registrations
+S12000035,Argyll and Bute,Local Authority,2007,Registrations,Count,320,Registrations
+S12000027,Shetland Islands,Local Authority,2006,Registrations,Count,65,Registrations
+S12000028,South Ayrshire,Local Authority,2006,Registrations,Count,340,Registrations
+S12000038,Renfrewshire,Local Authority,2006,Registrations,Count,450,Registrations
+S12000026,Scottish Borders,Local Authority,2006,Registrations,Count,355,Registrations
+S12000030,Stirling,Local Authority,2006,Registrations,Count,340,Registrations
+S12000039,West Dunbartonshire,Local Authority,2006,Registrations,Count,160,Registrations
+S12000029,South Lanarkshire,Local Authority,2006,Registrations,Count,835,Registrations
+S12000018,Inverclyde,Local Authority,2007,Registrations,Count,230,Registrations
+S12000019,Midlothian,Local Authority,2007,Registrations,Count,230,Registrations
+S12000047,Fife,Local Authority,2007,Registrations,Count,1050,Registrations
+S12000017,Highland,Local Authority,2007,Registrations,Count,885,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2007,Registrations,Count,75,Registrations
+S12000021,North Ayrshire,Local Authority,2007,Registrations,Count,355,Registrations
+S12000020,Moray,Local Authority,2007,Registrations,Count,235,Registrations
+S12000008,East Ayrshire,Local Authority,2007,Registrations,Count,305,Registrations
+S12000045,East Dunbartonshire,Local Authority,2007,Registrations,Count,340,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2007,Registrations,Count,445,Registrations
+S12000042,Dundee City,Local Authority,2007,Registrations,Count,370,Registrations
+S12000011,East Renfrewshire,Local Authority,2007,Registrations,Count,280,Registrations
+S12000014,Falkirk,Local Authority,2007,Registrations,Count,440,Registrations
+S12000010,East Lothian,Local Authority,2007,Registrations,Count,265,Registrations
+S12000041,Angus,Local Authority,2006,Registrations,Count,330,Registrations
+S12000035,Argyll and Bute,Local Authority,2006,Registrations,Count,285,Registrations
+S12000033,Aberdeen City,Local Authority,2006,Registrations,Count,760,Registrations
+S12000034,Aberdeenshire,Local Authority,2006,Registrations,Count,895,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2006,Registrations,Count,400,Registrations
+S12000042,Dundee City,Local Authority,2006,Registrations,Count,355,Registrations
+S12000036,City of Edinburgh,Local Authority,2006,Registrations,Count,1740,Registrations
+S12000005,Clackmannanshire,Local Authority,2006,Registrations,Count,125,Registrations
+S12000029,South Lanarkshire,Local Authority,2005,Registrations,Count,890,Registrations
+S12000030,Stirling,Local Authority,2005,Registrations,Count,395,Registrations
+S12000027,Shetland Islands,Local Authority,2005,Registrations,Count,75,Registrations
+S12000028,South Ayrshire,Local Authority,2005,Registrations,Count,345,Registrations
+S12000040,West Lothian,Local Authority,2005,Registrations,Count,530,Registrations
+S12000039,West Dunbartonshire,Local Authority,2005,Registrations,Count,200,Registrations
+S12000020,Moray,Local Authority,2006,Registrations,Count,245,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2006,Registrations,Count,70,Registrations
+S12000018,Inverclyde,Local Authority,2006,Registrations,Count,180,Registrations
+S12000019,Midlothian,Local Authority,2006,Registrations,Count,225,Registrations
+S12000023,Orkney Islands,Local Authority,2006,Registrations,Count,60,Registrations
+S12000048,Perth and Kinross,Local Authority,2006,Registrations,Count,485,Registrations
+S12000021,North Ayrshire,Local Authority,2006,Registrations,Count,295,Registrations
+S12000010,East Lothian,Local Authority,2006,Registrations,Count,255,Registrations
+S12000011,East Renfrewshire,Local Authority,2006,Registrations,Count,250,Registrations
+S12000008,East Ayrshire,Local Authority,2006,Registrations,Count,275,Registrations
+S12000045,East Dunbartonshire,Local Authority,2006,Registrations,Count,250,Registrations
+S12000047,Fife,Local Authority,2006,Registrations,Count,840,Registrations
+S12000017,Highland,Local Authority,2006,Registrations,Count,800,Registrations
+S12000014,Falkirk,Local Authority,2006,Registrations,Count,360,Registrations
+S12000045,East Dunbartonshire,Local Authority,2016,Registrations,Count,390,Registrations
+S12000010,East Lothian,Local Authority,2016,Registrations,Count,355,Registrations
+S12000042,Dundee City,Local Authority,2016,Registrations,Count,500,Registrations
+S12000008,East Ayrshire,Local Authority,2016,Registrations,Count,405,Registrations
+S12000047,Fife,Local Authority,2016,Registrations,Count,1410,Registrations
+S12000017,Highland,Local Authority,2016,Registrations,Count,940,Registrations
+S12000011,East Renfrewshire,Local Authority,2016,Registrations,Count,370,Registrations
+S12000014,Falkirk,Local Authority,2016,Registrations,Count,520,Registrations
+S12000041,Angus,Local Authority,2016,Registrations,Count,385,Registrations
+S12000035,Argyll and Bute,Local Authority,2016,Registrations,Count,310,Registrations
+S12000033,Aberdeen City,Local Authority,2016,Registrations,Count,1160,Registrations
+S12000034,Aberdeenshire,Local Authority,2016,Registrations,Count,1200,Registrations
+S12000005,Clackmannanshire,Local Authority,2016,Registrations,Count,140,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2016,Registrations,Count,390,Registrations
+S12000036,City of Edinburgh,Local Authority,2016,Registrations,Count,2915,Registrations
+S12000027,Shetland Islands,Local Authority,2016,Registrations,Count,85,Registrations
+S12000028,South Ayrshire,Local Authority,2016,Registrations,Count,455,Registrations
+S12000038,Renfrewshire,Local Authority,2016,Registrations,Count,720,Registrations
+S12000026,Scottish Borders,Local Authority,2016,Registrations,Count,380,Registrations
+S12000039,West Dunbartonshire,Local Authority,2016,Registrations,Count,295,Registrations
+S12000040,West Lothian,Local Authority,2016,Registrations,Count,720,Registrations
+S12000029,South Lanarkshire,Local Authority,2016,Registrations,Count,1240,Registrations
+S12000030,Stirling,Local Authority,2016,Registrations,Count,405,Registrations
+S12000020,Moray,Local Authority,2016,Registrations,Count,285,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2016,Registrations,Count,85,Registrations
+S12000018,Inverclyde,Local Authority,2016,Registrations,Count,230,Registrations
+S12000019,Midlothian,Local Authority,2016,Registrations,Count,315,Registrations
+S12000023,Orkney Islands,Local Authority,2016,Registrations,Count,80,Registrations
+S12000048,Perth and Kinross,Local Authority,2016,Registrations,Count,550,Registrations
+S12000021,North Ayrshire,Local Authority,2016,Registrations,Count,475,Registrations
+S12000011,East Renfrewshire,Local Authority,2015,Registrations,Count,375,Registrations
+S12000014,Falkirk,Local Authority,2015,Registrations,Count,510,Registrations
+S12000045,East Dunbartonshire,Local Authority,2015,Registrations,Count,405,Registrations
+S12000010,East Lothian,Local Authority,2015,Registrations,Count,375,Registrations
+S12000018,Inverclyde,Local Authority,2015,Registrations,Count,250,Registrations
+S12000019,Midlothian,Local Authority,2015,Registrations,Count,280,Registrations
+S12000047,Fife,Local Authority,2015,Registrations,Count,1260,Registrations
+S12000017,Highland,Local Authority,2015,Registrations,Count,965,Registrations
+S12000036,City of Edinburgh,Local Authority,2015,Registrations,Count,3060,Registrations
+S12000005,Clackmannanshire,Local Authority,2015,Registrations,Count,165,Registrations
+S12000041,Angus,Local Authority,2015,Registrations,Count,385,Registrations
+S12000035,Argyll and Bute,Local Authority,2015,Registrations,Count,280,Registrations
+S12000042,Dundee City,Local Authority,2015,Registrations,Count,480,Registrations
+S12000008,East Ayrshire,Local Authority,2015,Registrations,Count,390,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2015,Registrations,Count,390,Registrations
+S12000029,South Lanarkshire,Local Authority,2015,Registrations,Count,1260,Registrations
+S12000030,Stirling,Local Authority,2015,Registrations,Count,405,Registrations
+S12000027,Shetland Islands,Local Authority,2015,Registrations,Count,90,Registrations
+S12000028,South Ayrshire,Local Authority,2015,Registrations,Count,410,Registrations
+S12000040,West Lothian,Local Authority,2015,Registrations,Count,680,Registrations
+S12000039,West Dunbartonshire,Local Authority,2015,Registrations,Count,275,Registrations
+S12000021,North Ayrshire,Local Authority,2015,Registrations,Count,385,Registrations
+S12000023,Orkney Islands,Local Authority,2015,Registrations,Count,60,Registrations
+S12000020,Moray,Local Authority,2015,Registrations,Count,300,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2015,Registrations,Count,90,Registrations
+S12000038,Renfrewshire,Local Authority,2015,Registrations,Count,650,Registrations
+S12000026,Scottish Borders,Local Authority,2015,Registrations,Count,370,Registrations
+S12000048,Perth and Kinross,Local Authority,2015,Registrations,Count,565,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2005,De-Registrations,Count,370,De-Registrations
+S12000042,Dundee City,Local Authority,2005,De-Registrations,Count,300,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2005,De-Registrations,Count,1555,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2005,De-Registrations,Count,100,De-Registrations
+S12000010,East Lothian,Local Authority,2005,De-Registrations,Count,230,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2005,De-Registrations,Count,250,De-Registrations
+S12000008,East Ayrshire,Local Authority,2005,De-Registrations,Count,265,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2005,De-Registrations,Count,255,De-Registrations
+S12000033,Aberdeen City,Local Authority,2005,De-Registrations,Count,740,De-Registrations
+S12000039,West Dunbartonshire,Local Authority,2004,De-Registrations,Count,130,De-Registrations
+S12000040,West Lothian,Local Authority,2004,De-Registrations,Count,390,De-Registrations
+S12000041,Angus,Local Authority,2005,De-Registrations,Count,235,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2005,De-Registrations,Count,275,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2005,De-Registrations,Count,645,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2005,De-Registrations,Count,435,De-Registrations
+S12000038,Renfrewshire,Local Authority,2005,De-Registrations,Count,450,De-Registrations
+S12000021,North Ayrshire,Local Authority,2005,De-Registrations,Count,275,De-Registrations
+S12000023,Orkney Islands,Local Authority,2005,De-Registrations,Count,50,De-Registrations
+S12000027,Shetland Islands,Local Authority,2005,De-Registrations,Count,50,De-Registrations
+S12000028,South Ayrshire,Local Authority,2005,De-Registrations,Count,310,De-Registrations
+S12000026,Scottish Borders,Local Authority,2005,De-Registrations,Count,315,De-Registrations
+S12000017,Highland,Local Authority,2005,De-Registrations,Count,690,De-Registrations
+S12000018,Inverclyde,Local Authority,2005,De-Registrations,Count,145,De-Registrations
+S12000014,Falkirk,Local Authority,2005,De-Registrations,Count,350,De-Registrations
+S12000047,Fife,Local Authority,2005,De-Registrations,Count,790,De-Registrations
+S12000020,Moray,Local Authority,2005,De-Registrations,Count,225,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2005,De-Registrations,Count,65,De-Registrations
+S12000019,Midlothian,Local Authority,2005,De-Registrations,Count,165,De-Registrations
+S12000008,East Ayrshire,Local Authority,2004,De-Registrations,Count,305,De-Registrations
+S12000045,East Dunbartonshire,Local Authority,2004,De-Registrations,Count,290,De-Registrations
+S12000006,Dumfries and Galloway,Local Authority,2004,De-Registrations,Count,340,De-Registrations
+S12000042,Dundee City,Local Authority,2004,De-Registrations,Count,365,De-Registrations
+S12000014,Falkirk,Local Authority,2004,De-Registrations,Count,310,De-Registrations
+S12000047,Fife,Local Authority,2004,De-Registrations,Count,890,De-Registrations
+S12000010,East Lothian,Local Authority,2004,De-Registrations,Count,235,De-Registrations
+S12000011,East Renfrewshire,Local Authority,2004,De-Registrations,Count,270,De-Registrations
+S12000034,Aberdeenshire,Local Authority,2004,De-Registrations,Count,740,De-Registrations
+S12000041,Angus,Local Authority,2004,De-Registrations,Count,255,De-Registrations
+S12000033,Aberdeen City,Local Authority,2004,De-Registrations,Count,805,De-Registrations
+S12000036,City of Edinburgh,Local Authority,2004,De-Registrations,Count,1750,De-Registrations
+S12000005,Clackmannanshire,Local Authority,2004,De-Registrations,Count,110,De-Registrations
+S12000035,Argyll and Bute,Local Authority,2004,De-Registrations,Count,285,De-Registrations
+S12000026,Scottish Borders,Local Authority,2004,De-Registrations,Count,350,De-Registrations
+S12000027,Shetland Islands,Local Authority,2004,De-Registrations,Count,65,De-Registrations
+S12000048,Perth and Kinross,Local Authority,2004,De-Registrations,Count,460,De-Registrations
+S12000038,Renfrewshire,Local Authority,2004,De-Registrations,Count,460,De-Registrations
+S12000029,South Lanarkshire,Local Authority,2004,De-Registrations,Count,835,De-Registrations
+S12000030,Stirling,Local Authority,2004,De-Registrations,Count,290,De-Registrations
+S12000028,South Ayrshire,Local Authority,2004,De-Registrations,Count,315,De-Registrations
+S12000019,Midlothian,Local Authority,2004,De-Registrations,Count,170,De-Registrations
+S12000020,Moray,Local Authority,2004,De-Registrations,Count,200,De-Registrations
+S12000017,Highland,Local Authority,2004,De-Registrations,Count,695,De-Registrations
+S12000018,Inverclyde,Local Authority,2004,De-Registrations,Count,170,De-Registrations
+S12000021,North Ayrshire,Local Authority,2004,De-Registrations,Count,305,De-Registrations
+S12000023,Orkney Islands,Local Authority,2004,De-Registrations,Count,60,De-Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2004,De-Registrations,Count,70,De-Registrations
+S12000042,Dundee City,Local Authority,2013,Registrations,Count,515,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2013,Registrations,Count,435,Registrations
+S12000008,East Ayrshire,Local Authority,2013,Registrations,Count,350,Registrations
+S12000036,City of Edinburgh,Local Authority,2013,Registrations,Count,2730,Registrations
+S12000035,Argyll and Bute,Local Authority,2013,Registrations,Count,320,Registrations
+S12000005,Clackmannanshire,Local Authority,2013,Registrations,Count,150,Registrations
+S12000014,Falkirk,Local Authority,2013,Registrations,Count,550,Registrations
+S12000011,East Renfrewshire,Local Authority,2013,Registrations,Count,360,Registrations
+S12000047,Fife,Local Authority,2013,Registrations,Count,1210,Registrations
+S12000045,East Dunbartonshire,Local Authority,2013,Registrations,Count,400,Registrations
+S12000010,East Lothian,Local Authority,2013,Registrations,Count,350,Registrations
+S12000030,Stirling,Local Authority,2012,Registrations,Count,335,Registrations
+S12000029,South Lanarkshire,Local Authority,2012,Registrations,Count,915,Registrations
+S12000039,West Dunbartonshire,Local Authority,2012,Registrations,Count,200,Registrations
+S12000027,Shetland Islands,Local Authority,2012,Registrations,Count,75,Registrations
+S12000026,Scottish Borders,Local Authority,2012,Registrations,Count,315,Registrations
+S12000028,South Ayrshire,Local Authority,2012,Registrations,Count,310,Registrations
+S12000034,Aberdeenshire,Local Authority,2013,Registrations,Count,1395,Registrations
+S12000033,Aberdeen City,Local Authority,2013,Registrations,Count,1445,Registrations
+S12000041,Angus,Local Authority,2013,Registrations,Count,405,Registrations
+S12000040,West Lothian,Local Authority,2012,Registrations,Count,480,Registrations
+S12000039,West Dunbartonshire,Local Authority,2013,Registrations,Count,250,Registrations
+S12000030,Stirling,Local Authority,2013,Registrations,Count,420,Registrations
+S12000040,West Lothian,Local Authority,2013,Registrations,Count,630,Registrations
+S12000028,South Ayrshire,Local Authority,2013,Registrations,Count,385,Registrations
+S12000027,Shetland Islands,Local Authority,2013,Registrations,Count,85,Registrations
+S12000029,South Lanarkshire,Local Authority,2013,Registrations,Count,1225,Registrations
+S12000041,Angus,Local Authority,2014,Registrations,Count,400,Registrations
+S12000034,Aberdeenshire,Local Authority,2014,Registrations,Count,1220,Registrations
+S12000035,Argyll and Bute,Local Authority,2014,Registrations,Count,295,Registrations
+S12000033,Aberdeen City,Local Authority,2014,Registrations,Count,1315,Registrations
+S12000020,Moray,Local Authority,2013,Registrations,Count,285,Registrations
+S12000019,Midlothian,Local Authority,2013,Registrations,Count,310,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2013,Registrations,Count,95,Registrations
+S12000017,Highland,Local Authority,2013,Registrations,Count,970,Registrations
+S12000018,Inverclyde,Local Authority,2013,Registrations,Count,225,Registrations
+S12000038,Renfrewshire,Local Authority,2013,Registrations,Count,610,Registrations
+S12000048,Perth and Kinross,Local Authority,2013,Registrations,Count,615,Registrations
+S12000026,Scottish Borders,Local Authority,2013,Registrations,Count,395,Registrations
+S12000021,North Ayrshire,Local Authority,2013,Registrations,Count,415,Registrations
+S12000023,Orkney Islands,Local Authority,2013,Registrations,Count,85,Registrations
+S12000029,South Lanarkshire,Local Authority,2011,Registrations,Count,905,Registrations
+S12000028,South Ayrshire,Local Authority,2011,Registrations,Count,340,Registrations
+S12000030,Stirling,Local Authority,2011,Registrations,Count,340,Registrations
+S12000026,Scottish Borders,Local Authority,2011,Registrations,Count,315,Registrations
+S12000038,Renfrewshire,Local Authority,2011,Registrations,Count,475,Registrations
+S12000027,Shetland Islands,Local Authority,2011,Registrations,Count,65,Registrations
+S12000033,Aberdeen City,Local Authority,2012,Registrations,Count,1285,Registrations
+S12000034,Aberdeenshire,Local Authority,2012,Registrations,Count,1205,Registrations
+S12000039,West Dunbartonshire,Local Authority,2011,Registrations,Count,185,Registrations
+S12000040,West Lothian,Local Authority,2011,Registrations,Count,515,Registrations
+S12000018,Inverclyde,Local Authority,2011,Registrations,Count,195,Registrations
+S12000017,Highland,Local Authority,2011,Registrations,Count,765,Registrations
+S12000019,Midlothian,Local Authority,2011,Registrations,Count,200,Registrations
+S12000014,Falkirk,Local Authority,2011,Registrations,Count,420,Registrations
+S12000047,Fife,Local Authority,2011,Registrations,Count,915,Registrations
+S12000023,Orkney Islands,Local Authority,2011,Registrations,Count,70,Registrations
+S12000021,North Ayrshire,Local Authority,2011,Registrations,Count,310,Registrations
+S12000048,Perth and Kinross,Local Authority,2011,Registrations,Count,485,Registrations
+S12000020,Moray,Local Authority,2011,Registrations,Count,210,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2011,Registrations,Count,80,Registrations
+S12000019,Midlothian,Local Authority,2012,Registrations,Count,205,Registrations
+S12000018,Inverclyde,Local Authority,2012,Registrations,Count,190,Registrations
+S12000020,Moray,Local Authority,2012,Registrations,Count,240,Registrations
+S12000047,Fife,Local Authority,2012,Registrations,Count,920,Registrations
+S12000014,Falkirk,Local Authority,2012,Registrations,Count,440,Registrations
+S12000017,Highland,Local Authority,2012,Registrations,Count,790,Registrations
+S12000048,Perth and Kinross,Local Authority,2012,Registrations,Count,520,Registrations
+S12000023,Orkney Islands,Local Authority,2012,Registrations,Count,60,Registrations
+S12000038,Renfrewshire,Local Authority,2012,Registrations,Count,525,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2012,Registrations,Count,80,Registrations
+S12000021,North Ayrshire,Local Authority,2012,Registrations,Count,295,Registrations
+S12000005,Clackmannanshire,Local Authority,2012,Registrations,Count,135,Registrations
+S12000036,City of Edinburgh,Local Authority,2012,Registrations,Count,2145,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2012,Registrations,Count,320,Registrations
+S12000041,Angus,Local Authority,2012,Registrations,Count,340,Registrations
+S12000035,Argyll and Bute,Local Authority,2012,Registrations,Count,300,Registrations
+S12000010,East Lothian,Local Authority,2012,Registrations,Count,300,Registrations
+S12000045,East Dunbartonshire,Local Authority,2012,Registrations,Count,310,Registrations
+S12000011,East Renfrewshire,Local Authority,2012,Registrations,Count,290,Registrations
+S12000042,Dundee City,Local Authority,2012,Registrations,Count,400,Registrations
+S12000008,East Ayrshire,Local Authority,2012,Registrations,Count,310,Registrations
+S12000018,Inverclyde,Local Authority,2014,Registrations,Count,215,Registrations
+S12000019,Midlothian,Local Authority,2014,Registrations,Count,270,Registrations
+S12000047,Fife,Local Authority,2014,Registrations,Count,1170,Registrations
+S12000017,Highland,Local Authority,2014,Registrations,Count,960,Registrations
+S12000013,Na h-Eileanan Siar,Local Authority,2014,Registrations,Count,105,Registrations
+S12000021,North Ayrshire,Local Authority,2014,Registrations,Count,425,Registrations
+S12000020,Moray,Local Authority,2014,Registrations,Count,315,Registrations
+S12000008,East Ayrshire,Local Authority,2014,Registrations,Count,390,Registrations
+S12000045,East Dunbartonshire,Local Authority,2014,Registrations,Count,395,Registrations
+S12000042,Dundee City,Local Authority,2014,Registrations,Count,500,Registrations
+S12000011,East Renfrewshire,Local Authority,2014,Registrations,Count,340,Registrations
+S12000014,Falkirk,Local Authority,2014,Registrations,Count,520,Registrations
+S12000010,East Lothian,Local Authority,2014,Registrations,Count,315,Registrations
+S12000039,West Dunbartonshire,Local Authority,2014,Registrations,Count,265,Registrations
+S12000040,West Lothian,Local Authority,2014,Registrations,Count,645,Registrations
+S12000029,South Lanarkshire,Local Authority,2014,Registrations,Count,1160,Registrations
+S12000030,Stirling,Local Authority,2014,Registrations,Count,430,Registrations
+S12000033,Aberdeen City,Local Authority,2015,Registrations,Count,1090,Registrations
+S12000034,Aberdeenshire,Local Authority,2015,Registrations,Count,1140,Registrations
+S12000048,Perth and Kinross,Local Authority,2014,Registrations,Count,625,Registrations
+S12000038,Renfrewshire,Local Authority,2014,Registrations,Count,605,Registrations
+S12000023,Orkney Islands,Local Authority,2014,Registrations,Count,70,Registrations
+S12000027,Shetland Islands,Local Authority,2014,Registrations,Count,100,Registrations
+S12000028,South Ayrshire,Local Authority,2014,Registrations,Count,380,Registrations
+S12000026,Scottish Borders,Local Authority,2014,Registrations,Count,450,Registrations
+S12000005,Clackmannanshire,Local Authority,2014,Registrations,Count,165,Registrations
+S12000036,City of Edinburgh,Local Authority,2014,Registrations,Count,2765,Registrations
+S12000006,Dumfries and Galloway,Local Authority,2014,Registrations,Count,425,Registrations
+S12000034,Aberdeenshire,Local Authority,2012,De-Registrations,Ratio,47,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2012,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2012,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2012,De-Registrations,Ratio,45,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2012,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2012,De-Registrations,Ratio,43,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2011,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2011,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2011,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2011,De-Registrations,Ratio,18,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2011,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2011,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2012,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2014,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2012,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2014,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2014,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2014,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2014,De-Registrations,Ratio,42,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2014,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2012,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2014,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2012,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2012,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2008,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2008,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2008,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2008,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2008,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2008,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2008,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2008,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2008,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2008,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2008,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2011,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2011,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2011,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2011,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2011,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2011,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2007,De-Registrations,Ratio,16,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2007,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2007,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2007,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2011,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2007,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2012,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2012,De-Registrations,Ratio,48,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2012,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2013,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2013,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2013,De-Registrations,Ratio,45,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2012,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2012,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2012,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2012,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2012,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2012,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2013,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2013,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2013,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2013,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2013,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2013,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2013,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2013,De-Registrations,Ratio,43,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2013,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2013,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2013,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2013,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2013,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2013,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2013,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2013,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2013,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2013,De-Registrations,Ratio,22,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2013,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2013,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2013,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2014,De-Registrations,Ratio,45,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2013,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2013,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2013,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2012,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2012,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2012,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2012,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2012,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2012,De-Registrations,Ratio,42,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2012,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2012,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2013,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2013,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2013,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2012,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2012,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2010,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2009,De-Registrations,Ratio,17,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2009,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2010,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2010,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2010,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2009,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2009,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2009,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2009,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2009,De-Registrations,Ratio,42,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2009,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2010,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2010,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2010,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2010,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2010,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2010,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2010,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2010,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2010,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2010,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2010,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2010,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2010,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2009,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2009,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2009,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2009,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2009,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2009,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2009,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2009,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2009,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2009,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2009,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2009,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2009,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2009,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2009,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2008,De-Registrations,Ratio,17,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2009,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2009,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2009,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2009,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2009,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2009,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2008,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2009,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2011,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2011,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2011,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2011,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2011,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2011,De-Registrations,Ratio,18,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2011,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2011,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2011,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2011,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2011,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2011,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2011,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2008,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2008,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2008,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2008,De-Registrations,Ratio,21,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2008,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2008,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2007,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2007,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2011,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2008,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2008,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2008,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2010,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2010,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2008,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2008,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2010,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2010,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2010,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2008,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2008,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2008,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2008,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2008,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2008,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2010,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2010,De-Registrations,Ratio,22,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2011,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2011,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2011,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2010,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2010,De-Registrations,Ratio,19,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2010,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2010,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2010,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2010,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2017,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2017,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2017,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2017,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2017,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2017,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2017,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2017,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2017,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2017,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2017,De-Registrations,Ratio,47,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2017,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2017,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2005,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2006,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2017,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2004,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2008,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2009,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2007,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2017,De-Registrations,Ratio,48,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2017,De-Registrations,Ratio,45,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2017,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2017,De-Registrations,Ratio,57,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2017,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2017,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2017,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2017,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2017,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2017,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2017,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2017,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2017,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2017,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2017,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2017,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2017,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2017,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2017,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2017,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2017,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2017,De-Registrations,Ratio,57,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2017,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2017,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2017,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2017,De-Registrations,Ratio,84,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2017,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2017,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2017,De-Registrations,Ratio,43,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2017,De-Registrations,Ratio,56,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2015,Registrations,Ratio,63,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2016,Registrations,Ratio,64,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2013,Registrations,Ratio,57,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2014,Registrations,Ratio,57,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2005,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2006,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2004,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2008,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2009,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2007,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2011,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2012,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2010,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2014,De-Registrations,Ratio,47,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2015,De-Registrations,Ratio,53,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2013,De-Registrations,Ratio,43,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2017,Registrations,Ratio,59,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2017,De-Registrations,Ratio,56,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2016,De-Registrations,Ratio,55,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2008,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2009,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2007,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2011,De-Registrations,Ratio,42,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2012,De-Registrations,Ratio,53,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2010,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2005,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2006,De-Registrations,Ratio,21,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2016,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2004,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2008,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2009,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2007,De-Registrations,Ratio,19,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2011,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2012,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2010,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2014,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2015,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2013,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2017,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2017,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2016,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2005,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2006,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000049,Glasgow City,Local Authority,2004,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2011,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2012,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2010,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2014,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2015,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000050,North Lanarkshire,Local Authority,2013,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2015,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2015,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2015,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2015,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2015,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2015,De-Registrations,Ratio,45,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2015,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2015,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2015,De-Registrations,Ratio,54,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2015,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2015,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2015,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2015,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2015,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2015,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2015,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2015,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2015,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2015,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2015,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2015,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2015,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2015,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2015,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2015,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2015,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2014,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2014,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2014,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2014,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2014,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2014,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2014,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2014,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2014,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2014,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2014,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2014,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2014,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2014,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2014,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2014,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2015,De-Registrations,Ratio,63,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2015,De-Registrations,Ratio,48,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2014,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2014,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2014,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2014,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2014,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2014,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2017,Registrations,Ratio,100,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2016,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2016,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2017,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2017,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2017,Registrations,Ratio,53,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2016,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2016,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2016,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2016,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2016,De-Registrations,Ratio,45,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2016,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2017,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2017,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2017,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2017,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2017,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2017,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2017,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2017,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2017,Registrations,Ratio,61,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2017,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2017,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2017,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2016,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2016,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2016,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2016,De-Registrations,Ratio,52,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2016,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2016,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2016,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2015,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2015,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2016,De-Registrations,Ratio,57,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2016,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2016,De-Registrations,Ratio,77,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2016,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2016,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2016,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2016,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2016,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2016,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2016,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2016,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2016,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2016,De-Registrations,Ratio,47,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2016,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2016,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2009,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2009,Registrations,Ratio,24,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2009,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2009,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2009,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2009,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2009,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2009,Registrations,Ratio,26,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2009,Registrations,Ratio,23,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2009,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2009,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2009,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2009,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2009,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2009,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2009,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2009,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2010,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2010,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2010,Registrations,Ratio,55,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2010,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2010,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2010,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2010,Registrations,Ratio,52,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2009,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2009,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2009,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2009,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2009,Registrations,Ratio,22,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2009,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2009,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2009,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2008,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2008,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2008,Registrations,Ratio,26,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2008,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2008,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2008,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2008,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2008,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2008,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2008,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2008,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2008,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2008,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2008,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2008,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2008,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2008,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2009,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2008,Registrations,Ratio,24,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2008,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2009,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2009,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2009,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2009,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2008,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2008,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2008,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2008,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2008,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2008,Registrations,Ratio,55,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2008,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2008,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2011,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2011,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2011,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2011,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2011,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2011,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2011,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2011,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2011,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2011,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2011,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2011,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2011,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2011,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2011,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2011,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2011,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2012,Registrations,Ratio,52,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2012,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2012,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2012,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2012,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2012,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2012,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2012,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2011,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2011,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2011,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2011,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2012,Registrations,Ratio,67,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2012,Registrations,Ratio,58,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2011,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2010,Registrations,Ratio,26,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2010,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2010,Registrations,Ratio,21,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2010,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2010,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2010,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2010,Registrations,Ratio,26,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2010,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2010,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2010,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2010,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2010,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2010,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2010,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2010,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2010,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2011,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2011,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2011,Registrations,Ratio,64,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2011,Registrations,Ratio,57,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2011,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2011,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2011,Registrations,Ratio,53,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2011,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2010,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2010,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2010,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2010,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2010,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2010,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2010,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2005,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2005,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2005,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2005,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2005,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2005,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2005,Registrations,Ratio,52,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2005,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2005,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2005,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2005,Registrations,Ratio,53,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2004,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2005,Registrations,Ratio,49,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2005,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2005,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2005,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2005,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2005,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2005,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2005,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2005,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2005,Registrations,Ratio,56,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2005,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2005,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2005,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2005,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2005,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2005,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2005,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2005,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2005,Registrations,Ratio,55,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2004,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2004,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2004,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2004,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2004,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2004,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2004,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2004,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2004,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2004,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2004,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2004,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2004,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2004,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2004,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2004,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2004,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2004,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2004,Registrations,Ratio,19,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2004,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2004,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2004,Registrations,Ratio,23,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2004,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2004,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2004,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2004,Registrations,Ratio,25,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2004,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2004,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2004,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2007,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2007,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2007,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2007,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2007,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2007,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2007,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2007,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2007,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2007,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2007,Registrations,Ratio,51,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2007,Registrations,Ratio,70,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2007,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2007,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2007,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2007,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2007,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2007,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2007,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2007,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2007,Registrations,Ratio,54,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2008,Registrations,Ratio,52,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2008,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2008,Registrations,Ratio,51,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2007,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2007,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2007,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2007,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2007,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2007,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2007,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2007,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2006,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2006,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2006,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2006,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2006,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2006,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2006,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2006,Registrations,Ratio,29,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2006,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2006,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2006,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2006,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2006,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2006,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2006,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2006,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2006,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2006,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2006,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2006,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2007,Registrations,Ratio,68,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2006,Registrations,Ratio,21,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2006,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2006,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2006,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2006,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2006,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2006,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2006,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2006,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2006,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2004,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2004,De-Registrations,Ratio,17,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2004,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2004,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2005,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2005,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2005,De-Registrations,Ratio,42,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2005,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2004,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2004,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2004,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2004,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2004,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2004,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2004,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2004,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2005,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2005,De-Registrations,Ratio,21,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2005,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2005,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2005,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2005,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2005,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2005,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2005,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2005,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2005,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2005,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2005,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2005,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2005,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2005,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2016,Registrations,Ratio,52,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2016,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2016,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2016,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2016,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2004,De-Registrations,Ratio,46,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2004,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2016,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2016,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2016,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2016,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2016,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2016,Registrations,Ratio,49,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2016,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2016,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2016,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2004,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2004,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2004,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2004,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2004,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2004,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2004,De-Registrations,Ratio,40,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2004,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2004,De-Registrations,Ratio,47,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2004,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2004,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2004,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2004,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2004,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2004,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2004,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2007,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2007,De-Registrations,Ratio,37,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2007,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2006,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2007,De-Registrations,Ratio,21,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2007,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2007,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2007,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2006,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2006,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2006,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2006,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2006,De-Registrations,Ratio,36,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2006,De-Registrations,Ratio,18,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2006,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2006,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2007,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2007,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2007,De-Registrations,Ratio,20,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2007,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2007,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2007,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2007,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2007,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2007,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2007,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2007,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2007,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2007,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2007,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2007,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2007,De-Registrations,Ratio,22,"De-Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2006,De-Registrations,Ratio,41,"De-Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2005,De-Registrations,Ratio,18,"De-Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2005,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2006,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2006,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2006,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2006,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2005,De-Registrations,Ratio,32,"De-Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2005,De-Registrations,Ratio,35,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2005,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2005,De-Registrations,Ratio,38,"De-Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2005,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2005,De-Registrations,Ratio,44,"De-Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2005,De-Registrations,Ratio,28,"De-Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2005,De-Registrations,Ratio,33,"De-Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2006,De-Registrations,Ratio,17,"De-Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2006,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2006,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2006,De-Registrations,Ratio,34,"De-Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2006,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2006,De-Registrations,Ratio,39,"De-Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2006,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2006,De-Registrations,Ratio,31,"De-Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2006,De-Registrations,Ratio,26,"De-Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2006,De-Registrations,Ratio,24,"De-Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2006,De-Registrations,Ratio,29,"De-Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2006,De-Registrations,Ratio,30,"De-Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2006,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2006,De-Registrations,Ratio,23,"De-Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2006,De-Registrations,Ratio,25,"De-Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2006,De-Registrations,Ratio,27,"De-Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2013,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2013,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2013,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2013,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2013,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2013,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2013,Registrations,Ratio,56,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2013,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2013,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2013,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2013,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2013,Registrations,Ratio,49,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2013,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2013,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2013,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2013,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2013,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2014,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2014,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2014,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2014,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2014,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2014,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2014,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2014,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2014,Registrations,Ratio,67,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2013,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2013,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2014,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2014,Registrations,Ratio,66,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2014,Registrations,Ratio,58,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2014,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2012,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2012,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2012,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2012,Registrations,Ratio,26,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2012,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2012,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2012,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2012,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2012,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2012,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2012,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2012,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2012,Registrations,Ratio,30,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2012,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2012,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2012,Registrations,Ratio,28,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2013,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2013,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2013,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2013,Registrations,Ratio,66,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2013,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2013,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2013,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2013,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2012,Registrations,Ratio,27,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2012,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2012,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2012,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2013,Registrations,Ratio,67,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2013,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2013,Registrations,Ratio,75,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2015,Registrations,Ratio,43,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2015,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2015,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2015,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2015,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2015,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2015,Registrations,Ratio,52,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2015,Registrations,Ratio,37,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2015,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2015,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2015,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2015,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2015,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2015,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2015,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2015,Registrations,Ratio,34,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2016,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2016,Registrations,Ratio,49,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2016,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2016,Registrations,Ratio,44,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2016,Registrations,Ratio,48,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2016,Registrations,Ratio,35,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2016,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2016,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2016,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2016,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2016,Registrations,Ratio,59,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2016,Registrations,Ratio,56,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2016,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2016,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2016,Registrations,Ratio,68,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2016,Registrations,Ratio,33,"Registrations Per 10,000 Adults"
+S12000026,Scottish Borders,Local Authority,2014,Registrations,Ratio,47,"Registrations Per 10,000 Adults"
+S12000027,Shetland Islands,Local Authority,2014,Registrations,Ratio,53,"Registrations Per 10,000 Adults"
+S12000048,Perth and Kinross,Local Authority,2014,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000038,Renfrewshire,Local Authority,2014,Registrations,Ratio,42,"Registrations Per 10,000 Adults"
+S12000030,Stirling,Local Authority,2014,Registrations,Ratio,57,"Registrations Per 10,000 Adults"
+S12000039,West Dunbartonshire,Local Authority,2014,Registrations,Ratio,36,"Registrations Per 10,000 Adults"
+S12000028,South Ayrshire,Local Authority,2014,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000029,South Lanarkshire,Local Authority,2014,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000018,Inverclyde,Local Authority,2014,Registrations,Ratio,32,"Registrations Per 10,000 Adults"
+S12000019,Midlothian,Local Authority,2014,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2014,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000017,Highland,Local Authority,2014,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000021,North Ayrshire,Local Authority,2014,Registrations,Ratio,38,"Registrations Per 10,000 Adults"
+S12000023,Orkney Islands,Local Authority,2014,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000020,Moray,Local Authority,2014,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000013,Na h-Eileanan Siar,Local Authority,2014,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000008,East Ayrshire,Local Authority,2015,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000045,East Dunbartonshire,Local Authority,2015,Registrations,Ratio,46,"Registrations Per 10,000 Adults"
+S12000006,Dumfries and Galloway,Local Authority,2015,Registrations,Ratio,31,"Registrations Per 10,000 Adults"
+S12000042,Dundee City,Local Authority,2015,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000014,Falkirk,Local Authority,2015,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000047,Fife,Local Authority,2015,Registrations,Ratio,41,"Registrations Per 10,000 Adults"
+S12000010,East Lothian,Local Authority,2015,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000011,East Renfrewshire,Local Authority,2015,Registrations,Ratio,50,"Registrations Per 10,000 Adults"
+S12000033,Aberdeen City,Local Authority,2015,Registrations,Ratio,55,"Registrations Per 10,000 Adults"
+S12000034,Aberdeenshire,Local Authority,2015,Registrations,Ratio,53,"Registrations Per 10,000 Adults"
+S12000040,West Lothian,Local Authority,2014,Registrations,Ratio,45,"Registrations Per 10,000 Adults"
+S12000036,City of Edinburgh,Local Authority,2015,Registrations,Ratio,72,"Registrations Per 10,000 Adults"
+S12000005,Clackmannanshire,Local Authority,2015,Registrations,Ratio,39,"Registrations Per 10,000 Adults"
+S12000041,Angus,Local Authority,2015,Registrations,Ratio,40,"Registrations Per 10,000 Adults"
+S12000035,Argyll and Bute,Local Authority,2015,Registrations,Ratio,38,"Registrations Per 10,000 Adults"

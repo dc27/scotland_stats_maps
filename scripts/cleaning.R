@@ -622,7 +622,39 @@ avg_household_size_clean %>%
 
 # 4. update dataset lookup
 
-updataed_lookup <- update_lookup(URI_name = "average_household_size")
+updated_lookup <- update_lookup(URI_name = "average_household_size")
+
+# ----- Business Demography - births + deaths -----
+
+# 1. read raw data
+business_births_deaths <- read_csv(
+  "data/raw_data/business_enterprise_and_energy/business-demography---births-and-deaths.csv"
+  )
+
+# 2. join datazone lookup and select desired columns, changing names to standard
+# practice
+business_births_deaths_clean <- business_births_deaths %>% 
+  auto_join_dz_lookup() %>% 
+  janitor::clean_names() %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         year = date_code,
+         business_demography,
+         measure_type = measurement,
+         value,
+         units)
+
+# 3. write app-ready data
+business_births_deaths_clean %>% 
+  write_csv(
+    "data/clean_data/business_enterprise_and_energy/business_demo_births_deaths.csv"
+    )
+
+# 4. update dataset lookup
+updated_lookup <- update_lookup(
+  URI_name = "business-demography---births-and-deaths"
+  )
 
 # ----- Write Dataset Lookup (must be last) ------
 

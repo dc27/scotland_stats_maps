@@ -19,7 +19,7 @@ server <- function(input, output, session){
     })
   notes <- eventReactive(
     input$update, {
-        dfs[[input$category]][[input$dataset]]$notes,
+        dfs[[input$category]][[input$dataset]]$notes
       }
     )
   

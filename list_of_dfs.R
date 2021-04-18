@@ -3,6 +3,16 @@
 
   ),
   "Business, Enterprise and Energy" = list(
+    "Business Demographics - Births and Deaths" = list(
+      data = read_csv("data/clean_data/business_enterprise_and_energy/business_demo_births_deaths.csv"),
+      explorable_vars = c("year", "business_demography", "measure_type"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Fbusiness-demography---births-and-deaths",
+      notes = c("Business births and deaths are produced by the Office for National Statistics within their Business Demography publication. Data are based on registrations and de-registrations for VAT and PAYE. Please note that registrations for 2007 increased substantially on 2006. It is likely that these figures partly reflect the impact of changes in tax rules in April 2007 surrounding Managed Service Companies.",
+                "Businesses registered as Managed Service Companies at one address were previously excluded from this series; however following the change to the tax rules a number of these businesses have de-registered and re-registered as single entities elsewhere and this activity has been included in the series.",
+                "The population estimates used to form the rates are sourced from the Mid-Year Population Estimates, published by the National Records of Scotland. The term \"per 10,000 adults\" is defined as people aged 16 or over resident in Scotland.")
+    ),
     "Energy Consumption" = list(
       data = read_csv("data/clean_data/business_enterprise_and_energy/energy_consumption.csv"),
       explorable_vars = c("year", "sector", "energy_type"),
