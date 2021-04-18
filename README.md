@@ -30,7 +30,7 @@ information as possible in one interactive dashboard.
 
 The dashboard is a Shiny application written in R, using RStudio. 
 
-To use view and use the app,
+To view and use the app,
 
 + clone this repository
 + open RStudio
