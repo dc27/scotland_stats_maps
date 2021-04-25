@@ -1,0 +1,415 @@
+FeatureCode,DateCode,Measurement,Units,Value,Housing Costs,Number of adults in household,Number of children in household,Disability Status,Work Status,Type Of Tenure,Urban Rural Classification,SIMD quintiles
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,40.8,Before Housing Costs,All,All,All,All,All,All,1 - most deprived
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,35.9,After Housing Costs,All,All,All,All,All,All,1 - most deprived
+S92000003,2014-2017,Percent,Percent Of Children,40.8,After Housing Costs,All,All,All,All,All,All,1 - most deprived
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,31.2,Before Housing Costs,All,All,All,All,All,All,1 - most deprived
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,45.8,After Housing Costs,All,All,All,All,All,All,1 - most deprived
+S92000003,2014-2017,Percent,Percent Of Children,36,Before Housing Costs,All,All,All,All,All,All,1 - most deprived
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,23.8,After Housing Costs,All,All,All,All,All,All,2
+S92000003,2014-2017,Percent,Percent Of Children,28.8,After Housing Costs,All,All,All,All,All,All,2
+S92000003,2014-2017,Percent,Percent Of Children,24.7,Before Housing Costs,All,All,All,All,All,All,2
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.7,Before Housing Costs,All,All,All,All,All,All,2
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,33.9,After Housing Costs,All,All,All,All,All,All,2
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,19.8,Before Housing Costs,All,All,All,All,All,All,2
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,12.8,After Housing Costs,All,All,All,All,All,All,3
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,15.6,Before Housing Costs,All,All,All,All,All,All,3
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8.8,Before Housing Costs,All,All,All,All,All,All,3
+S92000003,2014-2017,Percent,Percent Of Children,12.2,Before Housing Costs,All,All,All,All,All,All,3
+S92000003,2014-2017,Percent,Percent Of Children,16.6,After Housing Costs,All,All,All,All,All,All,3
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,20.5,After Housing Costs,All,All,All,All,All,All,3
+S92000003,2014-2017,Percent,Percent Of Children,11.1,After Housing Costs,All,All,All,All,All,All,4
+S92000003,2014-2017,Percent,Percent Of Children,8.4,Before Housing Costs,All,All,All,All,All,All,4
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,14.5,After Housing Costs,All,All,All,All,All,All,4
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.7,After Housing Costs,All,All,All,All,All,All,4
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.4,Before Housing Costs,All,All,All,All,All,All,4
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,11.4,Before Housing Costs,All,All,All,All,All,All,4
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,5.1,Before Housing Costs,All,All,All,All,All,All,5 - least deprived
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,1.9,After Housing Costs,All,All,All,All,All,All,5 - least deprived
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,1.2,Before Housing Costs,All,All,All,All,All,All,5 - least deprived
+S92000003,2014-2017,Percent,Percent Of Children,3.9,After Housing Costs,All,All,All,All,All,All,5 - least deprived
+S92000003,2014-2017,Percent,Percent Of Children,3.2,Before Housing Costs,All,All,All,All,All,All,5 - least deprived
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,5.9,After Housing Costs,All,All,All,All,All,All,5 - least deprived
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2,Before Housing Costs,All,All,All,Two adults work,All,All,All
+S08000029,2014-2017,Percent,Percent Of Children,18,Before Housing Costs,All,All,All,All,All,All,All
+S12000023,2014-2017,Percent,Percent Of Children,19.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000014,2014-2017,Percent,Percent Of Children,19.4,Before Housing Costs,All,All,All,All,All,All,All
+S08000016,2014-2017,Percent,Percent Of Children,20.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000008,2014-2017,Percent,Percent Of Children,16,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,21.8,Before Housing Costs,All,All,All,All,Private Rented,All,All
+S92000003,2014-2017,Percent,Percent Of Children,4.6,Before Housing Costs,All,All,All,All,Owned Mortgage/Loan,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,22.1,Before Housing Costs,All,All,All,One adult works,All,All,All
+S08000022,2014-2017,Percent,Percent Of Children,15,Before Housing Costs,All,All,All,All,All,All,All
+S12000017,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000049,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,45.7,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,25.6,Before Housing Costs,All,All,All,One adult works,All,All,All
+S08000022,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.2,Before Housing Costs,All,All,All,All,All,All,All
+S08000028,2014-2017,Percent,Percent Of Children,16.7,Before Housing Costs,All,All,All,All,All,All,All
+S12000018,2014-2017,Percent,Percent Of Children,14.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000047,2014-2017,Percent,Percent Of Children,18,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,66.3,Before Housing Costs,All,All,All,Workless,All,All,All
+S12000036,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,14.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000027,2014-2017,Percent,Percent Of Children,9.9,Before Housing Costs,All,All,All,All,All,All,All
+S12000041,2014-2017,Percent,Percent Of Children,20.7,Before Housing Costs,All,All,All,All,All,All,All
+S12000005,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,3.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000036,2014-2017,Percent,Percent Of Children,9.6,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,59.1,Before Housing Costs,All,All,All,Workless,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,19.1,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,17.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000038,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.6,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.9,Before Housing Costs,Two or more,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,12.7,Before Housing Costs,Two or more,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,14.5,Before Housing Costs,Two or more,All,All,All,All,All,All
+S12000039,2014-2017,Percent,Percent Of Children,17.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000013,2014-2017,Percent,Percent Of Children,16.7,Before Housing Costs,All,All,All,All,All,All,All
+S12000017,2014-2017,Percent,Percent Of Children,14.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000026,2014-2017,Percent,Percent Of Children,20.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000048,2014-2017,Percent,Percent Of Children,17.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000039,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000034,2014-2017,Percent,Percent Of Children,4.1,Before Housing Costs,All,All,All,All,All,All,All
+S12000041,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.1,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,46.1,Before Housing Costs,All,All,All,All,Social Rented,All,All
+S12000041,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,32.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000033,2014-2017,Percent,Percent Of Children,12.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000035,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,28.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000045,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,1.8,Before Housing Costs,All,All,All,All,All,All,All
+S08000025,2014-2017,Percent,Percent Of Children,19.3,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,6,Before Housing Costs,All,All,All,All,Owned Mortgage/Loan,All,All
+S12000027,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000021,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,31.9,Before Housing Costs,All,All,All,All,All,All,All
+S08000020,2014-2017,Percent,Percent Of Children,8.4,Before Housing Costs,All,All,All,All,All,All,All
+S08000024,2014-2017,Percent,Percent Of Children,11.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000011,2014-2017,Percent,Percent Of Children,6.9,Before Housing Costs,All,All,All,All,All,All,All
+S12000021,2014-2017,Percent,Percent Of Children,21.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000045,2014-2017,Percent,Percent Of Children,12.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000047,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,25.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000033,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,19.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000038,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,22.1,Before Housing Costs,All,All,All,All,All,All,All
+S08000032,2014-2017,Percent,Percent Of Children,16.2,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,14.5,Before Housing Costs,All,All,All,All,All,Accessible rural,All
+S12000040,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,36.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000028,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,17.7,Before Housing Costs,All,All,All,All,All,All,All
+S12000020,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,18.1,Before Housing Costs,All,All,All,All,All,All,All
+S12000048,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,28.7,Before Housing Costs,All,All,All,All,All,All,All
+S12000042,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.5,Before Housing Costs,All,All,All,All,All,All,All
+S08000022,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,22.8,Before Housing Costs,All,All,All,All,All,All,All
+S08000025,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.1,Before Housing Costs,All,All,All,All,All,All,All
+S12000010,2014-2017,Percent,Percent Of Children,2.8,Before Housing Costs,All,All,All,All,All,All,All
+S08000024,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,6.7,Before Housing Costs,All,All,All,All,All,All,All
+S08000029,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.9,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,40.3,Before Housing Costs,One,All,All,All,All,All,All
+S12000049,2014-2017,Percent,Percent Of Children,38.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000030,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,18.1,Before Housing Costs,All,All,All,All,All,All,All
+S12000005,2014-2017,Percent,Percent Of Children,13.6,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,4.5,Before Housing Costs,All,All,All,Two adults work,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,50.7,Before Housing Costs,All,All,All,All,Social Rented,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.2,Before Housing Costs,All,All,All,One adult works,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,27,Before Housing Costs,All,All,All,All,Private Rented,All,All
+S12000027,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,17.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000028,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,46.3,Before Housing Costs,All,All,All,All,All,All,All
+S08000030,2014-2017,Percent,Percent Of Children,19.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000019,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,21.2,Before Housing Costs,All,All,All,All,All,All,All
+S08000015,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.8,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,11.4,Before Housing Costs,All,All,All,All,All,Accessible rural,All
+S12000028,2014-2017,Percent,Percent Of Children,32,Before Housing Costs,All,All,All,All,All,All,All
+S12000026,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,32.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000038,2014-2017,Percent,Percent Of Children,13.3,Before Housing Costs,All,All,All,All,All,All,All
+S08000031,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,30.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000011,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,1.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000030,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2.1,Before Housing Costs,All,All,All,All,All,All,All
+S08000028,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29,Before Housing Costs,All,All,All,All,All,All,All
+S12000050,2014-2017,Percent,Percent Of Children,16.9,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,17.3,Before Housing Costs,All,All,All,All,All,Urban,All
+S08000032,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,21.4,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8.4,Before Housing Costs,All,All,All,All,All,Accessible rural,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,12.4,Before Housing Costs,All,All,Not disabled,All,All,All,All
+S08000032,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,11.1,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,14.2,Before Housing Costs,All,All,Not disabled,All,All,All,All
+S12000011,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,12.3,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8.2,Before Housing Costs,All,All,All,All,All,Remote rural,All
+S92000003,2014-2017,Percent,Percent Of Children,19.7,Before Housing Costs,All,All,All,All,All,Urban,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,22,Before Housing Costs,All,All,All,All,All,Urban,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,23.7,Before Housing Costs,All,All,Disabled,All,All,All,All
+S12000049,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,31.6,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,15.5,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,28.5,Before Housing Costs,All,All,Disabled,All,All,All,All
+S12000013,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29,Before Housing Costs,All,All,All,All,All,All,All
+S12000050,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000050,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.2,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,33.3,Before Housing Costs,All,All,Disabled,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,16.1,Before Housing Costs,All,All,Not disabled,All,All,All,All
+S12000034,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,8.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000042,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9,Before Housing Costs,All,All,All,All,All,All,All
+S12000039,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000047,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.9,Before Housing Costs,All,All,All,All,All,All,All
+S08000017,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,20.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000029,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000029,2014-2017,Percent,Percent Of Children,15.3,Before Housing Costs,All,All,All,All,All,All,All
+S08000016,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,32.8,Before Housing Costs,All,All,All,All,All,All,All
+S08000015,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,15.7,Before Housing Costs,All,All,All,All,All,All,All
+S12000006,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000029,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000034,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,0,Before Housing Costs,All,All,All,All,All,All,All
+S12000014,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,6.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000006,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,20.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000035,2014-2017,Percent,Percent Of Children,15.7,Before Housing Costs,All,All,All,All,All,All,All
+S12000040,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,6.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000035,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2.9,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,3.3,Before Housing Costs,All,All,All,Two adults work,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,18.2,Before Housing Costs,All,All,All,All,All,Remote rural,All
+S12000020,2014-2017,Percent,Percent Of Children,10,Before Housing Costs,All,All,All,All,All,All,All
+S08000028,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000014,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,32.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000005,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.6,Before Housing Costs,All,All,All,All,All,All,All
+S08000019,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.1,Before Housing Costs,All,All,All,All,All,All,All
+S12000030,2014-2017,Percent,Percent Of Children,10.1,Before Housing Costs,All,All,All,All,All,All,All
+S08000026,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2.3,Before Housing Costs,All,All,All,All,All,All,All
+S08000026,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,17.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000020,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,1.9,Before Housing Costs,All,All,All,All,All,All,All
+S08000030,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,12.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000010,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,0,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,13.2,Before Housing Costs,All,All,All,All,All,Remote rural,All
+S12000008,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,26.8,Before Housing Costs,All,All,All,All,All,All,All
+S08000031,2014-2017,Percent,Percent Of Children,26.3,Before Housing Costs,All,All,All,All,All,All,All
+S08000031,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,21.9,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,51.9,Before Housing Costs,All,All,All,Workless,All,All,All
+S12000018,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.4,Before Housing Costs,All,All,All,All,All,All,All
+S08000016,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.9,Before Housing Costs,All,All,All,All,All,All,All
+S12000048,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,6.5,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,41.4,Before Housing Costs,All,All,All,All,Social Rented,All,All
+S08000029,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,25.2,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,30.5,Before Housing Costs,One,All,All,All,All,All,All
+S12000010,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,6.2,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,35.4,Before Housing Costs,One,All,All,All,All,All,All
+S12000036,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000042,2014-2017,Percent,Percent Of Children,19.3,Before Housing Costs,All,All,All,All,All,All,All
+S08000030,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,25.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000023,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,33.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000019,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,1.8,Before Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,16.6,Before Housing Costs,All,All,All,All,Private Rented,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,3.2,Before Housing Costs,All,All,All,All,Owned Mortgage/Loan,All,All
+S08000024,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,15.7,Before Housing Costs,All,All,All,All,All,All,All
+S08000019,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8,Before Housing Costs,All,All,All,All,All,All,All
+S08000025,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,33.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000008,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.2,Before Housing Costs,All,All,All,All,All,All,All
+S08000017,2014-2017,Percent,Percent Of Children,11.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000027,2014-2017,Percent,Percent Of Children,12.8,After Housing Costs,All,All,All,All,All,All,All
+S12000045,2014-2017,Percent,Percent Of Children,12.4,After Housing Costs,All,All,All,All,All,All,All
+S08000020,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,12,Before Housing Costs,All,All,All,All,All,All,All
+S12000026,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.9,Before Housing Costs,All,All,All,All,All,All,All
+S08000017,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000021,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000013,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.3,Before Housing Costs,All,All,All,All,All,All,All
+S08000020,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000018,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000006,2014-2017,Percent,Percent Of Children,11.3,Before Housing Costs,All,All,All,All,All,All,All
+S12000023,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.1,Before Housing Costs,All,All,All,All,All,All,All
+S08000019,2014-2017,Percent,Percent Of Children,15.6,Before Housing Costs,All,All,All,All,All,All,All
+S12000019,2014-2017,Percent,Percent Of Children,11.5,Before Housing Costs,All,All,All,All,All,All,All
+S12000017,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,24.1,Before Housing Costs,All,All,All,All,All,All,All
+S12000033,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.4,Before Housing Costs,All,All,All,All,All,All,All
+S12000027,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.5,After Housing Costs,All,All,All,All,All,All,All
+S08000024,2014-2017,Percent,Percent Of Children,14.7,After Housing Costs,All,All,All,All,All,All,All
+S12000020,2014-2017,Percent,Percent Of Children,14.5,After Housing Costs,All,All,All,All,All,All,All
+S12000045,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.1,Before Housing Costs,All,All,All,All,All,All,All
+S08000015,2014-2017,Percent,Percent Of Children,22.8,Before Housing Costs,All,All,All,All,All,All,All
+S12000040,2014-2017,Percent,Percent Of Children,21.2,Before Housing Costs,All,All,All,All,All,All,All
+S12000040,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.6,After Housing Costs,All,All,All,All,All,All,All
+S12000049,2014-2017,Percent,Percent Of Children,43.1,After Housing Costs,All,All,All,All,All,All,All
+S12000023,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7,After Housing Costs,All,All,All,All,All,All,All
+S12000021,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,15.4,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,23.5,After Housing Costs,All,All,All,All,All,Urban,All
+S08000029,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,28.3,After Housing Costs,All,All,All,All,All,All,All
+S12000018,2014-2017,Percent,Percent Of Children,17.8,After Housing Costs,All,All,All,All,All,All,All
+S12000045,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,1.8,After Housing Costs,All,All,All,All,All,All,All
+S12000048,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,6.5,After Housing Costs,All,All,All,All,All,All,All
+S12000039,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,35.1,After Housing Costs,All,All,All,All,All,All,All
+S12000035,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,3.5,After Housing Costs,All,All,All,All,All,All,All
+S12000014,2014-2017,Percent,Percent Of Children,23.2,After Housing Costs,All,All,All,All,All,All,All
+S12000039,2014-2017,Percent,Percent Of Children,22.3,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,13.4,After Housing Costs,All,All,All,All,All,Accessible rural,All
+S12000038,2014-2017,Percent,Percent Of Children,19.2,After Housing Costs,All,All,All,All,All,All,All
+S12000011,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,15.7,After Housing Costs,All,All,All,All,All,All,All
+S12000036,2014-2017,Percent,Percent Of Children,13.7,After Housing Costs,All,All,All,All,All,All,All
+S12000050,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,25.2,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,26,After Housing Costs,All,All,All,All,All,Urban,All
+S12000041,2014-2017,Percent,Percent Of Children,20.7,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,21.1,After Housing Costs,All,All,All,All,All,Urban,All
+S12000036,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.9,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,36.5,After Housing Costs,All,All,All,All,Private Rented,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.2,After Housing Costs,All,All,All,All,All,Accessible rural,All
+S08000029,2014-2017,Percent,Percent Of Children,20.8,After Housing Costs,All,All,All,All,All,All,All
+S08000020,2014-2017,Percent,Percent Of Children,12.5,After Housing Costs,All,All,All,All,All,All,All
+S08000026,2014-2017,Percent,Percent Of Children,12.8,After Housing Costs,All,All,All,All,All,All,All
+S12000050,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,11.4,After Housing Costs,All,All,All,All,All,All,All
+S12000035,2014-2017,Percent,Percent Of Children,16.3,After Housing Costs,All,All,All,All,All,All,All
+S08000031,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,35,After Housing Costs,All,All,All,All,All,All,All
+S12000017,2014-2017,Percent,Percent Of Children,15.9,After Housing Costs,All,All,All,All,All,All,All
+S08000032,2014-2017,Percent,Percent Of Children,18.3,After Housing Costs,All,All,All,All,All,All,All
+S12000008,2014-2017,Percent,Percent Of Children,17.3,After Housing Costs,All,All,All,All,All,All,All
+S12000010,2014-2017,Percent,Percent Of Children,4.8,After Housing Costs,All,All,All,All,All,All,All
+S12000038,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.2,After Housing Costs,All,All,All,All,All,All,All
+S12000039,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.5,After Housing Costs,All,All,All,All,All,All,All
+S12000041,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,32.4,After Housing Costs,All,All,All,All,All,All,All
+S12000047,2014-2017,Percent,Percent Of Children,20.8,After Housing Costs,All,All,All,All,All,All,All
+S12000048,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,28.7,After Housing Costs,All,All,All,All,All,All,All
+S12000006,2014-2017,Percent,Percent Of Children,18.9,After Housing Costs,All,All,All,All,All,All,All
+S08000030,2014-2017,Percent,Percent Of Children,22.8,After Housing Costs,All,All,All,All,All,All,All
+S08000017,2014-2017,Percent,Percent Of Children,18.9,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,55.1,After Housing Costs,All,All,All,All,Social Rented,All,All
+S08000022,2014-2017,Percent,Percent Of Children,16,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,21.9,After Housing Costs,All,All,All,All,All,Remote rural,All
+S12000042,2014-2017,Percent,Percent Of Children,30.1,After Housing Costs,All,All,All,All,All,All,All
+S08000032,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,12.9,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,7.6,After Housing Costs,All,All,All,All,Owned Mortgage/Loan,All,All
+S08000016,2014-2017,Percent,Percent Of Children,24,After Housing Costs,All,All,All,All,All,All,All
+S08000015,2014-2017,Percent,Percent Of Children,26.5,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,22.4,After Housing Costs,All,One,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,17.3,After Housing Costs,All,One,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,26.1,After Housing Costs,All,Three,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,13.6,Before Housing Costs,All,One,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,18.3,Before Housing Costs,All,One,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,19.8,After Housing Costs,All,One,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,15.9,Before Housing Costs,All,One,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,22.7,Before Housing Costs,All,Three,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,28.1,Before Housing Costs,All,Three,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,20.7,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,31.7,After Housing Costs,All,Three,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,20.4,After Housing Costs,All,Three,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,17.3,Before Housing Costs,All,Three,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,50.4,After Housing Costs,All,Four or more,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,37.8,Before Housing Costs,All,Four or more,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,49.2,Before Housing Costs,All,Four or more,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,27.6,After Housing Costs,All,Four or more,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,39,After Housing Costs,All,Four or more,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,26.4,Before Housing Costs,All,Four or more,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,16.2,After Housing Costs,All,Two,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,15,Before Housing Costs,All,Two,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,12.8,Before Housing Costs,All,Two,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,18.7,After Housing Costs,All,Two,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,13.7,After Housing Costs,All,Two,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.6,Before Housing Costs,All,Two,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,38.1,After Housing Costs,All,All,Disabled,All,All,All,All
+S12000005,2014-2017,Percent,Percent Of Children,15.5,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,17.3,After Housing Costs,All,All,Not disabled,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,28.3,After Housing Costs,All,All,Disabled,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,22.6,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,19.3,After Housing Costs,All,All,Not disabled,All,All,All,All
+S08000032,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.7,After Housing Costs,All,All,All,All,All,All,All
+S12000034,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,0.4,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,11.1,After Housing Costs,All,All,All,All,All,Remote rural,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,16.7,After Housing Costs,All,All,All,All,All,Accessible rural,All
+S12000028,2014-2017,Percent,Percent Of Children,36.1,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,33.2,After Housing Costs,All,All,Disabled,All,All,All,All
+S12000050,2014-2017,Percent,Percent Of Children,18.3,After Housing Costs,All,All,All,All,All,All,All
+S12000036,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,19.5,After Housing Costs,All,All,All,All,All,All,All
+S12000040,2014-2017,Percent,Percent Of Children,24.5,After Housing Costs,All,All,All,All,All,All,All
+S12000021,2014-2017,Percent,Percent Of Children,27.1,After Housing Costs,All,All,All,All,All,All,All
+S12000033,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,11.7,After Housing Costs,All,All,All,All,All,All,All
+S12000034,2014-2017,Percent,Percent Of Children,4.7,After Housing Costs,All,All,All,All,All,All,All
+S12000034,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,9,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,15.2,After Housing Costs,All,All,Not disabled,All,All,All,All
+S08000025,2014-2017,Percent,Percent Of Children,21.5,After Housing Costs,All,All,All,All,All,All,All
+S12000011,2014-2017,Percent,Percent Of Children,9.5,After Housing Costs,All,All,All,All,All,All,All
+S12000013,2014-2017,Percent,Percent Of Children,21.3,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,6,After Housing Costs,All,All,All,All,Owned Mortgage/Loan,All,All
+S08000019,2014-2017,Percent,Percent Of Children,18.1,After Housing Costs,All,All,All,All,All,All,All
+S12000021,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,38.9,After Housing Costs,All,All,All,All,All,All,All
+S08000019,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,10.4,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.5,After Housing Costs,All,All,All,All,Owned Mortgage/Loan,All,All
+S08000028,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,34.3,After Housing Costs,All,All,All,All,All,All,All
+S12000010,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,0.5,After Housing Costs,All,All,All,All,All,All,All
+S12000030,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,19,After Housing Costs,All,All,All,All,All,All,All
+S12000005,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,25.8,After Housing Costs,All,All,All,All,All,All,All
+S12000019,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4,After Housing Costs,All,All,All,All,All,All,All
+S08000026,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,21.2,After Housing Costs,All,All,All,All,All,All,All
+S08000024,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,19.5,After Housing Costs,All,All,All,All,All,All,All
+S12000014,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,36.6,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,46,After Housing Costs,All,All,All,All,Social Rented,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,59.2,After Housing Costs,All,All,All,Workless,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,73.4,After Housing Costs,All,All,All,Workless,All,All,All
+S12000011,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,3.3,After Housing Costs,All,All,All,All,All,All,All
+S12000008,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,6.2,After Housing Costs,All,All,All,All,All,All,All
+S08000022,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8.1,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,30.4,After Housing Costs,All,All,All,One adult works,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,34.1,After Housing Costs,All,All,All,One adult works,All,All,All
+S12000017,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,6.4,After Housing Costs,All,All,All,All,All,All,All
+S12000013,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8.3,After Housing Costs,All,All,All,All,All,All,All
+S08000019,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,25.9,After Housing Costs,All,All,All,All,All,All,All
+S12000006,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,30.3,After Housing Costs,All,All,All,All,All,All,All
+S08000020,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8.2,After Housing Costs,All,All,All,All,All,All,All
+S12000020,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.3,After Housing Costs,All,All,All,All,All,All,All
+S08000015,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,33.8,After Housing Costs,All,All,All,All,All,All,All
+S12000017,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,25.4,After Housing Costs,All,All,All,All,All,All,All
+S12000035,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.2,After Housing Costs,All,All,All,All,All,All,All
+S08000017,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,30.3,After Housing Costs,All,All,All,All,All,All,All
+S12000013,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,34.3,After Housing Costs,All,All,All,All,All,All,All
+S08000022,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.9,After Housing Costs,All,All,All,All,All,All,All
+S08000025,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7,After Housing Costs,All,All,All,All,All,All,All
+S08000016,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,37,After Housing Costs,All,All,All,All,All,All,All
+S12000033,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.5,After Housing Costs,All,All,All,All,All,All,All
+S08000026,2014-2017,Percent,Percent Of Children,9.9,Before Housing Costs,All,All,All,All,All,All,All
+S12000010,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,9.2,After Housing Costs,All,All,All,All,All,All,All
+S12000018,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,27.8,After Housing Costs,All,All,All,All,All,All,All
+S12000045,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.1,After Housing Costs,All,All,All,All,All,All,All
+S12000020,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.7,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,25.2,After Housing Costs,All,All,All,All,Private Rented,All,All
+S12000027,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,21.2,After Housing Costs,All,All,All,All,All,All,All
+S08000020,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,16.9,After Housing Costs,All,All,All,All,All,All,All
+S08000025,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,36.1,After Housing Costs,All,All,All,All,All,All,All
+S12000042,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,41.8,After Housing Costs,All,All,All,All,All,All,All
+S12000028,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,50.4,After Housing Costs,All,All,All,All,All,All,All
+S12000019,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,23.9,After Housing Costs,All,All,All,All,All,All,All
+S12000029,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,26.8,After Housing Costs,All,All,All,All,All,All,All
+S12000023,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,36.1,After Housing Costs,All,All,All,All,All,All,All
+S12000038,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.1,After Housing Costs,All,All,All,All,All,All,All
+S12000040,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,39.5,After Housing Costs,All,All,All,All,All,All,All
+S08000015,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,19.1,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,6.4,After Housing Costs,All,All,All,Two adults work,All,All,All
+S12000042,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,18.5,After Housing Costs,All,All,All,All,All,All,All
+S12000029,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.5,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,41.3,After Housing Costs,One,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,46.2,After Housing Costs,One,All,All,All,All,All,All
+S12000049,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,36,After Housing Costs,All,All,All,All,All,All,All
+S12000047,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,28.3,After Housing Costs,All,All,All,All,All,All,All
+S08000026,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,4.5,After Housing Costs,All,All,All,All,All,All,All
+S12000018,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.8,After Housing Costs,All,All,All,All,All,All,All
+S12000028,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,21.7,After Housing Costs,All,All,All,All,All,All,All
+S12000048,2014-2017,Percent,Percent Of Children,17.6,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,36.3,After Housing Costs,One,All,All,All,All,All,All
+S08000031,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,25.8,After Housing Costs,All,All,All,All,All,All,All
+S08000028,2014-2017,Percent,Percent Of Children,21.3,After Housing Costs,All,All,All,All,All,All,All
+S12000019,2014-2017,Percent,Percent Of Children,13.9,After Housing Costs,All,All,All,All,All,All,All
+S12000049,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,50.2,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,18.8,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,16.5,After Housing Costs,All,All,All,All,All,Remote rural,All
+S92000003,2014-2017,Percent,Percent Of Children,30.9,After Housing Costs,All,All,All,All,Private Rented,All,All
+S08000016,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,11.1,After Housing Costs,All,All,All,All,All,All,All
+S12000041,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.1,After Housing Costs,All,All,All,All,All,All,All
+S08000031,2014-2017,Percent,Percent Of Children,30.4,After Housing Costs,All,All,All,All,All,All,All
+S12000030,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,2.8,After Housing Costs,All,All,All,All,All,All,All
+S12000029,2014-2017,Percent,Percent Of Children,18.2,After Housing Costs,All,All,All,All,All,All,All
+S12000014,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.8,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,26.7,After Housing Costs,All,All,All,One adult works,All,All,All
+S12000030,2014-2017,Percent,Percent Of Children,10.9,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,4.9,After Housing Costs,All,All,All,Two adults work,All,All,All
+S08000030,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,29.4,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,66.3,After Housing Costs,All,All,All,Workless,All,All,All
+S12000026,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,11.1,After Housing Costs,All,All,All,All,All,All,All
+S08000028,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,8.3,After Housing Costs,All,All,All,All,All,All,All
+S12000047,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,13.3,After Housing Costs,All,All,All,All,All,All,All
+S08000030,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,16.2,After Housing Costs,All,All,All,All,All,All,All
+S12000026,2014-2017,Percent,Percent Of Children,24,After Housing Costs,All,All,All,All,All,All,All
+S12000023,2014-2017,Percent,Percent Of Children,21.5,After Housing Costs,All,All,All,All,All,All,All
+S08000029,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,13.3,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,50.6,After Housing Costs,All,All,All,All,Social Rented,All,All
+S08000017,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.5,After Housing Costs,All,All,All,All,All,All,All
+S12000033,2014-2017,Percent,Percent Of Children,20.6,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,13.5,After Housing Costs,Two or more,All,All,All,All,All,All
+S12000006,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,7.5,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,17.4,After Housing Costs,Two or more,All,All,All,All,All,All
+S12000005,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,5.2,After Housing Costs,All,All,All,All,All,All,All
+S12000008,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,28.3,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,3.5,After Housing Costs,All,All,All,Two adults work,All,All,All
+S08000024,2014-2017,"95% Lower Confidence Limit, Percent",Percent Of Children,9.9,After Housing Costs,All,All,All,All,All,All,All
+S92000003,2014-2017,Percent,Percent Of Children,15.4,After Housing Costs,Two or more,All,All,All,All,All,All
+S12000026,2014-2017,"95% Upper Confidence Limit, Percent",Percent Of Children,37,After Housing Costs,All,All,All,All,All,All,All
