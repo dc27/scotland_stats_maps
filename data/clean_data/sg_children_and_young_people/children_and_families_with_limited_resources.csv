@@ -1,0 +1,93 @@
+area_code,reference_area,area_type,date_code,housing_costs,value,units
+S08000029,Fife,Health Board,2014-2017,Before Housing Costs,18,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2014-2017,Before Housing Costs,19.3,Percent Of Children
+S12000014,Falkirk,Local Authority,2014-2017,Before Housing Costs,19.4,Percent Of Children
+S08000016,Borders,Health Board,2014-2017,Before Housing Costs,20.4,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2014-2017,Before Housing Costs,16,Percent Of Children
+S08000022,Highland,Health Board,2014-2017,Before Housing Costs,15,Percent Of Children
+S08000028,Western Isles,Health Board,2014-2017,Before Housing Costs,16.7,Percent Of Children
+S12000018,Inverclyde,Local Authority,2014-2017,Before Housing Costs,14.4,Percent Of Children
+S12000047,Fife,Local Authority,2014-2017,Before Housing Costs,18,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2014-2017,Before Housing Costs,9.9,Percent Of Children
+S12000041,Angus,Local Authority,2014-2017,Before Housing Costs,20.7,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2014-2017,Before Housing Costs,9.6,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2014-2017,Before Housing Costs,17.6,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2014-2017,Before Housing Costs,16.7,Percent Of Children
+S12000017,Highland,Local Authority,2014-2017,Before Housing Costs,14.8,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2014-2017,Before Housing Costs,20.4,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2014-2017,Before Housing Costs,17.6,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2014-2017,Before Housing Costs,4.1,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2014-2017,Before Housing Costs,12.4,Percent Of Children
+S08000025,Orkney,Health Board,2014-2017,Before Housing Costs,19.3,Percent Of Children
+S08000020,Grampian,Health Board,2014-2017,Before Housing Costs,8.4,Percent Of Children
+S08000024,Lothian,Health Board,2014-2017,Before Housing Costs,11.2,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2014-2017,Before Housing Costs,6.9,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2014-2017,Before Housing Costs,21.4,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2014-2017,Before Housing Costs,12.4,Percent Of Children
+S08000032,Lanarkshire,Health Board,2014-2017,Before Housing Costs,16.2,Percent Of Children
+S12000010,East Lothian,Local Authority,2014-2017,Before Housing Costs,2.8,Percent Of Children
+S12000049,Glasgow City,Local Authority,2014-2017,Before Housing Costs,38.6,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2014-2017,Before Housing Costs,13.6,Percent Of Children
+S08000030,Tayside,Health Board,2014-2017,Before Housing Costs,19.2,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2014-2017,Before Housing Costs,32,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2014-2017,Before Housing Costs,13.3,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2014-2017,Before Housing Costs,16.9,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2014-2017,Before Housing Costs,15.3,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2014-2017,Before Housing Costs,15.7,Percent Of Children
+S12000020,Moray,Local Authority,2014-2017,Before Housing Costs,10,Percent Of Children
+S12000030,Stirling,Local Authority,2014-2017,Before Housing Costs,10.1,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2014-2017,Before Housing Costs,26.3,Percent Of Children
+S12000042,Dundee City,Local Authority,2014-2017,Before Housing Costs,19.3,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2014-2017,Before Housing Costs,11.3,Percent Of Children
+S12000027,Shetland Islands,Local Authority,2014-2017,After Housing Costs,12.8,Percent Of Children
+S12000045,East Dunbartonshire,Local Authority,2014-2017,After Housing Costs,12.4,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2014-2017,Before Housing Costs,11.3,Percent Of Children
+S08000019,Forth Valley,Health Board,2014-2017,Before Housing Costs,15.6,Percent Of Children
+S12000019,Midlothian,Local Authority,2014-2017,Before Housing Costs,11.5,Percent Of Children
+S08000024,Lothian,Health Board,2014-2017,After Housing Costs,14.7,Percent Of Children
+S12000020,Moray,Local Authority,2014-2017,After Housing Costs,14.5,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2014-2017,Before Housing Costs,22.8,Percent Of Children
+S12000040,West Lothian,Local Authority,2014-2017,Before Housing Costs,21.2,Percent Of Children
+S12000049,Glasgow City,Local Authority,2014-2017,After Housing Costs,43.1,Percent Of Children
+S12000018,Inverclyde,Local Authority,2014-2017,After Housing Costs,17.8,Percent Of Children
+S12000014,Falkirk,Local Authority,2014-2017,After Housing Costs,23.2,Percent Of Children
+S12000039,West Dunbartonshire,Local Authority,2014-2017,After Housing Costs,22.3,Percent Of Children
+S12000038,Renfrewshire,Local Authority,2014-2017,After Housing Costs,19.2,Percent Of Children
+S12000036,City of Edinburgh,Local Authority,2014-2017,After Housing Costs,13.7,Percent Of Children
+S12000041,Angus,Local Authority,2014-2017,After Housing Costs,20.7,Percent Of Children
+S08000029,Fife,Health Board,2014-2017,After Housing Costs,20.8,Percent Of Children
+S08000020,Grampian,Health Board,2014-2017,After Housing Costs,12.5,Percent Of Children
+S08000026,Shetland,Health Board,2014-2017,After Housing Costs,12.8,Percent Of Children
+S12000035,Argyll and Bute,Local Authority,2014-2017,After Housing Costs,16.3,Percent Of Children
+S12000017,Highland,Local Authority,2014-2017,After Housing Costs,15.9,Percent Of Children
+S08000032,Lanarkshire,Health Board,2014-2017,After Housing Costs,18.3,Percent Of Children
+S12000008,East Ayrshire,Local Authority,2014-2017,After Housing Costs,17.3,Percent Of Children
+S12000010,East Lothian,Local Authority,2014-2017,After Housing Costs,4.8,Percent Of Children
+S12000047,Fife,Local Authority,2014-2017,After Housing Costs,20.8,Percent Of Children
+S12000006,Dumfries and Galloway,Local Authority,2014-2017,After Housing Costs,18.9,Percent Of Children
+S08000030,Tayside,Health Board,2014-2017,After Housing Costs,22.8,Percent Of Children
+S08000017,Dumfries and Galloway,Health Board,2014-2017,After Housing Costs,18.9,Percent Of Children
+S08000022,Highland,Health Board,2014-2017,After Housing Costs,16,Percent Of Children
+S12000042,Dundee City,Local Authority,2014-2017,After Housing Costs,30.1,Percent Of Children
+S08000016,Borders,Health Board,2014-2017,After Housing Costs,24,Percent Of Children
+S08000015,Ayrshire and Arran,Health Board,2014-2017,After Housing Costs,26.5,Percent Of Children
+S12000005,Clackmannanshire,Local Authority,2014-2017,After Housing Costs,15.5,Percent Of Children
+S12000028,South Ayrshire,Local Authority,2014-2017,After Housing Costs,36.1,Percent Of Children
+S12000050,North Lanarkshire,Local Authority,2014-2017,After Housing Costs,18.3,Percent Of Children
+S12000040,West Lothian,Local Authority,2014-2017,After Housing Costs,24.5,Percent Of Children
+S12000021,North Ayrshire,Local Authority,2014-2017,After Housing Costs,27.1,Percent Of Children
+S12000034,Aberdeenshire,Local Authority,2014-2017,After Housing Costs,4.7,Percent Of Children
+S08000025,Orkney,Health Board,2014-2017,After Housing Costs,21.5,Percent Of Children
+S12000011,East Renfrewshire,Local Authority,2014-2017,After Housing Costs,9.5,Percent Of Children
+S12000013,Na h-Eileanan Siar,Local Authority,2014-2017,After Housing Costs,21.3,Percent Of Children
+S08000019,Forth Valley,Health Board,2014-2017,After Housing Costs,18.1,Percent Of Children
+S08000026,Shetland,Health Board,2014-2017,Before Housing Costs,9.9,Percent Of Children
+S12000048,Perth and Kinross,Local Authority,2014-2017,After Housing Costs,17.6,Percent Of Children
+S08000028,Western Isles,Health Board,2014-2017,After Housing Costs,21.3,Percent Of Children
+S12000019,Midlothian,Local Authority,2014-2017,After Housing Costs,13.9,Percent Of Children
+S08000031,Greater Glasgow and Clyde,Health Board,2014-2017,After Housing Costs,30.4,Percent Of Children
+S12000029,South Lanarkshire,Local Authority,2014-2017,After Housing Costs,18.2,Percent Of Children
+S12000030,Stirling,Local Authority,2014-2017,After Housing Costs,10.9,Percent Of Children
+S12000026,Scottish Borders,Local Authority,2014-2017,After Housing Costs,24,Percent Of Children
+S12000023,Orkney Islands,Local Authority,2014-2017,After Housing Costs,21.5,Percent Of Children
+S12000033,Aberdeen City,Local Authority,2014-2017,After Housing Costs,20.6,Percent Of Children

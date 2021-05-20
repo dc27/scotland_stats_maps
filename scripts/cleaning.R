@@ -656,6 +656,39 @@ updated_lookup <- update_lookup(
   URI_name = "business-demography---births-and-deaths"
   )
 
+# ----- Children and Families with limited resources -----
+
+# 1. read raw data
+limited_resources <- read_csv(
+  "data/raw_data/sg_children_and_young_people/children_and_families_with_limited_resources.csv"
+)
+
+# 2. join datazone lookup, reduce data to only one measure_type, change col names
+# and select required columns
+limited_resources_reduced <- limited_resources %>% 
+  auto_join_dz_lookup() %>% 
+  janitor::clean_names() %>%
+  # TODO - create alternative way to deal with confidence intervals
+  filter(measurement == "Percent") %>% 
+  select(area_code = feature_code,
+         reference_area = area_name,
+         area_type,
+         date_code,
+         housing_costs,
+         value,
+         units)
+
+# 3. write data
+limited_resources_reduced %>% 
+  write_csv("data/clean_data/sg_children_and_young_people/children_and_families_with_limited_resources.csv")
+
+# 4. update dataset lookup
+updated_lookup <- update_lookup(
+  URI_name = "children-in-families-with-limited-resources	"
+  )
+
+
+
 # ----- Write Dataset Lookup (must be last) ------
 
 # update dataset lookup csv
