@@ -23,7 +23,14 @@
     )
   ),
   "Children and Young People" = list(
-    
+    "Children and Families with Limited Resources" = list(
+      data = read_csv("data/clean_data/sg_children_and_young_people/children_and_families_with_limited_resources.csv"),
+      explorable_vars = c("date_code", "housing_costs"),
+      reverse_colours = FALSE,
+      by_pop = FALSE,
+      url = "",
+      notes = ""
+    )
   ),
   "Community Wellbeing and Social Environment" = list(
     "Derelict and Urban Vacant Land" = list(
