@@ -120,7 +120,7 @@ server <- function(input, output, session){
                    lat1 = 54,
                    lng2 = -9,
                    lat2 = 63) %>% 
-      addProviderTiles(providers$Esri.WorldGrayCanvas)
+      addProviderTiles(providers$Stamen.TonerLite)
   })
   
   # not run - orkney and shetland islands (map already includes northern
