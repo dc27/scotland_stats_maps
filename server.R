@@ -113,8 +113,8 @@ server <- function(input, output, session){
 
   # render basemap
   output$scotland_map <- renderLeaflet({
-    leaflet(options = leafletOptions(minZoom = 7)) %>%
-      setView(lng = -5, lat = 56, zoom = 7) %>%
+    leaflet(options = leafletOptions(minZoom = 6)) %>%
+      setView(lng = -5, lat = 56, zoom = 6) %>%
       # restrict view to around Scotland
       setMaxBounds(lng1 = -1,
                    lat1 = 54,

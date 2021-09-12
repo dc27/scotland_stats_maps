@@ -8,6 +8,7 @@ library(rgdal)
 library(leaflet)
 library(ggplot2)
 library(assertthat)
+library(shinydashboardPlus)
 
 
 source("list_of_dfs.R")

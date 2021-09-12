@@ -1,56 +1,68 @@
+sidebar <- dashboardSidebar(
+  collapsed = TRUE,
+  # use sidebar for easy navigation
+  sidebarMenu(
+    id = "sidebar_menu",
+    menuItem("Map", tabName = "map", icon = icon("map-o")),
+    menuItem("Graph", tabName = "graph", icon = icon("bar-chart")),
+    menuItem("Data", tabName = "data", icon = icon("file-o"))
+    )
+  )
+
 ui <- dashboardPage(
-  dashboardHeader(title = "Scotland Stats Maps"),
-  dashboardSidebar(disable = TRUE),
+  header = dashboardHeader(
+    title = tagList(
+      span(class = "logo-lg", "Scotland Stats Maps"), 
+      img(src = "scotland.svg")),
+    controlbarIcon = "gears"
+  ),
+  sidebar,
   dashboardBody(
-    tags$style(
-      type = "text/css",
-      "
-      #scotland_map {height: calc(100vh - 160px) !important;}
-      #basic_bar {height: calc(100vh - 160px) !important;}
-      "
-      ),
+  tags$head(
+      tags$link(rel="stylesheet", type="text/css", href="app_styles.css"),
+      tags$script(src="heights.js")
+    ),
     fluidRow(
-      # Input Options
       column(
         3,
-        fluidRow(
-          box(
-            width = 12,
-            tags$h4("Options"),
-            fluidRow(
-              tabBox(
-                width = 12,
-                tabPanel(
-                  "Input",
-                  selectInput(
-                    "category",
-                    label = "Theme",
-                    choices = sort(names(dfs)),
-                    selected = "Population"
-                  ),
-                  selectInput(
-                    "dataset", label = "Dataset", choices = NULL
-                  ),
-                  tags$hr(),
-                  uiOutput("dropdowns"),
-                  uiOutput("pop_button"),
-                  tags$hr(),
-                  selectInput(
-                    "area_type",
-                    "Area Type",
-                    c("Local Authority", "Health Board"),
-                    "Health Board"
-                  )
+        box(
+          id = "input_options",
+          title = "Options",
+          width = 12,
+          fluidRow(
+            tabBox(
+              id = "child_inputs",
+              width = 12,
+              tabPanel(
+                "Input",
+                selectInput(
+                  "category",
+                  label = "Theme",
+                  choices = sort(names(dfs)),
+                  selected = "Population"
                 ),
-                tabPanel(
-                  "Appearance",
-                  checkboxInput("legend", "Show legend", TRUE),
-                  selectInput(
-                    "colour_choice",
-                    "Colour Palette",
-                    colour_pals,
-                    "YlOrRd"
-                  )
+                selectInput(
+                  "dataset", label = "Dataset", choices = NULL
+                ),
+                tags$hr(),
+                uiOutput("dropdowns"),
+                uiOutput("pop_button"),
+                tags$hr(),
+                selectInput(
+                  "area_type",
+                  "Area Type",
+                  c("Local Authority", "Health Board"),
+                  "Health Board"
+                )
+              ),
+              tabPanel(
+                "Appearance",
+                checkboxInput("legend", "Show legend", TRUE),
+                selectInput(
+                  "colour_choice",
+                  "Colour Palette",
+                  colour_pals,
+                  "YlOrRd"
                 )
               )
             ),
@@ -59,37 +71,42 @@ ui <- dashboardPage(
           )
         )
       ),
-      # Data Vis
       column(
-        6,
-        tabBox(
-          width = 12,
-          title = textOutput("title"),
-          tabPanel(
-            "Map",
-            leafletOutput("scotland_map")
-          ),
-          tabPanel(
-            "Plot",
-            plotOutput("basic_bar")
-          ),
-          tabPanel(
-            "Data",
-            "Source: ",
-            uiOutput("short_url"),
-            tableOutput("table")
+          9,
+          box(
+            width = 12,
+            title = textOutput("title"),
+            tabItems(
+              tabItem(
+                tabName = "map",
+                leafletOutput("scotland_map")
+            ),
+            tabItem(
+              tabName = "graph",
+              plotOutput("basic_bar")
+            ),
+            tabItem(
+              tabName = "data",
+              "Source: ",
+              uiOutput("short_url"),
+              tableOutput("table")
+            )
           )
-        )
-      ),
-      column(
-        3,
-        box(
-          title = "Notes",
-          width = 12,
-          uiOutput("notes")
-        )
+        ),
+        tagList(tags$div("Icons made by",tags$a(href="https://www.flaticon.com/authors/freepik", title="Freepik","Freepik"), "from", tags$a(href="https://www.flaticon.com/",title="Flaticon", "www.flaticon.com")))
       )
     )
   )
 )
-  
+
+
+
+# column(
+#   3,
+#   box(
+#     title = "Notes",
+#     width = 12,
+#     uiOutput("notes")
+#   )
+# )
+# )     
