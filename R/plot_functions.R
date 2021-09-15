@@ -1,5 +1,6 @@
-add_coloured_polygons <- function(basemap, spdf, colour_scheme = "YlOrRd", revColours = FALSE,
-                                  units = "") {
+add_coloured_polygons <- function(
+  basemap, spdf, colour_scheme = "YlOrRd", revColours = FALSE, units = ""
+  ) {
   
   order <- ifelse(revColours == TRUE, -1, 1)
   

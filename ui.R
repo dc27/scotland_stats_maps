@@ -20,11 +20,11 @@ ui <- dashboardPage(
   dashboardBody(
   tags$head(
       tags$link(rel="stylesheet", type="text/css", href="app_styles.css"),
-      tags$script(src="heights.js")
+      tags$script(src = "heights.js")
     ),
     fluidRow(
       column(
-        3,
+        5,
         box(
           id = "input_options",
           title = "Options",
@@ -72,8 +72,9 @@ ui <- dashboardPage(
         )
       ),
       column(
-          9,
+          7,
           box(
+            id = "map_container",
             width = 12,
             title = textOutput("title"),
             tabItems(
