@@ -19,3 +19,11 @@
 #update {
   width:100%;
 }
+
+#basic_bar {
+  overflow-y: scroll;
+}
+
+#table {
+  overflow-y:scroll;
+}

@@ -1,7 +1,7 @@
 library(tidyverse)
 library(opendatascot)
 
-source("scripts/helper_functions.R")
+source("scripts/helper.R")
 
 # ----- Dataset Lookup -----
 datasets <- read_csv("data/clean_data/ods_dataset_lookup.csv")

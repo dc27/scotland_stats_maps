@@ -88,18 +88,35 @@ ui <- dashboardPage(
             ),
             tabItem(
               tabName = "data",
-              "Source: ",
-              uiOutput("short_url"),
-              tableOutput("table")
+              fluidRow(
+                column(
+                  12,
+                  tableOutput("table")
+                )
+              )
             )
           )
         ),
-        tagList(tags$div("Icons made by",tags$a(href="https://www.flaticon.com/authors/freepik", title="Freepik","Freepik"), "from", tags$a(href="https://www.flaticon.com/",title="Flaticon", "www.flaticon.com")))
+        tagList(
+          tags$div(
+            "Icons made by",
+            tags$a(href="https://www.flaticon.com/authors/freepik",
+                   title="Freepik","Freepik"),
+            "from",
+            tags$a(href="https://www.flaticon.com/",title="Flaticon",
+                   "www.flaticon.com")
+          )
+        )
       )
     )
   )
 )
 
+
+
+# 
+# "Source: ",
+# uiOutput("short_url"),
 
 
 # column(

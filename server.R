@@ -2,6 +2,8 @@ source("R/filter_and_join_df_functions.R")
 source("R/plot_functions.R")
 
 server <- function(input, output, session){
+  
+  # ui -----
   category <- reactive({
     input$category
   })
@@ -52,9 +54,6 @@ server <- function(input, output, session){
   })
   
   
-  output$title <- renderText({
-    title()
-  })
 
   # user inputs for dynamic vars
   selected <- eventReactive(input$update, {
@@ -109,6 +108,11 @@ server <- function(input, output, session){
     potential_units[!is.na(potential_units)][1]
   })
   
+  
+  # output -----
+  output$title <- renderText({
+    title()
+  })
   
 
   # render basemap
