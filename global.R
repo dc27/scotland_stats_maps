@@ -13,6 +13,10 @@ library(shinydashboardPlus)
 
 source("list_of_dfs.R")
 
+source("R/filter_and_join_df_functions.R")
+source("R/plot_functions.R")
+
+
 # dataframes
 # only take lists with terms in sublist.
 dfs <- rlist::list.clean(cleaned_dfs, fun = function(x) length(x) == 0L)

@@ -1,5 +1,3 @@
-source("R/filter_and_join_df_functions.R")
-source("R/plot_functions.R")
 
 server <- function(input, output, session){
   
@@ -124,7 +122,7 @@ server <- function(input, output, session){
                    lat1 = 54,
                    lng2 = -9,
                    lat2 = 63) %>% 
-      addProviderTiles(providers$Stamen.TonerLite)
+      addProviderTiles(providers$CartoDB.PositronNoLabels)
   })
   
   # not run - orkney and shetland islands (map already includes northern
