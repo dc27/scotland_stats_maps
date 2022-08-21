@@ -166,6 +166,7 @@ server <- function(input, output, session){
   
   observeEvent(input$update, {
     # dev/testing! - this is a good spot for a break-point
+    
     if (nrow(selected_df()) == 0) {
       # no data label
       leafletProxy("scotland_map") %>% 

@@ -4,7 +4,7 @@ library(readr)
 library(dplyr)
 library(stringr)
 library(purrr)
-library(rgdal)
+library(sf)
 library(leaflet)
 library(ggplot2)
 library(assertthat)
@@ -50,15 +50,13 @@ colour_pals <- RColorBrewer::brewer.pal.info %>%
 # shapefiles
 
 # health boards
-hb_shapes <- readOGR(
+hb_shapes <- st_read(
   dsn = "data/simplified_shapefiles/NHS_HealthBoards_2019",
-  layer = "NHS_HealthBoards_2019",
-  GDAL1_integer64_policy = TRUE)
+  layer = "NHS_HealthBoards_2019")
 
 # local authorities
 
-la_shapes <- readOGR(
+la_shapes <- st_read(
   dsn = "data/simplified_shapefiles/scottish_local_authorities",
-  layer = "scottish_local_authorities",
-  GDAL1_integer64_policy = TRUE
+  layer = "scottish_local_authorities"
 )

@@ -22,9 +22,8 @@ coerce_values <- function(df) {
 }
 
 # combine measurements with polygon data
-join_with_shapes <- function(measurement_df, spdf) {
-  spdf@data <- tibble(spdf@data) %>%
+join_with_shapes <- function(measurement_df, sfdf) {
+  sfdf %>%
     left_join(measurement_df, by = c("id_code" = "area_code"))
   
-  return(spdf)
 }
