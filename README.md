@@ -61,7 +61,7 @@ view the data behind the results: navigate to the data tab.
 |dplyr|app|1.0.2|
 |stringr|app|1.4.0|
 |purrr|app|0.3.4|
-|rgdal|app|1.5-23|
+|sf|app|1.0-8|
 |leaflet|app|2.0.4.1|
 |ggplot2|app|3.3.2|
 |assertthat|app|0.2.1|
